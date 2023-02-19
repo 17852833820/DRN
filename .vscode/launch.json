@@ -1,0 +1,80 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+  
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            //     "args": [
+            //         "-cmd","test",
+            //     "-d","./datasets/testimg/demovideo/",
+            //     "-c","19",
+            //     "--arch","drn_d_22",
+            //     "--pretrained","./pretrained/drn_d_22_cityscapes.pth",
+            //     "--phase","test",
+            //     "--batch-size","1",
+            //     "--with-gt"
+            // ]
+            // "args": [
+            // "-cmd",
+            //  "test",
+            //     "-d",
+            //    "./datasets/testimg/",
+            //   "-c",
+            //   "19",
+            //     "--arch",
+            //    "drn_d_22",
+            //     "--pretrained",
+            //   "./pretrained/drn_d_22_cityscapes.pth",
+            //     "--phase",
+            //    "test",
+            //    "--batch-size",
+            //    "1",
+            //     "--with-gt"
+            // ]
+        //     "args": [
+        //         "-cmd",
+        //        "test",
+        //        "-d",
+        //   "./datasets/back_test/",
+        //        "-c",
+        //     "19",
+        //         "--arch",
+        //         "drn_d_22",
+        //        "--pretrained",
+        //         "./pretrained/drn_d_22_cityscapes.pth",
+        //         "--phase",
+        //         "test",
+        //       "--batch-size",
+        //        "1",
+        //      "--with-gt"
+        //    ]
+           "args": [
+            "-cmd",
+           "test",
+           "-d",
+      "./datasets/back_test/",
+           "-c",
+        "19",
+            "--arch",
+            "drn_d_38",
+           "--pretrained",
+            "./pretrained/drn_d_38_cityscapes.pth",
+            "--phase",
+            "test",
+          "--batch-size",
+           "1",
+         "--with-gt"
+       ]
+        }
+    ]
+}
