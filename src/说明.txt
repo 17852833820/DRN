@@ -1,0 +1,15 @@
+运行stac：
+python segment-stac-prop.py test -d ./datasets/testimg/ -c 19 --arch drn_d_22 --pretrained ./drn_d_22_cityscapes.pth --phase test --batch-size 1 --with-gt
+
+数据集文件夹为 ./datasets/testimg/
+
+建议创建虚拟环境，需安装修改的torchjpeg包，pip install torchjpeg-0.9.20-cp38-cp38-linux_x86_64.whl
+
+详细核心代码注释见segment-stac-prop.py文件的第491行test文件，所有segment-*.py均是test函数有所不同
+
+segment-raw.py: 原始drn
+segment-grace-prop.py: 带帧间传播的grace
+segment-grace.py: 固定普通grace
+segment-jpeg.py: 带帧间传播的jpeg
+segment-jpeg-prop.py: 固定普通jpeg
+segment-stac-prop.py: stac
