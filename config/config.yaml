@@ -1,0 +1,12 @@
+train:
+  
+  
+
+
+test:
+
+
+system:
+  cmd: train
+  data-dir: ./datasets/testimg/
+
