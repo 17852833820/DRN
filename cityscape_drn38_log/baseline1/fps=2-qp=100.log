@@ -1,0 +1,966 @@
+[2023-01-01 19:53:56,378 baseline1-h264.py:648 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, compressed size:1480.8583984375,jpeg_size:0
+[2023-01-01 19:53:56,378 baseline1-h264.py:650 test] Loss:0.06828548014163971,Acc:97.67465591430664,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:56,399 baseline1-h264.py:665 test] ===> mAP 66.950
+[2023-01-01 19:53:56,438 baseline1-h264.py:648 test] Frame id :2, Row size:2273.181640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:56,438 baseline1-h264.py:650 test] Loss:0,Acc:95.16124725341797,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:56,461 baseline1-h264.py:665 test] ===> mAP 55.030
+[2023-01-01 19:53:56,496 baseline1-h264.py:648 test] Frame id :3, Row size:2276.7080078125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:56,496 baseline1-h264.py:650 test] Loss:0,Acc:93.77341270446777,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:56,520 baseline1-h264.py:665 test] ===> mAP 52.670
+[2023-01-01 19:53:56,560 baseline1-h264.py:648 test] Frame id :4, Row size:2276.595703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:56,560 baseline1-h264.py:650 test] Loss:0,Acc:90.83967208862305,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:56,583 baseline1-h264.py:665 test] ===> mAP 49.630
+[2023-01-01 19:53:56,634 baseline1-h264.py:648 test] Frame id :5, Row size:2290.3095703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:56,634 baseline1-h264.py:650 test] Loss:0,Acc:88.71302604675293,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:56,656 baseline1-h264.py:665 test] ===> mAP 46.960
+[2023-01-01 19:53:58,091 baseline1-h264.py:648 test] Frame id :6, Row size:2291.4619140625 KB, Type: P, Offloading:True, compressed size:1185.9736328125,jpeg_size:1480.8583984375
+[2023-01-01 19:53:58,091 baseline1-h264.py:650 test] Loss:0.0916714295744896,Acc:96.86970710754395,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:58,111 baseline1-h264.py:665 test] ===> mAP 48.320
+[2023-01-01 19:53:58,159 baseline1-h264.py:648 test] Frame id :7, Row size:2297.642578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:58,159 baseline1-h264.py:650 test] Loss:0,Acc:94.20409202575684,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:58,184 baseline1-h264.py:665 test] ===> mAP 45.600
+[2023-01-01 19:53:58,226 baseline1-h264.py:648 test] Frame id :8, Row size:2293.201171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:58,226 baseline1-h264.py:650 test] Loss:0,Acc:91.96290969848633,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:58,250 baseline1-h264.py:665 test] ===> mAP 45.220
+[2023-01-01 19:53:58,285 baseline1-h264.py:648 test] Frame id :9, Row size:2284.849609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:58,285 baseline1-h264.py:650 test] Loss:0,Acc:90.51756858825684,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:58,308 baseline1-h264.py:665 test] ===> mAP 44.750
+[2023-01-01 19:53:58,344 baseline1-h264.py:648 test] Frame id :10, Row size:2280.3447265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:58,344 baseline1-h264.py:650 test] Loss:0,Acc:90.15121459960938,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:58,366 baseline1-h264.py:665 test] ===> mAP 41.750
+[2023-01-01 19:53:58,401 baseline1-h264.py:648 test] Frame id :11, Row size:2269.49609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:58,401 baseline1-h264.py:650 test] Loss:0,Acc:89.21599388122559,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:58,424 baseline1-h264.py:665 test] ===> mAP 39.010
+[2023-01-01 19:53:59,810 baseline1-h264.py:648 test] Frame id :12, Row size:2260.5615234375 KB, Type: P, Offloading:True, compressed size:1213.48046875,jpeg_size:1480.8583984375
+[2023-01-01 19:53:59,810 baseline1-h264.py:650 test] Loss:0.12391906976699829,Acc:95.43642997741699,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:59,832 baseline1-h264.py:665 test] ===> mAP 39.830
+[2023-01-01 19:53:59,877 baseline1-h264.py:648 test] Frame id :13, Row size:2257.341796875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:59,877 baseline1-h264.py:650 test] Loss:0,Acc:92.82121658325195,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:59,901 baseline1-h264.py:665 test] ===> mAP 40.190
+[2023-01-01 19:53:59,943 baseline1-h264.py:648 test] Frame id :14, Row size:2261.484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:53:59,943 baseline1-h264.py:650 test] Loss:0,Acc:90.33241271972656,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:53:59,966 baseline1-h264.py:665 test] ===> mAP 39.980
+[2023-01-01 19:54:00,009 baseline1-h264.py:648 test] Frame id :15, Row size:2265.88671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:00,009 baseline1-h264.py:650 test] Loss:0,Acc:88.91692161560059,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:00,033 baseline1-h264.py:665 test] ===> mAP 39.650
+[2023-01-01 19:54:00,078 baseline1-h264.py:648 test] Frame id :16, Row size:2269.6494140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:00,078 baseline1-h264.py:650 test] Loss:0,Acc:88.53464126586914,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:00,098 baseline1-h264.py:665 test] ===> mAP 39.210
+[2023-01-01 19:54:00,144 baseline1-h264.py:648 test] Frame id :17, Row size:2271.9794921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:00,144 baseline1-h264.py:650 test] Loss:0,Acc:87.0882511138916,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:00,144 baseline1-h264.py:652 test] Average Acc:   91.89490430495319   Average Size:    228.25367647058823        in time:  0
+[2023-01-01 19:54:00,169 baseline1-h264.py:665 test] ===> mAP 38.710
+[2023-01-01 19:54:01,539 baseline1-h264.py:648 test] Frame id :18, Row size:2274.3623046875 KB, Type: P, Offloading:True, compressed size:1239.46875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:01,539 baseline1-h264.py:650 test] Loss:0.10291243344545364,Acc:96.8590259552002,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,559 baseline1-h264.py:665 test] ===> mAP 39.250
+[2023-01-01 19:54:01,609 baseline1-h264.py:648 test] Frame id :19, Row size:2277.9755859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:01,609 baseline1-h264.py:650 test] Loss:0,Acc:95.35822868347168,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,632 baseline1-h264.py:665 test] ===> mAP 39.500
+[2023-01-01 19:54:01,676 baseline1-h264.py:648 test] Frame id :20, Row size:2280.1171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:01,676 baseline1-h264.py:650 test] Loss:0,Acc:93.37325096130371,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,700 baseline1-h264.py:665 test] ===> mAP 39.530
+[2023-01-01 19:54:01,742 baseline1-h264.py:648 test] Frame id :21, Row size:2281.0498046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:01,742 baseline1-h264.py:650 test] Loss:0,Acc:92.38314628601074,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,765 baseline1-h264.py:665 test] ===> mAP 39.530
+[2023-01-01 19:54:01,813 baseline1-h264.py:648 test] Frame id :22, Row size:2282.19921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:01,813 baseline1-h264.py:650 test] Loss:0,Acc:91.36042594909668,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,836 baseline1-h264.py:665 test] ===> mAP 39.390
+[2023-01-01 19:54:01,880 baseline1-h264.py:648 test] Frame id :23, Row size:2281.236328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:01,880 baseline1-h264.py:650 test] Loss:0,Acc:90.29121398925781,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,904 baseline1-h264.py:665 test] ===> mAP 39.170
+[2023-01-01 19:54:01,949 baseline1-h264.py:648 test] Frame id :24, Row size:2284.2529296875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:01,949 baseline1-h264.py:650 test] Loss:0,Acc:89.86749649047852,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:01,972 baseline1-h264.py:665 test] ===> mAP 38.920
+[2023-01-01 19:54:02,015 baseline1-h264.py:648 test] Frame id :25, Row size:2283.9072265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:02,015 baseline1-h264.py:650 test] Loss:0,Acc:89.67795372009277,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:02,038 baseline1-h264.py:665 test] ===> mAP 38.690
+[2023-01-01 19:54:02,095 baseline1-h264.py:648 test] Frame id :26, Row size:2284.1142578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:02,095 baseline1-h264.py:650 test] Loss:0,Acc:89.09912109375,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:02,119 baseline1-h264.py:665 test] ===> mAP 38.390
+[2023-01-01 19:54:02,177 baseline1-h264.py:648 test] Frame id :27, Row size:2285.4912109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:02,178 baseline1-h264.py:650 test] Loss:0,Acc:88.20395469665527,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:02,205 baseline1-h264.py:665 test] ===> mAP 38.070
+[2023-01-01 19:54:03,586 baseline1-h264.py:648 test] Frame id :28, Row size:2289.130859375 KB, Type: P, Offloading:True, compressed size:1254.5341796875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:03,586 baseline1-h264.py:650 test] Loss:0.11026088893413544,Acc:96.7628002166748,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,607 baseline1-h264.py:665 test] ===> mAP 40.110
+[2023-01-01 19:54:03,648 baseline1-h264.py:648 test] Frame id :29, Row size:2289.142578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:03,649 baseline1-h264.py:650 test] Loss:0,Acc:94.93775367736816,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,671 baseline1-h264.py:665 test] ===> mAP 40.430
+[2023-01-01 19:54:03,708 baseline1-h264.py:648 test] Frame id :30, Row size:2290.3759765625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:03,708 baseline1-h264.py:650 test] Loss:0,Acc:93.23554039001465,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,732 baseline1-h264.py:665 test] ===> mAP 40.620
+[2023-01-01 19:54:03,768 baseline1-h264.py:648 test] Frame id :31, Row size:2289.8623046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:03,768 baseline1-h264.py:650 test] Loss:0,Acc:92.39768981933594,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,789 baseline1-h264.py:665 test] ===> mAP 40.480
+[2023-01-01 19:54:03,826 baseline1-h264.py:648 test] Frame id :32, Row size:2292.72265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:03,826 baseline1-h264.py:650 test] Loss:0,Acc:92.13767051696777,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,849 baseline1-h264.py:665 test] ===> mAP 40.330
+[2023-01-01 19:54:03,905 baseline1-h264.py:648 test] Frame id :33, Row size:2292.107421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:03,905 baseline1-h264.py:650 test] Loss:0,Acc:90.35415649414062,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,939 baseline1-h264.py:665 test] ===> mAP 40.080
+[2023-01-01 19:54:03,978 baseline1-h264.py:648 test] Frame id :34, Row size:2292.8076171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:03,979 baseline1-h264.py:650 test] Loss:0,Acc:88.80996704101562,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:03,979 baseline1-h264.py:652 test] Average Acc:   92.06525858710793   Average Size:    146.7060546875        in time:  1
+[2023-01-01 19:54:04,003 baseline1-h264.py:665 test] ===> mAP 39.780
+[2023-01-01 19:54:05,381 baseline1-h264.py:648 test] Frame id :35, Row size:2295.7041015625 KB, Type: P, Offloading:True, compressed size:1257.6376953125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:05,381 baseline1-h264.py:650 test] Loss:0.13996173441410065,Acc:96.33331298828125,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,402 baseline1-h264.py:665 test] ===> mAP 40.100
+[2023-01-01 19:54:05,449 baseline1-h264.py:648 test] Frame id :36, Row size:2295.853515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,449 baseline1-h264.py:650 test] Loss:0,Acc:94.25477981567383,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,473 baseline1-h264.py:665 test] ===> mAP 40.210
+[2023-01-01 19:54:05,517 baseline1-h264.py:648 test] Frame id :37, Row size:2294.05859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,518 baseline1-h264.py:650 test] Loss:0,Acc:92.09232330322266,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,541 baseline1-h264.py:665 test] ===> mAP 40.250
+[2023-01-01 19:54:05,586 baseline1-h264.py:648 test] Frame id :38, Row size:2294.890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,586 baseline1-h264.py:650 test] Loss:0,Acc:90.77486991882324,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,609 baseline1-h264.py:665 test] ===> mAP 40.240
+[2023-01-01 19:54:05,654 baseline1-h264.py:648 test] Frame id :39, Row size:2294.947265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,654 baseline1-h264.py:650 test] Loss:0,Acc:90.27314186096191,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,678 baseline1-h264.py:665 test] ===> mAP 40.170
+[2023-01-01 19:54:05,740 baseline1-h264.py:648 test] Frame id :40, Row size:2294.8857421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,740 baseline1-h264.py:650 test] Loss:0,Acc:89.04995918273926,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,764 baseline1-h264.py:665 test] ===> mAP 40.070
+[2023-01-01 19:54:05,808 baseline1-h264.py:648 test] Frame id :41, Row size:2295.38671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,808 baseline1-h264.py:650 test] Loss:0,Acc:87.4025821685791,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,832 baseline1-h264.py:665 test] ===> mAP 39.870
+[2023-01-01 19:54:05,879 baseline1-h264.py:648 test] Frame id :42, Row size:2296.4921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,879 baseline1-h264.py:650 test] Loss:0,Acc:85.95576286315918,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,902 baseline1-h264.py:665 test] ===> mAP 39.620
+[2023-01-01 19:54:05,948 baseline1-h264.py:648 test] Frame id :43, Row size:2297.8916015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:05,949 baseline1-h264.py:650 test] Loss:0,Acc:85.41388511657715,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:05,972 baseline1-h264.py:665 test] ===> mAP 39.350
+[2023-01-01 19:54:06,017 baseline1-h264.py:648 test] Frame id :44, Row size:2301.1767578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:06,017 baseline1-h264.py:650 test] Loss:0,Acc:84.65261459350586,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:06,042 baseline1-h264.py:665 test] ===> mAP 39.080
+[2023-01-01 19:54:07,425 baseline1-h264.py:648 test] Frame id :45, Row size:2303.357421875 KB, Type: P, Offloading:True, compressed size:1264.642578125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:07,425 baseline1-h264.py:650 test] Loss:0.14817091822624207,Acc:95.53976058959961,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,447 baseline1-h264.py:665 test] ===> mAP 39.320
+[2023-01-01 19:54:07,494 baseline1-h264.py:648 test] Frame id :46, Row size:2306.7802734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:07,494 baseline1-h264.py:650 test] Loss:0,Acc:93.89891624450684,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,517 baseline1-h264.py:665 test] ===> mAP 39.440
+[2023-01-01 19:54:07,565 baseline1-h264.py:648 test] Frame id :47, Row size:2307.8212890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:07,565 baseline1-h264.py:650 test] Loss:0,Acc:91.7083740234375,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,589 baseline1-h264.py:665 test] ===> mAP 39.460
+[2023-01-01 19:54:07,634 baseline1-h264.py:648 test] Frame id :48, Row size:2306.564453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:07,634 baseline1-h264.py:650 test] Loss:0,Acc:89.55621719360352,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,656 baseline1-h264.py:665 test] ===> mAP 39.400
+[2023-01-01 19:54:07,699 baseline1-h264.py:648 test] Frame id :49, Row size:2307.111328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:07,699 baseline1-h264.py:650 test] Loss:0,Acc:87.61076927185059,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,729 baseline1-h264.py:665 test] ===> mAP 39.270
+[2023-01-01 19:54:07,788 baseline1-h264.py:648 test] Frame id :50, Row size:2304.048828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:07,788 baseline1-h264.py:650 test] Loss:0,Acc:86.16447448730469,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,812 baseline1-h264.py:665 test] ===> mAP 39.100
+[2023-01-01 19:54:07,862 baseline1-h264.py:648 test] Frame id :51, Row size:2299.2353515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:07,862 baseline1-h264.py:650 test] Loss:0,Acc:85.14184951782227,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:07,862 baseline1-h264.py:652 test] Average Acc:   89.75432900821461   Average Size:    148.3694278492647        in time:  2
+[2023-01-01 19:54:07,893 baseline1-h264.py:665 test] ===> mAP 38.890
+[2023-01-01 19:54:09,303 baseline1-h264.py:648 test] Frame id :52, Row size:2301.1669921875 KB, Type: P, Offloading:True, compressed size:1272.2890625,jpeg_size:1480.8583984375
+[2023-01-01 19:54:09,303 baseline1-h264.py:650 test] Loss:0.28144967555999756,Acc:93.38235855102539,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,325 baseline1-h264.py:665 test] ===> mAP 39.060
+[2023-01-01 19:54:09,372 baseline1-h264.py:648 test] Frame id :53, Row size:2304.51171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,372 baseline1-h264.py:650 test] Loss:0,Acc:90.93189239501953,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,396 baseline1-h264.py:665 test] ===> mAP 39.120
+[2023-01-01 19:54:09,442 baseline1-h264.py:648 test] Frame id :54, Row size:2309.451171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,442 baseline1-h264.py:650 test] Loss:0,Acc:89.89591598510742,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,466 baseline1-h264.py:665 test] ===> mAP 39.110
+[2023-01-01 19:54:09,509 baseline1-h264.py:648 test] Frame id :55, Row size:2308.65234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,509 baseline1-h264.py:650 test] Loss:0,Acc:87.39156723022461,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,535 baseline1-h264.py:665 test] ===> mAP 39.020
+[2023-01-01 19:54:09,579 baseline1-h264.py:648 test] Frame id :56, Row size:2308.234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,580 baseline1-h264.py:650 test] Loss:0,Acc:86.15179061889648,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,602 baseline1-h264.py:665 test] ===> mAP 38.870
+[2023-01-01 19:54:09,648 baseline1-h264.py:648 test] Frame id :57, Row size:2307.783203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,649 baseline1-h264.py:650 test] Loss:0,Acc:85.2621078491211,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,672 baseline1-h264.py:665 test] ===> mAP 38.690
+[2023-01-01 19:54:09,716 baseline1-h264.py:648 test] Frame id :58, Row size:2305.0048828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,716 baseline1-h264.py:650 test] Loss:0,Acc:84.1470718383789,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,741 baseline1-h264.py:665 test] ===> mAP 38.480
+[2023-01-01 19:54:09,781 baseline1-h264.py:648 test] Frame id :59, Row size:2300.306640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,781 baseline1-h264.py:650 test] Loss:0,Acc:83.48431587219238,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,805 baseline1-h264.py:665 test] ===> mAP 38.260
+[2023-01-01 19:54:09,842 baseline1-h264.py:648 test] Frame id :60, Row size:2301.0166015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,842 baseline1-h264.py:650 test] Loss:0,Acc:83.02779197692871,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,867 baseline1-h264.py:665 test] ===> mAP 38.020
+[2023-01-01 19:54:09,904 baseline1-h264.py:648 test] Frame id :61, Row size:2298.8388671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:09,904 baseline1-h264.py:650 test] Loss:0,Acc:81.81390762329102,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:09,925 baseline1-h264.py:665 test] ===> mAP 37.790
+[2023-01-01 19:54:11,315 baseline1-h264.py:648 test] Frame id :62, Row size:2303.14453125 KB, Type: P, Offloading:True, compressed size:1280.046875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:11,315 baseline1-h264.py:650 test] Loss:0.19214656949043274,Acc:94.46754455566406,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,336 baseline1-h264.py:665 test] ===> mAP 38.120
+[2023-01-01 19:54:11,382 baseline1-h264.py:648 test] Frame id :63, Row size:2297.7265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:11,382 baseline1-h264.py:650 test] Loss:0,Acc:92.41480827331543,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,406 baseline1-h264.py:665 test] ===> mAP 38.220
+[2023-01-01 19:54:11,445 baseline1-h264.py:648 test] Frame id :64, Row size:2296.330078125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:11,445 baseline1-h264.py:650 test] Loss:0,Acc:91.11795425415039,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,468 baseline1-h264.py:665 test] ===> mAP 38.260
+[2023-01-01 19:54:11,510 baseline1-h264.py:648 test] Frame id :65, Row size:2292.83203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:11,510 baseline1-h264.py:650 test] Loss:0,Acc:90.03286361694336,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,533 baseline1-h264.py:665 test] ===> mAP 38.260
+[2023-01-01 19:54:11,573 baseline1-h264.py:648 test] Frame id :66, Row size:2292.1533203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:11,573 baseline1-h264.py:650 test] Loss:0,Acc:89.03670310974121,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,596 baseline1-h264.py:665 test] ===> mAP 38.190
+[2023-01-01 19:54:11,636 baseline1-h264.py:648 test] Frame id :67, Row size:2288.50390625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:11,636 baseline1-h264.py:650 test] Loss:0,Acc:87.78400421142578,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,658 baseline1-h264.py:665 test] ===> mAP 38.090
+[2023-01-01 19:54:11,698 baseline1-h264.py:648 test] Frame id :68, Row size:2288.673828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:11,698 baseline1-h264.py:650 test] Loss:0,Acc:87.44378089904785,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:11,698 baseline1-h264.py:652 test] Average Acc:   88.10508110943962   Average Size:    150.1374080882353        in time:  3
+[2023-01-01 19:54:11,722 baseline1-h264.py:665 test] ===> mAP 37.970
+[2023-01-01 19:54:13,100 baseline1-h264.py:648 test] Frame id :69, Row size:2285.826171875 KB, Type: P, Offloading:True, compressed size:1254.142578125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:13,100 baseline1-h264.py:650 test] Loss:0.21868281066417694,Acc:94.8756217956543,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,123 baseline1-h264.py:665 test] ===> mAP 38.140
+[2023-01-01 19:54:13,166 baseline1-h264.py:648 test] Frame id :70, Row size:2284.7861328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,167 baseline1-h264.py:650 test] Loss:0,Acc:93.33901405334473,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,189 baseline1-h264.py:665 test] ===> mAP 38.230
+[2023-01-01 19:54:13,232 baseline1-h264.py:648 test] Frame id :71, Row size:2281.95703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,232 baseline1-h264.py:650 test] Loss:0,Acc:91.66016578674316,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,256 baseline1-h264.py:665 test] ===> mAP 38.260
+[2023-01-01 19:54:13,295 baseline1-h264.py:648 test] Frame id :72, Row size:2278.462890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,295 baseline1-h264.py:650 test] Loss:0,Acc:90.58060646057129,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,318 baseline1-h264.py:665 test] ===> mAP 38.240
+[2023-01-01 19:54:13,357 baseline1-h264.py:648 test] Frame id :73, Row size:2277.2578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,357 baseline1-h264.py:650 test] Loss:0,Acc:89.501953125,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,379 baseline1-h264.py:665 test] ===> mAP 38.180
+[2023-01-01 19:54:13,416 baseline1-h264.py:648 test] Frame id :74, Row size:2277.8515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,416 baseline1-h264.py:650 test] Loss:0,Acc:88.33727836608887,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,439 baseline1-h264.py:665 test] ===> mAP 38.110
+[2023-01-01 19:54:13,475 baseline1-h264.py:648 test] Frame id :75, Row size:2276.662109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,475 baseline1-h264.py:650 test] Loss:0,Acc:87.50967979431152,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,496 baseline1-h264.py:665 test] ===> mAP 38.010
+[2023-01-01 19:54:13,533 baseline1-h264.py:648 test] Frame id :76, Row size:2273.2412109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,534 baseline1-h264.py:650 test] Loss:0,Acc:86.6997241973877,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,557 baseline1-h264.py:665 test] ===> mAP 37.910
+[2023-01-01 19:54:13,592 baseline1-h264.py:648 test] Frame id :77, Row size:2270.3359375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,592 baseline1-h264.py:650 test] Loss:0,Acc:85.64767837524414,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,614 baseline1-h264.py:665 test] ===> mAP 37.770
+[2023-01-01 19:54:13,650 baseline1-h264.py:648 test] Frame id :78, Row size:2266.8076171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:13,650 baseline1-h264.py:650 test] Loss:0,Acc:84.52291488647461,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:13,673 baseline1-h264.py:665 test] ===> mAP 37.620
+[2023-01-01 19:54:15,048 baseline1-h264.py:648 test] Frame id :79, Row size:2265.6435546875 KB, Type: P, Offloading:True, compressed size:1252.94921875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:15,048 baseline1-h264.py:650 test] Loss:0.09827599674463272,Acc:96.50025367736816,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,070 baseline1-h264.py:665 test] ===> mAP 37.790
+[2023-01-01 19:54:15,113 baseline1-h264.py:648 test] Frame id :80, Row size:2267.1240234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:15,113 baseline1-h264.py:650 test] Loss:0,Acc:94.28720474243164,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,136 baseline1-h264.py:665 test] ===> mAP 37.900
+[2023-01-01 19:54:15,175 baseline1-h264.py:648 test] Frame id :81, Row size:2265.40625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:15,175 baseline1-h264.py:650 test] Loss:0,Acc:92.44804382324219,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,197 baseline1-h264.py:665 test] ===> mAP 37.920
+[2023-01-01 19:54:15,239 baseline1-h264.py:648 test] Frame id :82, Row size:2264.380859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:15,239 baseline1-h264.py:650 test] Loss:0,Acc:91.35723114013672,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,262 baseline1-h264.py:665 test] ===> mAP 37.940
+[2023-01-01 19:54:15,301 baseline1-h264.py:648 test] Frame id :83, Row size:2263.7119140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:15,301 baseline1-h264.py:650 test] Loss:0,Acc:90.54336547851562,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,322 baseline1-h264.py:665 test] ===> mAP 37.920
+[2023-01-01 19:54:15,363 baseline1-h264.py:648 test] Frame id :84, Row size:2263.8662109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:15,364 baseline1-h264.py:650 test] Loss:0,Acc:89.61963653564453,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,387 baseline1-h264.py:665 test] ===> mAP 37.870
+[2023-01-01 19:54:15,427 baseline1-h264.py:648 test] Frame id :85, Row size:2263.322265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:15,427 baseline1-h264.py:650 test] Loss:0,Acc:88.80157470703125,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:15,428 baseline1-h264.py:652 test] Average Acc:   90.36658511442296   Average Size:    147.47598805147058        in time:  4
+[2023-01-01 19:54:15,453 baseline1-h264.py:665 test] ===> mAP 37.810
+[2023-01-01 19:54:16,822 baseline1-h264.py:648 test] Frame id :86, Row size:2263.0361328125 KB, Type: P, Offloading:True, compressed size:1238.9091796875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:16,822 baseline1-h264.py:650 test] Loss:0.08397888392210007,Acc:96.98123931884766,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:16,844 baseline1-h264.py:665 test] ===> mAP 37.940
+[2023-01-01 19:54:16,891 baseline1-h264.py:648 test] Frame id :87, Row size:2265.7578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:16,891 baseline1-h264.py:650 test] Loss:0,Acc:94.87433433532715,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:16,913 baseline1-h264.py:665 test] ===> mAP 38.010
+[2023-01-01 19:54:16,955 baseline1-h264.py:648 test] Frame id :88, Row size:2266.9814453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:16,955 baseline1-h264.py:650 test] Loss:0,Acc:93.32289695739746,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:16,979 baseline1-h264.py:665 test] ===> mAP 38.040
+[2023-01-01 19:54:17,019 baseline1-h264.py:648 test] Frame id :89, Row size:2263.546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,019 baseline1-h264.py:650 test] Loss:0,Acc:91.912841796875,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,040 baseline1-h264.py:665 test] ===> mAP 38.030
+[2023-01-01 19:54:17,083 baseline1-h264.py:648 test] Frame id :90, Row size:2263.763671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,083 baseline1-h264.py:650 test] Loss:0,Acc:90.93132019042969,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,106 baseline1-h264.py:665 test] ===> mAP 37.990
+[2023-01-01 19:54:17,147 baseline1-h264.py:648 test] Frame id :91, Row size:2265.193359375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,147 baseline1-h264.py:650 test] Loss:0,Acc:89.83511924743652,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,171 baseline1-h264.py:665 test] ===> mAP 37.920
+[2023-01-01 19:54:17,212 baseline1-h264.py:648 test] Frame id :92, Row size:2267.7158203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,212 baseline1-h264.py:650 test] Loss:0,Acc:89.10408020019531,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,236 baseline1-h264.py:665 test] ===> mAP 37.830
+[2023-01-01 19:54:17,276 baseline1-h264.py:648 test] Frame id :93, Row size:2267.0576171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,277 baseline1-h264.py:650 test] Loss:0,Acc:88.23442459106445,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,299 baseline1-h264.py:665 test] ===> mAP 37.740
+[2023-01-01 19:54:17,342 baseline1-h264.py:648 test] Frame id :94, Row size:2266.912109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,342 baseline1-h264.py:650 test] Loss:0,Acc:87.72177696228027,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,365 baseline1-h264.py:665 test] ===> mAP 37.650
+[2023-01-01 19:54:17,410 baseline1-h264.py:648 test] Frame id :95, Row size:2267.517578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:17,410 baseline1-h264.py:650 test] Loss:0,Acc:86.69180870056152,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:17,433 baseline1-h264.py:665 test] ===> mAP 37.550
+[2023-01-01 19:54:18,811 baseline1-h264.py:648 test] Frame id :96, Row size:2266.5673828125 KB, Type: P, Offloading:True, compressed size:1246.3984375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:18,811 baseline1-h264.py:650 test] Loss:0.09525734931230545,Acc:96.60038948059082,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:18,835 baseline1-h264.py:665 test] ===> mAP 37.800
+[2023-01-01 19:54:18,878 baseline1-h264.py:648 test] Frame id :97, Row size:2266.603515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:18,878 baseline1-h264.py:650 test] Loss:0,Acc:93.99299621582031,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:18,899 baseline1-h264.py:665 test] ===> mAP 37.980
+[2023-01-01 19:54:18,936 baseline1-h264.py:648 test] Frame id :98, Row size:2266.7470703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:18,936 baseline1-h264.py:650 test] Loss:0,Acc:91.56970977783203,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:18,960 baseline1-h264.py:665 test] ===> mAP 38.050
+[2023-01-01 19:54:18,996 baseline1-h264.py:648 test] Frame id :99, Row size:2267.1923828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:18,996 baseline1-h264.py:650 test] Loss:0,Acc:90.07506370544434,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:19,020 baseline1-h264.py:665 test] ===> mAP 38.080
+[2023-01-01 19:54:19,057 baseline1-h264.py:648 test] Frame id :100, Row size:2268.8984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:19,057 baseline1-h264.py:650 test] Loss:0,Acc:88.60363960266113,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:19,083 baseline1-h264.py:665 test] ===> mAP 38.080
+[2023-01-01 19:54:19,121 baseline1-h264.py:648 test] Frame id :101, Row size:2270.5107421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:19,121 baseline1-h264.py:650 test] Loss:0,Acc:87.22109794616699,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:19,146 baseline1-h264.py:665 test] ===> mAP 38.020
+[2023-01-01 19:54:19,182 baseline1-h264.py:648 test] Frame id :102, Row size:2270.8076171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:19,182 baseline1-h264.py:650 test] Loss:0,Acc:86.33604049682617,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:19,183 baseline1-h264.py:652 test] Average Acc:   90.82404585445629   Average Size:    146.19456571691177        in time:  5
+[2023-01-01 19:54:19,207 baseline1-h264.py:665 test] ===> mAP 37.970
+[2023-01-01 19:54:20,582 baseline1-h264.py:648 test] Frame id :103, Row size:2268.177734375 KB, Type: P, Offloading:True, compressed size:1243.134765625,jpeg_size:1480.8583984375
+[2023-01-01 19:54:20,582 baseline1-h264.py:650 test] Loss:0.08984751999378204,Acc:96.89044952392578,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,602 baseline1-h264.py:665 test] ===> mAP 38.160
+[2023-01-01 19:54:20,640 baseline1-h264.py:648 test] Frame id :104, Row size:2265.6962890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:20,640 baseline1-h264.py:650 test] Loss:0,Acc:94.13089752197266,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,664 baseline1-h264.py:665 test] ===> mAP 38.260
+[2023-01-01 19:54:20,700 baseline1-h264.py:648 test] Frame id :105, Row size:2265.49609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:20,700 baseline1-h264.py:650 test] Loss:0,Acc:92.07682609558105,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,720 baseline1-h264.py:665 test] ===> mAP 38.310
+[2023-01-01 19:54:20,756 baseline1-h264.py:648 test] Frame id :106, Row size:2261.169921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:20,756 baseline1-h264.py:650 test] Loss:0,Acc:90.70682525634766,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,779 baseline1-h264.py:665 test] ===> mAP 38.340
+[2023-01-01 19:54:20,825 baseline1-h264.py:648 test] Frame id :107, Row size:2263.8125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:20,825 baseline1-h264.py:650 test] Loss:0,Acc:89.73565101623535,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,849 baseline1-h264.py:665 test] ===> mAP 38.340
+[2023-01-01 19:54:20,893 baseline1-h264.py:648 test] Frame id :108, Row size:2262.6845703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:20,893 baseline1-h264.py:650 test] Loss:0,Acc:88.47684860229492,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,915 baseline1-h264.py:665 test] ===> mAP 38.300
+[2023-01-01 19:54:20,951 baseline1-h264.py:648 test] Frame id :109, Row size:2262.2451171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:20,951 baseline1-h264.py:650 test] Loss:0,Acc:87.3591423034668,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:20,974 baseline1-h264.py:665 test] ===> mAP 38.240
+[2023-01-01 19:54:21,009 baseline1-h264.py:648 test] Frame id :110, Row size:2260.544921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:21,009 baseline1-h264.py:650 test] Loss:0,Acc:86.38205528259277,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:21,032 baseline1-h264.py:665 test] ===> mAP 38.160
+[2023-01-01 19:54:21,069 baseline1-h264.py:648 test] Frame id :111, Row size:2258.28125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:21,069 baseline1-h264.py:650 test] Loss:0,Acc:85.14084815979004,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:21,091 baseline1-h264.py:665 test] ===> mAP 38.050
+[2023-01-01 19:54:21,127 baseline1-h264.py:648 test] Frame id :112, Row size:2259.193359375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:21,127 baseline1-h264.py:650 test] Loss:0,Acc:83.73832702636719,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:21,150 baseline1-h264.py:665 test] ===> mAP 37.950
+[2023-01-01 19:54:22,520 baseline1-h264.py:648 test] Frame id :113, Row size:2263.837890625 KB, Type: P, Offloading:True, compressed size:1244.974609375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:22,520 baseline1-h264.py:650 test] Loss:0.08624822646379471,Acc:96.88282012939453,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,542 baseline1-h264.py:665 test] ===> mAP 38.170
+[2023-01-01 19:54:22,585 baseline1-h264.py:648 test] Frame id :114, Row size:2267.7177734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:22,586 baseline1-h264.py:650 test] Loss:0,Acc:94.2500114440918,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,610 baseline1-h264.py:665 test] ===> mAP 38.300
+[2023-01-01 19:54:22,653 baseline1-h264.py:648 test] Frame id :115, Row size:2268.708984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:22,654 baseline1-h264.py:650 test] Loss:0,Acc:91.87865257263184,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,677 baseline1-h264.py:665 test] ===> mAP 38.410
+[2023-01-01 19:54:22,715 baseline1-h264.py:648 test] Frame id :116, Row size:2266.3837890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:22,715 baseline1-h264.py:650 test] Loss:0,Acc:89.65110778808594,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,739 baseline1-h264.py:665 test] ===> mAP 38.450
+[2023-01-01 19:54:22,782 baseline1-h264.py:648 test] Frame id :117, Row size:2266.8466796875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:22,782 baseline1-h264.py:650 test] Loss:0,Acc:87.8446102142334,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,806 baseline1-h264.py:665 test] ===> mAP 38.440
+[2023-01-01 19:54:22,850 baseline1-h264.py:648 test] Frame id :118, Row size:2265.7958984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:22,851 baseline1-h264.py:650 test] Loss:0,Acc:86.78164482116699,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,874 baseline1-h264.py:665 test] ===> mAP 38.390
+[2023-01-01 19:54:22,914 baseline1-h264.py:648 test] Frame id :119, Row size:2262.873046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:22,914 baseline1-h264.py:650 test] Loss:0,Acc:85.57887077331543,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:22,914 baseline1-h264.py:652 test] Average Acc:   89.8532699136173   Average Size:    146.359375        in time:  6
+[2023-01-01 19:54:22,940 baseline1-h264.py:665 test] ===> mAP 38.310
+[2023-01-01 19:54:24,316 baseline1-h264.py:648 test] Frame id :120, Row size:2257.7314453125 KB, Type: P, Offloading:True, compressed size:1232.630859375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:24,316 baseline1-h264.py:650 test] Loss:0.09111963957548141,Acc:96.7949390411377,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,337 baseline1-h264.py:665 test] ===> mAP 38.540
+[2023-01-01 19:54:24,385 baseline1-h264.py:648 test] Frame id :121, Row size:2254.8564453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,385 baseline1-h264.py:650 test] Loss:0,Acc:93.60055923461914,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,406 baseline1-h264.py:665 test] ===> mAP 38.630
+[2023-01-01 19:54:24,447 baseline1-h264.py:648 test] Frame id :122, Row size:2250.7998046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,447 baseline1-h264.py:650 test] Loss:0,Acc:90.88764190673828,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,470 baseline1-h264.py:665 test] ===> mAP 38.730
+[2023-01-01 19:54:24,523 baseline1-h264.py:648 test] Frame id :123, Row size:2247.16015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,523 baseline1-h264.py:650 test] Loss:0,Acc:88.48199844360352,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,548 baseline1-h264.py:665 test] ===> mAP 38.730
+[2023-01-01 19:54:24,586 baseline1-h264.py:648 test] Frame id :124, Row size:2248.3701171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,587 baseline1-h264.py:650 test] Loss:0,Acc:86.22231483459473,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,609 baseline1-h264.py:665 test] ===> mAP 38.700
+[2023-01-01 19:54:24,644 baseline1-h264.py:648 test] Frame id :125, Row size:2247.1162109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,644 baseline1-h264.py:650 test] Loss:0,Acc:85.28838157653809,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,665 baseline1-h264.py:665 test] ===> mAP 38.640
+[2023-01-01 19:54:24,701 baseline1-h264.py:648 test] Frame id :126, Row size:2249.1201171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,701 baseline1-h264.py:650 test] Loss:0,Acc:84.37538146972656,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,724 baseline1-h264.py:665 test] ===> mAP 38.560
+[2023-01-01 19:54:24,763 baseline1-h264.py:648 test] Frame id :127, Row size:2248.892578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,763 baseline1-h264.py:650 test] Loss:0,Acc:83.43114852905273,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,787 baseline1-h264.py:665 test] ===> mAP 38.460
+[2023-01-01 19:54:24,825 baseline1-h264.py:648 test] Frame id :128, Row size:2251.251953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,826 baseline1-h264.py:650 test] Loss:0,Acc:82.80649185180664,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,849 baseline1-h264.py:665 test] ===> mAP 38.340
+[2023-01-01 19:54:24,889 baseline1-h264.py:648 test] Frame id :129, Row size:2253.40625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:24,889 baseline1-h264.py:650 test] Loss:0,Acc:81.66322708129883,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:24,912 baseline1-h264.py:665 test] ===> mAP 38.220
+[2023-01-01 19:54:26,273 baseline1-h264.py:648 test] Frame id :130, Row size:2255.4375 KB, Type: P, Offloading:True, compressed size:1243.560546875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:26,273 baseline1-h264.py:650 test] Loss:0.08788269758224487,Acc:96.88220024108887,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,294 baseline1-h264.py:665 test] ===> mAP 38.450
+[2023-01-01 19:54:26,342 baseline1-h264.py:648 test] Frame id :131, Row size:2254.931640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:26,342 baseline1-h264.py:650 test] Loss:0,Acc:93.89634132385254,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,366 baseline1-h264.py:665 test] ===> mAP 38.590
+[2023-01-01 19:54:26,411 baseline1-h264.py:648 test] Frame id :132, Row size:2256.7958984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:26,411 baseline1-h264.py:650 test] Loss:0,Acc:91.41297340393066,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,435 baseline1-h264.py:665 test] ===> mAP 38.670
+[2023-01-01 19:54:26,473 baseline1-h264.py:648 test] Frame id :133, Row size:2251.6484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:26,473 baseline1-h264.py:650 test] Loss:0,Acc:89.64219093322754,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,493 baseline1-h264.py:665 test] ===> mAP 38.680
+[2023-01-01 19:54:26,534 baseline1-h264.py:648 test] Frame id :134, Row size:2252.9794921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:26,534 baseline1-h264.py:650 test] Loss:0,Acc:88.82980346679688,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,557 baseline1-h264.py:665 test] ===> mAP 38.670
+[2023-01-01 19:54:26,596 baseline1-h264.py:648 test] Frame id :135, Row size:2250.80859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:26,596 baseline1-h264.py:650 test] Loss:0,Acc:87.82448768615723,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,619 baseline1-h264.py:665 test] ===> mAP 38.640
+[2023-01-01 19:54:26,664 baseline1-h264.py:648 test] Frame id :136, Row size:2250.591796875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:26,664 baseline1-h264.py:650 test] Loss:0,Acc:86.0048770904541,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:26,664 baseline1-h264.py:652 test] Average Acc:   88.70852694791905   Average Size:    145.65831801470588        in time:  7
+[2023-01-01 19:54:26,688 baseline1-h264.py:665 test] ===> mAP 38.570
+[2023-01-01 19:54:28,091 baseline1-h264.py:648 test] Frame id :137, Row size:2251.0341796875 KB, Type: P, Offloading:True, compressed size:1236.9052734375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:28,091 baseline1-h264.py:650 test] Loss:0.08912637084722519,Acc:96.95611000061035,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,112 baseline1-h264.py:665 test] ===> mAP 38.820
+[2023-01-01 19:54:28,161 baseline1-h264.py:648 test] Frame id :138, Row size:2251.9501953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,161 baseline1-h264.py:650 test] Loss:0,Acc:93.18785667419434,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,182 baseline1-h264.py:665 test] ===> mAP 39.000
+[2023-01-01 19:54:28,226 baseline1-h264.py:648 test] Frame id :139, Row size:2252.671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,226 baseline1-h264.py:650 test] Loss:0,Acc:90.50841331481934,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,250 baseline1-h264.py:665 test] ===> mAP 39.080
+[2023-01-01 19:54:28,295 baseline1-h264.py:648 test] Frame id :140, Row size:2253.5478515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,295 baseline1-h264.py:650 test] Loss:0,Acc:88.91453742980957,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,319 baseline1-h264.py:665 test] ===> mAP 39.110
+[2023-01-01 19:54:28,363 baseline1-h264.py:648 test] Frame id :141, Row size:2253.6015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,363 baseline1-h264.py:650 test] Loss:0,Acc:87.57929801940918,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,384 baseline1-h264.py:665 test] ===> mAP 39.110
+[2023-01-01 19:54:28,429 baseline1-h264.py:648 test] Frame id :142, Row size:2250.1611328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,429 baseline1-h264.py:650 test] Loss:0,Acc:86.11350059509277,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,453 baseline1-h264.py:665 test] ===> mAP 39.070
+[2023-01-01 19:54:28,497 baseline1-h264.py:648 test] Frame id :143, Row size:2246.1103515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,497 baseline1-h264.py:650 test] Loss:0,Acc:84.1433048248291,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,521 baseline1-h264.py:665 test] ===> mAP 38.980
+[2023-01-01 19:54:28,564 baseline1-h264.py:648 test] Frame id :144, Row size:2245.2001953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,564 baseline1-h264.py:650 test] Loss:0,Acc:83.25481414794922,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,588 baseline1-h264.py:665 test] ===> mAP 38.870
+[2023-01-01 19:54:28,631 baseline1-h264.py:648 test] Frame id :145, Row size:2242.1279296875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,631 baseline1-h264.py:650 test] Loss:0,Acc:82.26661682128906,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,655 baseline1-h264.py:665 test] ===> mAP 38.730
+[2023-01-01 19:54:28,700 baseline1-h264.py:648 test] Frame id :146, Row size:2237.60546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:28,700 baseline1-h264.py:650 test] Loss:0,Acc:81.58912658691406,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:28,721 baseline1-h264.py:665 test] ===> mAP 38.590
+[2023-01-01 19:54:30,122 baseline1-h264.py:648 test] Frame id :147, Row size:2232.8603515625 KB, Type: P, Offloading:True, compressed size:1238.0234375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:30,122 baseline1-h264.py:650 test] Loss:0.10144150257110596,Acc:96.65608406066895,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,143 baseline1-h264.py:665 test] ===> mAP 38.810
+[2023-01-01 19:54:30,188 baseline1-h264.py:648 test] Frame id :148, Row size:2232.6669921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:30,188 baseline1-h264.py:650 test] Loss:0,Acc:91.82772636413574,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,212 baseline1-h264.py:665 test] ===> mAP 38.920
+[2023-01-01 19:54:30,257 baseline1-h264.py:648 test] Frame id :149, Row size:2231.1796875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:30,257 baseline1-h264.py:650 test] Loss:0,Acc:87.85009384155273,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,281 baseline1-h264.py:665 test] ===> mAP 38.940
+[2023-01-01 19:54:30,327 baseline1-h264.py:648 test] Frame id :150, Row size:2231.2373046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:30,327 baseline1-h264.py:650 test] Loss:0,Acc:85.03308296203613,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,351 baseline1-h264.py:665 test] ===> mAP 38.900
+[2023-01-01 19:54:30,396 baseline1-h264.py:648 test] Frame id :151, Row size:2227.126953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:30,397 baseline1-h264.py:650 test] Loss:0,Acc:83.01205635070801,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,421 baseline1-h264.py:665 test] ===> mAP 38.830
+[2023-01-01 19:54:30,466 baseline1-h264.py:648 test] Frame id :152, Row size:2224.2763671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:30,467 baseline1-h264.py:650 test] Loss:0,Acc:81.55426979064941,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,491 baseline1-h264.py:665 test] ===> mAP 38.730
+[2023-01-01 19:54:30,537 baseline1-h264.py:648 test] Frame id :153, Row size:2223.30078125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:30,537 baseline1-h264.py:650 test] Loss:0,Acc:80.67846298217773,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:30,537 baseline1-h264.py:652 test] Average Acc:   87.12502086863799   Average Size:    145.58404181985293        in time:  8
+[2023-01-01 19:54:30,560 baseline1-h264.py:665 test] ===> mAP 38.610
+[2023-01-01 19:54:31,951 baseline1-h264.py:648 test] Frame id :154, Row size:2213.69921875 KB, Type: P, Offloading:True, compressed size:1225.755859375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:31,951 baseline1-h264.py:650 test] Loss:0.1227937713265419,Acc:95.79286575317383,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:31,970 baseline1-h264.py:665 test] ===> mAP 38.830
+[2023-01-01 19:54:32,017 baseline1-h264.py:648 test] Frame id :155, Row size:2206.421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,017 baseline1-h264.py:650 test] Loss:0,Acc:89.18704986572266,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,041 baseline1-h264.py:665 test] ===> mAP 38.930
+[2023-01-01 19:54:32,087 baseline1-h264.py:648 test] Frame id :156, Row size:2196.96484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,087 baseline1-h264.py:650 test] Loss:0,Acc:84.64646339416504,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,111 baseline1-h264.py:665 test] ===> mAP 38.930
+[2023-01-01 19:54:32,156 baseline1-h264.py:648 test] Frame id :157, Row size:2189.986328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,156 baseline1-h264.py:650 test] Loss:0,Acc:81.54926300048828,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,179 baseline1-h264.py:665 test] ===> mAP 38.870
+[2023-01-01 19:54:32,225 baseline1-h264.py:648 test] Frame id :158, Row size:2186.6357421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,225 baseline1-h264.py:650 test] Loss:0,Acc:79.65936660766602,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,247 baseline1-h264.py:665 test] ===> mAP 38.760
+[2023-01-01 19:54:32,292 baseline1-h264.py:648 test] Frame id :159, Row size:2182.701171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,292 baseline1-h264.py:650 test] Loss:0,Acc:77.67915725708008,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,316 baseline1-h264.py:665 test] ===> mAP 38.620
+[2023-01-01 19:54:32,373 baseline1-h264.py:648 test] Frame id :160, Row size:2180.1357421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,373 baseline1-h264.py:650 test] Loss:0,Acc:75.85635185241699,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,398 baseline1-h264.py:665 test] ===> mAP 38.470
+[2023-01-01 19:54:32,442 baseline1-h264.py:648 test] Frame id :161, Row size:2198.5546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,442 baseline1-h264.py:650 test] Loss:0,Acc:74.43985939025879,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,471 baseline1-h264.py:665 test] ===> mAP 38.300
+[2023-01-01 19:54:32,516 baseline1-h264.py:648 test] Frame id :162, Row size:2187.9130859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,516 baseline1-h264.py:650 test] Loss:0,Acc:73.73414039611816,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,536 baseline1-h264.py:665 test] ===> mAP 38.110
+[2023-01-01 19:54:32,580 baseline1-h264.py:648 test] Frame id :163, Row size:2206.7294921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:32,580 baseline1-h264.py:650 test] Loss:0,Acc:72.6130485534668,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:32,603 baseline1-h264.py:665 test] ===> mAP 37.900
+[2023-01-01 19:54:34,004 baseline1-h264.py:648 test] Frame id :164, Row size:2205.8486328125 KB, Type: P, Offloading:True, compressed size:1229.146484375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:34,004 baseline1-h264.py:650 test] Loss:0.12581203877925873,Acc:95.46360969543457,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,027 baseline1-h264.py:665 test] ===> mAP 38.110
+[2023-01-01 19:54:34,072 baseline1-h264.py:648 test] Frame id :165, Row size:2194.7421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:34,072 baseline1-h264.py:650 test] Loss:0,Acc:88.91205787658691,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,095 baseline1-h264.py:665 test] ===> mAP 38.190
+[2023-01-01 19:54:34,138 baseline1-h264.py:648 test] Frame id :166, Row size:2186.0458984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:34,138 baseline1-h264.py:650 test] Loss:0,Acc:85.09016036987305,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,160 baseline1-h264.py:665 test] ===> mAP 38.210
+[2023-01-01 19:54:34,206 baseline1-h264.py:648 test] Frame id :167, Row size:2181.5009765625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:34,206 baseline1-h264.py:650 test] Loss:0,Acc:81.84995651245117,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,230 baseline1-h264.py:665 test] ===> mAP 38.180
+[2023-01-01 19:54:34,277 baseline1-h264.py:648 test] Frame id :168, Row size:2182.5673828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:34,277 baseline1-h264.py:650 test] Loss:0,Acc:79.09941673278809,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,299 baseline1-h264.py:665 test] ===> mAP 38.110
+[2023-01-01 19:54:34,347 baseline1-h264.py:648 test] Frame id :169, Row size:2180.310546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:34,347 baseline1-h264.py:650 test] Loss:0,Acc:75.80037117004395,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,370 baseline1-h264.py:665 test] ===> mAP 37.980
+[2023-01-01 19:54:34,416 baseline1-h264.py:648 test] Frame id :170, Row size:2182.7978515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:34,416 baseline1-h264.py:650 test] Loss:0,Acc:73.43506813049316,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:34,416 baseline1-h264.py:652 test] Average Acc:   81.45930626813103   Average Size:    144.40602022058823        in time:  9
+[2023-01-01 19:54:34,439 baseline1-h264.py:665 test] ===> mAP 37.810
+[2023-01-01 19:54:35,871 baseline1-h264.py:648 test] Frame id :171, Row size:2181.859375 KB, Type: P, Offloading:True, compressed size:1214.7998046875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:35,871 baseline1-h264.py:650 test] Loss:0.16686664521694183,Acc:94.61569786071777,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:35,892 baseline1-h264.py:665 test] ===> mAP 37.980
+[2023-01-01 19:54:35,939 baseline1-h264.py:648 test] Frame id :172, Row size:2175.5595703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:35,939 baseline1-h264.py:650 test] Loss:0,Acc:86.36026382446289,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:35,960 baseline1-h264.py:665 test] ===> mAP 38.030
+[2023-01-01 19:54:36,007 baseline1-h264.py:648 test] Frame id :173, Row size:2186.31640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,007 baseline1-h264.py:650 test] Loss:0,Acc:83.49447250366211,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,031 baseline1-h264.py:665 test] ===> mAP 38.020
+[2023-01-01 19:54:36,076 baseline1-h264.py:648 test] Frame id :174, Row size:2189.7919921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,077 baseline1-h264.py:650 test] Loss:0,Acc:79.94356155395508,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,099 baseline1-h264.py:665 test] ===> mAP 37.990
+[2023-01-01 19:54:36,156 baseline1-h264.py:648 test] Frame id :175, Row size:2191.8486328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,157 baseline1-h264.py:650 test] Loss:0,Acc:78.00216674804688,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,181 baseline1-h264.py:665 test] ===> mAP 37.950
+[2023-01-01 19:54:36,225 baseline1-h264.py:648 test] Frame id :176, Row size:2195.736328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,225 baseline1-h264.py:650 test] Loss:0,Acc:74.25990104675293,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,250 baseline1-h264.py:665 test] ===> mAP 37.840
+[2023-01-01 19:54:36,295 baseline1-h264.py:648 test] Frame id :177, Row size:2191.236328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,295 baseline1-h264.py:650 test] Loss:0,Acc:72.87654876708984,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,319 baseline1-h264.py:665 test] ===> mAP 37.720
+[2023-01-01 19:54:36,365 baseline1-h264.py:648 test] Frame id :178, Row size:2193.435546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,365 baseline1-h264.py:650 test] Loss:0,Acc:72.21040725708008,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,389 baseline1-h264.py:665 test] ===> mAP 37.590
+[2023-01-01 19:54:36,449 baseline1-h264.py:648 test] Frame id :179, Row size:2194.7509765625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,449 baseline1-h264.py:650 test] Loss:0,Acc:71.47278785705566,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,473 baseline1-h264.py:665 test] ===> mAP 37.450
+[2023-01-01 19:54:36,516 baseline1-h264.py:648 test] Frame id :180, Row size:2197.521484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:36,516 baseline1-h264.py:650 test] Loss:0,Acc:69.97227668762207,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:36,539 baseline1-h264.py:665 test] ===> mAP 37.300
+[2023-01-01 19:54:37,974 baseline1-h264.py:648 test] Frame id :181, Row size:2199.4599609375 KB, Type: P, Offloading:True, compressed size:1209.55078125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:37,974 baseline1-h264.py:650 test] Loss:0.1378169059753418,Acc:95.42126655578613,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:37,995 baseline1-h264.py:665 test] ===> mAP 37.440
+[2023-01-01 19:54:38,042 baseline1-h264.py:648 test] Frame id :182, Row size:2198.1826171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:38,043 baseline1-h264.py:650 test] Loss:0,Acc:90.60792922973633,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:38,066 baseline1-h264.py:665 test] ===> mAP 37.510
+[2023-01-01 19:54:38,110 baseline1-h264.py:648 test] Frame id :183, Row size:2199.57421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:38,110 baseline1-h264.py:650 test] Loss:0,Acc:87.80975341796875,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:38,134 baseline1-h264.py:665 test] ===> mAP 37.550
+[2023-01-01 19:54:38,179 baseline1-h264.py:648 test] Frame id :184, Row size:2202.96484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:38,179 baseline1-h264.py:650 test] Loss:0,Acc:85.8184814453125,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:38,203 baseline1-h264.py:665 test] ===> mAP 37.570
+[2023-01-01 19:54:38,247 baseline1-h264.py:648 test] Frame id :185, Row size:2207.095703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:38,247 baseline1-h264.py:650 test] Loss:0,Acc:84.38277244567871,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:38,271 baseline1-h264.py:665 test] ===> mAP 37.580
+[2023-01-01 19:54:38,315 baseline1-h264.py:648 test] Frame id :186, Row size:2209.4560546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:38,315 baseline1-h264.py:650 test] Loss:0,Acc:82.17525482177734,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:38,338 baseline1-h264.py:665 test] ===> mAP 37.560
+[2023-01-01 19:54:38,386 baseline1-h264.py:648 test] Frame id :187, Row size:2212.1162109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:38,386 baseline1-h264.py:650 test] Loss:0,Acc:80.54265975952148,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:38,386 baseline1-h264.py:652 test] Average Acc:   81.76271775189568   Average Size:    142.60885799632354        in time:  10
+[2023-01-01 19:54:38,409 baseline1-h264.py:665 test] ===> mAP 37.520
+[2023-01-01 19:54:39,829 baseline1-h264.py:648 test] Frame id :188, Row size:2212.7998046875 KB, Type: P, Offloading:True, compressed size:1217.5361328125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:39,829 baseline1-h264.py:650 test] Loss:0.12960854172706604,Acc:95.6428050994873,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:39,853 baseline1-h264.py:665 test] ===> mAP 37.630
+[2023-01-01 19:54:39,901 baseline1-h264.py:648 test] Frame id :189, Row size:2217.982421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:39,902 baseline1-h264.py:650 test] Loss:0,Acc:91.70918464660645,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:39,924 baseline1-h264.py:665 test] ===> mAP 37.690
+[2023-01-01 19:54:39,963 baseline1-h264.py:648 test] Frame id :190, Row size:2214.083984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:39,964 baseline1-h264.py:650 test] Loss:0,Acc:87.92457580566406,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:39,987 baseline1-h264.py:665 test] ===> mAP 37.730
+[2023-01-01 19:54:40,024 baseline1-h264.py:648 test] Frame id :191, Row size:2209.923828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,024 baseline1-h264.py:650 test] Loss:0,Acc:84.76009368896484,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,048 baseline1-h264.py:665 test] ===> mAP 37.730
+[2023-01-01 19:54:40,085 baseline1-h264.py:648 test] Frame id :192, Row size:2211.2509765625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,085 baseline1-h264.py:650 test] Loss:0,Acc:83.25004577636719,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,109 baseline1-h264.py:665 test] ===> mAP 37.720
+[2023-01-01 19:54:40,145 baseline1-h264.py:648 test] Frame id :193, Row size:2214.1181640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,145 baseline1-h264.py:650 test] Loss:0,Acc:81.41465187072754,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,169 baseline1-h264.py:665 test] ===> mAP 37.700
+[2023-01-01 19:54:40,206 baseline1-h264.py:648 test] Frame id :194, Row size:2212.369140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,206 baseline1-h264.py:650 test] Loss:0,Acc:78.84354591369629,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,228 baseline1-h264.py:665 test] ===> mAP 37.640
+[2023-01-01 19:54:40,264 baseline1-h264.py:648 test] Frame id :195, Row size:2213.3125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,264 baseline1-h264.py:650 test] Loss:0,Acc:77.08840370178223,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,287 baseline1-h264.py:665 test] ===> mAP 37.570
+[2023-01-01 19:54:40,324 baseline1-h264.py:648 test] Frame id :196, Row size:2213.4873046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,324 baseline1-h264.py:650 test] Loss:0,Acc:75.06623268127441,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,347 baseline1-h264.py:665 test] ===> mAP 37.470
+[2023-01-01 19:54:40,394 baseline1-h264.py:648 test] Frame id :197, Row size:2218.0166015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:40,395 baseline1-h264.py:650 test] Loss:0,Acc:74.03473854064941,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:40,419 baseline1-h264.py:665 test] ===> mAP 37.380
+[2023-01-01 19:54:41,810 baseline1-h264.py:648 test] Frame id :198, Row size:2217.9423828125 KB, Type: P, Offloading:True, compressed size:1225.2109375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:41,811 baseline1-h264.py:650 test] Loss:0.2066531479358673,Acc:95.71805000305176,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:41,832 baseline1-h264.py:665 test] ===> mAP 37.460
+[2023-01-01 19:54:41,872 baseline1-h264.py:648 test] Frame id :199, Row size:2220.537109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:41,872 baseline1-h264.py:650 test] Loss:0,Acc:91.81928634643555,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:41,896 baseline1-h264.py:665 test] ===> mAP 37.510
+[2023-01-01 19:54:41,937 baseline1-h264.py:648 test] Frame id :200, Row size:2226.005859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:41,937 baseline1-h264.py:650 test] Loss:0,Acc:87.79783248901367,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:41,960 baseline1-h264.py:665 test] ===> mAP 37.520
+[2023-01-01 19:54:42,002 baseline1-h264.py:648 test] Frame id :201, Row size:2229.3232421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:42,002 baseline1-h264.py:650 test] Loss:0,Acc:85.69269180297852,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:42,025 baseline1-h264.py:665 test] ===> mAP 37.510
+[2023-01-01 19:54:42,065 baseline1-h264.py:648 test] Frame id :202, Row size:2229.263671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:42,065 baseline1-h264.py:650 test] Loss:0,Acc:83.81738662719727,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:42,085 baseline1-h264.py:665 test] ===> mAP 37.480
+[2023-01-01 19:54:42,125 baseline1-h264.py:648 test] Frame id :203, Row size:2231.037109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:42,126 baseline1-h264.py:650 test] Loss:0,Acc:83.10303688049316,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:42,150 baseline1-h264.py:665 test] ===> mAP 37.440
+[2023-01-01 19:54:42,190 baseline1-h264.py:648 test] Frame id :204, Row size:2230.3583984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:42,190 baseline1-h264.py:650 test] Loss:0,Acc:81.1434268951416,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:42,190 baseline1-h264.py:652 test] Average Acc:   84.63682286879596   Average Size:    143.69100413602942        in time:  11
+[2023-01-01 19:54:42,212 baseline1-h264.py:665 test] ===> mAP 37.380
+[2023-01-01 19:54:43,585 baseline1-h264.py:648 test] Frame id :205, Row size:2232.1982421875 KB, Type: P, Offloading:True, compressed size:1240.423828125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:43,585 baseline1-h264.py:650 test] Loss:0.08613009750843048,Acc:97.11809158325195,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,606 baseline1-h264.py:665 test] ===> mAP 37.450
+[2023-01-01 19:54:43,652 baseline1-h264.py:648 test] Frame id :206, Row size:2231.671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:43,652 baseline1-h264.py:650 test] Loss:0,Acc:92.43001937866211,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,676 baseline1-h264.py:665 test] ===> mAP 37.490
+[2023-01-01 19:54:43,716 baseline1-h264.py:648 test] Frame id :207, Row size:2229.6474609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:43,716 baseline1-h264.py:650 test] Loss:0,Acc:87.83559799194336,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,738 baseline1-h264.py:665 test] ===> mAP 37.490
+[2023-01-01 19:54:43,778 baseline1-h264.py:648 test] Frame id :208, Row size:2232.216796875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:43,778 baseline1-h264.py:650 test] Loss:0,Acc:84.26861763000488,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,802 baseline1-h264.py:665 test] ===> mAP 37.460
+[2023-01-01 19:54:43,844 baseline1-h264.py:648 test] Frame id :209, Row size:2232.9287109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:43,844 baseline1-h264.py:650 test] Loss:0,Acc:83.19664001464844,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,868 baseline1-h264.py:665 test] ===> mAP 37.410
+[2023-01-01 19:54:43,909 baseline1-h264.py:648 test] Frame id :210, Row size:2236.13671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:43,910 baseline1-h264.py:650 test] Loss:0,Acc:80.99260330200195,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,933 baseline1-h264.py:665 test] ===> mAP 37.360
+[2023-01-01 19:54:43,973 baseline1-h264.py:648 test] Frame id :211, Row size:2240.615234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:43,973 baseline1-h264.py:650 test] Loss:0,Acc:79.27131652832031,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:43,996 baseline1-h264.py:665 test] ===> mAP 37.300
+[2023-01-01 19:54:44,037 baseline1-h264.py:648 test] Frame id :212, Row size:2246.3017578125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:44,037 baseline1-h264.py:650 test] Loss:0,Acc:78.05318832397461,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:44,061 baseline1-h264.py:665 test] ===> mAP 37.230
+[2023-01-01 19:54:44,102 baseline1-h264.py:648 test] Frame id :213, Row size:2251.318359375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:44,102 baseline1-h264.py:650 test] Loss:0,Acc:76.04427337646484,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:44,126 baseline1-h264.py:665 test] ===> mAP 37.160
+[2023-01-01 19:54:44,167 baseline1-h264.py:648 test] Frame id :214, Row size:2259.9482421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:44,167 baseline1-h264.py:650 test] Loss:0,Acc:75.640869140625,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:44,189 baseline1-h264.py:665 test] ===> mAP 37.090
+[2023-01-01 19:54:45,571 baseline1-h264.py:648 test] Frame id :215, Row size:2263.283203125 KB, Type: P, Offloading:True, compressed size:1260.4560546875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:45,572 baseline1-h264.py:650 test] Loss:0.2169448882341385,Acc:96.1674690246582,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,593 baseline1-h264.py:665 test] ===> mAP 37.120
+[2023-01-01 19:54:45,636 baseline1-h264.py:648 test] Frame id :216, Row size:2268.521484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:45,636 baseline1-h264.py:650 test] Loss:0,Acc:91.86172485351562,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,660 baseline1-h264.py:665 test] ===> mAP 37.130
+[2023-01-01 19:54:45,704 baseline1-h264.py:648 test] Frame id :217, Row size:2272.7734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:45,704 baseline1-h264.py:650 test] Loss:0,Acc:88.74034881591797,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,727 baseline1-h264.py:665 test] ===> mAP 37.120
+[2023-01-01 19:54:45,767 baseline1-h264.py:648 test] Frame id :218, Row size:2298.6220703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:45,768 baseline1-h264.py:650 test] Loss:0,Acc:85.74662208557129,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,792 baseline1-h264.py:665 test] ===> mAP 37.110
+[2023-01-01 19:54:45,833 baseline1-h264.py:648 test] Frame id :219, Row size:2318.5771484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:45,833 baseline1-h264.py:650 test] Loss:0,Acc:83.5782527923584,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,855 baseline1-h264.py:665 test] ===> mAP 37.080
+[2023-01-01 19:54:45,895 baseline1-h264.py:648 test] Frame id :220, Row size:2322.794921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:45,895 baseline1-h264.py:650 test] Loss:0,Acc:81.6157341003418,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,917 baseline1-h264.py:665 test] ===> mAP 37.040
+[2023-01-01 19:54:45,958 baseline1-h264.py:648 test] Frame id :221, Row size:2317.119140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:45,958 baseline1-h264.py:650 test] Loss:0,Acc:79.89974021911621,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:45,958 baseline1-h264.py:652 test] Average Acc:   84.850653480081   Average Size:    147.11058134191177        in time:  12
+[2023-01-01 19:54:45,981 baseline1-h264.py:665 test] ===> mAP 37.000
+[2023-01-01 19:54:47,365 baseline1-h264.py:648 test] Frame id :222, Row size:2312.0302734375 KB, Type: P, Offloading:True, compressed size:1291.08984375,jpeg_size:1480.8583984375
+[2023-01-01 19:54:47,365 baseline1-h264.py:650 test] Loss:0.17528225481510162,Acc:96.34718894958496,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,386 baseline1-h264.py:665 test] ===> mAP 37.040
+[2023-01-01 19:54:47,435 baseline1-h264.py:648 test] Frame id :223, Row size:2337.65625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,435 baseline1-h264.py:650 test] Loss:0,Acc:92.71321296691895,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,460 baseline1-h264.py:665 test] ===> mAP 37.060
+[2023-01-01 19:54:47,500 baseline1-h264.py:648 test] Frame id :224, Row size:2338.078125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,501 baseline1-h264.py:650 test] Loss:0,Acc:89.25995826721191,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,524 baseline1-h264.py:665 test] ===> mAP 37.060
+[2023-01-01 19:54:47,564 baseline1-h264.py:648 test] Frame id :225, Row size:2337.7666015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,564 baseline1-h264.py:650 test] Loss:0,Acc:87.10441589355469,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,587 baseline1-h264.py:665 test] ===> mAP 37.040
+[2023-01-01 19:54:47,628 baseline1-h264.py:648 test] Frame id :226, Row size:2333.8076171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,628 baseline1-h264.py:650 test] Loss:0,Acc:85.25829315185547,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,651 baseline1-h264.py:665 test] ===> mAP 37.020
+[2023-01-01 19:54:47,694 baseline1-h264.py:648 test] Frame id :227, Row size:2299.109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,694 baseline1-h264.py:650 test] Loss:0,Acc:82.85140991210938,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,714 baseline1-h264.py:665 test] ===> mAP 36.980
+[2023-01-01 19:54:47,755 baseline1-h264.py:648 test] Frame id :228, Row size:2297.8486328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,755 baseline1-h264.py:650 test] Loss:0,Acc:80.7370662689209,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,776 baseline1-h264.py:665 test] ===> mAP 36.930
+[2023-01-01 19:54:47,816 baseline1-h264.py:648 test] Frame id :229, Row size:2283.5556640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,816 baseline1-h264.py:650 test] Loss:0,Acc:78.83157730102539,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,839 baseline1-h264.py:665 test] ===> mAP 36.880
+[2023-01-01 19:54:47,878 baseline1-h264.py:648 test] Frame id :230, Row size:2285.3291015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,878 baseline1-h264.py:650 test] Loss:0,Acc:77.23426818847656,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,902 baseline1-h264.py:665 test] ===> mAP 36.810
+[2023-01-01 19:54:47,945 baseline1-h264.py:648 test] Frame id :231, Row size:2282.322265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:47,945 baseline1-h264.py:650 test] Loss:0,Acc:76.32532119750977,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:47,969 baseline1-h264.py:665 test] ===> mAP 36.750
+[2023-01-01 19:54:49,361 baseline1-h264.py:648 test] Frame id :232, Row size:2283.798828125 KB, Type: P, Offloading:True, compressed size:1301.64453125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:49,361 baseline1-h264.py:650 test] Loss:0.09012487530708313,Acc:97.09005355834961,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,384 baseline1-h264.py:665 test] ===> mAP 36.860
+[2023-01-01 19:54:49,424 baseline1-h264.py:648 test] Frame id :233, Row size:2286.205078125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:49,424 baseline1-h264.py:650 test] Loss:0,Acc:92.65594482421875,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,446 baseline1-h264.py:665 test] ===> mAP 36.940
+[2023-01-01 19:54:49,488 baseline1-h264.py:648 test] Frame id :234, Row size:2287.9462890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:49,488 baseline1-h264.py:650 test] Loss:0,Acc:88.54660987854004,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,514 baseline1-h264.py:665 test] ===> mAP 36.980
+[2023-01-01 19:54:49,552 baseline1-h264.py:648 test] Frame id :235, Row size:2293.0419921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:49,552 baseline1-h264.py:650 test] Loss:0,Acc:86.40627861022949,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,572 baseline1-h264.py:665 test] ===> mAP 36.970
+[2023-01-01 19:54:49,612 baseline1-h264.py:648 test] Frame id :236, Row size:2293.4912109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:49,612 baseline1-h264.py:650 test] Loss:0,Acc:84.52177047729492,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,635 baseline1-h264.py:665 test] ===> mAP 36.960
+[2023-01-01 19:54:49,676 baseline1-h264.py:648 test] Frame id :237, Row size:2291.8583984375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:49,676 baseline1-h264.py:650 test] Loss:0,Acc:82.63630867004395,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,700 baseline1-h264.py:665 test] ===> mAP 36.920
+[2023-01-01 19:54:49,738 baseline1-h264.py:648 test] Frame id :238, Row size:2291.7744140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:49,738 baseline1-h264.py:650 test] Loss:0,Acc:81.31952285766602,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:49,738 baseline1-h264.py:652 test] Average Acc:   85.8728941749124   Average Size:    152.51378676470588        in time:  13
+[2023-01-01 19:54:49,761 baseline1-h264.py:665 test] ===> mAP 36.880
+[2023-01-01 19:54:51,146 baseline1-h264.py:648 test] Frame id :239, Row size:2291.3681640625 KB, Type: P, Offloading:True, compressed size:1281.9072265625,jpeg_size:1480.8583984375
+[2023-01-01 19:54:51,146 baseline1-h264.py:650 test] Loss:0.08149838447570801,Acc:97.23782539367676,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,169 baseline1-h264.py:665 test] ===> mAP 36.970
+[2023-01-01 19:54:51,210 baseline1-h264.py:648 test] Frame id :240, Row size:2292.3916015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,210 baseline1-h264.py:650 test] Loss:0,Acc:94.15726661682129,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,234 baseline1-h264.py:665 test] ===> mAP 37.020
+[2023-01-01 19:54:51,272 baseline1-h264.py:648 test] Frame id :241, Row size:2293.4560546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,272 baseline1-h264.py:650 test] Loss:0,Acc:91.07685089111328,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,296 baseline1-h264.py:665 test] ===> mAP 37.040
+[2023-01-01 19:54:51,334 baseline1-h264.py:648 test] Frame id :242, Row size:2292.3896484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,334 baseline1-h264.py:650 test] Loss:0,Acc:89.2789363861084,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,354 baseline1-h264.py:665 test] ===> mAP 37.030
+[2023-01-01 19:54:51,393 baseline1-h264.py:648 test] Frame id :243, Row size:2292.1982421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,394 baseline1-h264.py:650 test] Loss:0,Acc:87.31541633605957,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,414 baseline1-h264.py:665 test] ===> mAP 37.020
+[2023-01-01 19:54:51,453 baseline1-h264.py:648 test] Frame id :244, Row size:2294.166015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,453 baseline1-h264.py:650 test] Loss:0,Acc:85.55417060852051,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,476 baseline1-h264.py:665 test] ===> mAP 36.990
+[2023-01-01 19:54:51,514 baseline1-h264.py:648 test] Frame id :245, Row size:2295.853515625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,514 baseline1-h264.py:650 test] Loss:0,Acc:84.52844619750977,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,537 baseline1-h264.py:665 test] ===> mAP 36.960
+[2023-01-01 19:54:51,575 baseline1-h264.py:648 test] Frame id :246, Row size:2296.0234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,576 baseline1-h264.py:650 test] Loss:0,Acc:83.80751609802246,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,599 baseline1-h264.py:665 test] ===> mAP 36.920
+[2023-01-01 19:54:51,640 baseline1-h264.py:648 test] Frame id :247, Row size:2294.474609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,640 baseline1-h264.py:650 test] Loss:0,Acc:83.7045669555664,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,663 baseline1-h264.py:665 test] ===> mAP 36.890
+[2023-01-01 19:54:51,702 baseline1-h264.py:648 test] Frame id :248, Row size:2293.494140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:51,702 baseline1-h264.py:650 test] Loss:0,Acc:83.6648941040039,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:51,725 baseline1-h264.py:665 test] ===> mAP 36.850
+[2023-01-01 19:54:53,131 baseline1-h264.py:648 test] Frame id :249, Row size:2288.91796875 KB, Type: P, Offloading:True, compressed size:1280.2919921875,jpeg_size:1480.8583984375
+[2023-01-01 19:54:53,131 baseline1-h264.py:650 test] Loss:0.12603333592414856,Acc:96.5022087097168,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,154 baseline1-h264.py:665 test] ===> mAP 36.910
+[2023-01-01 19:54:53,191 baseline1-h264.py:648 test] Frame id :250, Row size:2287.302734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:53,191 baseline1-h264.py:650 test] Loss:0,Acc:95.23425102233887,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,214 baseline1-h264.py:665 test] ===> mAP 36.960
+[2023-01-01 19:54:53,252 baseline1-h264.py:648 test] Frame id :251, Row size:2281.263671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:53,252 baseline1-h264.py:650 test] Loss:0,Acc:93.59607696533203,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,275 baseline1-h264.py:665 test] ===> mAP 36.990
+[2023-01-01 19:54:53,313 baseline1-h264.py:648 test] Frame id :252, Row size:2276.46484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:53,313 baseline1-h264.py:650 test] Loss:0,Acc:91.70193672180176,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,334 baseline1-h264.py:665 test] ===> mAP 37.020
+[2023-01-01 19:54:53,372 baseline1-h264.py:648 test] Frame id :253, Row size:2270.7568359375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:53,372 baseline1-h264.py:650 test] Loss:0,Acc:89.81118202209473,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,396 baseline1-h264.py:665 test] ===> mAP 37.030
+[2023-01-01 19:54:53,436 baseline1-h264.py:648 test] Frame id :254, Row size:2263.974609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:53,437 baseline1-h264.py:650 test] Loss:0,Acc:86.9046688079834,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,468 baseline1-h264.py:665 test] ===> mAP 37.030
+[2023-01-01 19:54:53,515 baseline1-h264.py:648 test] Frame id :255, Row size:2256.107421875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:53,516 baseline1-h264.py:650 test] Loss:0,Acc:85.39457321166992,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:53,516 baseline1-h264.py:652 test] Average Acc:   89.38063453225529   Average Size:    150.7176011029412        in time:  14
+[2023-01-01 19:54:53,539 baseline1-h264.py:665 test] ===> mAP 37.010
+[2023-01-01 19:54:54,959 baseline1-h264.py:648 test] Frame id :256, Row size:2248.744140625 KB, Type: P, Offloading:True, compressed size:1255.447265625,jpeg_size:1480.8583984375
+[2023-01-01 19:54:54,959 baseline1-h264.py:650 test] Loss:0.11207826435565948,Acc:96.68087959289551,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:54,981 baseline1-h264.py:665 test] ===> mAP 37.080
+[2023-01-01 19:54:55,024 baseline1-h264.py:648 test] Frame id :257, Row size:2242.203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,025 baseline1-h264.py:650 test] Loss:0,Acc:88.78836631774902,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,047 baseline1-h264.py:665 test] ===> mAP 37.090
+[2023-01-01 19:54:55,085 baseline1-h264.py:648 test] Frame id :258, Row size:2231.7119140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,085 baseline1-h264.py:650 test] Loss:0,Acc:83.23984146118164,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,109 baseline1-h264.py:665 test] ===> mAP 37.070
+[2023-01-01 19:54:55,146 baseline1-h264.py:648 test] Frame id :259, Row size:2219.6533203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,147 baseline1-h264.py:650 test] Loss:0,Acc:80.53865432739258,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,169 baseline1-h264.py:665 test] ===> mAP 37.040
+[2023-01-01 19:54:55,207 baseline1-h264.py:648 test] Frame id :260, Row size:2208.59375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,208 baseline1-h264.py:650 test] Loss:0,Acc:77.45370864868164,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,232 baseline1-h264.py:665 test] ===> mAP 36.990
+[2023-01-01 19:54:55,269 baseline1-h264.py:648 test] Frame id :261, Row size:2197.5849609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,270 baseline1-h264.py:650 test] Loss:0,Acc:73.63567352294922,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,299 baseline1-h264.py:665 test] ===> mAP 36.920
+[2023-01-01 19:54:55,337 baseline1-h264.py:648 test] Frame id :262, Row size:2189.9931640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,337 baseline1-h264.py:650 test] Loss:0,Acc:70.71723937988281,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,361 baseline1-h264.py:665 test] ===> mAP 36.840
+[2023-01-01 19:54:55,398 baseline1-h264.py:648 test] Frame id :263, Row size:2178.2314453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,398 baseline1-h264.py:650 test] Loss:0,Acc:67.01335906982422,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,421 baseline1-h264.py:665 test] ===> mAP 36.750
+[2023-01-01 19:54:55,458 baseline1-h264.py:648 test] Frame id :264, Row size:2167.4931640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,458 baseline1-h264.py:650 test] Loss:0,Acc:64.49966430664062,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,480 baseline1-h264.py:665 test] ===> mAP 36.650
+[2023-01-01 19:54:55,516 baseline1-h264.py:648 test] Frame id :265, Row size:2158.6015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:55,516 baseline1-h264.py:650 test] Loss:0,Acc:62.660884857177734,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:55,539 baseline1-h264.py:665 test] ===> mAP 36.550
+[2023-01-01 19:54:56,950 baseline1-h264.py:648 test] Frame id :266, Row size:2150.1669921875 KB, Type: P, Offloading:True, compressed size:1216.8994140625,jpeg_size:1480.8583984375
+[2023-01-01 19:54:56,951 baseline1-h264.py:650 test] Loss:0.15346753597259521,Acc:95.32427787780762,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:56,972 baseline1-h264.py:665 test] ===> mAP 36.620
+[2023-01-01 19:54:57,014 baseline1-h264.py:648 test] Frame id :267, Row size:2172.185546875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:57,014 baseline1-h264.py:650 test] Loss:0,Acc:84.14077758789062,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:57,038 baseline1-h264.py:665 test] ===> mAP 36.640
+[2023-01-01 19:54:57,077 baseline1-h264.py:648 test] Frame id :268, Row size:2178.916015625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:57,077 baseline1-h264.py:650 test] Loss:0,Acc:78.6099910736084,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:57,100 baseline1-h264.py:665 test] ===> mAP 36.620
+[2023-01-01 19:54:57,138 baseline1-h264.py:648 test] Frame id :269, Row size:2200.052734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:57,138 baseline1-h264.py:650 test] Loss:0,Acc:75.42390823364258,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:57,164 baseline1-h264.py:665 test] ===> mAP 36.600
+[2023-01-01 19:54:57,202 baseline1-h264.py:648 test] Frame id :270, Row size:2194.197265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:57,202 baseline1-h264.py:650 test] Loss:0,Acc:73.85334968566895,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:57,224 baseline1-h264.py:665 test] ===> mAP 36.570
+[2023-01-01 19:54:57,263 baseline1-h264.py:648 test] Frame id :271, Row size:2187.0859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:57,263 baseline1-h264.py:650 test] Loss:0,Acc:73.17419052124023,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:57,287 baseline1-h264.py:665 test] ===> mAP 36.530
+[2023-01-01 19:54:57,326 baseline1-h264.py:648 test] Frame id :272, Row size:2195.4501953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:57,326 baseline1-h264.py:650 test] Loss:0,Acc:74.50575828552246,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:57,326 baseline1-h264.py:652 test] Average Acc:   77.66238380880917   Average Size:    145.43215762867646        in time:  15
+[2023-01-01 19:54:57,347 baseline1-h264.py:665 test] ===> mAP 36.500
+[2023-01-01 19:54:58,745 baseline1-h264.py:648 test] Frame id :273, Row size:2198.5966796875 KB, Type: P, Offloading:True, compressed size:1203.14453125,jpeg_size:1480.8583984375
+[2023-01-01 19:54:58,745 baseline1-h264.py:650 test] Loss:0.14057596027851105,Acc:95.97530364990234,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:58,769 baseline1-h264.py:665 test] ===> mAP 36.590
+[2023-01-01 19:54:58,809 baseline1-h264.py:648 test] Frame id :274, Row size:2197.01171875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:58,809 baseline1-h264.py:650 test] Loss:0,Acc:94.0833568572998,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:58,830 baseline1-h264.py:665 test] ===> mAP 36.660
+[2023-01-01 19:54:58,866 baseline1-h264.py:648 test] Frame id :275, Row size:2196.486328125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:58,866 baseline1-h264.py:650 test] Loss:0,Acc:91.75033569335938,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:58,889 baseline1-h264.py:665 test] ===> mAP 36.730
+[2023-01-01 19:54:58,926 baseline1-h264.py:648 test] Frame id :276, Row size:2196.8828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:58,926 baseline1-h264.py:650 test] Loss:0,Acc:89.64543342590332,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:58,948 baseline1-h264.py:665 test] ===> mAP 36.770
+[2023-01-01 19:54:58,986 baseline1-h264.py:648 test] Frame id :277, Row size:2193.54296875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:58,986 baseline1-h264.py:650 test] Loss:0,Acc:87.92977333068848,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:59,010 baseline1-h264.py:665 test] ===> mAP 36.800
+[2023-01-01 19:54:59,047 baseline1-h264.py:648 test] Frame id :278, Row size:2197.0234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:59,047 baseline1-h264.py:650 test] Loss:0,Acc:86.60650253295898,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:59,071 baseline1-h264.py:665 test] ===> mAP 36.810
+[2023-01-01 19:54:59,109 baseline1-h264.py:648 test] Frame id :279, Row size:2203.064453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:59,109 baseline1-h264.py:650 test] Loss:0,Acc:85.0921630859375,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:59,133 baseline1-h264.py:665 test] ===> mAP 36.810
+[2023-01-01 19:54:59,170 baseline1-h264.py:648 test] Frame id :280, Row size:2206.8466796875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:59,170 baseline1-h264.py:650 test] Loss:0,Acc:83.4496021270752,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:59,192 baseline1-h264.py:665 test] ===> mAP 36.790
+[2023-01-01 19:54:59,247 baseline1-h264.py:648 test] Frame id :281, Row size:2214.4990234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:59,247 baseline1-h264.py:650 test] Loss:0,Acc:81.71811103820801,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:59,278 baseline1-h264.py:665 test] ===> mAP 36.750
+[2023-01-01 19:54:59,320 baseline1-h264.py:648 test] Frame id :282, Row size:2219.1376953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:54:59,320 baseline1-h264.py:650 test] Loss:0,Acc:79.62417602539062,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:54:59,344 baseline1-h264.py:665 test] ===> mAP 36.710
+[2023-01-01 19:55:00,741 baseline1-h264.py:648 test] Frame id :283, Row size:2226.384765625 KB, Type: P, Offloading:True, compressed size:1232.404296875,jpeg_size:1480.8583984375
+[2023-01-01 19:55:00,742 baseline1-h264.py:650 test] Loss:0.11472037434577942,Acc:96.55261039733887,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:00,762 baseline1-h264.py:665 test] ===> mAP 36.800
+[2023-01-01 19:55:00,820 baseline1-h264.py:648 test] Frame id :284, Row size:2248.318359375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:00,820 baseline1-h264.py:650 test] Loss:0,Acc:89.81537818908691,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:00,844 baseline1-h264.py:665 test] ===> mAP 36.830
+[2023-01-01 19:55:00,896 baseline1-h264.py:648 test] Frame id :285, Row size:2256.8564453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:00,896 baseline1-h264.py:650 test] Loss:0,Acc:86.54556274414062,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:00,922 baseline1-h264.py:665 test] ===> mAP 36.840
+[2023-01-01 19:55:00,961 baseline1-h264.py:648 test] Frame id :286, Row size:2266.8955078125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:00,962 baseline1-h264.py:650 test] Loss:0,Acc:84.87091064453125,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:00,986 baseline1-h264.py:665 test] ===> mAP 36.840
+[2023-01-01 19:55:01,027 baseline1-h264.py:648 test] Frame id :287, Row size:2310.87109375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:01,027 baseline1-h264.py:650 test] Loss:0,Acc:82.96914100646973,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:01,050 baseline1-h264.py:665 test] ===> mAP 36.820
+[2023-01-01 19:55:01,089 baseline1-h264.py:648 test] Frame id :288, Row size:2296.1240234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:01,089 baseline1-h264.py:650 test] Loss:0,Acc:81.87699317932129,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:01,114 baseline1-h264.py:665 test] ===> mAP 36.780
+[2023-01-01 19:55:01,154 baseline1-h264.py:648 test] Frame id :289, Row size:2342.94140625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:01,155 baseline1-h264.py:650 test] Loss:0,Acc:80.42192459106445,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:01,155 baseline1-h264.py:652 test] Average Acc:   86.99572226580452   Average Size:    143.267578125        in time:  16
+[2023-01-01 19:55:01,178 baseline1-h264.py:665 test] ===> mAP 36.750
+[2023-01-01 19:55:02,603 baseline1-h264.py:648 test] Frame id :290, Row size:2358.1240234375 KB, Type: P, Offloading:True, compressed size:1318.90625,jpeg_size:1480.8583984375
+[2023-01-01 19:55:02,603 baseline1-h264.py:650 test] Loss:0.16647586226463318,Acc:95.92695236206055,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:02,625 baseline1-h264.py:665 test] ===> mAP 36.820
+[2023-01-01 19:55:02,670 baseline1-h264.py:648 test] Frame id :291, Row size:2336.4658203125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:02,670 baseline1-h264.py:650 test] Loss:0,Acc:90.00663757324219,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:02,694 baseline1-h264.py:665 test] ===> mAP 36.850
+[2023-01-01 19:55:02,733 baseline1-h264.py:648 test] Frame id :292, Row size:2341.126953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:02,734 baseline1-h264.py:650 test] Loss:0,Acc:87.4363899230957,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:02,754 baseline1-h264.py:665 test] ===> mAP 36.860
+[2023-01-01 19:55:02,791 baseline1-h264.py:648 test] Frame id :293, Row size:2317.1396484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:02,791 baseline1-h264.py:650 test] Loss:0,Acc:85.21475791931152,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:02,815 baseline1-h264.py:665 test] ===> mAP 36.850
+[2023-01-01 19:55:02,855 baseline1-h264.py:648 test] Frame id :294, Row size:2316.9365234375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:02,855 baseline1-h264.py:650 test] Loss:0,Acc:83.70480537414551,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:02,876 baseline1-h264.py:665 test] ===> mAP 36.840
+[2023-01-01 19:55:02,915 baseline1-h264.py:648 test] Frame id :295, Row size:2312.7880859375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:02,915 baseline1-h264.py:650 test] Loss:0,Acc:81.93230628967285,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:02,937 baseline1-h264.py:665 test] ===> mAP 36.810
+[2023-01-01 19:55:02,976 baseline1-h264.py:648 test] Frame id :296, Row size:2311.9931640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:02,976 baseline1-h264.py:650 test] Loss:0,Acc:81.25967979431152,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:03,000 baseline1-h264.py:665 test] ===> mAP 36.780
+[2023-01-01 19:55:03,041 baseline1-h264.py:648 test] Frame id :297, Row size:2328.7294921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:03,041 baseline1-h264.py:650 test] Loss:0,Acc:81.12258911132812,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:03,062 baseline1-h264.py:665 test] ===> mAP 36.750
+[2023-01-01 19:55:03,106 baseline1-h264.py:648 test] Frame id :298, Row size:2316.5673828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:03,107 baseline1-h264.py:650 test] Loss:0,Acc:80.7335376739502,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:03,129 baseline1-h264.py:665 test] ===> mAP 36.710
+[2023-01-01 19:55:03,168 baseline1-h264.py:648 test] Frame id :299, Row size:2309.3974609375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:03,168 baseline1-h264.py:650 test] Loss:0,Acc:80.33733367919922,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:03,191 baseline1-h264.py:665 test] ===> mAP 36.680
+[2023-01-01 19:55:04,599 baseline1-h264.py:648 test] Frame id :300, Row size:2326.2099609375 KB, Type: P, Offloading:True, compressed size:1350.57421875,jpeg_size:1480.8583984375
+[2023-01-01 19:55:04,599 baseline1-h264.py:650 test] Loss:0.11061080545186996,Acc:96.47068977355957,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,620 baseline1-h264.py:665 test] ===> mAP 36.730
+[2023-01-01 19:55:04,660 baseline1-h264.py:648 test] Frame id :301, Row size:2303.02734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:04,660 baseline1-h264.py:650 test] Loss:0,Acc:93.28837394714355,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,683 baseline1-h264.py:665 test] ===> mAP 36.770
+[2023-01-01 19:55:04,724 baseline1-h264.py:648 test] Frame id :302, Row size:2308.1962890625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:04,724 baseline1-h264.py:650 test] Loss:0,Acc:91.03460311889648,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,745 baseline1-h264.py:665 test] ===> mAP 36.790
+[2023-01-01 19:55:04,790 baseline1-h264.py:648 test] Frame id :303, Row size:2314.7177734375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:04,790 baseline1-h264.py:650 test] Loss:0,Acc:88.74039649963379,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,813 baseline1-h264.py:665 test] ===> mAP 36.800
+[2023-01-01 19:55:04,852 baseline1-h264.py:648 test] Frame id :304, Row size:2315.5146484375 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:04,852 baseline1-h264.py:650 test] Loss:0,Acc:89.14856910705566,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,874 baseline1-h264.py:665 test] ===> mAP 36.810
+[2023-01-01 19:55:04,914 baseline1-h264.py:648 test] Frame id :305, Row size:2317.0048828125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:04,914 baseline1-h264.py:650 test] Loss:0,Acc:87.78290748596191,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,934 baseline1-h264.py:665 test] ===> mAP 36.800
+[2023-01-01 19:55:04,974 baseline1-h264.py:648 test] Frame id :306, Row size:2316.4384765625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:04,974 baseline1-h264.py:650 test] Loss:0,Acc:85.87207794189453,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:04,974 baseline1-h264.py:652 test] Average Acc:   87.05956515143899   Average Size:    157.02826286764707        in time:  17
+[2023-01-01 19:55:04,996 baseline1-h264.py:665 test] ===> mAP 36.790
+[2023-01-01 19:55:06,379 baseline1-h264.py:648 test] Frame id :307, Row size:2307.5224609375 KB, Type: P, Offloading:True, compressed size:1317.9228515625,jpeg_size:1480.8583984375
+[2023-01-01 19:55:06,380 baseline1-h264.py:650 test] Loss:0.13082915544509888,Acc:95.68982124328613,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,401 baseline1-h264.py:665 test] ===> mAP 36.840
+[2023-01-01 19:55:06,447 baseline1-h264.py:648 test] Frame id :308, Row size:2312.0498046875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,447 baseline1-h264.py:650 test] Loss:0,Acc:91.82896614074707,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,470 baseline1-h264.py:665 test] ===> mAP 36.880
+[2023-01-01 19:55:06,511 baseline1-h264.py:648 test] Frame id :309, Row size:2306.3681640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,511 baseline1-h264.py:650 test] Loss:0,Acc:89.7834300994873,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,535 baseline1-h264.py:665 test] ===> mAP 36.900
+[2023-01-01 19:55:06,575 baseline1-h264.py:648 test] Frame id :310, Row size:2314.19921875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,575 baseline1-h264.py:650 test] Loss:0,Acc:89.07003402709961,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,598 baseline1-h264.py:665 test] ===> mAP 36.910
+[2023-01-01 19:55:06,638 baseline1-h264.py:648 test] Frame id :311, Row size:2306.513671875 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,638 baseline1-h264.py:650 test] Loss:0,Acc:87.21561431884766,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,662 baseline1-h264.py:665 test] ===> mAP 36.910
+[2023-01-01 19:55:06,702 baseline1-h264.py:648 test] Frame id :312, Row size:2305.78125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,702 baseline1-h264.py:650 test] Loss:0,Acc:86.51700019836426,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,723 baseline1-h264.py:665 test] ===> mAP 36.890
+[2023-01-01 19:55:06,762 baseline1-h264.py:648 test] Frame id :313, Row size:2306.2275390625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,762 baseline1-h264.py:650 test] Loss:0,Acc:85.54234504699707,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,786 baseline1-h264.py:665 test] ===> mAP 36.870
+[2023-01-01 19:55:06,826 baseline1-h264.py:648 test] Frame id :314, Row size:2304.5947265625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,826 baseline1-h264.py:650 test] Loss:0,Acc:85.51349639892578,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,847 baseline1-h264.py:665 test] ===> mAP 36.850
+[2023-01-01 19:55:06,892 baseline1-h264.py:648 test] Frame id :315, Row size:2324.4814453125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,892 baseline1-h264.py:650 test] Loss:0,Acc:84.52634811401367,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,915 baseline1-h264.py:665 test] ===> mAP 36.820
+[2023-01-01 19:55:06,957 baseline1-h264.py:648 test] Frame id :316, Row size:2320.3876953125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2023-01-01 19:55:06,957 baseline1-h264.py:650 test] Loss:0,Acc:84.11407470703125,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 19:55:06,979 baseline1-h264.py:665 test] ===> mAP 36.790
