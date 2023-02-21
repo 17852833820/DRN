@@ -1,0 +1,15 @@
+[2022-12-01 22:09:25,608 segment-test-new.py:474 test] Loss Bound:0
+[2022-12-01 22:09:33,622 segment-test-new.py:737 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, compressed size:130.5810546875,jpeg_size:0
+[2022-12-01 22:09:33,623 segment-test-new.py:739 test] Loss:0.05058111995458603,Acc:89.85109329223633,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-01 22:09:33,628 segment-test-new.py:740 test] table_indexs1 Y:28.9150390625,U:28.992919921875,V:29.0
+[2022-12-01 22:09:33,636 segment-test-new.py:741 test] table_indexs1 std Y:1.5673651695251465,U:0.45306912064552307,V:0.0
+[2022-12-01 22:09:33,639 segment-test-new.py:742 test] table_indexs2 Y:28.9150390625,U:28.992919921875,V:29.0
+[2022-12-01 22:09:33,646 segment-test-new.py:743 test] table_indexs2 std Y:1.5673651695251465,U:0.45306912064552307,V:0.0
+[2022-12-01 22:09:33,668 segment-test-new.py:750 test] ===> mAP 42.650
+[2022-12-01 22:32:46,194 segment-test-new.py:737 test] Frame id :2, Row size:2273.181640625 KB, Type: P, Offloading:True, compressed size:575.349609375,jpeg_size:1481.61328125
+[2022-12-01 22:32:46,195 segment-test-new.py:739 test] Loss:0.05536196008324623,Acc:99.25394058227539,Loss-jpeg:0.04702883958816528,Acc_jpeg:99.68056678771973
+[2022-12-01 22:32:46,201 segment-test-new.py:740 test] table_indexs1 Y:28.919464111328125,U:28.993804931640625,V:29.0
+[2022-12-01 22:32:46,210 segment-test-new.py:741 test] table_indexs1 std Y:1.5261189937591553,U:0.4238140881061554,V:0.0
+[2022-12-01 22:32:46,213 segment-test-new.py:742 test] table_indexs2 Y:96.6882553100586,U:96.1980209350586,V:95.91781616210938
+[2022-12-01 22:32:46,220 segment-test-new.py:743 test] table_indexs2 std Y:1.5205929279327393,U:6.000678062438965,V:6.433774471282959
+[2022-12-01 22:32:46,241 segment-test-new.py:750 test] ===> mAP 57.860

@@ -1,0 +1,4 @@
+[2022-11-29 21:01:15,222 segment-fps.py:475 test] Loss Bound:7.501e-05
+[2022-11-29 21:01:23,351 segment-fps.py:753 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, compressed size:120.109375,jpeg_size:0
+[2022-11-29 21:01:23,352 segment-fps.py:755 test] Loss:0.05058111995458603,Acc:83.18300247192383,Loss-jpeg:0,Acc_jpeg:0
+[2022-11-29 21:01:23,372 segment-fps.py:772 test] ===> mAP 39.600

@@ -1,0 +1,1800 @@
+[2022-11-18 22:23:58,889 segment-accuracy.py:474 test] Loss Bound:0.000103
+[2022-11-18 22:24:04,337 segment-accuracy.py:512 test] Frame id :1, Row size:1734.4111328125 KB, Type: I, Offloading:True, compressed size:1734.4111328125
+[2022-11-18 22:24:04,338 segment-accuracy.py:514 test] Loss:0.07974319905042648,Acc:97.63846397399902
+[2022-11-18 22:24:04,377 segment-accuracy.py:521 test] ===> mAP 57.480
+[2022-11-18 22:24:04,945 segment-accuracy.py:512 test] Frame id :2, Row size:1951.912109375 KB, Type: I, Offloading:True, compressed size:1951.912109375
+[2022-11-18 22:24:04,945 segment-accuracy.py:514 test] Loss:0.09094929695129395,Acc:97.28426933288574
+[2022-11-18 22:24:04,973 segment-accuracy.py:521 test] ===> mAP 56.910
+[2022-11-18 22:24:05,554 segment-accuracy.py:512 test] Frame id :3, Row size:2044.89453125 KB, Type: I, Offloading:True, compressed size:2044.89453125
+[2022-11-18 22:24:05,554 segment-accuracy.py:514 test] Loss:0.11252264678478241,Acc:96.15311622619629
+[2022-11-18 22:24:05,591 segment-accuracy.py:521 test] ===> mAP 55.910
+[2022-11-18 22:24:06,158 segment-accuracy.py:512 test] Frame id :4, Row size:2124.2490234375 KB, Type: I, Offloading:True, compressed size:2124.2490234375
+[2022-11-18 22:24:06,158 segment-accuracy.py:514 test] Loss:0.13767452538013458,Acc:95.29023170471191
+[2022-11-18 22:24:06,185 segment-accuracy.py:521 test] ===> mAP 56.600
+[2022-11-18 22:24:06,766 segment-accuracy.py:512 test] Frame id :5, Row size:2170.4658203125 KB, Type: I, Offloading:True, compressed size:2170.4658203125
+[2022-11-18 22:24:06,766 segment-accuracy.py:514 test] Loss:0.1261596977710724,Acc:95.67151069641113
+[2022-11-18 22:24:06,796 segment-accuracy.py:521 test] ===> mAP 55.630
+[2022-11-18 22:24:07,368 segment-accuracy.py:512 test] Frame id :6, Row size:2238.4306640625 KB, Type: I, Offloading:True, compressed size:2238.4306640625
+[2022-11-18 22:24:07,369 segment-accuracy.py:514 test] Loss:0.11967401951551437,Acc:96.21906280517578
+[2022-11-18 22:24:07,395 segment-accuracy.py:521 test] ===> mAP 55.360
+[2022-11-18 22:24:07,965 segment-accuracy.py:512 test] Frame id :7, Row size:2271.6162109375 KB, Type: I, Offloading:True, compressed size:2271.6162109375
+[2022-11-18 22:24:07,965 segment-accuracy.py:514 test] Loss:0.10631940513849258,Acc:96.31223678588867
+[2022-11-18 22:24:07,997 segment-accuracy.py:521 test] ===> mAP 54.950
+[2022-11-18 22:24:08,566 segment-accuracy.py:512 test] Frame id :8, Row size:2314.2626953125 KB, Type: I, Offloading:True, compressed size:2314.2626953125
+[2022-11-18 22:24:08,566 segment-accuracy.py:514 test] Loss:0.10501822829246521,Acc:96.41337394714355
+[2022-11-18 22:24:08,591 segment-accuracy.py:521 test] ===> mAP 55.250
+[2022-11-18 22:24:09,159 segment-accuracy.py:512 test] Frame id :9, Row size:2340.7197265625 KB, Type: I, Offloading:True, compressed size:2340.7197265625
+[2022-11-18 22:24:09,159 segment-accuracy.py:514 test] Loss:0.1278405636548996,Acc:95.87850570678711
+[2022-11-18 22:24:09,189 segment-accuracy.py:521 test] ===> mAP 55.620
+[2022-11-18 22:24:09,759 segment-accuracy.py:512 test] Frame id :10, Row size:2366.1875 KB, Type: I, Offloading:True, compressed size:2366.1875
+[2022-11-18 22:24:09,759 segment-accuracy.py:514 test] Loss:0.1258336454629898,Acc:95.46055793762207
+[2022-11-18 22:24:09,786 segment-accuracy.py:521 test] ===> mAP 55.750
+[2022-11-18 22:24:10,353 segment-accuracy.py:512 test] Frame id :11, Row size:2370.65234375 KB, Type: I, Offloading:True, compressed size:2370.65234375
+[2022-11-18 22:24:10,353 segment-accuracy.py:514 test] Loss:0.14269126951694489,Acc:95.29814720153809
+[2022-11-18 22:24:10,383 segment-accuracy.py:521 test] ===> mAP 53.010
+[2022-11-18 22:24:10,957 segment-accuracy.py:512 test] Frame id :12, Row size:2372.2255859375 KB, Type: I, Offloading:True, compressed size:2372.2255859375
+[2022-11-18 22:24:10,957 segment-accuracy.py:514 test] Loss:0.1342194527387619,Acc:95.2538013458252
+[2022-11-18 22:24:10,982 segment-accuracy.py:521 test] ===> mAP 52.850
+[2022-11-18 22:24:11,553 segment-accuracy.py:512 test] Frame id :13, Row size:2377.6298828125 KB, Type: I, Offloading:True, compressed size:2377.6298828125
+[2022-11-18 22:24:11,554 segment-accuracy.py:514 test] Loss:0.12792560458183289,Acc:95.55444717407227
+[2022-11-18 22:24:11,580 segment-accuracy.py:521 test] ===> mAP 53.030
+[2022-11-18 22:24:12,147 segment-accuracy.py:512 test] Frame id :14, Row size:2396.076171875 KB, Type: I, Offloading:True, compressed size:2396.076171875
+[2022-11-18 22:24:12,148 segment-accuracy.py:514 test] Loss:0.13977082073688507,Acc:94.95530128479004
+[2022-11-18 22:24:12,177 segment-accuracy.py:521 test] ===> mAP 53.030
+[2022-11-18 22:24:12,749 segment-accuracy.py:512 test] Frame id :15, Row size:2415.6494140625 KB, Type: I, Offloading:True, compressed size:2415.6494140625
+[2022-11-18 22:24:12,749 segment-accuracy.py:514 test] Loss:0.13707643747329712,Acc:95.0352668762207
+[2022-11-18 22:24:12,774 segment-accuracy.py:521 test] ===> mAP 53.150
+[2022-11-18 22:24:13,387 segment-accuracy.py:512 test] Frame id :16, Row size:2423.1826171875 KB, Type: I, Offloading:True, compressed size:2423.1826171875
+[2022-11-18 22:24:13,387 segment-accuracy.py:514 test] Loss:0.13787807524204254,Acc:95.26810646057129
+[2022-11-18 22:24:13,418 segment-accuracy.py:521 test] ===> mAP 53.040
+[2022-11-18 22:24:13,988 segment-accuracy.py:512 test] Frame id :17, Row size:2428.8701171875 KB, Type: I, Offloading:True, compressed size:2428.8701171875
+[2022-11-18 22:24:13,988 segment-accuracy.py:514 test] Loss:0.14135344326496124,Acc:95.50638198852539
+[2022-11-18 22:24:14,020 segment-accuracy.py:521 test] ===> mAP 53.150
+[2022-11-18 22:24:14,586 segment-accuracy.py:512 test] Frame id :18, Row size:2445.2578125 KB, Type: I, Offloading:True, compressed size:2445.2578125
+[2022-11-18 22:24:14,586 segment-accuracy.py:514 test] Loss:0.1215357631444931,Acc:95.92676162719727
+[2022-11-18 22:24:14,612 segment-accuracy.py:521 test] ===> mAP 53.260
+[2022-11-18 22:24:15,198 segment-accuracy.py:512 test] Frame id :19, Row size:2455.794921875 KB, Type: I, Offloading:True, compressed size:2455.794921875
+[2022-11-18 22:24:15,198 segment-accuracy.py:514 test] Loss:0.11774708330631256,Acc:95.94993591308594
+[2022-11-18 22:24:15,225 segment-accuracy.py:521 test] ===> mAP 53.290
+[2022-11-18 22:24:15,813 segment-accuracy.py:512 test] Frame id :20, Row size:2458.6171875 KB, Type: I, Offloading:True, compressed size:2458.6171875
+[2022-11-18 22:24:15,813 segment-accuracy.py:514 test] Loss:0.13629013299942017,Acc:95.32389640808105
+[2022-11-18 22:24:15,844 segment-accuracy.py:521 test] ===> mAP 53.280
+[2022-11-18 22:24:16,415 segment-accuracy.py:512 test] Frame id :21, Row size:2470.384765625 KB, Type: I, Offloading:True, compressed size:2470.384765625
+[2022-11-18 22:24:16,415 segment-accuracy.py:514 test] Loss:0.13479891419410706,Acc:95.23334503173828
+[2022-11-18 22:24:16,440 segment-accuracy.py:521 test] ===> mAP 53.210
+[2022-11-18 22:24:17,016 segment-accuracy.py:512 test] Frame id :22, Row size:2476.28515625 KB, Type: I, Offloading:True, compressed size:2476.28515625
+[2022-11-18 22:24:17,017 segment-accuracy.py:514 test] Loss:0.12975651025772095,Acc:95.61967849731445
+[2022-11-18 22:24:17,043 segment-accuracy.py:521 test] ===> mAP 53.230
+[2022-11-18 22:24:17,622 segment-accuracy.py:512 test] Frame id :23, Row size:2477.2373046875 KB, Type: I, Offloading:True, compressed size:2477.2373046875
+[2022-11-18 22:24:17,622 segment-accuracy.py:514 test] Loss:0.15250229835510254,Acc:94.49820518493652
+[2022-11-18 22:24:17,648 segment-accuracy.py:521 test] ===> mAP 53.180
+[2022-11-18 22:24:18,238 segment-accuracy.py:512 test] Frame id :24, Row size:2480.5556640625 KB, Type: I, Offloading:True, compressed size:2480.5556640625
+[2022-11-18 22:24:18,238 segment-accuracy.py:514 test] Loss:0.13597801327705383,Acc:95.22647857666016
+[2022-11-18 22:24:18,268 segment-accuracy.py:521 test] ===> mAP 53.270
+[2022-11-18 22:24:18,851 segment-accuracy.py:512 test] Frame id :25, Row size:2476.9423828125 KB, Type: I, Offloading:True, compressed size:2476.9423828125
+[2022-11-18 22:24:18,851 segment-accuracy.py:514 test] Loss:0.12461075931787491,Acc:95.69687843322754
+[2022-11-18 22:24:18,878 segment-accuracy.py:521 test] ===> mAP 53.320
+[2022-11-18 22:24:19,452 segment-accuracy.py:512 test] Frame id :26, Row size:2475.986328125 KB, Type: I, Offloading:True, compressed size:2475.986328125
+[2022-11-18 22:24:19,452 segment-accuracy.py:514 test] Loss:0.11473763734102249,Acc:96.10123634338379
+[2022-11-18 22:24:19,477 segment-accuracy.py:521 test] ===> mAP 53.220
+[2022-11-18 22:24:20,052 segment-accuracy.py:512 test] Frame id :27, Row size:2478.171875 KB, Type: I, Offloading:True, compressed size:2478.171875
+[2022-11-18 22:24:20,052 segment-accuracy.py:514 test] Loss:0.12465454638004303,Acc:96.0136890411377
+[2022-11-18 22:24:20,080 segment-accuracy.py:521 test] ===> mAP 53.210
+[2022-11-18 22:24:20,652 segment-accuracy.py:512 test] Frame id :28, Row size:2484.59765625 KB, Type: I, Offloading:True, compressed size:2484.59765625
+[2022-11-18 22:24:20,652 segment-accuracy.py:514 test] Loss:0.12279774248600006,Acc:96.01140022277832
+[2022-11-18 22:24:20,686 segment-accuracy.py:521 test] ===> mAP 53.240
+[2022-11-18 22:24:21,265 segment-accuracy.py:512 test] Frame id :29, Row size:2487.94921875 KB, Type: I, Offloading:True, compressed size:2487.94921875
+[2022-11-18 22:24:21,265 segment-accuracy.py:514 test] Loss:0.14282011985778809,Acc:94.9533462524414
+[2022-11-18 22:24:21,290 segment-accuracy.py:521 test] ===> mAP 53.140
+[2022-11-18 22:24:21,863 segment-accuracy.py:512 test] Frame id :30, Row size:2485.4794921875 KB, Type: I, Offloading:True, compressed size:2485.4794921875
+[2022-11-18 22:24:21,863 segment-accuracy.py:514 test] Loss:0.1266317218542099,Acc:95.6444263458252
+[2022-11-18 22:24:21,890 segment-accuracy.py:521 test] ===> mAP 53.140
+[2022-11-18 22:24:22,465 segment-accuracy.py:512 test] Frame id :31, Row size:2492.5166015625 KB, Type: I, Offloading:True, compressed size:2492.5166015625
+[2022-11-18 22:24:22,466 segment-accuracy.py:514 test] Loss:0.12915782630443573,Acc:95.8622932434082
+[2022-11-18 22:24:22,495 segment-accuracy.py:521 test] ===> mAP 53.170
+[2022-11-18 22:24:23,074 segment-accuracy.py:512 test] Frame id :32, Row size:2501.63671875 KB, Type: I, Offloading:True, compressed size:2501.63671875
+[2022-11-18 22:24:23,074 segment-accuracy.py:514 test] Loss:0.13725925981998444,Acc:95.46194076538086
+[2022-11-18 22:24:23,106 segment-accuracy.py:521 test] ===> mAP 53.150
+[2022-11-18 22:24:23,687 segment-accuracy.py:512 test] Frame id :33, Row size:2504.5986328125 KB, Type: I, Offloading:True, compressed size:2504.5986328125
+[2022-11-18 22:24:23,687 segment-accuracy.py:514 test] Loss:0.10885605216026306,Acc:96.36764526367188
+[2022-11-18 22:24:23,713 segment-accuracy.py:521 test] ===> mAP 53.180
+[2022-11-18 22:24:24,289 segment-accuracy.py:512 test] Frame id :34, Row size:2513.873046875 KB, Type: I, Offloading:True, compressed size:2513.873046875
+[2022-11-18 22:24:24,289 segment-accuracy.py:514 test] Loss:0.11063753813505173,Acc:96.142578125
+[2022-11-18 22:24:24,315 segment-accuracy.py:521 test] ===> mAP 53.210
+[2022-11-18 22:24:24,890 segment-accuracy.py:512 test] Frame id :35, Row size:2512.642578125 KB, Type: I, Offloading:True, compressed size:2512.642578125
+[2022-11-18 22:24:24,890 segment-accuracy.py:514 test] Loss:0.11368910223245621,Acc:96.1296558380127
+[2022-11-18 22:24:24,917 segment-accuracy.py:521 test] ===> mAP 53.270
+[2022-11-18 22:24:25,498 segment-accuracy.py:512 test] Frame id :36, Row size:2518.9462890625 KB, Type: I, Offloading:True, compressed size:2518.9462890625
+[2022-11-18 22:24:25,498 segment-accuracy.py:514 test] Loss:0.11710343509912491,Acc:96.41671180725098
+[2022-11-18 22:24:25,532 segment-accuracy.py:521 test] ===> mAP 53.300
+[2022-11-18 22:24:26,113 segment-accuracy.py:512 test] Frame id :37, Row size:2518.01953125 KB, Type: I, Offloading:True, compressed size:2518.01953125
+[2022-11-18 22:24:26,113 segment-accuracy.py:514 test] Loss:0.11710042506456375,Acc:96.36225700378418
+[2022-11-18 22:24:26,138 segment-accuracy.py:521 test] ===> mAP 53.280
+[2022-11-18 22:24:26,708 segment-accuracy.py:512 test] Frame id :38, Row size:2518.65625 KB, Type: I, Offloading:True, compressed size:2518.65625
+[2022-11-18 22:24:26,708 segment-accuracy.py:514 test] Loss:0.10660796612501144,Acc:96.59814834594727
+[2022-11-18 22:24:26,739 segment-accuracy.py:521 test] ===> mAP 53.320
+[2022-11-18 22:24:27,323 segment-accuracy.py:512 test] Frame id :39, Row size:2522.6748046875 KB, Type: I, Offloading:True, compressed size:2522.6748046875
+[2022-11-18 22:24:27,323 segment-accuracy.py:514 test] Loss:0.11357380449771881,Acc:96.4818000793457
+[2022-11-18 22:24:27,352 segment-accuracy.py:521 test] ===> mAP 53.350
+[2022-11-18 22:24:27,926 segment-accuracy.py:512 test] Frame id :40, Row size:2520.271484375 KB, Type: I, Offloading:True, compressed size:2520.271484375
+[2022-11-18 22:24:27,926 segment-accuracy.py:514 test] Loss:0.10200365632772446,Acc:96.90651893615723
+[2022-11-18 22:24:27,956 segment-accuracy.py:521 test] ===> mAP 53.390
+[2022-11-18 22:24:28,551 segment-accuracy.py:512 test] Frame id :41, Row size:2517.7939453125 KB, Type: I, Offloading:True, compressed size:2517.7939453125
+[2022-11-18 22:24:28,551 segment-accuracy.py:514 test] Loss:0.10749863088130951,Acc:96.53968811035156
+[2022-11-18 22:24:28,576 segment-accuracy.py:521 test] ===> mAP 53.480
+[2022-11-18 22:24:29,167 segment-accuracy.py:512 test] Frame id :42, Row size:2522.3720703125 KB, Type: I, Offloading:True, compressed size:2522.3720703125
+[2022-11-18 22:24:29,167 segment-accuracy.py:514 test] Loss:0.10891898721456528,Acc:96.39954566955566
+[2022-11-18 22:24:29,194 segment-accuracy.py:521 test] ===> mAP 53.490
+[2022-11-18 22:24:29,767 segment-accuracy.py:512 test] Frame id :43, Row size:2519.16015625 KB, Type: I, Offloading:True, compressed size:2519.16015625
+[2022-11-18 22:24:29,768 segment-accuracy.py:514 test] Loss:0.11110363900661469,Acc:96.51265144348145
+[2022-11-18 22:24:29,793 segment-accuracy.py:521 test] ===> mAP 53.460
+[2022-11-18 22:24:30,379 segment-accuracy.py:512 test] Frame id :44, Row size:2523.4970703125 KB, Type: I, Offloading:True, compressed size:2523.4970703125
+[2022-11-18 22:24:30,379 segment-accuracy.py:514 test] Loss:0.10321410745382309,Acc:96.55265808105469
+[2022-11-18 22:24:30,406 segment-accuracy.py:521 test] ===> mAP 53.500
+[2022-11-18 22:24:30,982 segment-accuracy.py:512 test] Frame id :45, Row size:2529.9453125 KB, Type: I, Offloading:True, compressed size:2529.9453125
+[2022-11-18 22:24:30,982 segment-accuracy.py:514 test] Loss:0.10892323404550552,Acc:96.35510444641113
+[2022-11-18 22:24:31,012 segment-accuracy.py:521 test] ===> mAP 53.760
+[2022-11-18 22:24:31,587 segment-accuracy.py:512 test] Frame id :46, Row size:2535.30859375 KB, Type: I, Offloading:True, compressed size:2535.30859375
+[2022-11-18 22:24:31,588 segment-accuracy.py:514 test] Loss:0.10426856577396393,Acc:96.47650718688965
+[2022-11-18 22:24:31,618 segment-accuracy.py:521 test] ===> mAP 53.840
+[2022-11-18 22:24:32,196 segment-accuracy.py:512 test] Frame id :47, Row size:2546.197265625 KB, Type: I, Offloading:True, compressed size:2546.197265625
+[2022-11-18 22:24:32,196 segment-accuracy.py:514 test] Loss:0.12178000807762146,Acc:95.87574005126953
+[2022-11-18 22:24:32,227 segment-accuracy.py:521 test] ===> mAP 53.860
+[2022-11-18 22:24:32,800 segment-accuracy.py:512 test] Frame id :48, Row size:2547.623046875 KB, Type: I, Offloading:True, compressed size:2547.623046875
+[2022-11-18 22:24:32,800 segment-accuracy.py:514 test] Loss:0.11958432197570801,Acc:95.78795433044434
+[2022-11-18 22:24:32,825 segment-accuracy.py:521 test] ===> mAP 53.890
+[2022-11-18 22:24:33,406 segment-accuracy.py:512 test] Frame id :49, Row size:2554.5927734375 KB, Type: I, Offloading:True, compressed size:2554.5927734375
+[2022-11-18 22:24:33,406 segment-accuracy.py:514 test] Loss:0.13464653491973877,Acc:95.5604076385498
+[2022-11-18 22:24:33,432 segment-accuracy.py:521 test] ===> mAP 53.840
+[2022-11-18 22:24:34,006 segment-accuracy.py:512 test] Frame id :50, Row size:2550.7919921875 KB, Type: I, Offloading:True, compressed size:2550.7919921875
+[2022-11-18 22:24:34,007 segment-accuracy.py:514 test] Loss:0.12109216302633286,Acc:96.13428115844727
+[2022-11-18 22:24:34,039 segment-accuracy.py:521 test] ===> mAP 53.860
+[2022-11-18 22:24:34,617 segment-accuracy.py:512 test] Frame id :51, Row size:2559.7353515625 KB, Type: I, Offloading:True, compressed size:2559.7353515625
+[2022-11-18 22:24:34,618 segment-accuracy.py:514 test] Loss:0.11852499842643738,Acc:96.29197120666504
+[2022-11-18 22:24:34,644 segment-accuracy.py:521 test] ===> mAP 53.910
+[2022-11-18 22:24:35,221 segment-accuracy.py:512 test] Frame id :52, Row size:2561.271484375 KB, Type: I, Offloading:True, compressed size:2561.271484375
+[2022-11-18 22:24:35,221 segment-accuracy.py:514 test] Loss:0.1285523921251297,Acc:95.74847221374512
+[2022-11-18 22:24:35,247 segment-accuracy.py:521 test] ===> mAP 53.920
+[2022-11-18 22:24:35,840 segment-accuracy.py:512 test] Frame id :53, Row size:2562.2919921875 KB, Type: I, Offloading:True, compressed size:2562.2919921875
+[2022-11-18 22:24:35,841 segment-accuracy.py:514 test] Loss:0.13424217700958252,Acc:95.76911926269531
+[2022-11-18 22:24:35,873 segment-accuracy.py:521 test] ===> mAP 53.990
+[2022-11-18 22:24:36,449 segment-accuracy.py:512 test] Frame id :54, Row size:2564.603515625 KB, Type: I, Offloading:True, compressed size:2564.603515625
+[2022-11-18 22:24:36,449 segment-accuracy.py:514 test] Loss:0.12240007519721985,Acc:96.09050750732422
+[2022-11-18 22:24:36,479 segment-accuracy.py:521 test] ===> mAP 54.130
+[2022-11-18 22:24:37,059 segment-accuracy.py:512 test] Frame id :55, Row size:2557.96875 KB, Type: I, Offloading:True, compressed size:2557.96875
+[2022-11-18 22:24:37,059 segment-accuracy.py:514 test] Loss:0.142038494348526,Acc:95.22628784179688
+[2022-11-18 22:24:37,084 segment-accuracy.py:521 test] ===> mAP 54.260
+[2022-11-18 22:24:37,668 segment-accuracy.py:512 test] Frame id :56, Row size:2557.3173828125 KB, Type: I, Offloading:True, compressed size:2557.3173828125
+[2022-11-18 22:24:37,668 segment-accuracy.py:514 test] Loss:0.1588371992111206,Acc:94.60887908935547
+[2022-11-18 22:24:37,700 segment-accuracy.py:521 test] ===> mAP 54.380
+[2022-11-18 22:24:38,277 segment-accuracy.py:512 test] Frame id :57, Row size:2556.0078125 KB, Type: I, Offloading:True, compressed size:2556.0078125
+[2022-11-18 22:24:38,277 segment-accuracy.py:514 test] Loss:0.15579217672348022,Acc:94.94719505310059
+[2022-11-18 22:24:38,303 segment-accuracy.py:521 test] ===> mAP 54.370
+[2022-11-18 22:24:38,877 segment-accuracy.py:512 test] Frame id :58, Row size:2555.2353515625 KB, Type: I, Offloading:True, compressed size:2555.2353515625
+[2022-11-18 22:24:38,877 segment-accuracy.py:514 test] Loss:0.1528112292289734,Acc:94.86289024353027
+[2022-11-18 22:24:38,902 segment-accuracy.py:521 test] ===> mAP 54.530
+[2022-11-18 22:24:39,488 segment-accuracy.py:512 test] Frame id :59, Row size:2548.4638671875 KB, Type: I, Offloading:True, compressed size:2548.4638671875
+[2022-11-18 22:24:39,488 segment-accuracy.py:514 test] Loss:0.15192221105098724,Acc:94.49410438537598
+[2022-11-18 22:24:39,521 segment-accuracy.py:521 test] ===> mAP 54.500
+[2022-11-18 22:24:40,095 segment-accuracy.py:512 test] Frame id :60, Row size:2541.310546875 KB, Type: I, Offloading:True, compressed size:2541.310546875
+[2022-11-18 22:24:40,095 segment-accuracy.py:514 test] Loss:0.14797799289226532,Acc:94.63491439819336
+[2022-11-18 22:24:40,125 segment-accuracy.py:521 test] ===> mAP 54.540
+[2022-11-18 22:24:40,701 segment-accuracy.py:512 test] Frame id :61, Row size:2533.8759765625 KB, Type: I, Offloading:True, compressed size:2533.8759765625
+[2022-11-18 22:24:40,701 segment-accuracy.py:514 test] Loss:0.15170902013778687,Acc:94.7835922241211
+[2022-11-18 22:24:40,730 segment-accuracy.py:521 test] ===> mAP 54.730
+[2022-11-18 22:24:41,320 segment-accuracy.py:512 test] Frame id :62, Row size:2528.787109375 KB, Type: I, Offloading:True, compressed size:2528.787109375
+[2022-11-18 22:24:41,321 segment-accuracy.py:514 test] Loss:0.1648259311914444,Acc:94.57159042358398
+[2022-11-18 22:24:41,353 segment-accuracy.py:521 test] ===> mAP 54.750
+[2022-11-18 22:24:41,940 segment-accuracy.py:512 test] Frame id :63, Row size:2524.640625 KB, Type: I, Offloading:True, compressed size:2524.640625
+[2022-11-18 22:24:41,940 segment-accuracy.py:514 test] Loss:0.1574922502040863,Acc:94.54202651977539
+[2022-11-18 22:24:41,965 segment-accuracy.py:521 test] ===> mAP 54.760
+[2022-11-18 22:24:42,553 segment-accuracy.py:512 test] Frame id :64, Row size:2523.5654296875 KB, Type: I, Offloading:True, compressed size:2523.5654296875
+[2022-11-18 22:24:42,553 segment-accuracy.py:514 test] Loss:0.15848588943481445,Acc:94.42324638366699
+[2022-11-18 22:24:42,583 segment-accuracy.py:521 test] ===> mAP 54.800
+[2022-11-18 22:24:43,167 segment-accuracy.py:512 test] Frame id :65, Row size:2517.8408203125 KB, Type: I, Offloading:True, compressed size:2517.8408203125
+[2022-11-18 22:24:43,168 segment-accuracy.py:514 test] Loss:0.17461971938610077,Acc:93.93110275268555
+[2022-11-18 22:24:43,192 segment-accuracy.py:521 test] ===> mAP 54.850
+[2022-11-18 22:24:43,776 segment-accuracy.py:512 test] Frame id :66, Row size:2511.0263671875 KB, Type: I, Offloading:True, compressed size:2511.0263671875
+[2022-11-18 22:24:43,776 segment-accuracy.py:514 test] Loss:0.13963326811790466,Acc:95.30696868896484
+[2022-11-18 22:24:43,808 segment-accuracy.py:521 test] ===> mAP 54.950
+[2022-11-18 22:24:44,397 segment-accuracy.py:512 test] Frame id :67, Row size:2510.388671875 KB, Type: I, Offloading:True, compressed size:2510.388671875
+[2022-11-18 22:24:44,397 segment-accuracy.py:514 test] Loss:0.17220941185951233,Acc:94.42386627197266
+[2022-11-18 22:24:44,426 segment-accuracy.py:521 test] ===> mAP 54.890
+[2022-11-18 22:24:44,998 segment-accuracy.py:512 test] Frame id :68, Row size:2498.986328125 KB, Type: I, Offloading:True, compressed size:2498.986328125
+[2022-11-18 22:24:44,999 segment-accuracy.py:514 test] Loss:0.13595210015773773,Acc:95.79133987426758
+[2022-11-18 22:24:45,029 segment-accuracy.py:521 test] ===> mAP 54.910
+[2022-11-18 22:24:45,602 segment-accuracy.py:512 test] Frame id :69, Row size:2486.6982421875 KB, Type: I, Offloading:True, compressed size:2486.6982421875
+[2022-11-18 22:24:45,602 segment-accuracy.py:514 test] Loss:0.1300637573003769,Acc:95.8127498626709
+[2022-11-18 22:24:45,629 segment-accuracy.py:521 test] ===> mAP 54.920
+[2022-11-18 22:24:46,221 segment-accuracy.py:512 test] Frame id :70, Row size:2481.45703125 KB, Type: I, Offloading:True, compressed size:2481.45703125
+[2022-11-18 22:24:46,221 segment-accuracy.py:514 test] Loss:0.13236793875694275,Acc:95.91670036315918
+[2022-11-18 22:24:46,249 segment-accuracy.py:521 test] ===> mAP 55.010
+[2022-11-18 22:24:46,828 segment-accuracy.py:512 test] Frame id :71, Row size:2469.8125 KB, Type: I, Offloading:True, compressed size:2469.8125
+[2022-11-18 22:24:46,828 segment-accuracy.py:514 test] Loss:0.12717390060424805,Acc:96.08097076416016
+[2022-11-18 22:24:46,853 segment-accuracy.py:521 test] ===> mAP 55.030
+[2022-11-18 22:24:47,450 segment-accuracy.py:512 test] Frame id :72, Row size:2467.3740234375 KB, Type: I, Offloading:True, compressed size:2467.3740234375
+[2022-11-18 22:24:47,451 segment-accuracy.py:514 test] Loss:0.11879731714725494,Acc:96.07787132263184
+[2022-11-18 22:24:47,481 segment-accuracy.py:521 test] ===> mAP 55.070
+[2022-11-18 22:24:48,065 segment-accuracy.py:512 test] Frame id :73, Row size:2471.7001953125 KB, Type: I, Offloading:True, compressed size:2471.7001953125
+[2022-11-18 22:24:48,065 segment-accuracy.py:514 test] Loss:0.11852549016475677,Acc:95.96953392028809
+[2022-11-18 22:24:48,092 segment-accuracy.py:521 test] ===> mAP 55.220
+[2022-11-18 22:24:48,674 segment-accuracy.py:512 test] Frame id :74, Row size:2475.3408203125 KB, Type: I, Offloading:True, compressed size:2475.3408203125
+[2022-11-18 22:24:48,674 segment-accuracy.py:514 test] Loss:0.131590336561203,Acc:95.36404609680176
+[2022-11-18 22:24:48,699 segment-accuracy.py:521 test] ===> mAP 55.250
+[2022-11-18 22:24:49,285 segment-accuracy.py:512 test] Frame id :75, Row size:2483.0234375 KB, Type: I, Offloading:True, compressed size:2483.0234375
+[2022-11-18 22:24:49,285 segment-accuracy.py:514 test] Loss:0.12212730199098587,Acc:95.94826698303223
+[2022-11-18 22:24:49,316 segment-accuracy.py:521 test] ===> mAP 55.340
+[2022-11-18 22:24:49,914 segment-accuracy.py:512 test] Frame id :76, Row size:2476.0537109375 KB, Type: I, Offloading:True, compressed size:2476.0537109375
+[2022-11-18 22:24:49,914 segment-accuracy.py:514 test] Loss:0.12797357141971588,Acc:95.87869644165039
+[2022-11-18 22:24:49,942 segment-accuracy.py:521 test] ===> mAP 55.410
+[2022-11-18 22:24:50,521 segment-accuracy.py:512 test] Frame id :77, Row size:2470.8154296875 KB, Type: I, Offloading:True, compressed size:2470.8154296875
+[2022-11-18 22:24:50,522 segment-accuracy.py:514 test] Loss:0.1180412545800209,Acc:96.36635780334473
+[2022-11-18 22:24:50,546 segment-accuracy.py:521 test] ===> mAP 55.500
+[2022-11-18 22:24:51,134 segment-accuracy.py:512 test] Frame id :78, Row size:2466.6259765625 KB, Type: I, Offloading:True, compressed size:2466.6259765625
+[2022-11-18 22:24:51,135 segment-accuracy.py:514 test] Loss:0.11102708429098129,Acc:96.40822410583496
+[2022-11-18 22:24:51,161 segment-accuracy.py:521 test] ===> mAP 55.490
+[2022-11-18 22:24:51,746 segment-accuracy.py:512 test] Frame id :79, Row size:2466.580078125 KB, Type: I, Offloading:True, compressed size:2466.580078125
+[2022-11-18 22:24:51,746 segment-accuracy.py:514 test] Loss:0.11186981946229935,Acc:96.50206565856934
+[2022-11-18 22:24:51,775 segment-accuracy.py:521 test] ===> mAP 55.500
+[2022-11-18 22:24:52,359 segment-accuracy.py:512 test] Frame id :80, Row size:2467.015625 KB, Type: I, Offloading:True, compressed size:2467.015625
+[2022-11-18 22:24:52,359 segment-accuracy.py:514 test] Loss:0.09588455408811569,Acc:96.96283340454102
+[2022-11-18 22:24:52,385 segment-accuracy.py:521 test] ===> mAP 55.450
+[2022-11-18 22:24:52,976 segment-accuracy.py:512 test] Frame id :81, Row size:2472.1845703125 KB, Type: I, Offloading:True, compressed size:2472.1845703125
+[2022-11-18 22:24:52,976 segment-accuracy.py:514 test] Loss:0.09296265244483948,Acc:97.24812507629395
+[2022-11-18 22:24:53,004 segment-accuracy.py:521 test] ===> mAP 55.450
+[2022-11-18 22:24:53,588 segment-accuracy.py:512 test] Frame id :82, Row size:2473.72265625 KB, Type: I, Offloading:True, compressed size:2473.72265625
+[2022-11-18 22:24:53,589 segment-accuracy.py:514 test] Loss:0.08887019008398056,Acc:97.48845100402832
+[2022-11-18 22:24:53,617 segment-accuracy.py:521 test] ===> mAP 55.490
+[2022-11-18 22:24:54,218 segment-accuracy.py:512 test] Frame id :83, Row size:2477.7373046875 KB, Type: I, Offloading:True, compressed size:2477.7373046875
+[2022-11-18 22:24:54,218 segment-accuracy.py:514 test] Loss:0.10470492392778397,Acc:96.70376777648926
+[2022-11-18 22:24:54,242 segment-accuracy.py:521 test] ===> mAP 55.510
+[2022-11-18 22:24:54,838 segment-accuracy.py:512 test] Frame id :84, Row size:2481.416015625 KB, Type: I, Offloading:True, compressed size:2481.416015625
+[2022-11-18 22:24:54,839 segment-accuracy.py:514 test] Loss:0.09828315675258636,Acc:97.04375267028809
+[2022-11-18 22:24:54,871 segment-accuracy.py:521 test] ===> mAP 55.550
+[2022-11-18 22:24:55,462 segment-accuracy.py:512 test] Frame id :85, Row size:2480.87890625 KB, Type: I, Offloading:True, compressed size:2480.87890625
+[2022-11-18 22:24:55,462 segment-accuracy.py:514 test] Loss:0.09886186569929123,Acc:96.95420265197754
+[2022-11-18 22:24:55,488 segment-accuracy.py:521 test] ===> mAP 55.600
+[2022-11-18 22:24:56,085 segment-accuracy.py:512 test] Frame id :86, Row size:2483.4404296875 KB, Type: I, Offloading:True, compressed size:2483.4404296875
+[2022-11-18 22:24:56,085 segment-accuracy.py:514 test] Loss:0.11225540190935135,Acc:96.41289710998535
+[2022-11-18 22:24:56,114 segment-accuracy.py:521 test] ===> mAP 55.630
+[2022-11-18 22:24:56,707 segment-accuracy.py:512 test] Frame id :87, Row size:2487.2734375 KB, Type: I, Offloading:True, compressed size:2487.2734375
+[2022-11-18 22:24:56,707 segment-accuracy.py:514 test] Loss:0.09488188475370407,Acc:97.09048271179199
+[2022-11-18 22:24:56,737 segment-accuracy.py:521 test] ===> mAP 55.670
+[2022-11-18 22:24:57,329 segment-accuracy.py:512 test] Frame id :88, Row size:2478.9775390625 KB, Type: I, Offloading:True, compressed size:2478.9775390625
+[2022-11-18 22:24:57,329 segment-accuracy.py:514 test] Loss:0.09511678665876389,Acc:97.09601402282715
+[2022-11-18 22:24:57,354 segment-accuracy.py:521 test] ===> mAP 55.680
+[2022-11-18 22:24:57,938 segment-accuracy.py:512 test] Frame id :89, Row size:2472.779296875 KB, Type: I, Offloading:True, compressed size:2472.779296875
+[2022-11-18 22:24:57,938 segment-accuracy.py:514 test] Loss:0.09246443212032318,Acc:97.15886116027832
+[2022-11-18 22:24:57,963 segment-accuracy.py:521 test] ===> mAP 55.700
+[2022-11-18 22:24:58,562 segment-accuracy.py:512 test] Frame id :90, Row size:2472.869140625 KB, Type: I, Offloading:True, compressed size:2472.869140625
+[2022-11-18 22:24:58,562 segment-accuracy.py:514 test] Loss:0.09853249043226242,Acc:96.79169654846191
+[2022-11-18 22:24:58,590 segment-accuracy.py:521 test] ===> mAP 55.720
+[2022-11-18 22:24:59,180 segment-accuracy.py:512 test] Frame id :91, Row size:2474.46875 KB, Type: I, Offloading:True, compressed size:2474.46875
+[2022-11-18 22:24:59,180 segment-accuracy.py:514 test] Loss:0.11381211876869202,Acc:96.2700366973877
+[2022-11-18 22:24:59,208 segment-accuracy.py:521 test] ===> mAP 55.730
+[2022-11-18 22:24:59,792 segment-accuracy.py:512 test] Frame id :92, Row size:2482.095703125 KB, Type: I, Offloading:True, compressed size:2482.095703125
+[2022-11-18 22:24:59,792 segment-accuracy.py:514 test] Loss:0.09628653526306152,Acc:96.9655990600586
+[2022-11-18 22:24:59,817 segment-accuracy.py:521 test] ===> mAP 55.700
+[2022-11-18 22:25:00,401 segment-accuracy.py:512 test] Frame id :93, Row size:2484.0625 KB, Type: I, Offloading:True, compressed size:2484.0625
+[2022-11-18 22:25:00,402 segment-accuracy.py:514 test] Loss:0.09568024426698685,Acc:96.9541072845459
+[2022-11-18 22:25:00,431 segment-accuracy.py:521 test] ===> mAP 55.710
+[2022-11-18 22:25:01,008 segment-accuracy.py:512 test] Frame id :94, Row size:2489.0458984375 KB, Type: I, Offloading:True, compressed size:2489.0458984375
+[2022-11-18 22:25:01,008 segment-accuracy.py:514 test] Loss:0.0925043448805809,Acc:97.08809852600098
+[2022-11-18 22:25:01,032 segment-accuracy.py:521 test] ===> mAP 55.730
+[2022-11-18 22:25:01,604 segment-accuracy.py:512 test] Frame id :95, Row size:2488.9140625 KB, Type: I, Offloading:True, compressed size:2488.9140625
+[2022-11-18 22:25:01,604 segment-accuracy.py:514 test] Loss:0.11751144379377365,Acc:96.0092544555664
+[2022-11-18 22:25:01,632 segment-accuracy.py:521 test] ===> mAP 55.710
+[2022-11-18 22:25:02,213 segment-accuracy.py:512 test] Frame id :96, Row size:2491.228515625 KB, Type: I, Offloading:True, compressed size:2491.228515625
+[2022-11-18 22:25:02,213 segment-accuracy.py:514 test] Loss:0.11472894251346588,Acc:96.13595008850098
+[2022-11-18 22:25:02,239 segment-accuracy.py:521 test] ===> mAP 55.670
+[2022-11-18 22:25:02,812 segment-accuracy.py:512 test] Frame id :97, Row size:2500.4033203125 KB, Type: I, Offloading:True, compressed size:2500.4033203125
+[2022-11-18 22:25:02,812 segment-accuracy.py:514 test] Loss:0.12138766795396805,Acc:95.7848072052002
+[2022-11-18 22:25:02,837 segment-accuracy.py:521 test] ===> mAP 55.640
+[2022-11-18 22:25:03,419 segment-accuracy.py:512 test] Frame id :98, Row size:2505.72265625 KB, Type: I, Offloading:True, compressed size:2505.72265625
+[2022-11-18 22:25:03,420 segment-accuracy.py:514 test] Loss:0.13865922391414642,Acc:95.648193359375
+[2022-11-18 22:25:03,448 segment-accuracy.py:521 test] ===> mAP 55.600
+[2022-11-18 22:25:04,036 segment-accuracy.py:512 test] Frame id :99, Row size:2505.197265625 KB, Type: I, Offloading:True, compressed size:2505.197265625
+[2022-11-18 22:25:04,037 segment-accuracy.py:514 test] Loss:0.1581314206123352,Acc:94.49410438537598
+[2022-11-18 22:25:04,065 segment-accuracy.py:521 test] ===> mAP 55.570
+[2022-11-18 22:25:04,636 segment-accuracy.py:512 test] Frame id :100, Row size:2511.0234375 KB, Type: I, Offloading:True, compressed size:2511.0234375
+[2022-11-18 22:25:04,637 segment-accuracy.py:514 test] Loss:0.15031304955482483,Acc:94.53921318054199
+[2022-11-18 22:25:04,661 segment-accuracy.py:521 test] ===> mAP 55.550
+[2022-11-18 22:25:05,236 segment-accuracy.py:512 test] Frame id :101, Row size:2513.9228515625 KB, Type: I, Offloading:True, compressed size:2513.9228515625
+[2022-11-18 22:25:05,236 segment-accuracy.py:514 test] Loss:0.14403286576271057,Acc:95.57552337646484
+[2022-11-18 22:25:05,267 segment-accuracy.py:521 test] ===> mAP 55.530
+[2022-11-18 22:25:05,852 segment-accuracy.py:512 test] Frame id :102, Row size:2511.095703125 KB, Type: I, Offloading:True, compressed size:2511.095703125
+[2022-11-18 22:25:05,852 segment-accuracy.py:514 test] Loss:0.14786499738693237,Acc:94.97799873352051
+[2022-11-18 22:25:05,877 segment-accuracy.py:521 test] ===> mAP 55.500
+[2022-11-18 22:25:06,473 segment-accuracy.py:512 test] Frame id :103, Row size:2512.0732421875 KB, Type: I, Offloading:True, compressed size:2512.0732421875
+[2022-11-18 22:25:06,474 segment-accuracy.py:514 test] Loss:0.11765008419752121,Acc:96.03772163391113
+[2022-11-18 22:25:06,506 segment-accuracy.py:521 test] ===> mAP 55.520
+[2022-11-18 22:25:07,094 segment-accuracy.py:512 test] Frame id :104, Row size:2503.7294921875 KB, Type: I, Offloading:True, compressed size:2503.7294921875
+[2022-11-18 22:25:07,094 segment-accuracy.py:514 test] Loss:0.11050066351890564,Acc:96.47483825683594
+[2022-11-18 22:25:07,123 segment-accuracy.py:521 test] ===> mAP 55.520
+[2022-11-18 22:25:07,732 segment-accuracy.py:512 test] Frame id :105, Row size:2503.544921875 KB, Type: I, Offloading:True, compressed size:2503.544921875
+[2022-11-18 22:25:07,732 segment-accuracy.py:514 test] Loss:0.10558155924081802,Acc:96.59891128540039
+[2022-11-18 22:25:07,759 segment-accuracy.py:521 test] ===> mAP 55.500
+[2022-11-18 22:25:08,341 segment-accuracy.py:512 test] Frame id :106, Row size:2498.7998046875 KB, Type: I, Offloading:True, compressed size:2498.7998046875
+[2022-11-18 22:25:08,341 segment-accuracy.py:514 test] Loss:0.11702053993940353,Acc:96.22220993041992
+[2022-11-18 22:25:08,371 segment-accuracy.py:521 test] ===> mAP 55.510
+[2022-11-18 22:25:08,965 segment-accuracy.py:512 test] Frame id :107, Row size:2501.24609375 KB, Type: I, Offloading:True, compressed size:2501.24609375
+[2022-11-18 22:25:08,966 segment-accuracy.py:514 test] Loss:0.11383997648954391,Acc:96.0886001586914
+[2022-11-18 22:25:08,996 segment-accuracy.py:521 test] ===> mAP 55.510
+[2022-11-18 22:25:09,579 segment-accuracy.py:512 test] Frame id :108, Row size:2501.951171875 KB, Type: I, Offloading:True, compressed size:2501.951171875
+[2022-11-18 22:25:09,580 segment-accuracy.py:514 test] Loss:0.11067260056734085,Acc:96.38524055480957
+[2022-11-18 22:25:09,604 segment-accuracy.py:521 test] ===> mAP 55.520
+[2022-11-18 22:25:10,179 segment-accuracy.py:512 test] Frame id :109, Row size:2504.25 KB, Type: I, Offloading:True, compressed size:2504.25
+[2022-11-18 22:25:10,179 segment-accuracy.py:514 test] Loss:0.10851401090621948,Acc:96.54474258422852
+[2022-11-18 22:25:10,206 segment-accuracy.py:521 test] ===> mAP 55.520
+[2022-11-18 22:25:10,795 segment-accuracy.py:512 test] Frame id :110, Row size:2507.0634765625 KB, Type: I, Offloading:True, compressed size:2507.0634765625
+[2022-11-18 22:25:10,795 segment-accuracy.py:514 test] Loss:0.0955607146024704,Acc:97.13630676269531
+[2022-11-18 22:25:10,821 segment-accuracy.py:521 test] ===> mAP 55.570
+[2022-11-18 22:25:11,396 segment-accuracy.py:512 test] Frame id :111, Row size:2508.7900390625 KB, Type: I, Offloading:True, compressed size:2508.7900390625
+[2022-11-18 22:25:11,396 segment-accuracy.py:514 test] Loss:0.09601408988237381,Acc:96.95572853088379
+[2022-11-18 22:25:11,422 segment-accuracy.py:521 test] ===> mAP 55.580
+[2022-11-18 22:25:12,009 segment-accuracy.py:512 test] Frame id :112, Row size:2514.0361328125 KB, Type: I, Offloading:True, compressed size:2514.0361328125
+[2022-11-18 22:25:12,009 segment-accuracy.py:514 test] Loss:0.10498429089784622,Acc:96.63090705871582
+[2022-11-18 22:25:12,042 segment-accuracy.py:521 test] ===> mAP 55.610
+[2022-11-18 22:25:12,618 segment-accuracy.py:512 test] Frame id :113, Row size:2526.244140625 KB, Type: I, Offloading:True, compressed size:2526.244140625
+[2022-11-18 22:25:12,618 segment-accuracy.py:514 test] Loss:0.10767155140638351,Acc:96.55537605285645
+[2022-11-18 22:25:12,643 segment-accuracy.py:521 test] ===> mAP 55.630
+[2022-11-18 22:25:13,223 segment-accuracy.py:512 test] Frame id :114, Row size:2532.4306640625 KB, Type: I, Offloading:True, compressed size:2532.4306640625
+[2022-11-18 22:25:13,223 segment-accuracy.py:514 test] Loss:0.10137587785720825,Acc:96.74129486083984
+[2022-11-18 22:25:13,251 segment-accuracy.py:521 test] ===> mAP 55.650
+[2022-11-18 22:25:13,836 segment-accuracy.py:512 test] Frame id :115, Row size:2536.650390625 KB, Type: I, Offloading:True, compressed size:2536.650390625
+[2022-11-18 22:25:13,836 segment-accuracy.py:514 test] Loss:0.10594803839921951,Acc:96.38667106628418
+[2022-11-18 22:25:13,863 segment-accuracy.py:521 test] ===> mAP 55.680
+[2022-11-18 22:25:14,444 segment-accuracy.py:512 test] Frame id :116, Row size:2529.888671875 KB, Type: I, Offloading:True, compressed size:2529.888671875
+[2022-11-18 22:25:14,444 segment-accuracy.py:514 test] Loss:0.1111498549580574,Acc:96.25024795532227
+[2022-11-18 22:25:14,469 segment-accuracy.py:521 test] ===> mAP 55.700
+[2022-11-18 22:25:15,042 segment-accuracy.py:512 test] Frame id :117, Row size:2529.4677734375 KB, Type: I, Offloading:True, compressed size:2529.4677734375
+[2022-11-18 22:25:15,043 segment-accuracy.py:514 test] Loss:0.10670465230941772,Acc:96.39720916748047
+[2022-11-18 22:25:15,071 segment-accuracy.py:521 test] ===> mAP 55.720
+[2022-11-18 22:25:15,655 segment-accuracy.py:512 test] Frame id :118, Row size:2524.1357421875 KB, Type: I, Offloading:True, compressed size:2524.1357421875
+[2022-11-18 22:25:15,656 segment-accuracy.py:514 test] Loss:0.10228414833545685,Acc:96.64759635925293
+[2022-11-18 22:25:15,682 segment-accuracy.py:521 test] ===> mAP 55.760
+[2022-11-18 22:25:16,258 segment-accuracy.py:512 test] Frame id :119, Row size:2519.6064453125 KB, Type: I, Offloading:True, compressed size:2519.6064453125
+[2022-11-18 22:25:16,258 segment-accuracy.py:514 test] Loss:0.10730510205030441,Acc:96.49300575256348
+[2022-11-18 22:25:16,287 segment-accuracy.py:521 test] ===> mAP 55.780
+[2022-11-18 22:25:16,866 segment-accuracy.py:512 test] Frame id :120, Row size:2511.46484375 KB, Type: I, Offloading:True, compressed size:2511.46484375
+[2022-11-18 22:25:16,866 segment-accuracy.py:514 test] Loss:0.115135557949543,Acc:96.38409614562988
+[2022-11-18 22:25:16,894 segment-accuracy.py:521 test] ===> mAP 55.790
+[2022-11-18 22:25:17,471 segment-accuracy.py:512 test] Frame id :121, Row size:2505.845703125 KB, Type: I, Offloading:True, compressed size:2505.845703125
+[2022-11-18 22:25:17,471 segment-accuracy.py:514 test] Loss:0.10447406023740768,Acc:96.65937423706055
+[2022-11-18 22:25:17,498 segment-accuracy.py:521 test] ===> mAP 55.850
+[2022-11-18 22:25:18,075 segment-accuracy.py:512 test] Frame id :122, Row size:2501.796875 KB, Type: I, Offloading:True, compressed size:2501.796875
+[2022-11-18 22:25:18,076 segment-accuracy.py:514 test] Loss:0.1133228987455368,Acc:96.34571075439453
+[2022-11-18 22:25:18,104 segment-accuracy.py:521 test] ===> mAP 55.900
+[2022-11-18 22:25:18,680 segment-accuracy.py:512 test] Frame id :123, Row size:2497.3505859375 KB, Type: I, Offloading:True, compressed size:2497.3505859375
+[2022-11-18 22:25:18,680 segment-accuracy.py:514 test] Loss:0.12055297940969467,Acc:96.2336540222168
+[2022-11-18 22:25:18,707 segment-accuracy.py:521 test] ===> mAP 56.010
+[2022-11-18 22:25:19,284 segment-accuracy.py:512 test] Frame id :124, Row size:2490.2822265625 KB, Type: I, Offloading:True, compressed size:2490.2822265625
+[2022-11-18 22:25:19,284 segment-accuracy.py:514 test] Loss:0.11155356466770172,Acc:96.37341499328613
+[2022-11-18 22:25:19,314 segment-accuracy.py:521 test] ===> mAP 56.100
+[2022-11-18 22:25:19,893 segment-accuracy.py:512 test] Frame id :125, Row size:2486.6455078125 KB, Type: I, Offloading:True, compressed size:2486.6455078125
+[2022-11-18 22:25:19,894 segment-accuracy.py:514 test] Loss:0.12783637642860413,Acc:95.79057693481445
+[2022-11-18 22:25:19,922 segment-accuracy.py:521 test] ===> mAP 56.180
+[2022-11-18 22:25:20,512 segment-accuracy.py:512 test] Frame id :126, Row size:2480.337890625 KB, Type: I, Offloading:True, compressed size:2480.337890625
+[2022-11-18 22:25:20,512 segment-accuracy.py:514 test] Loss:0.11737965047359467,Acc:96.09122276306152
+[2022-11-18 22:25:20,538 segment-accuracy.py:521 test] ===> mAP 56.210
+[2022-11-18 22:25:21,117 segment-accuracy.py:512 test] Frame id :127, Row size:2480.9970703125 KB, Type: I, Offloading:True, compressed size:2480.9970703125
+[2022-11-18 22:25:21,117 segment-accuracy.py:514 test] Loss:0.1232861801981926,Acc:96.20528221130371
+[2022-11-18 22:25:21,147 segment-accuracy.py:521 test] ===> mAP 56.200
+[2022-11-18 22:25:21,728 segment-accuracy.py:512 test] Frame id :128, Row size:2482.6533203125 KB, Type: I, Offloading:True, compressed size:2482.6533203125
+[2022-11-18 22:25:21,728 segment-accuracy.py:514 test] Loss:0.1475079208612442,Acc:95.08509635925293
+[2022-11-18 22:25:21,753 segment-accuracy.py:521 test] ===> mAP 56.210
+[2022-11-18 22:25:22,333 segment-accuracy.py:512 test] Frame id :129, Row size:2482.4287109375 KB, Type: I, Offloading:True, compressed size:2482.4287109375
+[2022-11-18 22:25:22,334 segment-accuracy.py:514 test] Loss:0.12450635433197021,Acc:95.72677612304688
+[2022-11-18 22:25:22,361 segment-accuracy.py:521 test] ===> mAP 56.270
+[2022-11-18 22:25:22,938 segment-accuracy.py:512 test] Frame id :130, Row size:2487.23828125 KB, Type: I, Offloading:True, compressed size:2487.23828125
+[2022-11-18 22:25:22,938 segment-accuracy.py:514 test] Loss:0.11623217165470123,Acc:96.2484359741211
+[2022-11-18 22:25:22,968 segment-accuracy.py:521 test] ===> mAP 56.250
+[2022-11-18 22:25:23,545 segment-accuracy.py:512 test] Frame id :131, Row size:2487.60546875 KB, Type: I, Offloading:True, compressed size:2487.60546875
+[2022-11-18 22:25:23,545 segment-accuracy.py:514 test] Loss:0.11761440336704254,Acc:96.34380340576172
+[2022-11-18 22:25:23,577 segment-accuracy.py:521 test] ===> mAP 56.270
+[2022-11-18 22:25:24,158 segment-accuracy.py:512 test] Frame id :132, Row size:2491.1181640625 KB, Type: I, Offloading:True, compressed size:2491.1181640625
+[2022-11-18 22:25:24,158 segment-accuracy.py:514 test] Loss:0.11669474840164185,Acc:96.11616134643555
+[2022-11-18 22:25:24,184 segment-accuracy.py:521 test] ===> mAP 56.280
+[2022-11-18 22:25:24,760 segment-accuracy.py:512 test] Frame id :133, Row size:2492.2294921875 KB, Type: I, Offloading:True, compressed size:2492.2294921875
+[2022-11-18 22:25:24,761 segment-accuracy.py:514 test] Loss:0.11615394055843353,Acc:96.4223861694336
+[2022-11-18 22:25:24,790 segment-accuracy.py:521 test] ===> mAP 56.300
+[2022-11-18 22:25:25,362 segment-accuracy.py:512 test] Frame id :134, Row size:2502.0400390625 KB, Type: I, Offloading:True, compressed size:2502.0400390625
+[2022-11-18 22:25:25,363 segment-accuracy.py:514 test] Loss:0.1167430728673935,Acc:95.99461555480957
+[2022-11-18 22:25:25,392 segment-accuracy.py:521 test] ===> mAP 56.330
+[2022-11-18 22:25:25,978 segment-accuracy.py:512 test] Frame id :135, Row size:2502.5361328125 KB, Type: I, Offloading:True, compressed size:2502.5361328125
+[2022-11-18 22:25:25,978 segment-accuracy.py:514 test] Loss:0.1144973635673523,Acc:96.12493515014648
+[2022-11-18 22:25:26,008 segment-accuracy.py:521 test] ===> mAP 56.330
+[2022-11-18 22:25:26,580 segment-accuracy.py:512 test] Frame id :136, Row size:2503.439453125 KB, Type: I, Offloading:True, compressed size:2503.439453125
+[2022-11-18 22:25:26,580 segment-accuracy.py:514 test] Loss:0.12330567836761475,Acc:95.71309089660645
+[2022-11-18 22:25:26,610 segment-accuracy.py:521 test] ===> mAP 56.330
+[2022-11-18 22:25:27,183 segment-accuracy.py:512 test] Frame id :137, Row size:2510.2080078125 KB, Type: I, Offloading:True, compressed size:2510.2080078125
+[2022-11-18 22:25:27,183 segment-accuracy.py:514 test] Loss:0.1299039125442505,Acc:95.88346481323242
+[2022-11-18 22:25:27,209 segment-accuracy.py:521 test] ===> mAP 56.320
+[2022-11-18 22:25:27,788 segment-accuracy.py:512 test] Frame id :138, Row size:2511.525390625 KB, Type: I, Offloading:True, compressed size:2511.525390625
+[2022-11-18 22:25:27,789 segment-accuracy.py:514 test] Loss:0.12425161898136139,Acc:95.56045532226562
+[2022-11-18 22:25:27,815 segment-accuracy.py:521 test] ===> mAP 56.340
+[2022-11-18 22:25:28,390 segment-accuracy.py:512 test] Frame id :139, Row size:2515.8115234375 KB, Type: I, Offloading:True, compressed size:2515.8115234375
+[2022-11-18 22:25:28,390 segment-accuracy.py:514 test] Loss:0.12780413031578064,Acc:95.69635391235352
+[2022-11-18 22:25:28,415 segment-accuracy.py:521 test] ===> mAP 56.400
+[2022-11-18 22:25:28,992 segment-accuracy.py:512 test] Frame id :140, Row size:2513.03515625 KB, Type: I, Offloading:True, compressed size:2513.03515625
+[2022-11-18 22:25:28,992 segment-accuracy.py:514 test] Loss:0.13030438125133514,Acc:95.78547477722168
+[2022-11-18 22:25:29,018 segment-accuracy.py:521 test] ===> mAP 56.460
+[2022-11-18 22:25:29,601 segment-accuracy.py:512 test] Frame id :141, Row size:2513.998046875 KB, Type: I, Offloading:True, compressed size:2513.998046875
+[2022-11-18 22:25:29,601 segment-accuracy.py:514 test] Loss:0.11595768481492996,Acc:96.25649452209473
+[2022-11-18 22:25:29,628 segment-accuracy.py:521 test] ===> mAP 56.530
+[2022-11-18 22:25:30,202 segment-accuracy.py:512 test] Frame id :142, Row size:2511.8154296875 KB, Type: I, Offloading:True, compressed size:2511.8154296875
+[2022-11-18 22:25:30,203 segment-accuracy.py:514 test] Loss:0.12676170468330383,Acc:95.74484825134277
+[2022-11-18 22:25:30,228 segment-accuracy.py:521 test] ===> mAP 56.610
+[2022-11-18 22:25:30,807 segment-accuracy.py:512 test] Frame id :143, Row size:2515.3232421875 KB, Type: I, Offloading:True, compressed size:2515.3232421875
+[2022-11-18 22:25:30,808 segment-accuracy.py:514 test] Loss:0.12790125608444214,Acc:95.67017555236816
+[2022-11-18 22:25:30,833 segment-accuracy.py:521 test] ===> mAP 56.620
+[2022-11-18 22:25:31,415 segment-accuracy.py:512 test] Frame id :144, Row size:2509.03515625 KB, Type: I, Offloading:True, compressed size:2509.03515625
+[2022-11-18 22:25:31,415 segment-accuracy.py:514 test] Loss:0.12501995265483856,Acc:95.73183059692383
+[2022-11-18 22:25:31,441 segment-accuracy.py:521 test] ===> mAP 56.670
+[2022-11-18 22:25:32,020 segment-accuracy.py:512 test] Frame id :145, Row size:2505.171875 KB, Type: I, Offloading:True, compressed size:2505.171875
+[2022-11-18 22:25:32,021 segment-accuracy.py:514 test] Loss:0.13578331470489502,Acc:95.23673057556152
+[2022-11-18 22:25:32,046 segment-accuracy.py:521 test] ===> mAP 56.730
+[2022-11-18 22:25:32,642 segment-accuracy.py:512 test] Frame id :146, Row size:2503.7275390625 KB, Type: I, Offloading:True, compressed size:2503.7275390625
+[2022-11-18 22:25:32,642 segment-accuracy.py:514 test] Loss:0.13637962937355042,Acc:95.5470085144043
+[2022-11-18 22:25:32,671 segment-accuracy.py:521 test] ===> mAP 56.790
+[2022-11-18 22:25:33,261 segment-accuracy.py:512 test] Frame id :147, Row size:2493.626953125 KB, Type: I, Offloading:True, compressed size:2493.626953125
+[2022-11-18 22:25:33,261 segment-accuracy.py:514 test] Loss:0.1420915275812149,Acc:95.12391090393066
+[2022-11-18 22:25:33,291 segment-accuracy.py:521 test] ===> mAP 56.800
+[2022-11-18 22:25:33,884 segment-accuracy.py:512 test] Frame id :148, Row size:2491.9931640625 KB, Type: I, Offloading:True, compressed size:2491.9931640625
+[2022-11-18 22:25:33,884 segment-accuracy.py:514 test] Loss:0.14300216734409332,Acc:95.47696113586426
+[2022-11-18 22:25:33,913 segment-accuracy.py:521 test] ===> mAP 56.900
+[2022-11-18 22:25:34,490 segment-accuracy.py:512 test] Frame id :149, Row size:2494.46484375 KB, Type: I, Offloading:True, compressed size:2494.46484375
+[2022-11-18 22:25:34,490 segment-accuracy.py:514 test] Loss:0.1498805582523346,Acc:95.1019287109375
+[2022-11-18 22:25:34,517 segment-accuracy.py:521 test] ===> mAP 56.910
+[2022-11-18 22:25:35,103 segment-accuracy.py:512 test] Frame id :150, Row size:2495.90234375 KB, Type: I, Offloading:True, compressed size:2495.90234375
+[2022-11-18 22:25:35,104 segment-accuracy.py:514 test] Loss:0.1509074866771698,Acc:95.07770538330078
+[2022-11-18 22:25:35,130 segment-accuracy.py:521 test] ===> mAP 57.020
+[2022-11-18 22:25:35,703 segment-accuracy.py:512 test] Frame id :151, Row size:2484.740234375 KB, Type: I, Offloading:True, compressed size:2484.740234375
+[2022-11-18 22:25:35,703 segment-accuracy.py:514 test] Loss:0.14421133697032928,Acc:95.49741744995117
+[2022-11-18 22:25:35,732 segment-accuracy.py:521 test] ===> mAP 57.150
+[2022-11-18 22:25:36,314 segment-accuracy.py:512 test] Frame id :152, Row size:2468.23828125 KB, Type: I, Offloading:True, compressed size:2468.23828125
+[2022-11-18 22:25:36,314 segment-accuracy.py:514 test] Loss:0.15541748702526093,Acc:95.01700401306152
+[2022-11-18 22:25:36,345 segment-accuracy.py:521 test] ===> mAP 57.190
+[2022-11-18 22:25:36,916 segment-accuracy.py:512 test] Frame id :153, Row size:2459.0087890625 KB, Type: I, Offloading:True, compressed size:2459.0087890625
+[2022-11-18 22:25:36,917 segment-accuracy.py:514 test] Loss:0.15033771097660065,Acc:95.08123397827148
+[2022-11-18 22:25:36,947 segment-accuracy.py:521 test] ===> mAP 57.280
+[2022-11-18 22:25:37,523 segment-accuracy.py:512 test] Frame id :154, Row size:2446.994140625 KB, Type: I, Offloading:True, compressed size:2446.994140625
+[2022-11-18 22:25:37,523 segment-accuracy.py:514 test] Loss:0.17743957042694092,Acc:93.84865760803223
+[2022-11-18 22:25:37,552 segment-accuracy.py:521 test] ===> mAP 57.270
+[2022-11-18 22:25:38,132 segment-accuracy.py:512 test] Frame id :155, Row size:2431.5283203125 KB, Type: I, Offloading:True, compressed size:2431.5283203125
+[2022-11-18 22:25:38,132 segment-accuracy.py:514 test] Loss:0.18706928193569183,Acc:93.8011646270752
+[2022-11-18 22:25:38,160 segment-accuracy.py:521 test] ===> mAP 57.330
+[2022-11-18 22:25:38,733 segment-accuracy.py:512 test] Frame id :156, Row size:2418.458984375 KB, Type: I, Offloading:True, compressed size:2418.458984375
+[2022-11-18 22:25:38,733 segment-accuracy.py:514 test] Loss:0.17238092422485352,Acc:94.09794807434082
+[2022-11-18 22:25:38,759 segment-accuracy.py:521 test] ===> mAP 57.350
+[2022-11-18 22:25:39,333 segment-accuracy.py:512 test] Frame id :157, Row size:2413.2548828125 KB, Type: I, Offloading:True, compressed size:2413.2548828125
+[2022-11-18 22:25:39,334 segment-accuracy.py:514 test] Loss:0.18014496564865112,Acc:94.33608055114746
+[2022-11-18 22:25:39,365 segment-accuracy.py:521 test] ===> mAP 57.400
+[2022-11-18 22:25:39,947 segment-accuracy.py:512 test] Frame id :158, Row size:2405.79296875 KB, Type: I, Offloading:True, compressed size:2405.79296875
+[2022-11-18 22:25:39,947 segment-accuracy.py:514 test] Loss:0.18505966663360596,Acc:93.96710395812988
+[2022-11-18 22:25:39,975 segment-accuracy.py:521 test] ===> mAP 57.450
+[2022-11-18 22:25:40,556 segment-accuracy.py:512 test] Frame id :159, Row size:2391.6015625 KB, Type: I, Offloading:True, compressed size:2391.6015625
+[2022-11-18 22:25:40,556 segment-accuracy.py:514 test] Loss:0.23023883998394012,Acc:93.01834106445312
+[2022-11-18 22:25:40,586 segment-accuracy.py:521 test] ===> mAP 57.500
+[2022-11-18 22:25:41,161 segment-accuracy.py:512 test] Frame id :160, Row size:2374.6123046875 KB, Type: I, Offloading:True, compressed size:2374.6123046875
+[2022-11-18 22:25:41,161 segment-accuracy.py:514 test] Loss:0.21929562091827393,Acc:93.15662384033203
+[2022-11-18 22:25:41,190 segment-accuracy.py:521 test] ===> mAP 57.550
+[2022-11-18 22:25:41,784 segment-accuracy.py:512 test] Frame id :161, Row size:2328.8046875 KB, Type: I, Offloading:True, compressed size:2328.8046875
+[2022-11-18 22:25:41,784 segment-accuracy.py:514 test] Loss:0.2174580991268158,Acc:92.7469253540039
+[2022-11-18 22:25:41,813 segment-accuracy.py:521 test] ===> mAP 57.580
+[2022-11-18 22:25:42,411 segment-accuracy.py:512 test] Frame id :162, Row size:2319.318359375 KB, Type: I, Offloading:True, compressed size:2319.318359375
+[2022-11-18 22:25:42,411 segment-accuracy.py:514 test] Loss:0.21901041269302368,Acc:92.86179542541504
+[2022-11-18 22:25:42,436 segment-accuracy.py:521 test] ===> mAP 57.650
+[2022-11-18 22:25:43,017 segment-accuracy.py:512 test] Frame id :163, Row size:2278.38671875 KB, Type: I, Offloading:True, compressed size:2278.38671875
+[2022-11-18 22:25:43,017 segment-accuracy.py:514 test] Loss:0.18359056115150452,Acc:94.22063827514648
+[2022-11-18 22:25:43,053 segment-accuracy.py:521 test] ===> mAP 57.710
+[2022-11-18 22:25:43,635 segment-accuracy.py:512 test] Frame id :164, Row size:2305.6474609375 KB, Type: I, Offloading:True, compressed size:2305.6474609375
+[2022-11-18 22:25:43,635 segment-accuracy.py:514 test] Loss:0.1453673243522644,Acc:95.05009651184082
+[2022-11-18 22:25:43,664 segment-accuracy.py:521 test] ===> mAP 57.810
+[2022-11-18 22:25:44,249 segment-accuracy.py:512 test] Frame id :165, Row size:2302.5185546875 KB, Type: I, Offloading:True, compressed size:2302.5185546875
+[2022-11-18 22:25:44,250 segment-accuracy.py:514 test] Loss:0.13584952056407928,Acc:95.60432434082031
+[2022-11-18 22:25:44,276 segment-accuracy.py:521 test] ===> mAP 57.900
+[2022-11-18 22:25:44,853 segment-accuracy.py:512 test] Frame id :166, Row size:2292.423828125 KB, Type: I, Offloading:True, compressed size:2292.423828125
+[2022-11-18 22:25:44,854 segment-accuracy.py:514 test] Loss:0.16219286620616913,Acc:94.29984092712402
+[2022-11-18 22:25:44,881 segment-accuracy.py:521 test] ===> mAP 57.960
+[2022-11-18 22:25:45,455 segment-accuracy.py:512 test] Frame id :167, Row size:2300.638671875 KB, Type: I, Offloading:True, compressed size:2300.638671875
+[2022-11-18 22:25:45,456 segment-accuracy.py:514 test] Loss:0.17226417362689972,Acc:93.90578269958496
+[2022-11-18 22:25:45,489 segment-accuracy.py:521 test] ===> mAP 58.000
+[2022-11-18 22:25:46,073 segment-accuracy.py:512 test] Frame id :168, Row size:2317.830078125 KB, Type: I, Offloading:True, compressed size:2317.830078125
+[2022-11-18 22:25:46,073 segment-accuracy.py:514 test] Loss:0.18812692165374756,Acc:93.42403411865234
+[2022-11-18 22:25:46,106 segment-accuracy.py:521 test] ===> mAP 58.030
+[2022-11-18 22:25:46,685 segment-accuracy.py:512 test] Frame id :169, Row size:2332.439453125 KB, Type: I, Offloading:True, compressed size:2332.439453125
+[2022-11-18 22:25:46,685 segment-accuracy.py:514 test] Loss:0.19871892035007477,Acc:93.92576217651367
+[2022-11-18 22:25:46,712 segment-accuracy.py:521 test] ===> mAP 58.040
+[2022-11-18 22:25:47,286 segment-accuracy.py:512 test] Frame id :170, Row size:2345.9580078125 KB, Type: I, Offloading:True, compressed size:2345.9580078125
+[2022-11-18 22:25:47,287 segment-accuracy.py:514 test] Loss:0.20393900573253632,Acc:93.04542541503906
+[2022-11-18 22:25:47,315 segment-accuracy.py:521 test] ===> mAP 58.030
+[2022-11-18 22:25:47,894 segment-accuracy.py:512 test] Frame id :171, Row size:2358.046875 KB, Type: I, Offloading:True, compressed size:2358.046875
+[2022-11-18 22:25:47,894 segment-accuracy.py:514 test] Loss:0.2225615680217743,Acc:93.74489784240723
+[2022-11-18 22:25:47,921 segment-accuracy.py:521 test] ===> mAP 58.050
+[2022-11-18 22:25:48,504 segment-accuracy.py:512 test] Frame id :172, Row size:2349.2998046875 KB, Type: I, Offloading:True, compressed size:2349.2998046875
+[2022-11-18 22:25:48,504 segment-accuracy.py:514 test] Loss:0.1834411323070526,Acc:93.44921112060547
+[2022-11-18 22:25:48,535 segment-accuracy.py:521 test] ===> mAP 58.070
+[2022-11-18 22:25:49,108 segment-accuracy.py:512 test] Frame id :173, Row size:2371.16015625 KB, Type: I, Offloading:True, compressed size:2371.16015625
+[2022-11-18 22:25:49,109 segment-accuracy.py:514 test] Loss:0.21504496037960052,Acc:92.68312454223633
+[2022-11-18 22:25:49,133 segment-accuracy.py:521 test] ===> mAP 58.100
+[2022-11-18 22:25:49,710 segment-accuracy.py:512 test] Frame id :174, Row size:2376.4755859375 KB, Type: I, Offloading:True, compressed size:2376.4755859375
+[2022-11-18 22:25:49,710 segment-accuracy.py:514 test] Loss:0.2146102488040924,Acc:93.45669746398926
+[2022-11-18 22:25:49,738 segment-accuracy.py:521 test] ===> mAP 58.130
+[2022-11-18 22:25:50,322 segment-accuracy.py:512 test] Frame id :175, Row size:2384.16796875 KB, Type: I, Offloading:True, compressed size:2384.16796875
+[2022-11-18 22:25:50,323 segment-accuracy.py:514 test] Loss:0.2094193547964096,Acc:92.85707473754883
+[2022-11-18 22:25:50,354 segment-accuracy.py:521 test] ===> mAP 58.200
+[2022-11-18 22:25:50,937 segment-accuracy.py:512 test] Frame id :176, Row size:2393.9765625 KB, Type: I, Offloading:True, compressed size:2393.9765625
+[2022-11-18 22:25:50,938 segment-accuracy.py:514 test] Loss:0.19019320607185364,Acc:93.50676536560059
+[2022-11-18 22:25:50,967 segment-accuracy.py:521 test] ===> mAP 58.260
+[2022-11-18 22:25:51,549 segment-accuracy.py:512 test] Frame id :177, Row size:2382.494140625 KB, Type: I, Offloading:True, compressed size:2382.494140625
+[2022-11-18 22:25:51,550 segment-accuracy.py:514 test] Loss:0.2195485532283783,Acc:92.28568077087402
+[2022-11-18 22:25:51,575 segment-accuracy.py:521 test] ===> mAP 58.300
+[2022-11-18 22:25:52,167 segment-accuracy.py:512 test] Frame id :178, Row size:2391.4580078125 KB, Type: I, Offloading:True, compressed size:2391.4580078125
+[2022-11-18 22:25:52,167 segment-accuracy.py:514 test] Loss:0.18516120314598083,Acc:92.9323673248291
+[2022-11-18 22:25:52,196 segment-accuracy.py:521 test] ===> mAP 58.350
+[2022-11-18 22:25:52,768 segment-accuracy.py:512 test] Frame id :179, Row size:2395.9951171875 KB, Type: I, Offloading:True, compressed size:2395.9951171875
+[2022-11-18 22:25:52,768 segment-accuracy.py:514 test] Loss:0.171113982796669,Acc:94.11625862121582
+[2022-11-18 22:25:52,799 segment-accuracy.py:521 test] ===> mAP 58.410
+[2022-11-18 22:25:53,378 segment-accuracy.py:512 test] Frame id :180, Row size:2405.2841796875 KB, Type: I, Offloading:True, compressed size:2405.2841796875
+[2022-11-18 22:25:53,378 segment-accuracy.py:514 test] Loss:0.18475466966629028,Acc:93.47701072692871
+[2022-11-18 22:25:53,412 segment-accuracy.py:521 test] ===> mAP 58.450
+[2022-11-18 22:25:53,984 segment-accuracy.py:512 test] Frame id :181, Row size:2422.4169921875 KB, Type: I, Offloading:True, compressed size:2422.4169921875
+[2022-11-18 22:25:53,985 segment-accuracy.py:514 test] Loss:0.16362851858139038,Acc:94.48513984680176
+[2022-11-18 22:25:54,010 segment-accuracy.py:521 test] ===> mAP 58.500
+[2022-11-18 22:25:54,597 segment-accuracy.py:512 test] Frame id :182, Row size:2414.3251953125 KB, Type: I, Offloading:True, compressed size:2414.3251953125
+[2022-11-18 22:25:54,597 segment-accuracy.py:514 test] Loss:0.1816329061985016,Acc:93.40672492980957
+[2022-11-18 22:25:54,624 segment-accuracy.py:521 test] ===> mAP 58.530
+[2022-11-18 22:25:55,199 segment-accuracy.py:512 test] Frame id :183, Row size:2420.7783203125 KB, Type: I, Offloading:True, compressed size:2420.7783203125
+[2022-11-18 22:25:55,199 segment-accuracy.py:514 test] Loss:0.18260271847248077,Acc:93.36361885070801
+[2022-11-18 22:25:55,230 segment-accuracy.py:521 test] ===> mAP 58.550
+[2022-11-18 22:25:55,805 segment-accuracy.py:512 test] Frame id :184, Row size:2434.5576171875 KB, Type: I, Offloading:True, compressed size:2434.5576171875
+[2022-11-18 22:25:55,806 segment-accuracy.py:514 test] Loss:0.18282629549503326,Acc:93.22233200073242
+[2022-11-18 22:25:55,836 segment-accuracy.py:521 test] ===> mAP 58.550
+[2022-11-18 22:25:56,409 segment-accuracy.py:512 test] Frame id :185, Row size:2443.83984375 KB, Type: I, Offloading:True, compressed size:2443.83984375
+[2022-11-18 22:25:56,410 segment-accuracy.py:514 test] Loss:0.1515686810016632,Acc:94.52810287475586
+[2022-11-18 22:25:56,436 segment-accuracy.py:521 test] ===> mAP 58.590
+[2022-11-18 22:25:57,025 segment-accuracy.py:512 test] Frame id :186, Row size:2452.8203125 KB, Type: I, Offloading:True, compressed size:2452.8203125
+[2022-11-18 22:25:57,025 segment-accuracy.py:514 test] Loss:0.15487851202487946,Acc:94.94156837463379
+[2022-11-18 22:25:57,057 segment-accuracy.py:521 test] ===> mAP 58.640
+[2022-11-18 22:25:57,632 segment-accuracy.py:512 test] Frame id :187, Row size:2459.0029296875 KB, Type: I, Offloading:True, compressed size:2459.0029296875
+[2022-11-18 22:25:57,632 segment-accuracy.py:514 test] Loss:0.17117293179035187,Acc:94.07563209533691
+[2022-11-18 22:25:57,657 segment-accuracy.py:521 test] ===> mAP 58.660
+[2022-11-18 22:25:58,231 segment-accuracy.py:512 test] Frame id :188, Row size:2472.8701171875 KB, Type: I, Offloading:True, compressed size:2472.8701171875
+[2022-11-18 22:25:58,231 segment-accuracy.py:514 test] Loss:0.17307353019714355,Acc:94.11778450012207
+[2022-11-18 22:25:58,257 segment-accuracy.py:521 test] ===> mAP 58.660
+[2022-11-18 22:25:58,834 segment-accuracy.py:512 test] Frame id :189, Row size:2483.556640625 KB, Type: I, Offloading:True, compressed size:2483.556640625
+[2022-11-18 22:25:58,835 segment-accuracy.py:514 test] Loss:0.1801636517047882,Acc:94.77992057800293
+[2022-11-18 22:25:58,865 segment-accuracy.py:521 test] ===> mAP 58.660
+[2022-11-18 22:25:59,446 segment-accuracy.py:512 test] Frame id :190, Row size:2482.4150390625 KB, Type: I, Offloading:True, compressed size:2482.4150390625
+[2022-11-18 22:25:59,446 segment-accuracy.py:514 test] Loss:0.15780669450759888,Acc:94.82450485229492
+[2022-11-18 22:25:59,475 segment-accuracy.py:521 test] ===> mAP 58.710
+[2022-11-18 22:26:00,054 segment-accuracy.py:512 test] Frame id :191, Row size:2482.5087890625 KB, Type: I, Offloading:True, compressed size:2482.5087890625
+[2022-11-18 22:26:00,054 segment-accuracy.py:514 test] Loss:0.16430263221263885,Acc:94.53425407409668
+[2022-11-18 22:26:00,079 segment-accuracy.py:521 test] ===> mAP 58.710
+[2022-11-18 22:26:00,660 segment-accuracy.py:512 test] Frame id :192, Row size:2481.134765625 KB, Type: I, Offloading:True, compressed size:2481.134765625
+[2022-11-18 22:26:00,660 segment-accuracy.py:514 test] Loss:0.16300272941589355,Acc:94.7206974029541
+[2022-11-18 22:26:00,688 segment-accuracy.py:521 test] ===> mAP 58.700
+[2022-11-18 22:26:01,264 segment-accuracy.py:512 test] Frame id :193, Row size:2486.0693359375 KB, Type: I, Offloading:True, compressed size:2486.0693359375
+[2022-11-18 22:26:01,264 segment-accuracy.py:514 test] Loss:0.17093318700790405,Acc:94.16074752807617
+[2022-11-18 22:26:01,295 segment-accuracy.py:521 test] ===> mAP 58.700
+[2022-11-18 22:26:01,880 segment-accuracy.py:512 test] Frame id :194, Row size:2488.419921875 KB, Type: I, Offloading:True, compressed size:2488.419921875
+[2022-11-18 22:26:01,881 segment-accuracy.py:514 test] Loss:0.1755942851305008,Acc:94.44460868835449
+[2022-11-18 22:26:01,910 segment-accuracy.py:521 test] ===> mAP 58.700
+[2022-11-18 22:26:02,502 segment-accuracy.py:512 test] Frame id :195, Row size:2487.302734375 KB, Type: I, Offloading:True, compressed size:2487.302734375
+[2022-11-18 22:26:02,503 segment-accuracy.py:514 test] Loss:0.17072825133800507,Acc:94.72770690917969
+[2022-11-18 22:26:02,530 segment-accuracy.py:521 test] ===> mAP 58.700
+[2022-11-18 22:26:03,118 segment-accuracy.py:512 test] Frame id :196, Row size:2485.0712890625 KB, Type: I, Offloading:True, compressed size:2485.0712890625
+[2022-11-18 22:26:03,118 segment-accuracy.py:514 test] Loss:0.1787501573562622,Acc:94.3246841430664
+[2022-11-18 22:26:03,148 segment-accuracy.py:521 test] ===> mAP 58.700
+[2022-11-18 22:26:03,744 segment-accuracy.py:512 test] Frame id :197, Row size:2491.669921875 KB, Type: I, Offloading:True, compressed size:2491.669921875
+[2022-11-18 22:26:03,744 segment-accuracy.py:514 test] Loss:0.13881225883960724,Acc:95.20325660705566
+[2022-11-18 22:26:03,771 segment-accuracy.py:521 test] ===> mAP 58.720
+[2022-11-18 22:26:04,350 segment-accuracy.py:512 test] Frame id :198, Row size:2492.3671875 KB, Type: I, Offloading:True, compressed size:2492.3671875
+[2022-11-18 22:26:04,351 segment-accuracy.py:514 test] Loss:0.1317811757326126,Acc:95.72210311889648
+[2022-11-18 22:26:04,379 segment-accuracy.py:521 test] ===> mAP 58.740
+[2022-11-18 22:26:04,958 segment-accuracy.py:512 test] Frame id :199, Row size:2499.564453125 KB, Type: I, Offloading:True, compressed size:2499.564453125
+[2022-11-18 22:26:04,958 segment-accuracy.py:514 test] Loss:0.1608506143093109,Acc:94.20371055603027
+[2022-11-18 22:26:04,982 segment-accuracy.py:521 test] ===> mAP 58.740
+[2022-11-18 22:26:05,571 segment-accuracy.py:512 test] Frame id :200, Row size:2512.8984375 KB, Type: I, Offloading:True, compressed size:2512.8984375
+[2022-11-18 22:26:05,571 segment-accuracy.py:514 test] Loss:0.16618914902210236,Acc:93.87340545654297
+[2022-11-18 22:26:05,602 segment-accuracy.py:521 test] ===> mAP 58.720
+[2022-11-18 22:26:06,179 segment-accuracy.py:512 test] Frame id :201, Row size:2508.53125 KB, Type: I, Offloading:True, compressed size:2508.53125
+[2022-11-18 22:26:06,180 segment-accuracy.py:514 test] Loss:0.13275295495986938,Acc:95.53279876708984
+[2022-11-18 22:26:06,205 segment-accuracy.py:521 test] ===> mAP 58.720
+[2022-11-18 22:26:06,781 segment-accuracy.py:512 test] Frame id :202, Row size:2508.9365234375 KB, Type: I, Offloading:True, compressed size:2508.9365234375
+[2022-11-18 22:26:06,781 segment-accuracy.py:514 test] Loss:0.157081738114357,Acc:95.15552520751953
+[2022-11-18 22:26:06,807 segment-accuracy.py:521 test] ===> mAP 58.700
+[2022-11-18 22:26:07,392 segment-accuracy.py:512 test] Frame id :203, Row size:2514.1298828125 KB, Type: I, Offloading:True, compressed size:2514.1298828125
+[2022-11-18 22:26:07,393 segment-accuracy.py:514 test] Loss:0.19437626004219055,Acc:93.15485954284668
+[2022-11-18 22:26:07,420 segment-accuracy.py:521 test] ===> mAP 58.670
+[2022-11-18 22:26:08,014 segment-accuracy.py:512 test] Frame id :204, Row size:2510.923828125 KB, Type: I, Offloading:True, compressed size:2510.923828125
+[2022-11-18 22:26:08,014 segment-accuracy.py:514 test] Loss:0.1568778157234192,Acc:94.74024772644043
+[2022-11-18 22:26:08,040 segment-accuracy.py:521 test] ===> mAP 58.650
+[2022-11-18 22:26:08,632 segment-accuracy.py:512 test] Frame id :205, Row size:2510.7119140625 KB, Type: I, Offloading:True, compressed size:2510.7119140625
+[2022-11-18 22:26:08,632 segment-accuracy.py:514 test] Loss:0.14789626002311707,Acc:94.77057456970215
+[2022-11-18 22:26:08,664 segment-accuracy.py:521 test] ===> mAP 58.630
+[2022-11-18 22:26:09,253 segment-accuracy.py:512 test] Frame id :206, Row size:2505.9384765625 KB, Type: I, Offloading:True, compressed size:2505.9384765625
+[2022-11-18 22:26:09,254 segment-accuracy.py:514 test] Loss:0.12219535559415817,Acc:95.75648307800293
+[2022-11-18 22:26:09,281 segment-accuracy.py:521 test] ===> mAP 58.620
+[2022-11-18 22:26:09,867 segment-accuracy.py:512 test] Frame id :207, Row size:2508.8095703125 KB, Type: I, Offloading:True, compressed size:2508.8095703125
+[2022-11-18 22:26:09,867 segment-accuracy.py:514 test] Loss:0.12525279819965363,Acc:95.65005302429199
+[2022-11-18 22:26:09,898 segment-accuracy.py:521 test] ===> mAP 58.610
+[2022-11-18 22:26:10,485 segment-accuracy.py:512 test] Frame id :208, Row size:2513.365234375 KB, Type: I, Offloading:True, compressed size:2513.365234375
+[2022-11-18 22:26:10,485 segment-accuracy.py:514 test] Loss:0.13561172783374786,Acc:95.77021598815918
+[2022-11-18 22:26:10,511 segment-accuracy.py:521 test] ===> mAP 58.610
+[2022-11-18 22:26:11,104 segment-accuracy.py:512 test] Frame id :209, Row size:2516.18359375 KB, Type: I, Offloading:True, compressed size:2516.18359375
+[2022-11-18 22:26:11,105 segment-accuracy.py:514 test] Loss:0.1385214626789093,Acc:95.23768424987793
+[2022-11-18 22:26:11,135 segment-accuracy.py:521 test] ===> mAP 58.620
+[2022-11-18 22:26:11,720 segment-accuracy.py:512 test] Frame id :210, Row size:2529.091796875 KB, Type: I, Offloading:True, compressed size:2529.091796875
+[2022-11-18 22:26:11,720 segment-accuracy.py:514 test] Loss:0.13952581584453583,Acc:95.44868469238281
+[2022-11-18 22:26:11,746 segment-accuracy.py:521 test] ===> mAP 58.660
+[2022-11-18 22:26:12,331 segment-accuracy.py:512 test] Frame id :211, Row size:2541.7998046875 KB, Type: I, Offloading:True, compressed size:2541.7998046875
+[2022-11-18 22:26:12,331 segment-accuracy.py:514 test] Loss:0.11705492436885834,Acc:96.2583065032959
+[2022-11-18 22:26:12,363 segment-accuracy.py:521 test] ===> mAP 58.640
+[2022-11-18 22:26:12,956 segment-accuracy.py:512 test] Frame id :212, Row size:2558.04296875 KB, Type: I, Offloading:True, compressed size:2558.04296875
+[2022-11-18 22:26:12,956 segment-accuracy.py:514 test] Loss:0.12327073514461517,Acc:96.28453254699707
+[2022-11-18 22:26:12,991 segment-accuracy.py:521 test] ===> mAP 58.660
+[2022-11-18 22:26:13,575 segment-accuracy.py:512 test] Frame id :213, Row size:2572.21875 KB, Type: I, Offloading:True, compressed size:2572.21875
+[2022-11-18 22:26:13,575 segment-accuracy.py:514 test] Loss:0.12341378629207611,Acc:96.17414474487305
+[2022-11-18 22:26:13,605 segment-accuracy.py:521 test] ===> mAP 58.680
+[2022-11-18 22:26:14,195 segment-accuracy.py:512 test] Frame id :214, Row size:2585.2626953125 KB, Type: I, Offloading:True, compressed size:2585.2626953125
+[2022-11-18 22:26:14,196 segment-accuracy.py:514 test] Loss:0.13469111919403076,Acc:95.54810523986816
+[2022-11-18 22:26:14,224 segment-accuracy.py:521 test] ===> mAP 58.670
+[2022-11-18 22:26:14,806 segment-accuracy.py:512 test] Frame id :215, Row size:2588.9248046875 KB, Type: I, Offloading:True, compressed size:2588.9248046875
+[2022-11-18 22:26:14,806 segment-accuracy.py:514 test] Loss:0.11776385456323624,Acc:96.23126983642578
+[2022-11-18 22:26:14,832 segment-accuracy.py:521 test] ===> mAP 58.690
+[2022-11-18 22:26:15,405 segment-accuracy.py:512 test] Frame id :216, Row size:2601.005859375 KB, Type: I, Offloading:True, compressed size:2601.005859375
+[2022-11-18 22:26:15,405 segment-accuracy.py:514 test] Loss:0.11271551996469498,Acc:96.3778018951416
+[2022-11-18 22:26:15,430 segment-accuracy.py:521 test] ===> mAP 58.690
+[2022-11-18 22:26:16,010 segment-accuracy.py:512 test] Frame id :217, Row size:2615.173828125 KB, Type: I, Offloading:True, compressed size:2615.173828125
+[2022-11-18 22:26:16,010 segment-accuracy.py:514 test] Loss:0.1324736326932907,Acc:95.67461013793945
+[2022-11-18 22:26:16,037 segment-accuracy.py:521 test] ===> mAP 58.690
+[2022-11-18 22:26:16,614 segment-accuracy.py:512 test] Frame id :218, Row size:2379.4287109375 KB, Type: I, Offloading:True, compressed size:2379.4287109375
+[2022-11-18 22:26:16,614 segment-accuracy.py:514 test] Loss:0.18220636248588562,Acc:94.2026138305664
+[2022-11-18 22:26:16,639 segment-accuracy.py:521 test] ===> mAP 58.540
+[2022-11-18 22:26:17,217 segment-accuracy.py:512 test] Frame id :219, Row size:2363.8037109375 KB, Type: I, Offloading:True, compressed size:2363.8037109375
+[2022-11-18 22:26:17,217 segment-accuracy.py:514 test] Loss:0.21595491468906403,Acc:93.19343566894531
+[2022-11-18 22:26:17,243 segment-accuracy.py:521 test] ===> mAP 58.400
+[2022-11-18 22:26:17,821 segment-accuracy.py:512 test] Frame id :220, Row size:2468.501953125 KB, Type: I, Offloading:True, compressed size:2468.501953125
+[2022-11-18 22:26:17,821 segment-accuracy.py:514 test] Loss:0.15593813359737396,Acc:94.84052658081055
+[2022-11-18 22:26:17,854 segment-accuracy.py:521 test] ===> mAP 58.320
+[2022-11-18 22:26:18,438 segment-accuracy.py:512 test] Frame id :221, Row size:2502.84765625 KB, Type: I, Offloading:True, compressed size:2502.84765625
+[2022-11-18 22:26:18,439 segment-accuracy.py:514 test] Loss:0.2231721431016922,Acc:92.68693923950195
+[2022-11-18 22:26:18,469 segment-accuracy.py:521 test] ===> mAP 58.320
+[2022-11-18 22:26:19,048 segment-accuracy.py:512 test] Frame id :222, Row size:2500.4462890625 KB, Type: I, Offloading:True, compressed size:2500.4462890625
+[2022-11-18 22:26:19,048 segment-accuracy.py:514 test] Loss:0.13520653545856476,Acc:95.46747207641602
+[2022-11-18 22:26:19,074 segment-accuracy.py:521 test] ===> mAP 58.360
+[2022-11-18 22:26:19,656 segment-accuracy.py:512 test] Frame id :223, Row size:2358.08203125 KB, Type: I, Offloading:True, compressed size:2358.08203125
+[2022-11-18 22:26:19,656 segment-accuracy.py:514 test] Loss:0.143353670835495,Acc:95.32599449157715
+[2022-11-18 22:26:19,683 segment-accuracy.py:521 test] ===> mAP 58.380
+[2022-11-18 22:26:20,261 segment-accuracy.py:512 test] Frame id :224, Row size:2439.8046875 KB, Type: I, Offloading:True, compressed size:2439.8046875
+[2022-11-18 22:26:20,261 segment-accuracy.py:514 test] Loss:0.1453017294406891,Acc:95.37510871887207
+[2022-11-18 22:26:20,286 segment-accuracy.py:521 test] ===> mAP 58.380
+[2022-11-18 22:26:20,864 segment-accuracy.py:512 test] Frame id :225, Row size:2513.029296875 KB, Type: I, Offloading:True, compressed size:2513.029296875
+[2022-11-18 22:26:20,864 segment-accuracy.py:514 test] Loss:0.15220794081687927,Acc:95.0678825378418
+[2022-11-18 22:26:20,890 segment-accuracy.py:521 test] ===> mAP 58.380
+[2022-11-18 22:26:21,471 segment-accuracy.py:512 test] Frame id :226, Row size:2556.138671875 KB, Type: I, Offloading:True, compressed size:2556.138671875
+[2022-11-18 22:26:21,471 segment-accuracy.py:514 test] Loss:0.12960030138492584,Acc:95.64700126647949
+[2022-11-18 22:26:21,498 segment-accuracy.py:521 test] ===> mAP 58.390
+[2022-11-18 22:26:22,086 segment-accuracy.py:512 test] Frame id :227, Row size:1838.8349609375 KB, Type: I, Offloading:True, compressed size:1838.8349609375
+[2022-11-18 22:26:22,086 segment-accuracy.py:514 test] Loss:0.14926862716674805,Acc:94.83404159545898
+[2022-11-18 22:26:22,116 segment-accuracy.py:521 test] ===> mAP 58.420
+[2022-11-18 22:26:22,693 segment-accuracy.py:512 test] Frame id :228, Row size:2074.3984375 KB, Type: I, Offloading:True, compressed size:2074.3984375
+[2022-11-18 22:26:22,694 segment-accuracy.py:514 test] Loss:0.2366609275341034,Acc:92.90838241577148
+[2022-11-18 22:26:22,719 segment-accuracy.py:521 test] ===> mAP 58.390
+[2022-11-18 22:26:23,310 segment-accuracy.py:512 test] Frame id :229, Row size:2106.9482421875 KB, Type: I, Offloading:True, compressed size:2106.9482421875
+[2022-11-18 22:26:23,310 segment-accuracy.py:514 test] Loss:0.25854116678237915,Acc:92.74716377258301
+[2022-11-18 22:26:23,339 segment-accuracy.py:521 test] ===> mAP 58.400
+[2022-11-18 22:26:23,915 segment-accuracy.py:512 test] Frame id :230, Row size:2235.7626953125 KB, Type: I, Offloading:True, compressed size:2235.7626953125
+[2022-11-18 22:26:23,915 segment-accuracy.py:514 test] Loss:0.2301485240459442,Acc:93.26062202453613
+[2022-11-18 22:26:23,941 segment-accuracy.py:521 test] ===> mAP 58.410
+[2022-11-18 22:26:24,531 segment-accuracy.py:512 test] Frame id :231, Row size:2301.04296875 KB, Type: I, Offloading:True, compressed size:2301.04296875
+[2022-11-18 22:26:24,531 segment-accuracy.py:514 test] Loss:0.19425076246261597,Acc:93.7619686126709
+[2022-11-18 22:26:24,561 segment-accuracy.py:521 test] ===> mAP 58.420
+[2022-11-18 22:26:25,138 segment-accuracy.py:512 test] Frame id :232, Row size:2360.8681640625 KB, Type: I, Offloading:True, compressed size:2360.8681640625
+[2022-11-18 22:26:25,138 segment-accuracy.py:514 test] Loss:0.17469589412212372,Acc:94.5744514465332
+[2022-11-18 22:26:25,165 segment-accuracy.py:521 test] ===> mAP 58.440
+[2022-11-18 22:26:25,745 segment-accuracy.py:512 test] Frame id :233, Row size:2407.8583984375 KB, Type: I, Offloading:True, compressed size:2407.8583984375
+[2022-11-18 22:26:25,746 segment-accuracy.py:514 test] Loss:0.11838267743587494,Acc:96.36197090148926
+[2022-11-18 22:26:25,770 segment-accuracy.py:521 test] ===> mAP 58.470
+[2022-11-18 22:26:26,356 segment-accuracy.py:512 test] Frame id :234, Row size:2443.3369140625 KB, Type: I, Offloading:True, compressed size:2443.3369140625
+[2022-11-18 22:26:26,356 segment-accuracy.py:514 test] Loss:0.10044321417808533,Acc:96.97809219360352
+[2022-11-18 22:26:26,382 segment-accuracy.py:521 test] ===> mAP 58.520
+[2022-11-18 22:26:26,958 segment-accuracy.py:512 test] Frame id :235, Row size:2480.5302734375 KB, Type: I, Offloading:True, compressed size:2480.5302734375
+[2022-11-18 22:26:26,958 segment-accuracy.py:514 test] Loss:0.089302659034729,Acc:97.62392044067383
+[2022-11-18 22:26:26,984 segment-accuracy.py:521 test] ===> mAP 58.550
+[2022-11-18 22:26:27,563 segment-accuracy.py:512 test] Frame id :236, Row size:2495.3193359375 KB, Type: I, Offloading:True, compressed size:2495.3193359375
+[2022-11-18 22:26:27,564 segment-accuracy.py:514 test] Loss:0.08465498685836792,Acc:97.64633178710938
+[2022-11-18 22:26:27,593 segment-accuracy.py:521 test] ===> mAP 58.570
+[2022-11-18 22:26:28,173 segment-accuracy.py:512 test] Frame id :237, Row size:2502.998046875 KB, Type: I, Offloading:True, compressed size:2502.998046875
+[2022-11-18 22:26:28,173 segment-accuracy.py:514 test] Loss:0.07885611802339554,Acc:97.76430130004883
+[2022-11-18 22:26:28,200 segment-accuracy.py:521 test] ===> mAP 58.590
+[2022-11-18 22:26:28,777 segment-accuracy.py:512 test] Frame id :238, Row size:2519.4140625 KB, Type: I, Offloading:True, compressed size:2519.4140625
+[2022-11-18 22:26:28,778 segment-accuracy.py:514 test] Loss:0.0770922377705574,Acc:97.85513877868652
+[2022-11-18 22:26:28,807 segment-accuracy.py:521 test] ===> mAP 58.620
+[2022-11-18 22:26:29,382 segment-accuracy.py:512 test] Frame id :239, Row size:2535.0244140625 KB, Type: I, Offloading:True, compressed size:2535.0244140625
+[2022-11-18 22:26:29,382 segment-accuracy.py:514 test] Loss:0.08439916372299194,Acc:97.59831428527832
+[2022-11-18 22:26:29,411 segment-accuracy.py:521 test] ===> mAP 58.650
+[2022-11-18 22:26:29,991 segment-accuracy.py:512 test] Frame id :240, Row size:2554.8095703125 KB, Type: I, Offloading:True, compressed size:2554.8095703125
+[2022-11-18 22:26:29,992 segment-accuracy.py:514 test] Loss:0.08308512717485428,Acc:97.59917259216309
+[2022-11-18 22:26:30,020 segment-accuracy.py:521 test] ===> mAP 58.680
+[2022-11-18 22:26:30,597 segment-accuracy.py:512 test] Frame id :241, Row size:2566.3837890625 KB, Type: I, Offloading:True, compressed size:2566.3837890625
+[2022-11-18 22:26:30,597 segment-accuracy.py:514 test] Loss:0.08906732499599457,Acc:97.35007286071777
+[2022-11-18 22:26:30,624 segment-accuracy.py:521 test] ===> mAP 58.710
+[2022-11-18 22:26:31,208 segment-accuracy.py:512 test] Frame id :242, Row size:2590.83203125 KB, Type: I, Offloading:True, compressed size:2590.83203125
+[2022-11-18 22:26:31,208 segment-accuracy.py:514 test] Loss:0.08559633791446686,Acc:97.3226547241211
+[2022-11-18 22:26:31,233 segment-accuracy.py:521 test] ===> mAP 58.730
+[2022-11-18 22:26:31,828 segment-accuracy.py:512 test] Frame id :243, Row size:2610.578125 KB, Type: I, Offloading:True, compressed size:2610.578125
+[2022-11-18 22:26:31,828 segment-accuracy.py:514 test] Loss:0.0908326581120491,Acc:97.14231491088867
+[2022-11-18 22:26:31,861 segment-accuracy.py:521 test] ===> mAP 58.740
+[2022-11-18 22:26:32,438 segment-accuracy.py:512 test] Frame id :244, Row size:2620.623046875 KB, Type: I, Offloading:True, compressed size:2620.623046875
+[2022-11-18 22:26:32,439 segment-accuracy.py:514 test] Loss:0.09495306015014648,Acc:96.96707725524902
+[2022-11-18 22:26:32,468 segment-accuracy.py:521 test] ===> mAP 58.740
+[2022-11-18 22:26:33,044 segment-accuracy.py:512 test] Frame id :245, Row size:2628.845703125 KB, Type: I, Offloading:True, compressed size:2628.845703125
+[2022-11-18 22:26:33,044 segment-accuracy.py:514 test] Loss:0.08994652330875397,Acc:97.1644401550293
+[2022-11-18 22:26:33,073 segment-accuracy.py:521 test] ===> mAP 58.740
+[2022-11-18 22:26:33,660 segment-accuracy.py:512 test] Frame id :246, Row size:2629.056640625 KB, Type: I, Offloading:True, compressed size:2629.056640625
+[2022-11-18 22:26:33,660 segment-accuracy.py:514 test] Loss:0.09017697721719742,Acc:97.18222618103027
+[2022-11-18 22:26:33,689 segment-accuracy.py:521 test] ===> mAP 58.760
+[2022-11-18 22:26:34,271 segment-accuracy.py:512 test] Frame id :247, Row size:2623.306640625 KB, Type: I, Offloading:True, compressed size:2623.306640625
+[2022-11-18 22:26:34,271 segment-accuracy.py:514 test] Loss:0.09616221487522125,Acc:96.9609260559082
+[2022-11-18 22:26:34,301 segment-accuracy.py:521 test] ===> mAP 58.760
+[2022-11-18 22:26:34,876 segment-accuracy.py:512 test] Frame id :248, Row size:2620.962890625 KB, Type: I, Offloading:True, compressed size:2620.962890625
+[2022-11-18 22:26:34,876 segment-accuracy.py:514 test] Loss:0.10104557126760483,Acc:96.81777954101562
+[2022-11-18 22:26:34,907 segment-accuracy.py:521 test] ===> mAP 58.780
+[2022-11-18 22:26:35,480 segment-accuracy.py:512 test] Frame id :249, Row size:2611.310546875 KB, Type: I, Offloading:True, compressed size:2611.310546875
+[2022-11-18 22:26:35,480 segment-accuracy.py:514 test] Loss:0.1029566153883934,Acc:96.87933921813965
+[2022-11-18 22:26:35,511 segment-accuracy.py:521 test] ===> mAP 58.820
+[2022-11-18 22:26:36,086 segment-accuracy.py:512 test] Frame id :250, Row size:2615.0751953125 KB, Type: I, Offloading:True, compressed size:2615.0751953125
+[2022-11-18 22:26:36,086 segment-accuracy.py:514 test] Loss:0.10468248277902603,Acc:96.87013626098633
+[2022-11-18 22:26:36,112 segment-accuracy.py:521 test] ===> mAP 58.830
+[2022-11-18 22:26:36,694 segment-accuracy.py:512 test] Frame id :251, Row size:2602.458984375 KB, Type: I, Offloading:True, compressed size:2602.458984375
+[2022-11-18 22:26:36,694 segment-accuracy.py:514 test] Loss:0.1040831208229065,Acc:96.70119285583496
+[2022-11-18 22:26:36,726 segment-accuracy.py:521 test] ===> mAP 58.840
+[2022-11-18 22:26:37,304 segment-accuracy.py:512 test] Frame id :252, Row size:2603.98828125 KB, Type: I, Offloading:True, compressed size:2603.98828125
+[2022-11-18 22:26:37,305 segment-accuracy.py:514 test] Loss:0.10592911392450333,Acc:96.82703018188477
+[2022-11-18 22:26:37,335 segment-accuracy.py:521 test] ===> mAP 58.890
+[2022-11-18 22:26:37,908 segment-accuracy.py:512 test] Frame id :253, Row size:2596.6123046875 KB, Type: I, Offloading:True, compressed size:2596.6123046875
+[2022-11-18 22:26:37,908 segment-accuracy.py:514 test] Loss:0.1051260307431221,Acc:96.5949535369873
+[2022-11-18 22:26:37,938 segment-accuracy.py:521 test] ===> mAP 58.910
+[2022-11-18 22:26:38,522 segment-accuracy.py:512 test] Frame id :254, Row size:2592.04296875 KB, Type: I, Offloading:True, compressed size:2592.04296875
+[2022-11-18 22:26:38,522 segment-accuracy.py:514 test] Loss:0.10414990782737732,Acc:96.74415588378906
+[2022-11-18 22:26:38,549 segment-accuracy.py:521 test] ===> mAP 58.920
+[2022-11-18 22:26:39,125 segment-accuracy.py:512 test] Frame id :255, Row size:2581.38671875 KB, Type: I, Offloading:True, compressed size:2581.38671875
+[2022-11-18 22:26:39,126 segment-accuracy.py:514 test] Loss:0.11350801587104797,Acc:96.43235206604004
+[2022-11-18 22:26:39,155 segment-accuracy.py:521 test] ===> mAP 58.940
+[2022-11-18 22:26:39,739 segment-accuracy.py:512 test] Frame id :256, Row size:2565.568359375 KB, Type: I, Offloading:True, compressed size:2565.568359375
+[2022-11-18 22:26:39,739 segment-accuracy.py:514 test] Loss:0.11839526891708374,Acc:96.3109016418457
+[2022-11-18 22:26:39,765 segment-accuracy.py:521 test] ===> mAP 58.960
+[2022-11-18 22:26:40,353 segment-accuracy.py:512 test] Frame id :257, Row size:2553.0634765625 KB, Type: I, Offloading:True, compressed size:2553.0634765625
+[2022-11-18 22:26:40,354 segment-accuracy.py:514 test] Loss:0.11570236086845398,Acc:96.5507984161377
+[2022-11-18 22:26:40,386 segment-accuracy.py:521 test] ===> mAP 58.970
+[2022-11-18 22:26:40,961 segment-accuracy.py:512 test] Frame id :258, Row size:2532.9775390625 KB, Type: I, Offloading:True, compressed size:2532.9775390625
+[2022-11-18 22:26:40,961 segment-accuracy.py:514 test] Loss:0.11621174216270447,Acc:96.42219543457031
+[2022-11-18 22:26:40,992 segment-accuracy.py:521 test] ===> mAP 58.990
+[2022-11-18 22:26:41,579 segment-accuracy.py:512 test] Frame id :259, Row size:2509.2060546875 KB, Type: I, Offloading:True, compressed size:2509.2060546875
+[2022-11-18 22:26:41,579 segment-accuracy.py:514 test] Loss:0.13363555073738098,Acc:95.7857608795166
+[2022-11-18 22:26:41,605 segment-accuracy.py:521 test] ===> mAP 59.000
+[2022-11-18 22:26:42,188 segment-accuracy.py:512 test] Frame id :260, Row size:2481.0234375 KB, Type: I, Offloading:True, compressed size:2481.0234375
+[2022-11-18 22:26:42,188 segment-accuracy.py:514 test] Loss:0.13609375059604645,Acc:95.50528526306152
+[2022-11-18 22:26:42,215 segment-accuracy.py:521 test] ===> mAP 59.000
+[2022-11-18 22:26:42,798 segment-accuracy.py:512 test] Frame id :261, Row size:2441.4482421875 KB, Type: I, Offloading:True, compressed size:2441.4482421875
+[2022-11-18 22:26:42,799 segment-accuracy.py:514 test] Loss:0.130370631814003,Acc:95.82972526550293
+[2022-11-18 22:26:42,824 segment-accuracy.py:521 test] ===> mAP 59.060
+[2022-11-18 22:26:43,406 segment-accuracy.py:512 test] Frame id :262, Row size:2422.501953125 KB, Type: I, Offloading:True, compressed size:2422.501953125
+[2022-11-18 22:26:43,407 segment-accuracy.py:514 test] Loss:0.17819471657276154,Acc:94.13833618164062
+[2022-11-18 22:26:43,438 segment-accuracy.py:521 test] ===> mAP 59.080
+[2022-11-18 22:26:44,016 segment-accuracy.py:512 test] Frame id :263, Row size:2392.53515625 KB, Type: I, Offloading:True, compressed size:2392.53515625
+[2022-11-18 22:26:44,016 segment-accuracy.py:514 test] Loss:0.1928783506155014,Acc:93.41278076171875
+[2022-11-18 22:26:44,049 segment-accuracy.py:521 test] ===> mAP 59.110
+[2022-11-18 22:26:44,631 segment-accuracy.py:512 test] Frame id :264, Row size:2362.6962890625 KB, Type: I, Offloading:True, compressed size:2362.6962890625
+[2022-11-18 22:26:44,631 segment-accuracy.py:514 test] Loss:0.1741771548986435,Acc:93.74213218688965
+[2022-11-18 22:26:44,659 segment-accuracy.py:521 test] ===> mAP 59.130
+[2022-11-18 22:26:45,236 segment-accuracy.py:512 test] Frame id :265, Row size:2337.685546875 KB, Type: I, Offloading:True, compressed size:2337.685546875
+[2022-11-18 22:26:45,236 segment-accuracy.py:514 test] Loss:0.1963774859905243,Acc:93.14055442810059
+[2022-11-18 22:26:45,269 segment-accuracy.py:521 test] ===> mAP 59.140
+[2022-11-18 22:26:45,847 segment-accuracy.py:512 test] Frame id :266, Row size:2310.865234375 KB, Type: I, Offloading:True, compressed size:2310.865234375
+[2022-11-18 22:26:45,847 segment-accuracy.py:514 test] Loss:0.17049488425254822,Acc:94.64554786682129
+[2022-11-18 22:26:45,873 segment-accuracy.py:521 test] ===> mAP 59.150
+[2022-11-18 22:26:46,464 segment-accuracy.py:512 test] Frame id :267, Row size:2220.0888671875 KB, Type: I, Offloading:True, compressed size:2220.0888671875
+[2022-11-18 22:26:46,465 segment-accuracy.py:514 test] Loss:0.3378051221370697,Acc:89.37826156616211
+[2022-11-18 22:26:46,489 segment-accuracy.py:521 test] ===> mAP 59.140
+[2022-11-18 22:26:47,074 segment-accuracy.py:512 test] Frame id :268, Row size:2258.716796875 KB, Type: I, Offloading:True, compressed size:2258.716796875
+[2022-11-18 22:26:47,074 segment-accuracy.py:514 test] Loss:0.4255580008029938,Acc:88.94381523132324
+[2022-11-18 22:26:47,105 segment-accuracy.py:521 test] ===> mAP 59.140
+[2022-11-18 22:26:47,682 segment-accuracy.py:512 test] Frame id :269, Row size:2237.9970703125 KB, Type: I, Offloading:True, compressed size:2237.9970703125
+[2022-11-18 22:26:47,682 segment-accuracy.py:514 test] Loss:0.22317975759506226,Acc:91.65821075439453
+[2022-11-18 22:26:47,712 segment-accuracy.py:521 test] ===> mAP 59.170
+[2022-11-18 22:26:48,293 segment-accuracy.py:512 test] Frame id :270, Row size:2269.5283203125 KB, Type: I, Offloading:True, compressed size:2269.5283203125
+[2022-11-18 22:26:48,294 segment-accuracy.py:514 test] Loss:0.2748985290527344,Acc:91.34025573730469
+[2022-11-18 22:26:48,318 segment-accuracy.py:521 test] ===> mAP 59.190
+[2022-11-18 22:26:48,902 segment-accuracy.py:512 test] Frame id :271, Row size:2264.58984375 KB, Type: I, Offloading:True, compressed size:2264.58984375
+[2022-11-18 22:26:48,902 segment-accuracy.py:514 test] Loss:0.28608086705207825,Acc:89.99571800231934
+[2022-11-18 22:26:48,934 segment-accuracy.py:521 test] ===> mAP 59.190
+[2022-11-18 22:26:49,520 segment-accuracy.py:512 test] Frame id :272, Row size:2302.2197265625 KB, Type: I, Offloading:True, compressed size:2302.2197265625
+[2022-11-18 22:26:49,520 segment-accuracy.py:514 test] Loss:0.17780788242816925,Acc:94.2664623260498
+[2022-11-18 22:26:49,546 segment-accuracy.py:521 test] ===> mAP 59.220
+[2022-11-18 22:26:50,123 segment-accuracy.py:512 test] Frame id :273, Row size:2307.9150390625 KB, Type: I, Offloading:True, compressed size:2307.9150390625
+[2022-11-18 22:26:50,123 segment-accuracy.py:514 test] Loss:0.22449295222759247,Acc:92.86990165710449
+[2022-11-18 22:26:50,152 segment-accuracy.py:521 test] ===> mAP 59.240
+[2022-11-18 22:26:50,738 segment-accuracy.py:512 test] Frame id :274, Row size:2315.951171875 KB, Type: I, Offloading:True, compressed size:2315.951171875
+[2022-11-18 22:26:50,738 segment-accuracy.py:514 test] Loss:0.26769208908081055,Acc:92.04654693603516
+[2022-11-18 22:26:50,764 segment-accuracy.py:521 test] ===> mAP 59.270
+[2022-11-18 22:26:51,344 segment-accuracy.py:512 test] Frame id :275, Row size:2328.07421875 KB, Type: I, Offloading:True, compressed size:2328.07421875
+[2022-11-18 22:26:51,345 segment-accuracy.py:514 test] Loss:0.19628141820430756,Acc:93.2645320892334
+[2022-11-18 22:26:51,370 segment-accuracy.py:521 test] ===> mAP 59.290
+[2022-11-18 22:26:51,953 segment-accuracy.py:512 test] Frame id :276, Row size:2342.07421875 KB, Type: I, Offloading:True, compressed size:2342.07421875
+[2022-11-18 22:26:51,954 segment-accuracy.py:514 test] Loss:0.20980305969715118,Acc:93.46928596496582
+[2022-11-18 22:26:51,979 segment-accuracy.py:521 test] ===> mAP 59.310
+[2022-11-18 22:26:52,560 segment-accuracy.py:512 test] Frame id :277, Row size:2346.4111328125 KB, Type: I, Offloading:True, compressed size:2346.4111328125
+[2022-11-18 22:26:52,560 segment-accuracy.py:514 test] Loss:0.1878967583179474,Acc:93.51167678833008
+[2022-11-18 22:26:52,587 segment-accuracy.py:521 test] ===> mAP 59.320
+[2022-11-18 22:26:53,170 segment-accuracy.py:512 test] Frame id :278, Row size:2362.3515625 KB, Type: I, Offloading:True, compressed size:2362.3515625
+[2022-11-18 22:26:53,170 segment-accuracy.py:514 test] Loss:0.24618059396743774,Acc:92.9631233215332
+[2022-11-18 22:26:53,202 segment-accuracy.py:521 test] ===> mAP 59.350
+[2022-11-18 22:26:53,780 segment-accuracy.py:512 test] Frame id :279, Row size:2387.7470703125 KB, Type: I, Offloading:True, compressed size:2387.7470703125
+[2022-11-18 22:26:53,780 segment-accuracy.py:514 test] Loss:0.22382931411266327,Acc:93.53437423706055
+[2022-11-18 22:26:53,805 segment-accuracy.py:521 test] ===> mAP 59.380
+[2022-11-18 22:26:54,388 segment-accuracy.py:512 test] Frame id :280, Row size:2415.2294921875 KB, Type: I, Offloading:True, compressed size:2415.2294921875
+[2022-11-18 22:26:54,388 segment-accuracy.py:514 test] Loss:0.18754789233207703,Acc:93.86205673217773
+[2022-11-18 22:26:54,416 segment-accuracy.py:521 test] ===> mAP 59.410
+[2022-11-18 22:26:54,999 segment-accuracy.py:512 test] Frame id :281, Row size:2431.0634765625 KB, Type: I, Offloading:True, compressed size:2431.0634765625
+[2022-11-18 22:26:54,999 segment-accuracy.py:514 test] Loss:0.1741427183151245,Acc:94.5101261138916
+[2022-11-18 22:26:55,024 segment-accuracy.py:521 test] ===> mAP 59.430
+[2022-11-18 22:26:55,602 segment-accuracy.py:512 test] Frame id :282, Row size:2451.6015625 KB, Type: I, Offloading:True, compressed size:2451.6015625
+[2022-11-18 22:26:55,602 segment-accuracy.py:514 test] Loss:0.17469529807567596,Acc:94.48399543762207
+[2022-11-18 22:26:55,629 segment-accuracy.py:521 test] ===> mAP 59.460
+[2022-11-18 22:26:56,211 segment-accuracy.py:512 test] Frame id :283, Row size:2367.7861328125 KB, Type: I, Offloading:True, compressed size:2367.7861328125
+[2022-11-18 22:26:56,211 segment-accuracy.py:514 test] Loss:0.43378961086273193,Acc:89.58802223205566
+[2022-11-18 22:26:56,240 segment-accuracy.py:521 test] ===> mAP 59.480
+[2022-11-18 22:26:56,817 segment-accuracy.py:512 test] Frame id :284, Row size:2133.607421875 KB, Type: I, Offloading:True, compressed size:2133.607421875
+[2022-11-18 22:26:56,818 segment-accuracy.py:514 test] Loss:0.45722857117652893,Acc:88.56439590454102
+[2022-11-18 22:26:56,846 segment-accuracy.py:521 test] ===> mAP 59.480
+[2022-11-18 22:26:57,431 segment-accuracy.py:512 test] Frame id :285, Row size:2211.2548828125 KB, Type: I, Offloading:True, compressed size:2211.2548828125
+[2022-11-18 22:26:57,431 segment-accuracy.py:514 test] Loss:0.4238990545272827,Acc:90.6682014465332
+[2022-11-18 22:26:57,460 segment-accuracy.py:521 test] ===> mAP 59.500
+[2022-11-18 22:26:58,039 segment-accuracy.py:512 test] Frame id :286, Row size:2323.6201171875 KB, Type: I, Offloading:True, compressed size:2323.6201171875
+[2022-11-18 22:26:58,039 segment-accuracy.py:514 test] Loss:0.42186832427978516,Acc:90.65804481506348
+[2022-11-18 22:26:58,064 segment-accuracy.py:521 test] ===> mAP 59.530
+[2022-11-18 22:26:58,644 segment-accuracy.py:512 test] Frame id :287, Row size:2372.40625 KB, Type: I, Offloading:True, compressed size:2372.40625
+[2022-11-18 22:26:58,644 segment-accuracy.py:514 test] Loss:0.24648109078407288,Acc:93.37878227233887
+[2022-11-18 22:26:58,672 segment-accuracy.py:521 test] ===> mAP 59.580
+[2022-11-18 22:26:59,258 segment-accuracy.py:512 test] Frame id :288, Row size:2090.6884765625 KB, Type: I, Offloading:True, compressed size:2090.6884765625
+[2022-11-18 22:26:59,258 segment-accuracy.py:514 test] Loss:0.1937447041273117,Acc:93.66583824157715
+[2022-11-18 22:26:59,286 segment-accuracy.py:521 test] ===> mAP 59.600
+[2022-11-18 22:26:59,861 segment-accuracy.py:512 test] Frame id :289, Row size:2108.087890625 KB, Type: I, Offloading:True, compressed size:2108.087890625
+[2022-11-18 22:26:59,861 segment-accuracy.py:514 test] Loss:0.12070071697235107,Acc:96.13876342773438
+[2022-11-18 22:26:59,887 segment-accuracy.py:521 test] ===> mAP 59.640
+[2022-11-18 22:27:00,475 segment-accuracy.py:512 test] Frame id :290, Row size:2369.08984375 KB, Type: I, Offloading:True, compressed size:2369.08984375
+[2022-11-18 22:27:00,475 segment-accuracy.py:514 test] Loss:0.12964186072349548,Acc:95.64204216003418
+[2022-11-18 22:27:00,505 segment-accuracy.py:521 test] ===> mAP 59.670
+[2022-11-18 22:27:01,090 segment-accuracy.py:512 test] Frame id :291, Row size:2294.0263671875 KB, Type: I, Offloading:True, compressed size:2294.0263671875
+[2022-11-18 22:27:01,090 segment-accuracy.py:514 test] Loss:0.20097997784614563,Acc:92.81439781188965
+[2022-11-18 22:27:01,118 segment-accuracy.py:521 test] ===> mAP 59.680
+[2022-11-18 22:27:01,709 segment-accuracy.py:512 test] Frame id :292, Row size:2469.0361328125 KB, Type: I, Offloading:True, compressed size:2469.0361328125
+[2022-11-18 22:27:01,709 segment-accuracy.py:514 test] Loss:0.184563547372818,Acc:93.80989074707031
+[2022-11-18 22:27:01,733 segment-accuracy.py:521 test] ===> mAP 59.710
+[2022-11-18 22:27:02,319 segment-accuracy.py:512 test] Frame id :293, Row size:2398.587890625 KB, Type: I, Offloading:True, compressed size:2398.587890625
+[2022-11-18 22:27:02,319 segment-accuracy.py:514 test] Loss:0.20825468003749847,Acc:93.01438331604004
+[2022-11-18 22:27:02,344 segment-accuracy.py:521 test] ===> mAP 59.730
+[2022-11-18 22:27:02,922 segment-accuracy.py:512 test] Frame id :294, Row size:2507.0224609375 KB, Type: I, Offloading:True, compressed size:2507.0224609375
+[2022-11-18 22:27:02,922 segment-accuracy.py:514 test] Loss:0.2180424928665161,Acc:93.23153495788574
+[2022-11-18 22:27:02,949 segment-accuracy.py:521 test] ===> mAP 59.750
+[2022-11-18 22:27:03,527 segment-accuracy.py:512 test] Frame id :295, Row size:2554.240234375 KB, Type: I, Offloading:True, compressed size:2554.240234375
+[2022-11-18 22:27:03,527 segment-accuracy.py:514 test] Loss:0.21001829206943512,Acc:94.03424263000488
+[2022-11-18 22:27:03,557 segment-accuracy.py:521 test] ===> mAP 59.790
+[2022-11-18 22:27:04,147 segment-accuracy.py:512 test] Frame id :296, Row size:2579.185546875 KB, Type: I, Offloading:True, compressed size:2579.185546875
+[2022-11-18 22:27:04,147 segment-accuracy.py:514 test] Loss:0.15744489431381226,Acc:95.06411552429199
+[2022-11-18 22:27:04,172 segment-accuracy.py:521 test] ===> mAP 59.840
+[2022-11-18 22:27:04,753 segment-accuracy.py:512 test] Frame id :297, Row size:2617.736328125 KB, Type: I, Offloading:True, compressed size:2617.736328125
+[2022-11-18 22:27:04,753 segment-accuracy.py:514 test] Loss:0.17208413779735565,Acc:94.73409652709961
+[2022-11-18 22:27:04,781 segment-accuracy.py:521 test] ===> mAP 59.870
+[2022-11-18 22:27:05,352 segment-accuracy.py:512 test] Frame id :298, Row size:2289.1103515625 KB, Type: I, Offloading:True, compressed size:2289.1103515625
+[2022-11-18 22:27:05,352 segment-accuracy.py:514 test] Loss:0.2439214289188385,Acc:92.66304969787598
+[2022-11-18 22:27:05,381 segment-accuracy.py:521 test] ===> mAP 59.880
+[2022-11-18 22:27:05,959 segment-accuracy.py:512 test] Frame id :299, Row size:2352.7587890625 KB, Type: I, Offloading:True, compressed size:2352.7587890625
+[2022-11-18 22:27:05,959 segment-accuracy.py:514 test] Loss:0.38237857818603516,Acc:92.82712936401367
+[2022-11-18 22:27:05,986 segment-accuracy.py:521 test] ===> mAP 59.920
+[2022-11-18 22:27:06,563 segment-accuracy.py:512 test] Frame id :300, Row size:2584.8720703125 KB, Type: I, Offloading:True, compressed size:2584.8720703125
+[2022-11-18 22:27:06,563 segment-accuracy.py:514 test] Loss:0.21160127222537994,Acc:94.7702407836914
+[2022-11-18 22:27:06,587 segment-accuracy.py:521 test] ===> mAP 59.940
+[2022-11-18 22:27:07,162 segment-accuracy.py:512 test] Frame id :301, Row size:2431.2822265625 KB, Type: I, Offloading:True, compressed size:2431.2822265625
+[2022-11-18 22:27:07,162 segment-accuracy.py:514 test] Loss:0.33506107330322266,Acc:91.45159721374512
+[2022-11-18 22:27:07,186 segment-accuracy.py:521 test] ===> mAP 59.950
+[2022-11-18 22:27:07,775 segment-accuracy.py:512 test] Frame id :302, Row size:2542.80859375 KB, Type: I, Offloading:True, compressed size:2542.80859375
+[2022-11-18 22:27:07,775 segment-accuracy.py:514 test] Loss:0.3033861815929413,Acc:92.41275787353516
+[2022-11-18 22:27:07,808 segment-accuracy.py:521 test] ===> mAP 59.990
+[2022-11-18 22:27:08,396 segment-accuracy.py:512 test] Frame id :303, Row size:2589.5126953125 KB, Type: I, Offloading:True, compressed size:2589.5126953125
+[2022-11-18 22:27:08,396 segment-accuracy.py:514 test] Loss:0.24157264828681946,Acc:92.27743148803711
+[2022-11-18 22:27:08,421 segment-accuracy.py:521 test] ===> mAP 60.000
+[2022-11-18 22:27:09,025 segment-accuracy.py:512 test] Frame id :304, Row size:2558.33984375 KB, Type: I, Offloading:True, compressed size:2558.33984375
+[2022-11-18 22:27:09,026 segment-accuracy.py:514 test] Loss:0.15417452156543732,Acc:94.96092796325684
+[2022-11-18 22:27:09,055 segment-accuracy.py:521 test] ===> mAP 60.010
+[2022-11-18 22:27:09,643 segment-accuracy.py:512 test] Frame id :305, Row size:2525.548828125 KB, Type: I, Offloading:True, compressed size:2525.548828125
+[2022-11-18 22:27:09,643 segment-accuracy.py:514 test] Loss:0.18697430193424225,Acc:93.16983222961426
+[2022-11-18 22:27:09,671 segment-accuracy.py:521 test] ===> mAP 60.030
+[2022-11-18 22:27:10,260 segment-accuracy.py:512 test] Frame id :306, Row size:2492.2685546875 KB, Type: I, Offloading:True, compressed size:2492.2685546875
+[2022-11-18 22:27:10,260 segment-accuracy.py:514 test] Loss:0.15397243201732635,Acc:94.82607841491699
+[2022-11-18 22:27:10,285 segment-accuracy.py:521 test] ===> mAP 60.050
+[2022-11-18 22:27:10,869 segment-accuracy.py:512 test] Frame id :307, Row size:2413.8955078125 KB, Type: I, Offloading:True, compressed size:2413.8955078125
+[2022-11-18 22:27:10,869 segment-accuracy.py:514 test] Loss:0.15791384875774384,Acc:94.71349716186523
+[2022-11-18 22:27:10,893 segment-accuracy.py:521 test] ===> mAP 60.080
+[2022-11-18 22:27:11,485 segment-accuracy.py:512 test] Frame id :308, Row size:2402.9677734375 KB, Type: I, Offloading:True, compressed size:2402.9677734375
+[2022-11-18 22:27:11,485 segment-accuracy.py:514 test] Loss:0.19915729761123657,Acc:93.98503303527832
+[2022-11-18 22:27:11,513 segment-accuracy.py:521 test] ===> mAP 60.090
+[2022-11-18 22:27:12,098 segment-accuracy.py:512 test] Frame id :309, Row size:2217.40625 KB, Type: I, Offloading:True, compressed size:2217.40625
+[2022-11-18 22:27:12,098 segment-accuracy.py:514 test] Loss:0.32273298501968384,Acc:90.76552391052246
+[2022-11-18 22:27:12,124 segment-accuracy.py:521 test] ===> mAP 60.080
+[2022-11-18 22:27:12,712 segment-accuracy.py:512 test] Frame id :310, Row size:2349.646484375 KB, Type: I, Offloading:True, compressed size:2349.646484375
+[2022-11-18 22:27:12,712 segment-accuracy.py:514 test] Loss:0.2941533029079437,Acc:91.13407135009766
+[2022-11-18 22:27:12,737 segment-accuracy.py:521 test] ===> mAP 60.070
+[2022-11-18 22:27:13,324 segment-accuracy.py:512 test] Frame id :311, Row size:2319.2294921875 KB, Type: I, Offloading:True, compressed size:2319.2294921875
+[2022-11-18 22:27:13,325 segment-accuracy.py:514 test] Loss:0.26990771293640137,Acc:91.3640022277832
+[2022-11-18 22:27:13,359 segment-accuracy.py:521 test] ===> mAP 60.070
+[2022-11-18 22:27:13,950 segment-accuracy.py:512 test] Frame id :312, Row size:2431.90234375 KB, Type: I, Offloading:True, compressed size:2431.90234375
+[2022-11-18 22:27:13,950 segment-accuracy.py:514 test] Loss:0.22786422073841095,Acc:93.0363655090332
+[2022-11-18 22:27:13,977 segment-accuracy.py:521 test] ===> mAP 60.080
+[2022-11-18 22:27:14,563 segment-accuracy.py:512 test] Frame id :313, Row size:2500.7724609375 KB, Type: I, Offloading:True, compressed size:2500.7724609375
+[2022-11-18 22:27:14,563 segment-accuracy.py:514 test] Loss:0.22448381781578064,Acc:91.50910377502441
+[2022-11-18 22:27:14,589 segment-accuracy.py:521 test] ===> mAP 60.080
+[2022-11-18 22:27:15,177 segment-accuracy.py:512 test] Frame id :314, Row size:2548.8515625 KB, Type: I, Offloading:True, compressed size:2548.8515625
+[2022-11-18 22:27:15,177 segment-accuracy.py:514 test] Loss:0.18098744750022888,Acc:93.96891593933105
+[2022-11-18 22:27:15,205 segment-accuracy.py:521 test] ===> mAP 60.100
+[2022-11-18 22:27:15,782 segment-accuracy.py:512 test] Frame id :315, Row size:2580.96484375 KB, Type: I, Offloading:True, compressed size:2580.96484375
+[2022-11-18 22:27:15,782 segment-accuracy.py:514 test] Loss:0.16214682161808014,Acc:94.94104385375977
+[2022-11-18 22:27:15,808 segment-accuracy.py:521 test] ===> mAP 60.130
+[2022-11-18 22:27:16,383 segment-accuracy.py:512 test] Frame id :316, Row size:2623.435546875 KB, Type: I, Offloading:True, compressed size:2623.435546875
+[2022-11-18 22:27:16,383 segment-accuracy.py:514 test] Loss:0.14178000390529633,Acc:95.82271575927734
+[2022-11-18 22:27:16,410 segment-accuracy.py:521 test] ===> mAP 60.170
+[2022-11-18 22:27:16,988 segment-accuracy.py:512 test] Frame id :317, Row size:2617.703125 KB, Type: I, Offloading:True, compressed size:2617.703125
+[2022-11-18 22:27:16,989 segment-accuracy.py:514 test] Loss:0.14578890800476074,Acc:95.51253318786621
+[2022-11-18 22:27:17,015 segment-accuracy.py:521 test] ===> mAP 60.200
+[2022-11-18 22:27:17,593 segment-accuracy.py:512 test] Frame id :318, Row size:2618.8359375 KB, Type: I, Offloading:True, compressed size:2618.8359375
+[2022-11-18 22:27:17,593 segment-accuracy.py:514 test] Loss:0.1611863523721695,Acc:94.69184875488281
+[2022-11-18 22:27:17,618 segment-accuracy.py:521 test] ===> mAP 60.220
+[2022-11-18 22:27:18,203 segment-accuracy.py:512 test] Frame id :319, Row size:2641.3388671875 KB, Type: I, Offloading:True, compressed size:2641.3388671875
+[2022-11-18 22:27:18,203 segment-accuracy.py:514 test] Loss:0.18406197428703308,Acc:94.86403465270996
+[2022-11-18 22:27:18,231 segment-accuracy.py:521 test] ===> mAP 60.250
+[2022-11-18 22:27:18,803 segment-accuracy.py:512 test] Frame id :320, Row size:2663.029296875 KB, Type: I, Offloading:True, compressed size:2663.029296875
+[2022-11-18 22:27:18,804 segment-accuracy.py:514 test] Loss:0.17604024708271027,Acc:94.68708038330078
+[2022-11-18 22:27:18,829 segment-accuracy.py:521 test] ===> mAP 60.270
+[2022-11-18 22:27:19,409 segment-accuracy.py:512 test] Frame id :321, Row size:2672.185546875 KB, Type: I, Offloading:True, compressed size:2672.185546875
+[2022-11-18 22:27:19,410 segment-accuracy.py:514 test] Loss:0.1438976675271988,Acc:95.24965286254883
+[2022-11-18 22:27:19,438 segment-accuracy.py:521 test] ===> mAP 60.280
+[2022-11-18 22:27:20,022 segment-accuracy.py:512 test] Frame id :322, Row size:2677.572265625 KB, Type: I, Offloading:True, compressed size:2677.572265625
+[2022-11-18 22:27:20,022 segment-accuracy.py:514 test] Loss:0.12360076606273651,Acc:96.34857177734375
+[2022-11-18 22:27:20,055 segment-accuracy.py:521 test] ===> mAP 60.310
+[2022-11-18 22:27:20,631 segment-accuracy.py:512 test] Frame id :323, Row size:2326.9853515625 KB, Type: I, Offloading:True, compressed size:2326.9853515625
+[2022-11-18 22:27:20,631 segment-accuracy.py:514 test] Loss:0.27851036190986633,Acc:93.2640552520752
+[2022-11-18 22:27:20,656 segment-accuracy.py:521 test] ===> mAP 60.320
+[2022-11-18 22:27:21,233 segment-accuracy.py:512 test] Frame id :324, Row size:2425.6767578125 KB, Type: I, Offloading:True, compressed size:2425.6767578125
+[2022-11-18 22:27:21,233 segment-accuracy.py:514 test] Loss:0.22814224660396576,Acc:94.15249824523926
+[2022-11-18 22:27:21,257 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:21,842 segment-accuracy.py:512 test] Frame id :325, Row size:2475.138671875 KB, Type: I, Offloading:True, compressed size:2475.138671875
+[2022-11-18 22:27:21,842 segment-accuracy.py:514 test] Loss:0.19516833126544952,Acc:94.53577995300293
+[2022-11-18 22:27:21,871 segment-accuracy.py:521 test] ===> mAP 60.360
+[2022-11-18 22:27:22,462 segment-accuracy.py:512 test] Frame id :326, Row size:2512.3212890625 KB, Type: I, Offloading:True, compressed size:2512.3212890625
+[2022-11-18 22:27:22,463 segment-accuracy.py:514 test] Loss:0.12379377335309982,Acc:95.82343101501465
+[2022-11-18 22:27:22,487 segment-accuracy.py:521 test] ===> mAP 60.400
+[2022-11-18 22:27:23,083 segment-accuracy.py:512 test] Frame id :327, Row size:2083.453125 KB, Type: I, Offloading:True, compressed size:2083.453125
+[2022-11-18 22:27:23,083 segment-accuracy.py:514 test] Loss:0.21991698443889618,Acc:92.23475456237793
+[2022-11-18 22:27:23,110 segment-accuracy.py:521 test] ===> mAP 60.380
+[2022-11-18 22:27:23,705 segment-accuracy.py:512 test] Frame id :328, Row size:2201.54296875 KB, Type: I, Offloading:True, compressed size:2201.54296875
+[2022-11-18 22:27:23,706 segment-accuracy.py:514 test] Loss:0.2525535225868225,Acc:92.04483032226562
+[2022-11-18 22:27:23,732 segment-accuracy.py:521 test] ===> mAP 60.380
+[2022-11-18 22:27:24,318 segment-accuracy.py:512 test] Frame id :329, Row size:1996.9599609375 KB, Type: I, Offloading:True, compressed size:1996.9599609375
+[2022-11-18 22:27:24,318 segment-accuracy.py:514 test] Loss:0.31667616963386536,Acc:89.8139476776123
+[2022-11-18 22:27:24,344 segment-accuracy.py:521 test] ===> mAP 60.370
+[2022-11-18 22:27:24,926 segment-accuracy.py:512 test] Frame id :330, Row size:2178.1142578125 KB, Type: I, Offloading:True, compressed size:2178.1142578125
+[2022-11-18 22:27:24,926 segment-accuracy.py:514 test] Loss:0.25277405977249146,Acc:90.91510772705078
+[2022-11-18 22:27:24,951 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:25,536 segment-accuracy.py:512 test] Frame id :331, Row size:2010.55078125 KB, Type: I, Offloading:True, compressed size:2010.55078125
+[2022-11-18 22:27:25,536 segment-accuracy.py:514 test] Loss:0.3938051462173462,Acc:87.59622573852539
+[2022-11-18 22:27:25,564 segment-accuracy.py:521 test] ===> mAP 60.360
+[2022-11-18 22:27:26,147 segment-accuracy.py:512 test] Frame id :332, Row size:2213.021484375 KB, Type: I, Offloading:True, compressed size:2213.021484375
+[2022-11-18 22:27:26,147 segment-accuracy.py:514 test] Loss:0.46177664399147034,Acc:85.98208427429199
+[2022-11-18 22:27:26,172 segment-accuracy.py:521 test] ===> mAP 60.330
+[2022-11-18 22:27:26,751 segment-accuracy.py:512 test] Frame id :333, Row size:2315.6357421875 KB, Type: I, Offloading:True, compressed size:2315.6357421875
+[2022-11-18 22:27:26,751 segment-accuracy.py:514 test] Loss:0.46148547530174255,Acc:87.66674995422363
+[2022-11-18 22:27:26,779 segment-accuracy.py:521 test] ===> mAP 60.290
+[2022-11-18 22:27:27,366 segment-accuracy.py:512 test] Frame id :334, Row size:2382.34765625 KB, Type: I, Offloading:True, compressed size:2382.34765625
+[2022-11-18 22:27:27,367 segment-accuracy.py:514 test] Loss:0.4411199688911438,Acc:88.76762390136719
+[2022-11-18 22:27:27,396 segment-accuracy.py:521 test] ===> mAP 60.300
+[2022-11-18 22:27:27,984 segment-accuracy.py:512 test] Frame id :335, Row size:2274.8583984375 KB, Type: I, Offloading:True, compressed size:2274.8583984375
+[2022-11-18 22:27:27,984 segment-accuracy.py:514 test] Loss:0.37739771604537964,Acc:91.49055480957031
+[2022-11-18 22:27:28,014 segment-accuracy.py:521 test] ===> mAP 60.340
+[2022-11-18 22:27:28,594 segment-accuracy.py:512 test] Frame id :336, Row size:2306.5087890625 KB, Type: I, Offloading:True, compressed size:2306.5087890625
+[2022-11-18 22:27:28,594 segment-accuracy.py:514 test] Loss:0.3892054557800293,Acc:92.65508651733398
+[2022-11-18 22:27:28,622 segment-accuracy.py:521 test] ===> mAP 60.380
+[2022-11-18 22:27:29,204 segment-accuracy.py:512 test] Frame id :337, Row size:1974.8505859375 KB, Type: I, Offloading:True, compressed size:1974.8505859375
+[2022-11-18 22:27:29,204 segment-accuracy.py:514 test] Loss:0.1576855182647705,Acc:95.39370536804199
+[2022-11-18 22:27:29,229 segment-accuracy.py:521 test] ===> mAP 60.390
+[2022-11-18 22:27:29,810 segment-accuracy.py:512 test] Frame id :338, Row size:2222.6943359375 KB, Type: I, Offloading:True, compressed size:2222.6943359375
+[2022-11-18 22:27:29,811 segment-accuracy.py:514 test] Loss:0.1699192374944687,Acc:94.75083351135254
+[2022-11-18 22:27:29,835 segment-accuracy.py:521 test] ===> mAP 60.390
+[2022-11-18 22:27:30,418 segment-accuracy.py:512 test] Frame id :339, Row size:2333.712890625 KB, Type: I, Offloading:True, compressed size:2333.712890625
+[2022-11-18 22:27:30,418 segment-accuracy.py:514 test] Loss:0.12085547298192978,Acc:96.19569778442383
+[2022-11-18 22:27:30,446 segment-accuracy.py:521 test] ===> mAP 60.390
+[2022-11-18 22:27:31,057 segment-accuracy.py:512 test] Frame id :340, Row size:2415.142578125 KB, Type: I, Offloading:True, compressed size:2415.142578125
+[2022-11-18 22:27:31,058 segment-accuracy.py:514 test] Loss:0.13335248827934265,Acc:95.66950798034668
+[2022-11-18 22:27:31,089 segment-accuracy.py:521 test] ===> mAP 60.400
+[2022-11-18 22:27:31,669 segment-accuracy.py:512 test] Frame id :341, Row size:1974.9287109375 KB, Type: I, Offloading:True, compressed size:1974.9287109375
+[2022-11-18 22:27:31,669 segment-accuracy.py:514 test] Loss:0.2276873141527176,Acc:92.364501953125
+[2022-11-18 22:27:31,697 segment-accuracy.py:521 test] ===> mAP 60.380
+[2022-11-18 22:27:32,285 segment-accuracy.py:512 test] Frame id :342, Row size:2175.7412109375 KB, Type: I, Offloading:True, compressed size:2175.7412109375
+[2022-11-18 22:27:32,285 segment-accuracy.py:514 test] Loss:0.1527438461780548,Acc:95.09086608886719
+[2022-11-18 22:27:32,313 segment-accuracy.py:521 test] ===> mAP 60.370
+[2022-11-18 22:27:32,889 segment-accuracy.py:512 test] Frame id :343, Row size:1914.18359375 KB, Type: I, Offloading:True, compressed size:1914.18359375
+[2022-11-18 22:27:32,890 segment-accuracy.py:514 test] Loss:0.27402448654174805,Acc:91.28379821777344
+[2022-11-18 22:27:32,920 segment-accuracy.py:521 test] ===> mAP 60.360
+[2022-11-18 22:27:33,507 segment-accuracy.py:512 test] Frame id :344, Row size:2108.4951171875 KB, Type: I, Offloading:True, compressed size:2108.4951171875
+[2022-11-18 22:27:33,507 segment-accuracy.py:514 test] Loss:0.21037712693214417,Acc:93.5063362121582
+[2022-11-18 22:27:33,536 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:34,120 segment-accuracy.py:512 test] Frame id :345, Row size:2150.490234375 KB, Type: I, Offloading:True, compressed size:2150.490234375
+[2022-11-18 22:27:34,120 segment-accuracy.py:514 test] Loss:0.25896942615509033,Acc:91.75548553466797
+[2022-11-18 22:27:34,150 segment-accuracy.py:521 test] ===> mAP 60.360
+[2022-11-18 22:27:34,725 segment-accuracy.py:512 test] Frame id :346, Row size:2242.287109375 KB, Type: I, Offloading:True, compressed size:2242.287109375
+[2022-11-18 22:27:34,725 segment-accuracy.py:514 test] Loss:0.20919309556484222,Acc:93.23339462280273
+[2022-11-18 22:27:34,750 segment-accuracy.py:521 test] ===> mAP 60.360
+[2022-11-18 22:27:35,330 segment-accuracy.py:512 test] Frame id :347, Row size:2292.359375 KB, Type: I, Offloading:True, compressed size:2292.359375
+[2022-11-18 22:27:35,330 segment-accuracy.py:514 test] Loss:0.1740112453699112,Acc:94.0150260925293
+[2022-11-18 22:27:35,355 segment-accuracy.py:521 test] ===> mAP 60.370
+[2022-11-18 22:27:35,935 segment-accuracy.py:512 test] Frame id :348, Row size:2329.326171875 KB, Type: I, Offloading:True, compressed size:2329.326171875
+[2022-11-18 22:27:35,935 segment-accuracy.py:514 test] Loss:0.20913781225681305,Acc:93.25814247131348
+[2022-11-18 22:27:35,966 segment-accuracy.py:521 test] ===> mAP 60.390
+[2022-11-18 22:27:36,555 segment-accuracy.py:512 test] Frame id :349, Row size:2367.9111328125 KB, Type: I, Offloading:True, compressed size:2367.9111328125
+[2022-11-18 22:27:36,556 segment-accuracy.py:514 test] Loss:0.18822617828845978,Acc:93.45870018005371
+[2022-11-18 22:27:36,585 segment-accuracy.py:521 test] ===> mAP 60.380
+[2022-11-18 22:27:37,174 segment-accuracy.py:512 test] Frame id :350, Row size:2303.79296875 KB, Type: I, Offloading:True, compressed size:2303.79296875
+[2022-11-18 22:27:37,174 segment-accuracy.py:514 test] Loss:0.2805686295032501,Acc:90.54303169250488
+[2022-11-18 22:27:37,200 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:37,782 segment-accuracy.py:512 test] Frame id :351, Row size:2381.08203125 KB, Type: I, Offloading:True, compressed size:2381.08203125
+[2022-11-18 22:27:37,782 segment-accuracy.py:514 test] Loss:0.1886797845363617,Acc:93.31393241882324
+[2022-11-18 22:27:37,810 segment-accuracy.py:521 test] ===> mAP 60.340
+[2022-11-18 22:27:38,391 segment-accuracy.py:512 test] Frame id :352, Row size:2388.9921875 KB, Type: I, Offloading:True, compressed size:2388.9921875
+[2022-11-18 22:27:38,391 segment-accuracy.py:514 test] Loss:0.14898663759231567,Acc:94.9209213256836
+[2022-11-18 22:27:38,416 segment-accuracy.py:521 test] ===> mAP 60.340
+[2022-11-18 22:27:39,009 segment-accuracy.py:512 test] Frame id :353, Row size:2316.6953125 KB, Type: I, Offloading:True, compressed size:2316.6953125
+[2022-11-18 22:27:39,009 segment-accuracy.py:514 test] Loss:0.31196269392967224,Acc:90.04378318786621
+[2022-11-18 22:27:39,036 segment-accuracy.py:521 test] ===> mAP 60.340
+[2022-11-18 22:27:39,610 segment-accuracy.py:512 test] Frame id :354, Row size:2359.0693359375 KB, Type: I, Offloading:True, compressed size:2359.0693359375
+[2022-11-18 22:27:39,611 segment-accuracy.py:514 test] Loss:0.3341895639896393,Acc:91.3604736328125
+[2022-11-18 22:27:39,643 segment-accuracy.py:521 test] ===> mAP 60.340
+[2022-11-18 22:27:40,224 segment-accuracy.py:512 test] Frame id :355, Row size:2377.435546875 KB, Type: I, Offloading:True, compressed size:2377.435546875
+[2022-11-18 22:27:40,224 segment-accuracy.py:514 test] Loss:0.29487064480781555,Acc:92.20619201660156
+[2022-11-18 22:27:40,252 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:40,846 segment-accuracy.py:512 test] Frame id :356, Row size:2399.8916015625 KB, Type: I, Offloading:True, compressed size:2399.8916015625
+[2022-11-18 22:27:40,846 segment-accuracy.py:514 test] Loss:0.2943335473537445,Acc:91.4186954498291
+[2022-11-18 22:27:40,874 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:41,461 segment-accuracy.py:512 test] Frame id :357, Row size:2422.8125 KB, Type: I, Offloading:True, compressed size:2422.8125
+[2022-11-18 22:27:41,461 segment-accuracy.py:514 test] Loss:0.2256738841533661,Acc:92.88187026977539
+[2022-11-18 22:27:41,492 segment-accuracy.py:521 test] ===> mAP 60.350
+[2022-11-18 22:27:42,089 segment-accuracy.py:512 test] Frame id :358, Row size:2445.0751953125 KB, Type: I, Offloading:True, compressed size:2445.0751953125
+[2022-11-18 22:27:42,090 segment-accuracy.py:514 test] Loss:0.2815210819244385,Acc:92.01078414916992
+[2022-11-18 22:27:42,118 segment-accuracy.py:521 test] ===> mAP 60.370
+[2022-11-18 22:27:42,721 segment-accuracy.py:512 test] Frame id :359, Row size:2460.6826171875 KB, Type: I, Offloading:True, compressed size:2460.6826171875
+[2022-11-18 22:27:42,722 segment-accuracy.py:514 test] Loss:0.22925138473510742,Acc:92.72007942199707
+[2022-11-18 22:27:42,750 segment-accuracy.py:521 test] ===> mAP 60.370
+[2022-11-18 22:27:43,340 segment-accuracy.py:512 test] Frame id :360, Row size:2482.294921875 KB, Type: I, Offloading:True, compressed size:2482.294921875
+[2022-11-18 22:27:43,341 segment-accuracy.py:514 test] Loss:0.14812049269676208,Acc:94.70539093017578
+[2022-11-18 22:27:43,368 segment-accuracy.py:521 test] ===> mAP 60.390
+[2022-11-18 22:27:43,951 segment-accuracy.py:512 test] Frame id :361, Row size:2496.9130859375 KB, Type: I, Offloading:True, compressed size:2496.9130859375
+[2022-11-18 22:27:43,951 segment-accuracy.py:514 test] Loss:0.16146507859230042,Acc:94.60783004760742
+[2022-11-18 22:27:43,976 segment-accuracy.py:521 test] ===> mAP 60.400
+[2022-11-18 22:27:44,568 segment-accuracy.py:512 test] Frame id :362, Row size:2500.9912109375 KB, Type: I, Offloading:True, compressed size:2500.9912109375
+[2022-11-18 22:27:44,568 segment-accuracy.py:514 test] Loss:0.1400081366300583,Acc:95.30467987060547
+[2022-11-18 22:27:44,595 segment-accuracy.py:521 test] ===> mAP 60.390
+[2022-11-18 22:27:45,173 segment-accuracy.py:512 test] Frame id :363, Row size:2498.0205078125 KB, Type: I, Offloading:True, compressed size:2498.0205078125
+[2022-11-18 22:27:45,174 segment-accuracy.py:514 test] Loss:0.14629092812538147,Acc:94.9709415435791
+[2022-11-18 22:27:45,199 segment-accuracy.py:521 test] ===> mAP 60.400
+[2022-11-18 22:27:45,777 segment-accuracy.py:512 test] Frame id :364, Row size:2493.9033203125 KB, Type: I, Offloading:True, compressed size:2493.9033203125
+[2022-11-18 22:27:45,778 segment-accuracy.py:514 test] Loss:0.12702493369579315,Acc:95.70832252502441
+[2022-11-18 22:27:45,803 segment-accuracy.py:521 test] ===> mAP 60.420
+[2022-11-18 22:27:46,389 segment-accuracy.py:512 test] Frame id :365, Row size:2495.193359375 KB, Type: I, Offloading:True, compressed size:2495.193359375
+[2022-11-18 22:27:46,389 segment-accuracy.py:514 test] Loss:0.1134868711233139,Acc:96.26607894897461
+[2022-11-18 22:27:46,416 segment-accuracy.py:521 test] ===> mAP 60.430
+[2022-11-18 22:27:46,999 segment-accuracy.py:512 test] Frame id :366, Row size:2494.779296875 KB, Type: I, Offloading:True, compressed size:2494.779296875
+[2022-11-18 22:27:46,999 segment-accuracy.py:514 test] Loss:0.13139744102954865,Acc:95.47462463378906
+[2022-11-18 22:27:47,025 segment-accuracy.py:521 test] ===> mAP 60.450
+[2022-11-18 22:27:47,603 segment-accuracy.py:512 test] Frame id :367, Row size:2498.1201171875 KB, Type: I, Offloading:True, compressed size:2498.1201171875
+[2022-11-18 22:27:47,604 segment-accuracy.py:514 test] Loss:0.146996408700943,Acc:95.12286186218262
+[2022-11-18 22:27:47,631 segment-accuracy.py:521 test] ===> mAP 60.460
+[2022-11-18 22:27:48,208 segment-accuracy.py:512 test] Frame id :368, Row size:2504.1396484375 KB, Type: I, Offloading:True, compressed size:2504.1396484375
+[2022-11-18 22:27:48,208 segment-accuracy.py:514 test] Loss:0.12216018885374069,Acc:95.97287178039551
+[2022-11-18 22:27:48,234 segment-accuracy.py:521 test] ===> mAP 60.460
+[2022-11-18 22:27:48,811 segment-accuracy.py:512 test] Frame id :369, Row size:2504.931640625 KB, Type: I, Offloading:True, compressed size:2504.931640625
+[2022-11-18 22:27:48,811 segment-accuracy.py:514 test] Loss:0.10929390043020248,Acc:96.33684158325195
+[2022-11-18 22:27:48,837 segment-accuracy.py:521 test] ===> mAP 60.480
+[2022-11-18 22:27:49,423 segment-accuracy.py:512 test] Frame id :370, Row size:2505.6279296875 KB, Type: I, Offloading:True, compressed size:2505.6279296875
+[2022-11-18 22:27:49,424 segment-accuracy.py:514 test] Loss:0.10766318440437317,Acc:96.57511711120605
+[2022-11-18 22:27:49,450 segment-accuracy.py:521 test] ===> mAP 60.510
+[2022-11-18 22:27:50,034 segment-accuracy.py:512 test] Frame id :371, Row size:2505.1259765625 KB, Type: I, Offloading:True, compressed size:2505.1259765625
+[2022-11-18 22:27:50,034 segment-accuracy.py:514 test] Loss:0.11167284846305847,Acc:96.26908302307129
+[2022-11-18 22:27:50,059 segment-accuracy.py:521 test] ===> mAP 60.530
+[2022-11-18 22:27:50,635 segment-accuracy.py:512 test] Frame id :372, Row size:2504.7958984375 KB, Type: I, Offloading:True, compressed size:2504.7958984375
+[2022-11-18 22:27:50,635 segment-accuracy.py:514 test] Loss:0.11479337513446808,Acc:96.09670639038086
+[2022-11-18 22:27:50,660 segment-accuracy.py:521 test] ===> mAP 60.540
+[2022-11-18 22:27:51,243 segment-accuracy.py:512 test] Frame id :373, Row size:2504.0888671875 KB, Type: I, Offloading:True, compressed size:2504.0888671875
+[2022-11-18 22:27:51,244 segment-accuracy.py:514 test] Loss:0.09792175889015198,Acc:97.10617065429688
+[2022-11-18 22:27:51,274 segment-accuracy.py:521 test] ===> mAP 60.560
+[2022-11-18 22:27:51,853 segment-accuracy.py:512 test] Frame id :374, Row size:2503.27734375 KB, Type: I, Offloading:True, compressed size:2503.27734375
+[2022-11-18 22:27:51,853 segment-accuracy.py:514 test] Loss:0.1081581711769104,Acc:96.51002883911133
+[2022-11-18 22:27:51,878 segment-accuracy.py:521 test] ===> mAP 60.570
+[2022-11-18 22:27:52,457 segment-accuracy.py:512 test] Frame id :375, Row size:2504.7109375 KB, Type: I, Offloading:True, compressed size:2504.7109375
+[2022-11-18 22:27:52,457 segment-accuracy.py:514 test] Loss:0.11529774218797684,Acc:96.39215469360352
+[2022-11-18 22:27:52,485 segment-accuracy.py:521 test] ===> mAP 60.570
+[2022-11-18 22:27:53,069 segment-accuracy.py:512 test] Frame id :376, Row size:2505.1015625 KB, Type: I, Offloading:True, compressed size:2505.1015625
+[2022-11-18 22:27:53,069 segment-accuracy.py:514 test] Loss:0.12530158460140228,Acc:95.8796501159668
+[2022-11-18 22:27:53,100 segment-accuracy.py:521 test] ===> mAP 60.570
+[2022-11-18 22:27:53,679 segment-accuracy.py:512 test] Frame id :377, Row size:2509.1376953125 KB, Type: I, Offloading:True, compressed size:2509.1376953125
+[2022-11-18 22:27:53,680 segment-accuracy.py:514 test] Loss:0.125006765127182,Acc:95.71290016174316
+[2022-11-18 22:27:53,704 segment-accuracy.py:521 test] ===> mAP 60.570
+[2022-11-18 22:27:54,281 segment-accuracy.py:512 test] Frame id :378, Row size:2508.0458984375 KB, Type: I, Offloading:True, compressed size:2508.0458984375
+[2022-11-18 22:27:54,281 segment-accuracy.py:514 test] Loss:0.11550744622945786,Acc:96.25487327575684
+[2022-11-18 22:27:54,305 segment-accuracy.py:521 test] ===> mAP 60.580
+[2022-11-18 22:27:54,885 segment-accuracy.py:512 test] Frame id :379, Row size:2505.130859375 KB, Type: I, Offloading:True, compressed size:2505.130859375
+[2022-11-18 22:27:54,885 segment-accuracy.py:514 test] Loss:0.11851055920124054,Acc:96.1632251739502
+[2022-11-18 22:27:54,915 segment-accuracy.py:521 test] ===> mAP 60.580
+[2022-11-18 22:27:55,493 segment-accuracy.py:512 test] Frame id :380, Row size:2502.267578125 KB, Type: I, Offloading:True, compressed size:2502.267578125
+[2022-11-18 22:27:55,494 segment-accuracy.py:514 test] Loss:0.1117846667766571,Acc:96.61426544189453
+[2022-11-18 22:27:55,518 segment-accuracy.py:521 test] ===> mAP 60.590
+[2022-11-18 22:27:56,097 segment-accuracy.py:512 test] Frame id :381, Row size:2498.30859375 KB, Type: I, Offloading:True, compressed size:2498.30859375
+[2022-11-18 22:27:56,097 segment-accuracy.py:514 test] Loss:0.1468733549118042,Acc:95.1570987701416
+[2022-11-18 22:27:56,126 segment-accuracy.py:521 test] ===> mAP 60.570
+[2022-11-18 22:27:56,710 segment-accuracy.py:512 test] Frame id :382, Row size:2479.44921875 KB, Type: I, Offloading:True, compressed size:2479.44921875
+[2022-11-18 22:27:56,711 segment-accuracy.py:514 test] Loss:0.12317797541618347,Acc:95.8315372467041
+[2022-11-18 22:27:56,738 segment-accuracy.py:521 test] ===> mAP 60.590
+[2022-11-18 22:27:57,324 segment-accuracy.py:512 test] Frame id :383, Row size:2475.0390625 KB, Type: I, Offloading:True, compressed size:2475.0390625
+[2022-11-18 22:27:57,324 segment-accuracy.py:514 test] Loss:0.1242164820432663,Acc:95.96271514892578
+[2022-11-18 22:27:57,350 segment-accuracy.py:521 test] ===> mAP 60.610
+[2022-11-18 22:27:57,927 segment-accuracy.py:512 test] Frame id :384, Row size:2462.1064453125 KB, Type: I, Offloading:True, compressed size:2462.1064453125
+[2022-11-18 22:27:57,928 segment-accuracy.py:514 test] Loss:0.11958122998476028,Acc:96.07124328613281
+[2022-11-18 22:27:57,953 segment-accuracy.py:521 test] ===> mAP 60.610
+[2022-11-18 22:27:58,535 segment-accuracy.py:512 test] Frame id :385, Row size:2481.701171875 KB, Type: I, Offloading:True, compressed size:2481.701171875
+[2022-11-18 22:27:58,535 segment-accuracy.py:514 test] Loss:0.14659953117370605,Acc:95.46465873718262
+[2022-11-18 22:27:58,562 segment-accuracy.py:521 test] ===> mAP 60.600
+[2022-11-18 22:27:59,135 segment-accuracy.py:512 test] Frame id :386, Row size:2467.8994140625 KB, Type: I, Offloading:True, compressed size:2467.8994140625
+[2022-11-18 22:27:59,135 segment-accuracy.py:514 test] Loss:0.11782223731279373,Acc:96.4684009552002
+[2022-11-18 22:27:59,160 segment-accuracy.py:521 test] ===> mAP 60.610
+[2022-11-18 22:27:59,742 segment-accuracy.py:512 test] Frame id :387, Row size:2459.328125 KB, Type: I, Offloading:True, compressed size:2459.328125
+[2022-11-18 22:27:59,742 segment-accuracy.py:514 test] Loss:0.11610987037420273,Acc:96.6360092163086
+[2022-11-18 22:27:59,767 segment-accuracy.py:521 test] ===> mAP 60.620
+[2022-11-18 22:28:00,350 segment-accuracy.py:512 test] Frame id :388, Row size:2455.814453125 KB, Type: I, Offloading:True, compressed size:2455.814453125
+[2022-11-18 22:28:00,351 segment-accuracy.py:514 test] Loss:0.14125721156597137,Acc:95.78747749328613
+[2022-11-18 22:28:00,381 segment-accuracy.py:521 test] ===> mAP 60.650
+[2022-11-18 22:28:00,961 segment-accuracy.py:512 test] Frame id :389, Row size:2456.4599609375 KB, Type: I, Offloading:True, compressed size:2456.4599609375
+[2022-11-18 22:28:00,961 segment-accuracy.py:514 test] Loss:0.14323529601097107,Acc:95.22809982299805
+[2022-11-18 22:28:00,986 segment-accuracy.py:521 test] ===> mAP 60.710
+[2022-11-18 22:28:01,570 segment-accuracy.py:512 test] Frame id :390, Row size:2445.4365234375 KB, Type: I, Offloading:True, compressed size:2445.4365234375
+[2022-11-18 22:28:01,571 segment-accuracy.py:514 test] Loss:0.12975198030471802,Acc:96.13752365112305
+[2022-11-18 22:28:01,599 segment-accuracy.py:521 test] ===> mAP 60.720
+[2022-11-18 22:28:02,194 segment-accuracy.py:512 test] Frame id :391, Row size:2438.7568359375 KB, Type: I, Offloading:True, compressed size:2438.7568359375
+[2022-11-18 22:28:02,194 segment-accuracy.py:514 test] Loss:0.13420039415359497,Acc:95.83086967468262
+[2022-11-18 22:28:02,221 segment-accuracy.py:521 test] ===> mAP 60.710
+[2022-11-18 22:28:02,808 segment-accuracy.py:512 test] Frame id :392, Row size:2435.7265625 KB, Type: I, Offloading:True, compressed size:2435.7265625
+[2022-11-18 22:28:02,809 segment-accuracy.py:514 test] Loss:0.12070085108280182,Acc:96.40345573425293
+[2022-11-18 22:28:02,837 segment-accuracy.py:521 test] ===> mAP 60.710
+[2022-11-18 22:28:03,421 segment-accuracy.py:512 test] Frame id :393, Row size:2425.0107421875 KB, Type: I, Offloading:True, compressed size:2425.0107421875
+[2022-11-18 22:28:03,421 segment-accuracy.py:514 test] Loss:0.11837602406740189,Acc:96.18701934814453
+[2022-11-18 22:28:03,450 segment-accuracy.py:521 test] ===> mAP 60.710
+[2022-11-18 22:28:04,039 segment-accuracy.py:512 test] Frame id :394, Row size:2418.7099609375 KB, Type: I, Offloading:True, compressed size:2418.7099609375
+[2022-11-18 22:28:04,039 segment-accuracy.py:514 test] Loss:0.11776049435138702,Acc:96.15540504455566
+[2022-11-18 22:28:04,066 segment-accuracy.py:521 test] ===> mAP 60.700
+[2022-11-18 22:28:04,647 segment-accuracy.py:512 test] Frame id :395, Row size:2410.736328125 KB, Type: I, Offloading:True, compressed size:2410.736328125
+[2022-11-18 22:28:04,648 segment-accuracy.py:514 test] Loss:0.11527800559997559,Acc:96.28562927246094
+[2022-11-18 22:28:04,677 segment-accuracy.py:521 test] ===> mAP 60.710
+[2022-11-18 22:28:05,258 segment-accuracy.py:512 test] Frame id :396, Row size:2405.08203125 KB, Type: I, Offloading:True, compressed size:2405.08203125
+[2022-11-18 22:28:05,258 segment-accuracy.py:514 test] Loss:0.12453851848840714,Acc:95.91755867004395
+[2022-11-18 22:28:05,287 segment-accuracy.py:521 test] ===> mAP 60.720
+[2022-11-18 22:28:05,873 segment-accuracy.py:512 test] Frame id :397, Row size:2338.845703125 KB, Type: I, Offloading:True, compressed size:2338.845703125
+[2022-11-18 22:28:05,873 segment-accuracy.py:514 test] Loss:0.3151378333568573,Acc:90.77281951904297
+[2022-11-18 22:28:05,904 segment-accuracy.py:521 test] ===> mAP 60.730
+[2022-11-18 22:28:06,488 segment-accuracy.py:512 test] Frame id :398, Row size:2351.775390625 KB, Type: I, Offloading:True, compressed size:2351.775390625
+[2022-11-18 22:28:06,488 segment-accuracy.py:514 test] Loss:0.35457712411880493,Acc:91.00704193115234
+[2022-11-18 22:28:06,513 segment-accuracy.py:521 test] ===> mAP 60.730
+[2022-11-18 22:28:07,095 segment-accuracy.py:512 test] Frame id :399, Row size:2363.65625 KB, Type: I, Offloading:True, compressed size:2363.65625
+[2022-11-18 22:28:07,095 segment-accuracy.py:514 test] Loss:0.31076332926750183,Acc:91.14665985107422
+[2022-11-18 22:28:07,120 segment-accuracy.py:521 test] ===> mAP 60.740
+[2022-11-18 22:28:07,706 segment-accuracy.py:512 test] Frame id :400, Row size:2375.1064453125 KB, Type: I, Offloading:True, compressed size:2375.1064453125
+[2022-11-18 22:28:07,706 segment-accuracy.py:514 test] Loss:0.32140877842903137,Acc:91.22347831726074
+[2022-11-18 22:28:07,738 segment-accuracy.py:521 test] ===> mAP 60.740
+[2022-11-18 22:28:08,316 segment-accuracy.py:512 test] Frame id :401, Row size:2382.3779296875 KB, Type: I, Offloading:True, compressed size:2382.3779296875
+[2022-11-18 22:28:08,316 segment-accuracy.py:514 test] Loss:0.2513788938522339,Acc:92.5147533416748
+[2022-11-18 22:28:08,342 segment-accuracy.py:521 test] ===> mAP 60.740
+[2022-11-18 22:28:08,920 segment-accuracy.py:512 test] Frame id :402, Row size:2401.6962890625 KB, Type: I, Offloading:True, compressed size:2401.6962890625
+[2022-11-18 22:28:08,920 segment-accuracy.py:514 test] Loss:0.2462979406118393,Acc:91.80574417114258
+[2022-11-18 22:28:08,950 segment-accuracy.py:521 test] ===> mAP 60.720
+[2022-11-18 22:28:09,533 segment-accuracy.py:512 test] Frame id :403, Row size:2410.2548828125 KB, Type: I, Offloading:True, compressed size:2410.2548828125
+[2022-11-18 22:28:09,533 segment-accuracy.py:514 test] Loss:0.25721681118011475,Acc:92.46053695678711
+[2022-11-18 22:28:09,560 segment-accuracy.py:521 test] ===> mAP 60.710
+[2022-11-18 22:28:10,147 segment-accuracy.py:512 test] Frame id :404, Row size:2419.751953125 KB, Type: I, Offloading:True, compressed size:2419.751953125
+[2022-11-18 22:28:10,147 segment-accuracy.py:514 test] Loss:0.14841929078102112,Acc:94.85597610473633
+[2022-11-18 22:28:10,173 segment-accuracy.py:521 test] ===> mAP 60.720
+[2022-11-18 22:28:10,755 segment-accuracy.py:512 test] Frame id :405, Row size:2433.6396484375 KB, Type: I, Offloading:True, compressed size:2433.6396484375
+[2022-11-18 22:28:10,755 segment-accuracy.py:514 test] Loss:0.2349494993686676,Acc:93.33462715148926
+[2022-11-18 22:28:10,781 segment-accuracy.py:521 test] ===> mAP 60.740
+[2022-11-18 22:28:11,368 segment-accuracy.py:512 test] Frame id :406, Row size:2444.83984375 KB, Type: I, Offloading:True, compressed size:2444.83984375
+[2022-11-18 22:28:11,368 segment-accuracy.py:514 test] Loss:0.18113520741462708,Acc:94.37737464904785
+[2022-11-18 22:28:11,395 segment-accuracy.py:521 test] ===> mAP 60.730
+[2022-11-18 22:28:11,975 segment-accuracy.py:512 test] Frame id :407, Row size:2458.1953125 KB, Type: I, Offloading:True, compressed size:2458.1953125
+[2022-11-18 22:28:11,975 segment-accuracy.py:514 test] Loss:0.1628190279006958,Acc:94.2680835723877
+[2022-11-18 22:28:12,000 segment-accuracy.py:521 test] ===> mAP 60.740
+[2022-11-18 22:28:12,583 segment-accuracy.py:512 test] Frame id :408, Row size:2470.8203125 KB, Type: I, Offloading:True, compressed size:2470.8203125
+[2022-11-18 22:28:12,583 segment-accuracy.py:514 test] Loss:0.15368512272834778,Acc:94.67744827270508
+[2022-11-18 22:28:12,608 segment-accuracy.py:521 test] ===> mAP 60.760
+[2022-11-18 22:28:13,190 segment-accuracy.py:512 test] Frame id :409, Row size:2479.1220703125 KB, Type: I, Offloading:True, compressed size:2479.1220703125
+[2022-11-18 22:28:13,191 segment-accuracy.py:514 test] Loss:0.17171843349933624,Acc:94.02122497558594
+[2022-11-18 22:28:13,217 segment-accuracy.py:521 test] ===> mAP 60.760
+[2022-11-18 22:28:13,804 segment-accuracy.py:512 test] Frame id :410, Row size:2485.6875 KB, Type: I, Offloading:True, compressed size:2485.6875
+[2022-11-18 22:28:13,804 segment-accuracy.py:514 test] Loss:0.19428735971450806,Acc:93.64142417907715
+[2022-11-18 22:28:13,829 segment-accuracy.py:521 test] ===> mAP 60.770
+[2022-11-18 22:28:14,411 segment-accuracy.py:512 test] Frame id :411, Row size:2489.01953125 KB, Type: I, Offloading:True, compressed size:2489.01953125
+[2022-11-18 22:28:14,411 segment-accuracy.py:514 test] Loss:0.1644432246685028,Acc:93.92962455749512
+[2022-11-18 22:28:14,440 segment-accuracy.py:521 test] ===> mAP 60.770
+[2022-11-18 22:28:15,023 segment-accuracy.py:512 test] Frame id :412, Row size:2493.3330078125 KB, Type: I, Offloading:True, compressed size:2493.3330078125
+[2022-11-18 22:28:15,023 segment-accuracy.py:514 test] Loss:0.20718425512313843,Acc:93.09353828430176
+[2022-11-18 22:28:15,054 segment-accuracy.py:521 test] ===> mAP 60.800
+[2022-11-18 22:28:15,635 segment-accuracy.py:512 test] Frame id :413, Row size:2495.34765625 KB, Type: I, Offloading:True, compressed size:2495.34765625
+[2022-11-18 22:28:15,635 segment-accuracy.py:514 test] Loss:0.18977417051792145,Acc:93.48282814025879
+[2022-11-18 22:28:15,661 segment-accuracy.py:521 test] ===> mAP 60.810
+[2022-11-18 22:28:16,253 segment-accuracy.py:512 test] Frame id :414, Row size:2498.708984375 KB, Type: I, Offloading:True, compressed size:2498.708984375
+[2022-11-18 22:28:16,253 segment-accuracy.py:514 test] Loss:0.19160328805446625,Acc:92.80381202697754
+[2022-11-18 22:28:16,284 segment-accuracy.py:521 test] ===> mAP 60.830
+[2022-11-18 22:28:16,870 segment-accuracy.py:512 test] Frame id :415, Row size:2507.2294921875 KB, Type: I, Offloading:True, compressed size:2507.2294921875
+[2022-11-18 22:28:16,870 segment-accuracy.py:514 test] Loss:0.19848302006721497,Acc:92.25807189941406
+[2022-11-18 22:28:16,896 segment-accuracy.py:521 test] ===> mAP 60.840
+[2022-11-18 22:28:17,483 segment-accuracy.py:512 test] Frame id :416, Row size:2508.7578125 KB, Type: I, Offloading:True, compressed size:2508.7578125
+[2022-11-18 22:28:17,484 segment-accuracy.py:514 test] Loss:0.19924023747444153,Acc:92.58303642272949
+[2022-11-18 22:28:17,512 segment-accuracy.py:521 test] ===> mAP 60.840
+[2022-11-18 22:28:18,095 segment-accuracy.py:512 test] Frame id :417, Row size:2516.7880859375 KB, Type: I, Offloading:True, compressed size:2516.7880859375
+[2022-11-18 22:28:18,095 segment-accuracy.py:514 test] Loss:0.2176322191953659,Acc:91.63146018981934
+[2022-11-18 22:28:18,122 segment-accuracy.py:521 test] ===> mAP 60.840
+[2022-11-18 22:28:18,703 segment-accuracy.py:512 test] Frame id :418, Row size:2535.1435546875 KB, Type: I, Offloading:True, compressed size:2535.1435546875
+[2022-11-18 22:28:18,703 segment-accuracy.py:514 test] Loss:0.1965232491493225,Acc:92.46935844421387
+[2022-11-18 22:28:18,732 segment-accuracy.py:521 test] ===> mAP 60.860
+[2022-11-18 22:28:19,319 segment-accuracy.py:512 test] Frame id :419, Row size:2543.92578125 KB, Type: I, Offloading:True, compressed size:2543.92578125
+[2022-11-18 22:28:19,319 segment-accuracy.py:514 test] Loss:0.2122105360031128,Acc:92.42639541625977
+[2022-11-18 22:28:19,345 segment-accuracy.py:521 test] ===> mAP 60.870
+[2022-11-18 22:28:19,933 segment-accuracy.py:512 test] Frame id :420, Row size:2545.19140625 KB, Type: I, Offloading:True, compressed size:2545.19140625
+[2022-11-18 22:28:19,933 segment-accuracy.py:514 test] Loss:0.2247714251279831,Acc:91.19482040405273
+[2022-11-18 22:28:19,964 segment-accuracy.py:521 test] ===> mAP 60.870
+[2022-11-18 22:28:20,565 segment-accuracy.py:512 test] Frame id :421, Row size:2549.0888671875 KB, Type: I, Offloading:True, compressed size:2549.0888671875
+[2022-11-18 22:28:20,566 segment-accuracy.py:514 test] Loss:0.2151094526052475,Acc:91.9959545135498
+[2022-11-18 22:28:20,595 segment-accuracy.py:521 test] ===> mAP 60.890
+[2022-11-18 22:28:21,191 segment-accuracy.py:512 test] Frame id :422, Row size:2547.498046875 KB, Type: I, Offloading:True, compressed size:2547.498046875
+[2022-11-18 22:28:21,192 segment-accuracy.py:514 test] Loss:0.24686047434806824,Acc:90.42315483093262
+[2022-11-18 22:28:21,224 segment-accuracy.py:521 test] ===> mAP 60.910
+[2022-11-18 22:28:21,815 segment-accuracy.py:512 test] Frame id :423, Row size:2551.7197265625 KB, Type: I, Offloading:True, compressed size:2551.7197265625
+[2022-11-18 22:28:21,815 segment-accuracy.py:514 test] Loss:0.26156389713287354,Acc:90.66720008850098
+[2022-11-18 22:28:21,844 segment-accuracy.py:521 test] ===> mAP 60.890
+[2022-11-18 22:28:22,432 segment-accuracy.py:512 test] Frame id :424, Row size:2546.734375 KB, Type: I, Offloading:True, compressed size:2546.734375
+[2022-11-18 22:28:22,433 segment-accuracy.py:514 test] Loss:0.20162276923656464,Acc:92.57211685180664
+[2022-11-18 22:28:22,464 segment-accuracy.py:521 test] ===> mAP 60.900
+[2022-11-18 22:28:23,048 segment-accuracy.py:512 test] Frame id :425, Row size:2555.3515625 KB, Type: I, Offloading:True, compressed size:2555.3515625
+[2022-11-18 22:28:23,048 segment-accuracy.py:514 test] Loss:0.2288157045841217,Acc:91.44864082336426
+[2022-11-18 22:28:23,073 segment-accuracy.py:521 test] ===> mAP 60.900
+[2022-11-18 22:28:23,661 segment-accuracy.py:512 test] Frame id :426, Row size:2553.5185546875 KB, Type: I, Offloading:True, compressed size:2553.5185546875
+[2022-11-18 22:28:23,661 segment-accuracy.py:514 test] Loss:0.229488804936409,Acc:91.24011993408203
+[2022-11-18 22:28:23,688 segment-accuracy.py:521 test] ===> mAP 60.910
+[2022-11-18 22:28:24,264 segment-accuracy.py:512 test] Frame id :427, Row size:2564.9091796875 KB, Type: I, Offloading:True, compressed size:2564.9091796875
+[2022-11-18 22:28:24,265 segment-accuracy.py:514 test] Loss:0.24693413078784943,Acc:91.05801582336426
+[2022-11-18 22:28:24,290 segment-accuracy.py:521 test] ===> mAP 60.900
+[2022-11-18 22:28:24,868 segment-accuracy.py:512 test] Frame id :428, Row size:2579.9208984375 KB, Type: I, Offloading:True, compressed size:2579.9208984375
+[2022-11-18 22:28:24,868 segment-accuracy.py:514 test] Loss:0.24747443199157715,Acc:91.40334129333496
+[2022-11-18 22:28:24,893 segment-accuracy.py:521 test] ===> mAP 60.910
+[2022-11-18 22:28:25,475 segment-accuracy.py:512 test] Frame id :429, Row size:2583.4404296875 KB, Type: I, Offloading:True, compressed size:2583.4404296875
+[2022-11-18 22:28:25,475 segment-accuracy.py:514 test] Loss:0.25719696283340454,Acc:91.01295471191406
+[2022-11-18 22:28:25,502 segment-accuracy.py:521 test] ===> mAP 60.900
+[2022-11-18 22:28:26,084 segment-accuracy.py:512 test] Frame id :430, Row size:2587.03125 KB, Type: I, Offloading:True, compressed size:2587.03125
+[2022-11-18 22:28:26,085 segment-accuracy.py:514 test] Loss:0.2183794528245926,Acc:92.17114448547363
+[2022-11-18 22:28:26,110 segment-accuracy.py:521 test] ===> mAP 60.900
+[2022-11-18 22:28:26,702 segment-accuracy.py:512 test] Frame id :431, Row size:2586.6123046875 KB, Type: I, Offloading:True, compressed size:2586.6123046875
+[2022-11-18 22:28:26,702 segment-accuracy.py:514 test] Loss:0.17183734476566315,Acc:93.6312198638916
+[2022-11-18 22:28:26,733 segment-accuracy.py:521 test] ===> mAP 60.890
+[2022-11-18 22:28:27,309 segment-accuracy.py:512 test] Frame id :432, Row size:2591.3671875 KB, Type: I, Offloading:True, compressed size:2591.3671875
+[2022-11-18 22:28:27,309 segment-accuracy.py:514 test] Loss:0.18830551207065582,Acc:92.79274940490723
+[2022-11-18 22:28:27,334 segment-accuracy.py:521 test] ===> mAP 60.880
+[2022-11-18 22:28:27,916 segment-accuracy.py:512 test] Frame id :433, Row size:2595.8212890625 KB, Type: I, Offloading:True, compressed size:2595.8212890625
+[2022-11-18 22:28:27,916 segment-accuracy.py:514 test] Loss:0.1906948983669281,Acc:93.07541847229004
+[2022-11-18 22:28:27,942 segment-accuracy.py:521 test] ===> mAP 60.880
+[2022-11-18 22:28:28,525 segment-accuracy.py:512 test] Frame id :434, Row size:2584.541015625 KB, Type: I, Offloading:True, compressed size:2584.541015625
+[2022-11-18 22:28:28,525 segment-accuracy.py:514 test] Loss:0.1510685831308365,Acc:94.34857368469238
+[2022-11-18 22:28:28,555 segment-accuracy.py:521 test] ===> mAP 60.900
+[2022-11-18 22:28:29,133 segment-accuracy.py:512 test] Frame id :435, Row size:2562.763671875 KB, Type: I, Offloading:True, compressed size:2562.763671875
+[2022-11-18 22:28:29,133 segment-accuracy.py:514 test] Loss:0.14152848720550537,Acc:94.99411582946777
+[2022-11-18 22:28:29,160 segment-accuracy.py:521 test] ===> mAP 60.910
+[2022-11-18 22:28:29,741 segment-accuracy.py:512 test] Frame id :436, Row size:2538.23828125 KB, Type: I, Offloading:True, compressed size:2538.23828125
+[2022-11-18 22:28:29,742 segment-accuracy.py:514 test] Loss:0.15701892971992493,Acc:94.40975189208984
+[2022-11-18 22:28:29,772 segment-accuracy.py:521 test] ===> mAP 60.930
+[2022-11-18 22:28:30,355 segment-accuracy.py:512 test] Frame id :437, Row size:2521.591796875 KB, Type: I, Offloading:True, compressed size:2521.591796875
+[2022-11-18 22:28:30,355 segment-accuracy.py:514 test] Loss:0.16795028746128082,Acc:93.79091262817383
+[2022-11-18 22:28:30,382 segment-accuracy.py:521 test] ===> mAP 60.950
+[2022-11-18 22:28:30,957 segment-accuracy.py:512 test] Frame id :438, Row size:2497.5693359375 KB, Type: I, Offloading:True, compressed size:2497.5693359375
+[2022-11-18 22:28:30,957 segment-accuracy.py:514 test] Loss:0.17512410879135132,Acc:93.7201976776123
+[2022-11-18 22:28:30,981 segment-accuracy.py:521 test] ===> mAP 60.940
+[2022-11-18 22:28:31,563 segment-accuracy.py:512 test] Frame id :439, Row size:2481.80078125 KB, Type: I, Offloading:True, compressed size:2481.80078125
+[2022-11-18 22:28:31,563 segment-accuracy.py:514 test] Loss:0.1581224650144577,Acc:94.54970359802246
+[2022-11-18 22:28:31,589 segment-accuracy.py:521 test] ===> mAP 60.950
+[2022-11-18 22:28:32,175 segment-accuracy.py:512 test] Frame id :440, Row size:2464.7392578125 KB, Type: I, Offloading:True, compressed size:2464.7392578125
+[2022-11-18 22:28:32,175 segment-accuracy.py:514 test] Loss:0.14985798299312592,Acc:94.79637145996094
+[2022-11-18 22:28:32,203 segment-accuracy.py:521 test] ===> mAP 60.950
+[2022-11-18 22:28:32,778 segment-accuracy.py:512 test] Frame id :441, Row size:2447.4921875 KB, Type: I, Offloading:True, compressed size:2447.4921875
+[2022-11-18 22:28:32,779 segment-accuracy.py:514 test] Loss:0.15447303652763367,Acc:94.57783699035645
+[2022-11-18 22:28:32,804 segment-accuracy.py:521 test] ===> mAP 60.970
+[2022-11-18 22:28:33,382 segment-accuracy.py:512 test] Frame id :442, Row size:2425.646484375 KB, Type: I, Offloading:True, compressed size:2425.646484375
+[2022-11-18 22:28:33,382 segment-accuracy.py:514 test] Loss:0.16570945084095,Acc:94.32830810546875
+[2022-11-18 22:28:33,408 segment-accuracy.py:521 test] ===> mAP 60.980
+[2022-11-18 22:28:33,989 segment-accuracy.py:512 test] Frame id :443, Row size:2402.7099609375 KB, Type: I, Offloading:True, compressed size:2402.7099609375
+[2022-11-18 22:28:33,989 segment-accuracy.py:514 test] Loss:0.17052380740642548,Acc:94.14300918579102
+[2022-11-18 22:28:34,016 segment-accuracy.py:521 test] ===> mAP 60.990
+[2022-11-18 22:28:34,592 segment-accuracy.py:512 test] Frame id :444, Row size:2394.33984375 KB, Type: I, Offloading:True, compressed size:2394.33984375
+[2022-11-18 22:28:34,592 segment-accuracy.py:514 test] Loss:0.18731804192066193,Acc:93.36004257202148
+[2022-11-18 22:28:34,618 segment-accuracy.py:521 test] ===> mAP 61.020
+[2022-11-18 22:28:35,195 segment-accuracy.py:512 test] Frame id :445, Row size:2375.5205078125 KB, Type: I, Offloading:True, compressed size:2375.5205078125
+[2022-11-18 22:28:35,195 segment-accuracy.py:514 test] Loss:0.18329167366027832,Acc:93.45235824584961
+[2022-11-18 22:28:35,220 segment-accuracy.py:521 test] ===> mAP 61.030
+[2022-11-18 22:28:35,810 segment-accuracy.py:512 test] Frame id :446, Row size:2353.9541015625 KB, Type: I, Offloading:True, compressed size:2353.9541015625
+[2022-11-18 22:28:35,810 segment-accuracy.py:514 test] Loss:0.2218434363603592,Acc:92.01040267944336
+[2022-11-18 22:28:35,839 segment-accuracy.py:521 test] ===> mAP 61.050
+[2022-11-18 22:28:36,426 segment-accuracy.py:512 test] Frame id :447, Row size:2331.4775390625 KB, Type: I, Offloading:True, compressed size:2331.4775390625
+[2022-11-18 22:28:36,426 segment-accuracy.py:514 test] Loss:0.23784789443016052,Acc:91.64853096008301
+[2022-11-18 22:28:36,451 segment-accuracy.py:521 test] ===> mAP 61.040
+[2022-11-18 22:28:37,044 segment-accuracy.py:512 test] Frame id :448, Row size:2315.640625 KB, Type: I, Offloading:True, compressed size:2315.640625
+[2022-11-18 22:28:37,045 segment-accuracy.py:514 test] Loss:0.25618550181388855,Acc:90.67425727844238
+[2022-11-18 22:28:37,072 segment-accuracy.py:521 test] ===> mAP 61.060
+[2022-11-18 22:28:37,669 segment-accuracy.py:512 test] Frame id :449, Row size:2301.08984375 KB, Type: I, Offloading:True, compressed size:2301.08984375
+[2022-11-18 22:28:37,670 segment-accuracy.py:514 test] Loss:0.22745008766651154,Acc:92.25964546203613
+[2022-11-18 22:28:37,699 segment-accuracy.py:521 test] ===> mAP 61.050
+[2022-11-18 22:28:38,293 segment-accuracy.py:512 test] Frame id :450, Row size:2285.3564453125 KB, Type: I, Offloading:True, compressed size:2285.3564453125
+[2022-11-18 22:28:38,293 segment-accuracy.py:514 test] Loss:0.23478583991527557,Acc:92.10786819458008
+[2022-11-18 22:28:38,319 segment-accuracy.py:521 test] ===> mAP 61.070
+[2022-11-18 22:28:38,911 segment-accuracy.py:512 test] Frame id :451, Row size:2279.2099609375 KB, Type: I, Offloading:True, compressed size:2279.2099609375
+[2022-11-18 22:28:38,912 segment-accuracy.py:514 test] Loss:0.2465752512216568,Acc:91.61534309387207
+[2022-11-18 22:28:38,945 segment-accuracy.py:521 test] ===> mAP 61.120
+[2022-11-18 22:28:39,527 segment-accuracy.py:512 test] Frame id :452, Row size:2275.345703125 KB, Type: I, Offloading:True, compressed size:2275.345703125
+[2022-11-18 22:28:39,527 segment-accuracy.py:514 test] Loss:0.24147175252437592,Acc:91.70928001403809
+[2022-11-18 22:28:39,553 segment-accuracy.py:521 test] ===> mAP 61.160
+[2022-11-18 22:28:40,146 segment-accuracy.py:512 test] Frame id :453, Row size:2260.921875 KB, Type: I, Offloading:True, compressed size:2260.921875
+[2022-11-18 22:28:40,147 segment-accuracy.py:514 test] Loss:0.2459573596715927,Acc:91.79115295410156
+[2022-11-18 22:28:40,176 segment-accuracy.py:521 test] ===> mAP 61.210
+[2022-11-18 22:28:40,758 segment-accuracy.py:512 test] Frame id :454, Row size:2233.490234375 KB, Type: I, Offloading:True, compressed size:2233.490234375
+[2022-11-18 22:28:40,758 segment-accuracy.py:514 test] Loss:0.22662848234176636,Acc:92.58899688720703
+[2022-11-18 22:28:40,785 segment-accuracy.py:521 test] ===> mAP 61.300
+[2022-11-18 22:28:41,375 segment-accuracy.py:512 test] Frame id :455, Row size:2226.4404296875 KB, Type: I, Offloading:True, compressed size:2226.4404296875
+[2022-11-18 22:28:41,375 segment-accuracy.py:514 test] Loss:0.23566032946109772,Acc:92.2494888305664
+[2022-11-18 22:28:41,400 segment-accuracy.py:521 test] ===> mAP 61.360
+[2022-11-18 22:28:41,976 segment-accuracy.py:512 test] Frame id :456, Row size:2223.7587890625 KB, Type: I, Offloading:True, compressed size:2223.7587890625
+[2022-11-18 22:28:41,976 segment-accuracy.py:514 test] Loss:0.27099210023880005,Acc:90.22278785705566
+[2022-11-18 22:28:42,001 segment-accuracy.py:521 test] ===> mAP 61.390
+[2022-11-18 22:28:42,601 segment-accuracy.py:512 test] Frame id :457, Row size:2215.732421875 KB, Type: I, Offloading:True, compressed size:2215.732421875
+[2022-11-18 22:28:42,601 segment-accuracy.py:514 test] Loss:0.23164696991443634,Acc:91.79859161376953
+[2022-11-18 22:28:42,630 segment-accuracy.py:521 test] ===> mAP 61.460
+[2022-11-18 22:28:43,222 segment-accuracy.py:512 test] Frame id :458, Row size:2208.74609375 KB, Type: I, Offloading:True, compressed size:2208.74609375
+[2022-11-18 22:28:43,222 segment-accuracy.py:514 test] Loss:0.26344314217567444,Acc:90.75937271118164
+[2022-11-18 22:28:43,247 segment-accuracy.py:521 test] ===> mAP 61.460
+[2022-11-18 22:28:43,830 segment-accuracy.py:512 test] Frame id :459, Row size:2187.9716796875 KB, Type: I, Offloading:True, compressed size:2187.9716796875
+[2022-11-18 22:28:43,830 segment-accuracy.py:514 test] Loss:0.22899644076824188,Acc:92.05546379089355
+[2022-11-18 22:28:43,856 segment-accuracy.py:521 test] ===> mAP 61.490
+[2022-11-18 22:28:44,454 segment-accuracy.py:512 test] Frame id :460, Row size:2174.013671875 KB, Type: I, Offloading:True, compressed size:2174.013671875
+[2022-11-18 22:28:44,454 segment-accuracy.py:514 test] Loss:0.2514021694660187,Acc:91.23291969299316
+[2022-11-18 22:28:44,485 segment-accuracy.py:521 test] ===> mAP 61.510
+[2022-11-18 22:28:45,077 segment-accuracy.py:512 test] Frame id :461, Row size:2156.0751953125 KB, Type: I, Offloading:True, compressed size:2156.0751953125
+[2022-11-18 22:28:45,077 segment-accuracy.py:514 test] Loss:0.23223258554935455,Acc:92.05350875854492
+[2022-11-18 22:28:45,108 segment-accuracy.py:521 test] ===> mAP 61.500
+[2022-11-18 22:28:45,689 segment-accuracy.py:512 test] Frame id :462, Row size:2149.658203125 KB, Type: I, Offloading:True, compressed size:2149.658203125
+[2022-11-18 22:28:45,690 segment-accuracy.py:514 test] Loss:0.18826034665107727,Acc:93.51344108581543
+[2022-11-18 22:28:45,718 segment-accuracy.py:521 test] ===> mAP 61.520
+[2022-11-18 22:28:46,303 segment-accuracy.py:512 test] Frame id :463, Row size:2146.2470703125 KB, Type: I, Offloading:True, compressed size:2146.2470703125
+[2022-11-18 22:28:46,303 segment-accuracy.py:514 test] Loss:0.1881912648677826,Acc:93.69516372680664
+[2022-11-18 22:28:46,329 segment-accuracy.py:521 test] ===> mAP 61.540
+[2022-11-18 22:28:46,904 segment-accuracy.py:512 test] Frame id :464, Row size:2145.705078125 KB, Type: I, Offloading:True, compressed size:2145.705078125
+[2022-11-18 22:28:46,904 segment-accuracy.py:514 test] Loss:0.21191087365150452,Acc:92.39559173583984
+[2022-11-18 22:28:46,933 segment-accuracy.py:521 test] ===> mAP 61.550
+[2022-11-18 22:28:47,514 segment-accuracy.py:512 test] Frame id :465, Row size:2145.5966796875 KB, Type: I, Offloading:True, compressed size:2145.5966796875
+[2022-11-18 22:28:47,514 segment-accuracy.py:514 test] Loss:0.18630722165107727,Acc:93.89066696166992
+[2022-11-18 22:28:47,545 segment-accuracy.py:521 test] ===> mAP 61.590
+[2022-11-18 22:28:48,123 segment-accuracy.py:512 test] Frame id :466, Row size:2141.6962890625 KB, Type: I, Offloading:True, compressed size:2141.6962890625
+[2022-11-18 22:28:48,123 segment-accuracy.py:514 test] Loss:0.2410375475883484,Acc:92.04192161560059
+[2022-11-18 22:28:48,148 segment-accuracy.py:521 test] ===> mAP 61.650
+[2022-11-18 22:28:48,726 segment-accuracy.py:512 test] Frame id :467, Row size:2135.125 KB, Type: I, Offloading:True, compressed size:2135.125
+[2022-11-18 22:28:48,726 segment-accuracy.py:514 test] Loss:0.23186005651950836,Acc:92.08941459655762
+[2022-11-18 22:28:48,753 segment-accuracy.py:521 test] ===> mAP 61.680
+[2022-11-18 22:28:49,345 segment-accuracy.py:512 test] Frame id :468, Row size:2121.8154296875 KB, Type: I, Offloading:True, compressed size:2121.8154296875
+[2022-11-18 22:28:49,345 segment-accuracy.py:514 test] Loss:0.25770100951194763,Acc:91.81199073791504
+[2022-11-18 22:28:49,372 segment-accuracy.py:521 test] ===> mAP 61.700
+[2022-11-18 22:28:49,957 segment-accuracy.py:512 test] Frame id :469, Row size:2110.8564453125 KB, Type: I, Offloading:True, compressed size:2110.8564453125
+[2022-11-18 22:28:49,957 segment-accuracy.py:514 test] Loss:0.2749960422515869,Acc:90.86446762084961
+[2022-11-18 22:28:49,985 segment-accuracy.py:521 test] ===> mAP 61.720
+[2022-11-18 22:28:50,571 segment-accuracy.py:512 test] Frame id :470, Row size:2105.9609375 KB, Type: I, Offloading:True, compressed size:2105.9609375
+[2022-11-18 22:28:50,571 segment-accuracy.py:514 test] Loss:0.2369433343410492,Acc:92.1332836151123
+[2022-11-18 22:28:50,596 segment-accuracy.py:521 test] ===> mAP 61.750
+[2022-11-18 22:28:51,186 segment-accuracy.py:512 test] Frame id :471, Row size:2098.51171875 KB, Type: I, Offloading:True, compressed size:2098.51171875
+[2022-11-18 22:28:51,186 segment-accuracy.py:514 test] Loss:0.2337278425693512,Acc:92.57559776306152
+[2022-11-18 22:28:51,214 segment-accuracy.py:521 test] ===> mAP 61.780
+[2022-11-18 22:28:51,794 segment-accuracy.py:512 test] Frame id :472, Row size:2091.0302734375 KB, Type: I, Offloading:True, compressed size:2091.0302734375
+[2022-11-18 22:28:51,795 segment-accuracy.py:514 test] Loss:0.2712576985359192,Acc:90.65432548522949
+[2022-11-18 22:28:51,819 segment-accuracy.py:521 test] ===> mAP 61.800
+[2022-11-18 22:28:52,409 segment-accuracy.py:512 test] Frame id :473, Row size:2082.4375 KB, Type: I, Offloading:True, compressed size:2082.4375
+[2022-11-18 22:28:52,409 segment-accuracy.py:514 test] Loss:0.2313661128282547,Acc:92.53325462341309
+[2022-11-18 22:28:52,434 segment-accuracy.py:521 test] ===> mAP 61.840
+[2022-11-18 22:28:53,032 segment-accuracy.py:512 test] Frame id :474, Row size:2076.8310546875 KB, Type: I, Offloading:True, compressed size:2076.8310546875
+[2022-11-18 22:28:53,033 segment-accuracy.py:514 test] Loss:0.19589051604270935,Acc:93.55998039245605
+[2022-11-18 22:28:53,063 segment-accuracy.py:521 test] ===> mAP 61.880
+[2022-11-18 22:28:53,650 segment-accuracy.py:512 test] Frame id :475, Row size:2060.5283203125 KB, Type: I, Offloading:True, compressed size:2060.5283203125
+[2022-11-18 22:28:53,650 segment-accuracy.py:514 test] Loss:0.2184005081653595,Acc:92.95172691345215
+[2022-11-18 22:28:53,681 segment-accuracy.py:521 test] ===> mAP 61.900
+[2022-11-18 22:28:54,272 segment-accuracy.py:512 test] Frame id :476, Row size:2065.0283203125 KB, Type: I, Offloading:True, compressed size:2065.0283203125
+[2022-11-18 22:28:54,272 segment-accuracy.py:514 test] Loss:0.2170259654521942,Acc:93.69144439697266
+[2022-11-18 22:28:54,301 segment-accuracy.py:521 test] ===> mAP 61.940
+[2022-11-18 22:28:54,890 segment-accuracy.py:512 test] Frame id :477, Row size:2067.1484375 KB, Type: I, Offloading:True, compressed size:2067.1484375
+[2022-11-18 22:28:54,891 segment-accuracy.py:514 test] Loss:0.26224052906036377,Acc:91.73059463500977
+[2022-11-18 22:28:54,922 segment-accuracy.py:521 test] ===> mAP 61.960
+[2022-11-18 22:28:55,515 segment-accuracy.py:512 test] Frame id :478, Row size:2066.2861328125 KB, Type: I, Offloading:True, compressed size:2066.2861328125
+[2022-11-18 22:28:55,516 segment-accuracy.py:514 test] Loss:0.24548105895519257,Acc:92.12336540222168
+[2022-11-18 22:28:55,546 segment-accuracy.py:521 test] ===> mAP 61.980
+[2022-11-18 22:28:56,133 segment-accuracy.py:512 test] Frame id :479, Row size:2081.4912109375 KB, Type: I, Offloading:True, compressed size:2081.4912109375
+[2022-11-18 22:28:56,133 segment-accuracy.py:514 test] Loss:0.20458252727985382,Acc:92.74497032165527
+[2022-11-18 22:28:56,159 segment-accuracy.py:521 test] ===> mAP 62.010
+[2022-11-18 22:28:56,767 segment-accuracy.py:512 test] Frame id :480, Row size:2085.2529296875 KB, Type: I, Offloading:True, compressed size:2085.2529296875
+[2022-11-18 22:28:56,767 segment-accuracy.py:514 test] Loss:0.2048366516828537,Acc:92.74172782897949
+[2022-11-18 22:28:56,803 segment-accuracy.py:521 test] ===> mAP 62.040
+[2022-11-18 22:28:57,395 segment-accuracy.py:512 test] Frame id :481, Row size:2078.2802734375 KB, Type: I, Offloading:True, compressed size:2078.2802734375
+[2022-11-18 22:28:57,395 segment-accuracy.py:514 test] Loss:0.16701583564281464,Acc:94.44785118103027
+[2022-11-18 22:28:57,421 segment-accuracy.py:521 test] ===> mAP 62.070
+[2022-11-18 22:28:58,026 segment-accuracy.py:512 test] Frame id :482, Row size:2071.5166015625 KB, Type: I, Offloading:True, compressed size:2071.5166015625
+[2022-11-18 22:28:58,026 segment-accuracy.py:514 test] Loss:0.1673932820558548,Acc:94.22316551208496
+[2022-11-18 22:28:58,057 segment-accuracy.py:521 test] ===> mAP 62.100
+[2022-11-18 22:28:58,661 segment-accuracy.py:512 test] Frame id :483, Row size:2022.1884765625 KB, Type: I, Offloading:True, compressed size:2022.1884765625
+[2022-11-18 22:28:58,662 segment-accuracy.py:514 test] Loss:0.21892085671424866,Acc:93.24679374694824
+[2022-11-18 22:28:58,685 segment-accuracy.py:521 test] ===> mAP 62.130
+[2022-11-18 22:28:59,270 segment-accuracy.py:512 test] Frame id :484, Row size:2031.1123046875 KB, Type: I, Offloading:True, compressed size:2031.1123046875
+[2022-11-18 22:28:59,270 segment-accuracy.py:514 test] Loss:0.21806032955646515,Acc:92.81220436096191
+[2022-11-18 22:28:59,296 segment-accuracy.py:521 test] ===> mAP 62.140
+[2022-11-18 22:28:59,880 segment-accuracy.py:512 test] Frame id :485, Row size:1970.384765625 KB, Type: I, Offloading:True, compressed size:1970.384765625
+[2022-11-18 22:28:59,881 segment-accuracy.py:514 test] Loss:0.2764524817466736,Acc:92.34304428100586
+[2022-11-18 22:28:59,914 segment-accuracy.py:521 test] ===> mAP 62.150
+[2022-11-18 22:29:00,498 segment-accuracy.py:512 test] Frame id :486, Row size:2007.5244140625 KB, Type: I, Offloading:True, compressed size:2007.5244140625
+[2022-11-18 22:29:00,498 segment-accuracy.py:514 test] Loss:0.32115888595581055,Acc:91.192626953125
+[2022-11-18 22:29:00,523 segment-accuracy.py:521 test] ===> mAP 62.150
+[2022-11-18 22:29:01,102 segment-accuracy.py:512 test] Frame id :487, Row size:2049.1787109375 KB, Type: I, Offloading:True, compressed size:2049.1787109375
+[2022-11-18 22:29:01,103 segment-accuracy.py:514 test] Loss:0.32161927223205566,Acc:90.51241874694824
+[2022-11-18 22:29:01,128 segment-accuracy.py:521 test] ===> mAP 62.160
+[2022-11-18 22:29:01,710 segment-accuracy.py:512 test] Frame id :488, Row size:2066.0732421875 KB, Type: I, Offloading:True, compressed size:2066.0732421875
+[2022-11-18 22:29:01,711 segment-accuracy.py:514 test] Loss:0.29156729578971863,Acc:90.88878631591797
+[2022-11-18 22:29:01,740 segment-accuracy.py:521 test] ===> mAP 62.170
+[2022-11-18 22:29:02,315 segment-accuracy.py:512 test] Frame id :489, Row size:2078.1494140625 KB, Type: I, Offloading:True, compressed size:2078.1494140625
+[2022-11-18 22:29:02,316 segment-accuracy.py:514 test] Loss:0.36053213477134705,Acc:87.97416687011719
+[2022-11-18 22:29:02,345 segment-accuracy.py:521 test] ===> mAP 62.160
+[2022-11-18 22:29:02,918 segment-accuracy.py:512 test] Frame id :490, Row size:2093.876953125 KB, Type: I, Offloading:True, compressed size:2093.876953125
+[2022-11-18 22:29:02,918 segment-accuracy.py:514 test] Loss:0.348232626914978,Acc:88.56749534606934
+[2022-11-18 22:29:02,943 segment-accuracy.py:521 test] ===> mAP 62.140
+[2022-11-18 22:29:03,520 segment-accuracy.py:512 test] Frame id :491, Row size:2107.427734375 KB, Type: I, Offloading:True, compressed size:2107.427734375
+[2022-11-18 22:29:03,520 segment-accuracy.py:514 test] Loss:0.3303397297859192,Acc:89.59779739379883
+[2022-11-18 22:29:03,547 segment-accuracy.py:521 test] ===> mAP 62.140
+[2022-11-18 22:29:04,118 segment-accuracy.py:512 test] Frame id :492, Row size:2103.375 KB, Type: I, Offloading:True, compressed size:2103.375
+[2022-11-18 22:29:04,118 segment-accuracy.py:514 test] Loss:0.31863951683044434,Acc:89.32199478149414
+[2022-11-18 22:29:04,143 segment-accuracy.py:521 test] ===> mAP 62.140
+[2022-11-18 22:29:04,714 segment-accuracy.py:512 test] Frame id :493, Row size:2053.0224609375 KB, Type: I, Offloading:True, compressed size:2053.0224609375
+[2022-11-18 22:29:04,714 segment-accuracy.py:514 test] Loss:0.3601210415363312,Acc:87.28389739990234
+[2022-11-18 22:29:04,743 segment-accuracy.py:521 test] ===> mAP 62.130
+[2022-11-18 22:29:05,319 segment-accuracy.py:512 test] Frame id :494, Row size:2026.076171875 KB, Type: I, Offloading:True, compressed size:2026.076171875
+[2022-11-18 22:29:05,319 segment-accuracy.py:514 test] Loss:0.2361934632062912,Acc:91.67718887329102
+[2022-11-18 22:29:05,350 segment-accuracy.py:521 test] ===> mAP 62.140
+[2022-11-18 22:29:05,926 segment-accuracy.py:512 test] Frame id :495, Row size:2045.8759765625 KB, Type: I, Offloading:True, compressed size:2045.8759765625
+[2022-11-18 22:29:05,926 segment-accuracy.py:514 test] Loss:0.20073825120925903,Acc:92.93699264526367
+[2022-11-18 22:29:05,954 segment-accuracy.py:521 test] ===> mAP 62.170
+[2022-11-18 22:29:06,528 segment-accuracy.py:512 test] Frame id :496, Row size:2094.8095703125 KB, Type: I, Offloading:True, compressed size:2094.8095703125
+[2022-11-18 22:29:06,528 segment-accuracy.py:514 test] Loss:0.18673881888389587,Acc:93.88761520385742
+[2022-11-18 22:29:06,558 segment-accuracy.py:521 test] ===> mAP 62.180
+[2022-11-18 22:29:07,140 segment-accuracy.py:512 test] Frame id :497, Row size:2146.2666015625 KB, Type: I, Offloading:True, compressed size:2146.2666015625
+[2022-11-18 22:29:07,141 segment-accuracy.py:514 test] Loss:0.18643438816070557,Acc:93.7807559967041
+[2022-11-18 22:29:07,166 segment-accuracy.py:521 test] ===> mAP 62.200
+[2022-11-18 22:29:07,751 segment-accuracy.py:512 test] Frame id :498, Row size:2201.232421875 KB, Type: I, Offloading:True, compressed size:2201.232421875
+[2022-11-18 22:29:07,751 segment-accuracy.py:514 test] Loss:0.16594403982162476,Acc:94.2800521850586
+[2022-11-18 22:29:07,776 segment-accuracy.py:521 test] ===> mAP 62.230
+[2022-11-18 22:29:08,361 segment-accuracy.py:512 test] Frame id :499, Row size:2238.7705078125 KB, Type: I, Offloading:True, compressed size:2238.7705078125
+[2022-11-18 22:29:08,362 segment-accuracy.py:514 test] Loss:0.17327240109443665,Acc:94.39215660095215
+[2022-11-18 22:29:08,390 segment-accuracy.py:521 test] ===> mAP 62.260
+[2022-11-18 22:29:08,983 segment-accuracy.py:512 test] Frame id :500, Row size:2277.5927734375 KB, Type: I, Offloading:True, compressed size:2277.5927734375
+[2022-11-18 22:29:08,983 segment-accuracy.py:514 test] Loss:0.18168878555297852,Acc:94.06857490539551
+[2022-11-18 22:29:09,014 segment-accuracy.py:521 test] ===> mAP 62.280
+[2022-11-18 22:29:09,604 segment-accuracy.py:512 test] Frame id :501, Row size:2307.435546875 KB, Type: I, Offloading:True, compressed size:2307.435546875
+[2022-11-18 22:29:09,604 segment-accuracy.py:514 test] Loss:0.201022207736969,Acc:93.817138671875
+[2022-11-18 22:29:09,629 segment-accuracy.py:521 test] ===> mAP 62.290
+[2022-11-18 22:29:10,212 segment-accuracy.py:512 test] Frame id :502, Row size:2343.5380859375 KB, Type: I, Offloading:True, compressed size:2343.5380859375
+[2022-11-18 22:29:10,213 segment-accuracy.py:514 test] Loss:0.17466676235198975,Acc:94.50106620788574
+[2022-11-18 22:29:10,239 segment-accuracy.py:521 test] ===> mAP 62.310
+[2022-11-18 22:29:10,814 segment-accuracy.py:512 test] Frame id :503, Row size:2370.8134765625 KB, Type: I, Offloading:True, compressed size:2370.8134765625
+[2022-11-18 22:29:10,815 segment-accuracy.py:514 test] Loss:0.18301720917224884,Acc:94.43545341491699
+[2022-11-18 22:29:10,844 segment-accuracy.py:521 test] ===> mAP 62.320
+[2022-11-18 22:29:11,421 segment-accuracy.py:512 test] Frame id :504, Row size:2403.189453125 KB, Type: I, Offloading:True, compressed size:2403.189453125
+[2022-11-18 22:29:11,422 segment-accuracy.py:514 test] Loss:0.15991178154945374,Acc:94.8244571685791
+[2022-11-18 22:29:11,447 segment-accuracy.py:521 test] ===> mAP 62.320
+[2022-11-18 22:29:12,036 segment-accuracy.py:512 test] Frame id :505, Row size:2429.150390625 KB, Type: I, Offloading:True, compressed size:2429.150390625
+[2022-11-18 22:29:12,036 segment-accuracy.py:514 test] Loss:0.14804503321647644,Acc:95.07741928100586
+[2022-11-18 22:29:12,063 segment-accuracy.py:521 test] ===> mAP 62.320
+[2022-11-18 22:29:12,639 segment-accuracy.py:512 test] Frame id :506, Row size:2452.861328125 KB, Type: I, Offloading:True, compressed size:2452.861328125
+[2022-11-18 22:29:12,639 segment-accuracy.py:514 test] Loss:0.14388775825500488,Acc:95.34139633178711
+[2022-11-18 22:29:12,664 segment-accuracy.py:521 test] ===> mAP 62.340
+[2022-11-18 22:29:13,242 segment-accuracy.py:512 test] Frame id :507, Row size:2478.1806640625 KB, Type: I, Offloading:True, compressed size:2478.1806640625
+[2022-11-18 22:29:13,242 segment-accuracy.py:514 test] Loss:0.14783988893032074,Acc:95.16034126281738
+[2022-11-18 22:29:13,267 segment-accuracy.py:521 test] ===> mAP 62.350
+[2022-11-18 22:29:13,846 segment-accuracy.py:512 test] Frame id :508, Row size:2505.9306640625 KB, Type: I, Offloading:True, compressed size:2505.9306640625
+[2022-11-18 22:29:13,846 segment-accuracy.py:514 test] Loss:0.11674489080905914,Acc:96.14052772521973
+[2022-11-18 22:29:13,873 segment-accuracy.py:521 test] ===> mAP 62.370
+[2022-11-18 22:29:14,450 segment-accuracy.py:512 test] Frame id :509, Row size:2540.154296875 KB, Type: I, Offloading:True, compressed size:2540.154296875
+[2022-11-18 22:29:14,451 segment-accuracy.py:514 test] Loss:0.11316975951194763,Acc:96.38662338256836
+[2022-11-18 22:29:14,479 segment-accuracy.py:521 test] ===> mAP 62.390
+[2022-11-18 22:29:15,058 segment-accuracy.py:512 test] Frame id :510, Row size:2575.0625 KB, Type: I, Offloading:True, compressed size:2575.0625
+[2022-11-18 22:29:15,058 segment-accuracy.py:514 test] Loss:0.11927087604999542,Acc:96.37360572814941
+[2022-11-18 22:29:15,082 segment-accuracy.py:521 test] ===> mAP 62.400
+[2022-11-18 22:29:15,664 segment-accuracy.py:512 test] Frame id :511, Row size:2605.40234375 KB, Type: I, Offloading:True, compressed size:2605.40234375
+[2022-11-18 22:29:15,664 segment-accuracy.py:514 test] Loss:0.0912264958024025,Acc:97.12324142456055
+[2022-11-18 22:29:15,691 segment-accuracy.py:521 test] ===> mAP 62.420
+[2022-11-18 22:29:16,269 segment-accuracy.py:512 test] Frame id :512, Row size:2641.5107421875 KB, Type: I, Offloading:True, compressed size:2641.5107421875
+[2022-11-18 22:29:16,269 segment-accuracy.py:514 test] Loss:0.08186062425374985,Acc:97.70021438598633
+[2022-11-18 22:29:16,298 segment-accuracy.py:521 test] ===> mAP 62.440
+[2022-11-18 22:29:16,877 segment-accuracy.py:512 test] Frame id :513, Row size:2672.994140625 KB, Type: I, Offloading:True, compressed size:2672.994140625
+[2022-11-18 22:29:16,877 segment-accuracy.py:514 test] Loss:0.08698432147502899,Acc:97.55454063415527
+[2022-11-18 22:29:16,903 segment-accuracy.py:521 test] ===> mAP 62.460
+[2022-11-18 22:29:17,487 segment-accuracy.py:512 test] Frame id :514, Row size:2709.6259765625 KB, Type: I, Offloading:True, compressed size:2709.6259765625
+[2022-11-18 22:29:17,487 segment-accuracy.py:514 test] Loss:0.0714469850063324,Acc:98.14963340759277
+[2022-11-18 22:29:17,514 segment-accuracy.py:521 test] ===> mAP 62.490
+[2022-11-18 22:29:18,094 segment-accuracy.py:512 test] Frame id :515, Row size:2740.3076171875 KB, Type: I, Offloading:True, compressed size:2740.3076171875
+[2022-11-18 22:29:18,094 segment-accuracy.py:514 test] Loss:0.0677122250199318,Acc:98.3363151550293
+[2022-11-18 22:29:18,122 segment-accuracy.py:521 test] ===> mAP 62.510
+[2022-11-18 22:29:18,704 segment-accuracy.py:512 test] Frame id :516, Row size:2770.451171875 KB, Type: I, Offloading:True, compressed size:2770.451171875
+[2022-11-18 22:29:18,704 segment-accuracy.py:514 test] Loss:0.06890988349914551,Acc:98.15750122070312
+[2022-11-18 22:29:18,730 segment-accuracy.py:521 test] ===> mAP 62.540
+[2022-11-18 22:29:19,310 segment-accuracy.py:512 test] Frame id :517, Row size:2784.708984375 KB, Type: I, Offloading:True, compressed size:2784.708984375
+[2022-11-18 22:29:19,310 segment-accuracy.py:514 test] Loss:0.07360101491212845,Acc:97.89385795593262
+[2022-11-18 22:29:19,340 segment-accuracy.py:521 test] ===> mAP 62.560
+[2022-11-18 22:29:19,918 segment-accuracy.py:512 test] Frame id :518, Row size:2808.4033203125 KB, Type: I, Offloading:True, compressed size:2808.4033203125
+[2022-11-18 22:29:19,918 segment-accuracy.py:514 test] Loss:0.07819512486457825,Acc:98.0201244354248
+[2022-11-18 22:29:19,947 segment-accuracy.py:521 test] ===> mAP 62.580
+[2022-11-18 22:29:20,538 segment-accuracy.py:512 test] Frame id :519, Row size:2827.58984375 KB, Type: I, Offloading:True, compressed size:2827.58984375
+[2022-11-18 22:29:20,539 segment-accuracy.py:514 test] Loss:0.06436176598072052,Acc:98.30784797668457
+[2022-11-18 22:29:20,570 segment-accuracy.py:521 test] ===> mAP 62.610
+[2022-11-18 22:29:21,152 segment-accuracy.py:512 test] Frame id :520, Row size:2840.4130859375 KB, Type: I, Offloading:True, compressed size:2840.4130859375
+[2022-11-18 22:29:21,152 segment-accuracy.py:514 test] Loss:0.06300801783800125,Acc:98.37827682495117
+[2022-11-18 22:29:21,181 segment-accuracy.py:521 test] ===> mAP 62.630
+[2022-11-18 22:29:21,765 segment-accuracy.py:512 test] Frame id :521, Row size:2854.958984375 KB, Type: I, Offloading:True, compressed size:2854.958984375
+[2022-11-18 22:29:21,766 segment-accuracy.py:514 test] Loss:0.08060398697853088,Acc:97.84259796142578
+[2022-11-18 22:29:21,790 segment-accuracy.py:521 test] ===> mAP 62.660
+[2022-11-18 22:29:22,370 segment-accuracy.py:512 test] Frame id :522, Row size:2866.896484375 KB, Type: I, Offloading:True, compressed size:2866.896484375
+[2022-11-18 22:29:22,370 segment-accuracy.py:514 test] Loss:0.07535803318023682,Acc:97.7975845336914
+[2022-11-18 22:29:22,400 segment-accuracy.py:521 test] ===> mAP 62.690
+[2022-11-18 22:29:22,985 segment-accuracy.py:512 test] Frame id :523, Row size:2868.056640625 KB, Type: I, Offloading:True, compressed size:2868.056640625
+[2022-11-18 22:29:22,985 segment-accuracy.py:514 test] Loss:0.0749448761343956,Acc:97.93496131896973
+[2022-11-18 22:29:23,013 segment-accuracy.py:521 test] ===> mAP 62.710
+[2022-11-18 22:29:23,605 segment-accuracy.py:512 test] Frame id :524, Row size:2876.5263671875 KB, Type: I, Offloading:True, compressed size:2876.5263671875
+[2022-11-18 22:29:23,606 segment-accuracy.py:514 test] Loss:0.059599991887807846,Acc:98.45476150512695
+[2022-11-18 22:29:23,634 segment-accuracy.py:521 test] ===> mAP 62.740
+[2022-11-18 22:29:24,232 segment-accuracy.py:512 test] Frame id :525, Row size:2884.4140625 KB, Type: I, Offloading:True, compressed size:2884.4140625
+[2022-11-18 22:29:24,232 segment-accuracy.py:514 test] Loss:0.06286899745464325,Acc:98.21181297302246
+[2022-11-18 22:29:24,261 segment-accuracy.py:521 test] ===> mAP 62.760
+[2022-11-18 22:29:24,856 segment-accuracy.py:512 test] Frame id :526, Row size:2888.93359375 KB, Type: I, Offloading:True, compressed size:2888.93359375
+[2022-11-18 22:29:24,857 segment-accuracy.py:514 test] Loss:0.06455777585506439,Acc:98.23293685913086
+[2022-11-18 22:29:24,881 segment-accuracy.py:521 test] ===> mAP 62.790
+[2022-11-18 22:29:25,476 segment-accuracy.py:512 test] Frame id :527, Row size:2895.8779296875 KB, Type: I, Offloading:True, compressed size:2895.8779296875
+[2022-11-18 22:29:25,477 segment-accuracy.py:514 test] Loss:0.062385451048612595,Acc:98.39997291564941
+[2022-11-18 22:29:25,507 segment-accuracy.py:521 test] ===> mAP 62.810
+[2022-11-18 22:29:26,097 segment-accuracy.py:512 test] Frame id :528, Row size:2904.109375 KB, Type: I, Offloading:True, compressed size:2904.109375
+[2022-11-18 22:29:26,097 segment-accuracy.py:514 test] Loss:0.06345906108617783,Acc:98.24233055114746
+[2022-11-18 22:29:26,129 segment-accuracy.py:521 test] ===> mAP 62.840
+[2022-11-18 22:29:26,721 segment-accuracy.py:512 test] Frame id :529, Row size:2900.775390625 KB, Type: I, Offloading:True, compressed size:2900.775390625
+[2022-11-18 22:29:26,721 segment-accuracy.py:514 test] Loss:0.06412127614021301,Acc:98.22850227355957
+[2022-11-18 22:29:26,745 segment-accuracy.py:521 test] ===> mAP 62.860
+[2022-11-18 22:29:27,326 segment-accuracy.py:512 test] Frame id :530, Row size:2905.5380859375 KB, Type: I, Offloading:True, compressed size:2905.5380859375
+[2022-11-18 22:29:27,327 segment-accuracy.py:514 test] Loss:0.0714377611875534,Acc:97.97096252441406
+[2022-11-18 22:29:27,355 segment-accuracy.py:521 test] ===> mAP 62.880
+[2022-11-18 22:29:27,934 segment-accuracy.py:512 test] Frame id :531, Row size:2902.2431640625 KB, Type: I, Offloading:True, compressed size:2902.2431640625
+[2022-11-18 22:29:27,934 segment-accuracy.py:514 test] Loss:0.07072778046131134,Acc:98.00906181335449
+[2022-11-18 22:29:27,960 segment-accuracy.py:521 test] ===> mAP 62.910
+[2022-11-18 22:29:28,535 segment-accuracy.py:512 test] Frame id :532, Row size:2906.3369140625 KB, Type: I, Offloading:True, compressed size:2906.3369140625
+[2022-11-18 22:29:28,535 segment-accuracy.py:514 test] Loss:0.072899229824543,Acc:97.91560173034668
+[2022-11-18 22:29:28,560 segment-accuracy.py:521 test] ===> mAP 62.920
+[2022-11-18 22:29:29,140 segment-accuracy.py:512 test] Frame id :533, Row size:2914.1689453125 KB, Type: I, Offloading:True, compressed size:2914.1689453125
+[2022-11-18 22:29:29,140 segment-accuracy.py:514 test] Loss:0.07930322736501694,Acc:97.68948554992676
+[2022-11-18 22:29:29,167 segment-accuracy.py:521 test] ===> mAP 62.940
+[2022-11-18 22:29:29,743 segment-accuracy.py:512 test] Frame id :534, Row size:2919.2861328125 KB, Type: I, Offloading:True, compressed size:2919.2861328125
+[2022-11-18 22:29:29,743 segment-accuracy.py:514 test] Loss:0.07931577414274216,Acc:97.69454002380371
+[2022-11-18 22:29:29,767 segment-accuracy.py:521 test] ===> mAP 62.960
+[2022-11-18 22:29:30,350 segment-accuracy.py:512 test] Frame id :535, Row size:2909.4130859375 KB, Type: I, Offloading:True, compressed size:2909.4130859375
+[2022-11-18 22:29:30,350 segment-accuracy.py:514 test] Loss:0.07579983025789261,Acc:97.81785011291504
+[2022-11-18 22:29:30,379 segment-accuracy.py:521 test] ===> mAP 62.980
+[2022-11-18 22:29:30,961 segment-accuracy.py:512 test] Frame id :536, Row size:2906.5107421875 KB, Type: I, Offloading:True, compressed size:2906.5107421875
+[2022-11-18 22:29:30,961 segment-accuracy.py:514 test] Loss:0.06615718454122543,Acc:98.21276664733887
+[2022-11-18 22:29:30,991 segment-accuracy.py:521 test] ===> mAP 63.000
+[2022-11-18 22:29:31,565 segment-accuracy.py:512 test] Frame id :537, Row size:2903.15234375 KB, Type: I, Offloading:True, compressed size:2903.15234375
+[2022-11-18 22:29:31,565 segment-accuracy.py:514 test] Loss:0.06895823776721954,Acc:98.22139739990234
+[2022-11-18 22:29:31,594 segment-accuracy.py:521 test] ===> mAP 63.030
+[2022-11-18 22:29:32,168 segment-accuracy.py:512 test] Frame id :538, Row size:2897.47265625 KB, Type: I, Offloading:True, compressed size:2897.47265625
+[2022-11-18 22:29:32,169 segment-accuracy.py:514 test] Loss:0.0738292932510376,Acc:97.87659645080566
+[2022-11-18 22:29:32,197 segment-accuracy.py:521 test] ===> mAP 63.040
+[2022-11-18 22:29:32,776 segment-accuracy.py:512 test] Frame id :539, Row size:2910.9560546875 KB, Type: I, Offloading:True, compressed size:2910.9560546875
+[2022-11-18 22:29:32,776 segment-accuracy.py:514 test] Loss:0.06560909003019333,Acc:98.28085899353027
+[2022-11-18 22:29:32,806 segment-accuracy.py:521 test] ===> mAP 63.060
+[2022-11-18 22:29:33,378 segment-accuracy.py:512 test] Frame id :540, Row size:2911.3466796875 KB, Type: I, Offloading:True, compressed size:2911.3466796875
+[2022-11-18 22:29:33,378 segment-accuracy.py:514 test] Loss:0.07743800431489944,Acc:97.86233901977539
+[2022-11-18 22:29:33,404 segment-accuracy.py:521 test] ===> mAP 63.080
+[2022-11-18 22:29:33,978 segment-accuracy.py:512 test] Frame id :541, Row size:2921.03125 KB, Type: I, Offloading:True, compressed size:2921.03125
+[2022-11-18 22:29:33,979 segment-accuracy.py:514 test] Loss:0.07882213592529297,Acc:97.7696418762207
+[2022-11-18 22:29:34,008 segment-accuracy.py:521 test] ===> mAP 63.100
+[2022-11-18 22:29:34,589 segment-accuracy.py:512 test] Frame id :542, Row size:2911.1455078125 KB, Type: I, Offloading:True, compressed size:2911.1455078125
+[2022-11-18 22:29:34,589 segment-accuracy.py:514 test] Loss:0.0678764134645462,Acc:98.30489158630371
+[2022-11-18 22:29:34,615 segment-accuracy.py:521 test] ===> mAP 63.130
+[2022-11-18 22:29:35,188 segment-accuracy.py:512 test] Frame id :543, Row size:2906.296875 KB, Type: I, Offloading:True, compressed size:2906.296875
+[2022-11-18 22:29:35,188 segment-accuracy.py:514 test] Loss:0.07540179044008255,Acc:98.0173110961914
+[2022-11-18 22:29:35,213 segment-accuracy.py:521 test] ===> mAP 63.150
+[2022-11-18 22:29:35,788 segment-accuracy.py:512 test] Frame id :544, Row size:2898.1357421875 KB, Type: I, Offloading:True, compressed size:2898.1357421875
+[2022-11-18 22:29:35,788 segment-accuracy.py:514 test] Loss:0.07749572396278381,Acc:97.86772727966309
+[2022-11-18 22:29:35,817 segment-accuracy.py:521 test] ===> mAP 63.170
+[2022-11-18 22:29:36,397 segment-accuracy.py:512 test] Frame id :545, Row size:2889.3515625 KB, Type: I, Offloading:True, compressed size:2889.3515625
+[2022-11-18 22:29:36,398 segment-accuracy.py:514 test] Loss:0.0838855504989624,Acc:97.69515991210938
+[2022-11-18 22:29:36,428 segment-accuracy.py:521 test] ===> mAP 63.190
+[2022-11-18 22:29:37,002 segment-accuracy.py:512 test] Frame id :546, Row size:2900.4833984375 KB, Type: I, Offloading:True, compressed size:2900.4833984375
+[2022-11-18 22:29:37,002 segment-accuracy.py:514 test] Loss:0.08707405626773834,Acc:97.49016761779785
+[2022-11-18 22:29:37,032 segment-accuracy.py:521 test] ===> mAP 63.210
+[2022-11-18 22:29:37,604 segment-accuracy.py:512 test] Frame id :547, Row size:2890.2529296875 KB, Type: I, Offloading:True, compressed size:2890.2529296875
+[2022-11-18 22:29:37,604 segment-accuracy.py:514 test] Loss:0.10550014674663544,Acc:96.4090347290039
+[2022-11-18 22:29:37,630 segment-accuracy.py:521 test] ===> mAP 63.220
+[2022-11-18 22:29:38,211 segment-accuracy.py:512 test] Frame id :548, Row size:2919.650390625 KB, Type: I, Offloading:True, compressed size:2919.650390625
+[2022-11-18 22:29:38,211 segment-accuracy.py:514 test] Loss:0.0895465835928917,Acc:97.43795394897461
+[2022-11-18 22:29:38,240 segment-accuracy.py:521 test] ===> mAP 63.230
+[2022-11-18 22:29:38,810 segment-accuracy.py:512 test] Frame id :549, Row size:2911.6865234375 KB, Type: I, Offloading:True, compressed size:2911.6865234375
+[2022-11-18 22:29:38,811 segment-accuracy.py:514 test] Loss:0.11443261057138443,Acc:96.27532958984375
+[2022-11-18 22:29:38,837 segment-accuracy.py:521 test] ===> mAP 63.240
+[2022-11-18 22:29:39,434 segment-accuracy.py:512 test] Frame id :550, Row size:2927.880859375 KB, Type: I, Offloading:True, compressed size:2927.880859375
+[2022-11-18 22:29:39,435 segment-accuracy.py:514 test] Loss:0.11148245632648468,Acc:96.37269973754883
+[2022-11-18 22:29:39,466 segment-accuracy.py:521 test] ===> mAP 63.220
+[2022-11-18 22:29:40,049 segment-accuracy.py:512 test] Frame id :551, Row size:2929.3486328125 KB, Type: I, Offloading:True, compressed size:2929.3486328125
+[2022-11-18 22:29:40,050 segment-accuracy.py:514 test] Loss:0.10134837031364441,Acc:96.7400074005127
+[2022-11-18 22:29:40,078 segment-accuracy.py:521 test] ===> mAP 63.220
+[2022-11-18 22:29:40,664 segment-accuracy.py:512 test] Frame id :552, Row size:2912.662109375 KB, Type: I, Offloading:True, compressed size:2912.662109375
+[2022-11-18 22:29:40,664 segment-accuracy.py:514 test] Loss:0.2133006751537323,Acc:93.7410831451416
+[2022-11-18 22:29:40,688 segment-accuracy.py:521 test] ===> mAP 63.230
+[2022-11-18 22:29:41,278 segment-accuracy.py:512 test] Frame id :553, Row size:2911.9609375 KB, Type: I, Offloading:True, compressed size:2911.9609375
+[2022-11-18 22:29:41,278 segment-accuracy.py:514 test] Loss:0.18281330168247223,Acc:94.97442245483398
+[2022-11-18 22:29:41,305 segment-accuracy.py:521 test] ===> mAP 63.230
+[2022-11-18 22:29:41,880 segment-accuracy.py:512 test] Frame id :554, Row size:2899.2685546875 KB, Type: I, Offloading:True, compressed size:2899.2685546875
+[2022-11-18 22:29:41,880 segment-accuracy.py:514 test] Loss:0.17069822549819946,Acc:94.65155601501465
+[2022-11-18 22:29:41,905 segment-accuracy.py:521 test] ===> mAP 63.230
+[2022-11-18 22:29:42,484 segment-accuracy.py:512 test] Frame id :555, Row size:2904.6787109375 KB, Type: I, Offloading:True, compressed size:2904.6787109375
+[2022-11-18 22:29:42,484 segment-accuracy.py:514 test] Loss:0.29995495080947876,Acc:93.8039779663086
+[2022-11-18 22:29:42,513 segment-accuracy.py:521 test] ===> mAP 63.230
+[2022-11-18 22:29:43,099 segment-accuracy.py:512 test] Frame id :556, Row size:2915.3154296875 KB, Type: I, Offloading:True, compressed size:2915.3154296875
+[2022-11-18 22:29:43,099 segment-accuracy.py:514 test] Loss:0.19060198962688446,Acc:94.25244331359863
+[2022-11-18 22:29:43,127 segment-accuracy.py:521 test] ===> mAP 63.220
+[2022-11-18 22:29:43,721 segment-accuracy.py:512 test] Frame id :557, Row size:2919.2255859375 KB, Type: I, Offloading:True, compressed size:2919.2255859375
+[2022-11-18 22:29:43,722 segment-accuracy.py:514 test] Loss:0.19079698622226715,Acc:93.28680038452148
+[2022-11-18 22:29:43,751 segment-accuracy.py:521 test] ===> mAP 63.210
+[2022-11-18 22:29:44,354 segment-accuracy.py:512 test] Frame id :558, Row size:2913.9423828125 KB, Type: I, Offloading:True, compressed size:2913.9423828125
+[2022-11-18 22:29:44,355 segment-accuracy.py:514 test] Loss:0.22790847718715668,Acc:92.94934272766113
+[2022-11-18 22:29:44,383 segment-accuracy.py:521 test] ===> mAP 63.190
+[2022-11-18 22:29:44,971 segment-accuracy.py:512 test] Frame id :559, Row size:2926.033203125 KB, Type: I, Offloading:True, compressed size:2926.033203125
+[2022-11-18 22:29:44,972 segment-accuracy.py:514 test] Loss:0.13198061287403107,Acc:95.9531307220459
+[2022-11-18 22:29:45,000 segment-accuracy.py:521 test] ===> mAP 63.190
+[2022-11-18 22:29:45,591 segment-accuracy.py:512 test] Frame id :560, Row size:2921.908203125 KB, Type: I, Offloading:True, compressed size:2921.908203125
+[2022-11-18 22:29:45,591 segment-accuracy.py:514 test] Loss:0.1824221909046173,Acc:94.79389190673828
+[2022-11-18 22:29:45,623 segment-accuracy.py:521 test] ===> mAP 63.180
+[2022-11-18 22:29:46,203 segment-accuracy.py:512 test] Frame id :561, Row size:2928.22265625 KB, Type: I, Offloading:True, compressed size:2928.22265625
+[2022-11-18 22:29:46,204 segment-accuracy.py:514 test] Loss:0.20517489314079285,Acc:93.43080520629883
+[2022-11-18 22:29:46,232 segment-accuracy.py:521 test] ===> mAP 63.170
+[2022-11-18 22:29:46,811 segment-accuracy.py:512 test] Frame id :562, Row size:2937.2529296875 KB, Type: I, Offloading:True, compressed size:2937.2529296875
+[2022-11-18 22:29:46,811 segment-accuracy.py:514 test] Loss:0.23159846663475037,Acc:93.54825019836426
+[2022-11-18 22:29:46,844 segment-accuracy.py:521 test] ===> mAP 63.160
+[2022-11-18 22:29:47,425 segment-accuracy.py:512 test] Frame id :563, Row size:2938.203125 KB, Type: I, Offloading:True, compressed size:2938.203125
+[2022-11-18 22:29:47,426 segment-accuracy.py:514 test] Loss:0.23411482572555542,Acc:93.50442886352539
+[2022-11-18 22:29:47,455 segment-accuracy.py:521 test] ===> mAP 63.160
+[2022-11-18 22:29:48,035 segment-accuracy.py:512 test] Frame id :564, Row size:2946.677734375 KB, Type: I, Offloading:True, compressed size:2946.677734375
+[2022-11-18 22:29:48,035 segment-accuracy.py:514 test] Loss:0.17587584257125854,Acc:94.47908401489258
+[2022-11-18 22:29:48,060 segment-accuracy.py:521 test] ===> mAP 63.160
+[2022-11-18 22:29:48,643 segment-accuracy.py:512 test] Frame id :565, Row size:2942.5439453125 KB, Type: I, Offloading:True, compressed size:2942.5439453125
+[2022-11-18 22:29:48,644 segment-accuracy.py:514 test] Loss:0.19779616594314575,Acc:92.87586212158203
+[2022-11-18 22:29:48,672 segment-accuracy.py:521 test] ===> mAP 63.150
+[2022-11-18 22:29:49,266 segment-accuracy.py:512 test] Frame id :566, Row size:2932.8564453125 KB, Type: I, Offloading:True, compressed size:2932.8564453125
+[2022-11-18 22:29:49,266 segment-accuracy.py:514 test] Loss:0.18539974093437195,Acc:94.06681060791016
+[2022-11-18 22:29:49,289 segment-accuracy.py:521 test] ===> mAP 63.150
+[2022-11-18 22:29:49,867 segment-accuracy.py:512 test] Frame id :567, Row size:2909.9638671875 KB, Type: I, Offloading:True, compressed size:2909.9638671875
+[2022-11-18 22:29:49,868 segment-accuracy.py:514 test] Loss:0.18024468421936035,Acc:93.65134239196777
+[2022-11-18 22:29:49,895 segment-accuracy.py:521 test] ===> mAP 63.150
+[2022-11-18 22:29:50,476 segment-accuracy.py:512 test] Frame id :568, Row size:2912.984375 KB, Type: I, Offloading:True, compressed size:2912.984375
+[2022-11-18 22:29:50,477 segment-accuracy.py:514 test] Loss:0.16862738132476807,Acc:95.66640853881836
+[2022-11-18 22:29:50,507 segment-accuracy.py:521 test] ===> mAP 63.150
+[2022-11-18 22:29:51,083 segment-accuracy.py:512 test] Frame id :569, Row size:2887.1552734375 KB, Type: I, Offloading:True, compressed size:2887.1552734375
+[2022-11-18 22:29:51,084 segment-accuracy.py:514 test] Loss:0.07596200704574585,Acc:98.05631637573242
+[2022-11-18 22:29:51,109 segment-accuracy.py:521 test] ===> mAP 63.160
+[2022-11-18 22:29:51,708 segment-accuracy.py:512 test] Frame id :570, Row size:2886.416015625 KB, Type: I, Offloading:True, compressed size:2886.416015625
+[2022-11-18 22:29:51,709 segment-accuracy.py:514 test] Loss:0.09623336791992188,Acc:96.99888229370117
+[2022-11-18 22:29:51,743 segment-accuracy.py:521 test] ===> mAP 63.170
+[2022-11-18 22:29:52,329 segment-accuracy.py:512 test] Frame id :571, Row size:2863.9541015625 KB, Type: I, Offloading:True, compressed size:2863.9541015625
+[2022-11-18 22:29:52,330 segment-accuracy.py:514 test] Loss:0.11648295819759369,Acc:96.5585708618164
+[2022-11-18 22:29:52,358 segment-accuracy.py:521 test] ===> mAP 63.170
+[2022-11-18 22:29:52,946 segment-accuracy.py:512 test] Frame id :572, Row size:2862.5029296875 KB, Type: I, Offloading:True, compressed size:2862.5029296875
+[2022-11-18 22:29:52,947 segment-accuracy.py:514 test] Loss:0.12682804465293884,Acc:96.12174034118652
+[2022-11-18 22:29:52,972 segment-accuracy.py:521 test] ===> mAP 63.180
+[2022-11-18 22:29:53,568 segment-accuracy.py:512 test] Frame id :573, Row size:2842.8837890625 KB, Type: I, Offloading:True, compressed size:2842.8837890625
+[2022-11-18 22:29:53,569 segment-accuracy.py:514 test] Loss:0.2453872710466385,Acc:93.49031448364258
+[2022-11-18 22:29:53,598 segment-accuracy.py:521 test] ===> mAP 63.170
+[2022-11-18 22:29:54,177 segment-accuracy.py:512 test] Frame id :574, Row size:2866.626953125 KB, Type: I, Offloading:True, compressed size:2866.626953125
+[2022-11-18 22:29:54,178 segment-accuracy.py:514 test] Loss:0.14596439898014069,Acc:95.17178535461426
+[2022-11-18 22:29:54,206 segment-accuracy.py:521 test] ===> mAP 63.170
+[2022-11-18 22:29:54,785 segment-accuracy.py:512 test] Frame id :575, Row size:2886.0595703125 KB, Type: I, Offloading:True, compressed size:2886.0595703125
+[2022-11-18 22:29:54,785 segment-accuracy.py:514 test] Loss:0.21953658759593964,Acc:93.80784034729004
+[2022-11-18 22:29:54,812 segment-accuracy.py:521 test] ===> mAP 63.180
+[2022-11-18 22:29:55,400 segment-accuracy.py:512 test] Frame id :576, Row size:2938.576171875 KB, Type: I, Offloading:True, compressed size:2938.576171875
+[2022-11-18 22:29:55,400 segment-accuracy.py:514 test] Loss:0.1870085597038269,Acc:94.1324234008789
+[2022-11-18 22:29:55,428 segment-accuracy.py:521 test] ===> mAP 63.190
+[2022-11-18 22:29:56,014 segment-accuracy.py:512 test] Frame id :577, Row size:2942.0732421875 KB, Type: I, Offloading:True, compressed size:2942.0732421875
+[2022-11-18 22:29:56,014 segment-accuracy.py:514 test] Loss:0.17448343336582184,Acc:94.10014152526855
+[2022-11-18 22:29:56,044 segment-accuracy.py:521 test] ===> mAP 63.210
+[2022-11-18 22:29:56,636 segment-accuracy.py:512 test] Frame id :578, Row size:2946.482421875 KB, Type: I, Offloading:True, compressed size:2946.482421875
+[2022-11-18 22:29:56,636 segment-accuracy.py:514 test] Loss:0.12910769879817963,Acc:95.97330093383789
+[2022-11-18 22:29:56,662 segment-accuracy.py:521 test] ===> mAP 63.230
+[2022-11-18 22:29:57,261 segment-accuracy.py:512 test] Frame id :579, Row size:2953.541015625 KB, Type: I, Offloading:True, compressed size:2953.541015625
+[2022-11-18 22:29:57,261 segment-accuracy.py:514 test] Loss:0.12733633816242218,Acc:96.09198570251465
+[2022-11-18 22:29:57,289 segment-accuracy.py:521 test] ===> mAP 63.240
+[2022-11-18 22:29:57,881 segment-accuracy.py:512 test] Frame id :580, Row size:2963.5947265625 KB, Type: I, Offloading:True, compressed size:2963.5947265625
+[2022-11-18 22:29:57,881 segment-accuracy.py:514 test] Loss:0.07824276387691498,Acc:98.12750816345215
+[2022-11-18 22:29:57,914 segment-accuracy.py:521 test] ===> mAP 63.270
+[2022-11-18 22:29:58,496 segment-accuracy.py:512 test] Frame id :581, Row size:2979.1884765625 KB, Type: I, Offloading:True, compressed size:2979.1884765625
+[2022-11-18 22:29:58,496 segment-accuracy.py:514 test] Loss:0.11421313881874084,Acc:96.45633697509766
+[2022-11-18 22:29:58,524 segment-accuracy.py:521 test] ===> mAP 63.290
+[2022-11-18 22:29:59,110 segment-accuracy.py:512 test] Frame id :582, Row size:2992.5068359375 KB, Type: I, Offloading:True, compressed size:2992.5068359375
+[2022-11-18 22:29:59,110 segment-accuracy.py:514 test] Loss:0.10924211889505386,Acc:96.62637710571289
+[2022-11-18 22:29:59,139 segment-accuracy.py:521 test] ===> mAP 63.320
+[2022-11-18 22:29:59,720 segment-accuracy.py:512 test] Frame id :583, Row size:2999.017578125 KB, Type: I, Offloading:True, compressed size:2999.017578125
+[2022-11-18 22:29:59,720 segment-accuracy.py:514 test] Loss:0.13336054980754852,Acc:96.2399959564209
+[2022-11-18 22:29:59,745 segment-accuracy.py:521 test] ===> mAP 63.350
+[2022-11-18 22:30:00,326 segment-accuracy.py:512 test] Frame id :584, Row size:3015.5439453125 KB, Type: I, Offloading:True, compressed size:3015.5439453125
+[2022-11-18 22:30:00,326 segment-accuracy.py:514 test] Loss:0.09408260136842728,Acc:97.18766212463379
+[2022-11-18 22:30:00,356 segment-accuracy.py:521 test] ===> mAP 63.370
+[2022-11-18 22:30:00,930 segment-accuracy.py:512 test] Frame id :585, Row size:2900.171875 KB, Type: I, Offloading:True, compressed size:2900.171875
+[2022-11-18 22:30:00,930 segment-accuracy.py:514 test] Loss:0.22293704748153687,Acc:93.04099082946777
+[2022-11-18 22:30:00,960 segment-accuracy.py:521 test] ===> mAP 63.360
+[2022-11-18 22:30:01,549 segment-accuracy.py:512 test] Frame id :586, Row size:2950.9951171875 KB, Type: I, Offloading:True, compressed size:2950.9951171875
+[2022-11-18 22:30:01,550 segment-accuracy.py:514 test] Loss:0.17031487822532654,Acc:95.0216293334961
+[2022-11-18 22:30:01,580 segment-accuracy.py:521 test] ===> mAP 63.380
+[2022-11-18 22:30:02,183 segment-accuracy.py:512 test] Frame id :587, Row size:2354.8916015625 KB, Type: I, Offloading:True, compressed size:2354.8916015625
+[2022-11-18 22:30:02,183 segment-accuracy.py:514 test] Loss:0.2316473126411438,Acc:92.46325492858887
+[2022-11-18 22:30:02,218 segment-accuracy.py:521 test] ===> mAP 63.390
+[2022-11-18 22:30:02,799 segment-accuracy.py:512 test] Frame id :588, Row size:2565.1064453125 KB, Type: I, Offloading:True, compressed size:2565.1064453125
+[2022-11-18 22:30:02,800 segment-accuracy.py:514 test] Loss:0.2860010862350464,Acc:90.7346248626709
+[2022-11-18 22:30:02,828 segment-accuracy.py:521 test] ===> mAP 63.390
+[2022-11-18 22:30:03,409 segment-accuracy.py:512 test] Frame id :589, Row size:2625.4931640625 KB, Type: I, Offloading:True, compressed size:2625.4931640625
+[2022-11-18 22:30:03,409 segment-accuracy.py:514 test] Loss:0.3183717429637909,Acc:91.1369800567627
+[2022-11-18 22:30:03,439 segment-accuracy.py:521 test] ===> mAP 63.390
+[2022-11-18 22:30:04,021 segment-accuracy.py:512 test] Frame id :590, Row size:2708.6767578125 KB, Type: I, Offloading:True, compressed size:2708.6767578125
+[2022-11-18 22:30:04,021 segment-accuracy.py:514 test] Loss:0.22463925182819366,Acc:92.7215576171875
+[2022-11-18 22:30:04,049 segment-accuracy.py:521 test] ===> mAP 63.410
+[2022-11-18 22:30:04,627 segment-accuracy.py:512 test] Frame id :591, Row size:2740.4775390625 KB, Type: I, Offloading:True, compressed size:2740.4775390625
+[2022-11-18 22:30:04,628 segment-accuracy.py:514 test] Loss:0.19995704293251038,Acc:94.14663314819336
+[2022-11-18 22:30:04,657 segment-accuracy.py:521 test] ===> mAP 63.440
+[2022-11-18 22:30:05,257 segment-accuracy.py:512 test] Frame id :592, Row size:2787.8544921875 KB, Type: I, Offloading:True, compressed size:2787.8544921875
+[2022-11-18 22:30:05,257 segment-accuracy.py:514 test] Loss:0.17158858478069305,Acc:94.93527412414551
+[2022-11-18 22:30:05,283 segment-accuracy.py:521 test] ===> mAP 63.470
+[2022-11-18 22:30:05,869 segment-accuracy.py:512 test] Frame id :593, Row size:2812.904296875 KB, Type: I, Offloading:True, compressed size:2812.904296875
+[2022-11-18 22:30:05,870 segment-accuracy.py:514 test] Loss:0.11892519891262054,Acc:96.15883827209473
+[2022-11-18 22:30:05,896 segment-accuracy.py:521 test] ===> mAP 63.510
+[2022-11-18 22:30:06,478 segment-accuracy.py:512 test] Frame id :594, Row size:2848.482421875 KB, Type: I, Offloading:True, compressed size:2848.482421875
+[2022-11-18 22:30:06,478 segment-accuracy.py:514 test] Loss:0.09803794324398041,Acc:96.97027206420898
+[2022-11-18 22:30:06,508 segment-accuracy.py:521 test] ===> mAP 63.550
+[2022-11-18 22:30:07,085 segment-accuracy.py:512 test] Frame id :595, Row size:2821.587890625 KB, Type: I, Offloading:True, compressed size:2821.587890625
+[2022-11-18 22:30:07,085 segment-accuracy.py:514 test] Loss:0.12482798099517822,Acc:96.51098251342773
+[2022-11-18 22:30:07,111 segment-accuracy.py:521 test] ===> mAP 63.600
+[2022-11-18 22:30:07,703 segment-accuracy.py:512 test] Frame id :596, Row size:2848.0791015625 KB, Type: I, Offloading:True, compressed size:2848.0791015625
+[2022-11-18 22:30:07,703 segment-accuracy.py:514 test] Loss:0.09627673774957657,Acc:97.39251136779785
+[2022-11-18 22:30:07,739 segment-accuracy.py:521 test] ===> mAP 63.630
+[2022-11-18 22:30:08,313 segment-accuracy.py:512 test] Frame id :597, Row size:2852.83203125 KB, Type: I, Offloading:True, compressed size:2852.83203125
+[2022-11-18 22:30:08,314 segment-accuracy.py:514 test] Loss:0.10619531571865082,Acc:96.83918952941895
+[2022-11-18 22:30:08,343 segment-accuracy.py:521 test] ===> mAP 63.680
+[2022-11-18 22:30:08,920 segment-accuracy.py:512 test] Frame id :598, Row size:2865.2734375 KB, Type: I, Offloading:True, compressed size:2865.2734375
+[2022-11-18 22:30:08,920 segment-accuracy.py:514 test] Loss:0.11166917532682419,Acc:96.88239097595215
+[2022-11-18 22:30:08,945 segment-accuracy.py:521 test] ===> mAP 63.720
+[2022-11-18 22:30:09,530 segment-accuracy.py:512 test] Frame id :599, Row size:2878.5869140625 KB, Type: I, Offloading:True, compressed size:2878.5869140625
+[2022-11-18 22:30:09,530 segment-accuracy.py:514 test] Loss:0.09517554938793182,Acc:97.40533828735352
+[2022-11-18 22:30:09,559 segment-accuracy.py:521 test] ===> mAP 63.770
+[2022-11-18 22:30:09,585 segment-accuracy.py:527 test] 94.267 83.438 91.963 26.413 31.745 74.419 74.304 74.461 90.303 19.290 97.894 76.163 41.073 90.250 68.700 31.121 22.305 49.623 73.820
+[2022-11-18 22:30:09,648 segment-accuracy.py:680 test_seg] mAP: 63.770000

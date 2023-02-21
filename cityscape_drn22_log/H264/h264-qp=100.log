@@ -1,0 +1,46 @@
+[2023-01-01 14:31:35,278 segment-h264.py:474 test] Loss Bound:0.01
+[2023-01-01 14:31:41,535 segment-h264.py:632 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, compressed size:1480.8583984375,jpeg_size:0
+[2023-01-01 14:31:41,536 segment-h264.py:634 test] Loss:0.04401398450136185,Acc:99.73468780517578,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:41,559 segment-h264.py:641 test] ===> mAP 86.320
+[2023-01-01 14:31:42,648 segment-h264.py:632 test] Frame id :2, Row size:2273.181640625 KB, Type: P, Offloading:True, compressed size:1018.3076171875,jpeg_size:1480.8583984375
+[2023-01-01 14:31:42,648 segment-h264.py:634 test] Loss:0.049037061631679535,Acc:99.3044376373291,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:42,669 segment-h264.py:641 test] ===> mAP 84.780
+[2023-01-01 14:31:43,776 segment-h264.py:632 test] Frame id :3, Row size:2276.7080078125 KB, Type: P, Offloading:True, compressed size:1076.3642578125,jpeg_size:1480.8583984375
+[2023-01-01 14:31:43,777 segment-h264.py:634 test] Loss:0.04688369855284691,Acc:99.34344291687012,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:43,797 segment-h264.py:641 test] ===> mAP 82.890
+[2023-01-01 14:31:44,880 segment-h264.py:632 test] Frame id :4, Row size:2276.595703125 KB, Type: P, Offloading:True, compressed size:1088.4560546875,jpeg_size:1480.8583984375
+[2023-01-01 14:31:44,880 segment-h264.py:634 test] Loss:0.04979279637336731,Acc:99.1459846496582,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:44,901 segment-h264.py:641 test] ===> mAP 84.120
+[2023-01-01 14:31:45,942 segment-h264.py:632 test] Frame id :5, Row size:2290.3095703125 KB, Type: P, Offloading:True, compressed size:1095.919921875,jpeg_size:1480.8583984375
+[2023-01-01 14:31:45,942 segment-h264.py:634 test] Loss:0.046788230538368225,Acc:99.31426048278809,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:45,965 segment-h264.py:641 test] ===> mAP 83.240
+[2023-01-01 14:31:47,025 segment-h264.py:632 test] Frame id :6, Row size:2291.4619140625 KB, Type: P, Offloading:True, compressed size:1098.353515625,jpeg_size:1480.8583984375
+[2023-01-01 14:31:47,025 segment-h264.py:634 test] Loss:0.045689452439546585,Acc:99.39846992492676,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:47,047 segment-h264.py:641 test] ===> mAP 83.030
+[2023-01-01 14:31:48,107 segment-h264.py:632 test] Frame id :7, Row size:2297.642578125 KB, Type: P, Offloading:True, compressed size:1111.3115234375,jpeg_size:1480.8583984375
+[2023-01-01 14:31:48,107 segment-h264.py:634 test] Loss:0.047906532883644104,Acc:99.31368827819824,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:48,129 segment-h264.py:641 test] ===> mAP 77.950
+[2023-01-01 14:31:49,201 segment-h264.py:632 test] Frame id :8, Row size:2293.201171875 KB, Type: P, Offloading:True, compressed size:1108.5859375,jpeg_size:1480.8583984375
+[2023-01-01 14:31:49,202 segment-h264.py:634 test] Loss:0.050388965755701065,Acc:99.14178848266602,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:49,224 segment-h264.py:641 test] ===> mAP 78.100
+[2023-01-01 14:31:50,299 segment-h264.py:632 test] Frame id :9, Row size:2284.849609375 KB, Type: P, Offloading:True, compressed size:1110.326171875,jpeg_size:1480.8583984375
+[2023-01-01 14:31:50,299 segment-h264.py:634 test] Loss:0.0558052659034729,Acc:98.88005256652832,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:50,322 segment-h264.py:641 test] ===> mAP 77.730
+[2023-01-01 14:31:51,410 segment-h264.py:632 test] Frame id :10, Row size:2280.3447265625 KB, Type: P, Offloading:True, compressed size:1126.9765625,jpeg_size:1480.8583984375
+[2023-01-01 14:31:51,410 segment-h264.py:634 test] Loss:0.05250195041298866,Acc:99.24240112304688,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:51,431 segment-h264.py:641 test] ===> mAP 75.680
+[2023-01-01 14:31:52,511 segment-h264.py:632 test] Frame id :11, Row size:2269.49609375 KB, Type: P, Offloading:True, compressed size:1122.5986328125,jpeg_size:1480.8583984375
+[2023-01-01 14:31:52,511 segment-h264.py:634 test] Loss:0.05673610419034958,Acc:99.26004409790039,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:52,534 segment-h264.py:641 test] ===> mAP 77.860
+[2023-01-01 14:31:53,596 segment-h264.py:632 test] Frame id :12, Row size:2260.5615234375 KB, Type: P, Offloading:True, compressed size:1115.498046875,jpeg_size:1480.8583984375
+[2023-01-01 14:31:53,596 segment-h264.py:634 test] Loss:0.05492839217185974,Acc:99.25475120544434,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:53,619 segment-h264.py:641 test] ===> mAP 77.690
+[2023-01-01 14:31:54,705 segment-h264.py:632 test] Frame id :13, Row size:2257.341796875 KB, Type: P, Offloading:True, compressed size:1113.2041015625,jpeg_size:1480.8583984375
+[2023-01-01 14:31:54,705 segment-h264.py:634 test] Loss:0.05621305853128433,Acc:99.25961494445801,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:54,726 segment-h264.py:641 test] ===> mAP 78.340
+[2023-01-01 14:31:55,787 segment-h264.py:632 test] Frame id :14, Row size:2261.484375 KB, Type: P, Offloading:True, compressed size:1119.1376953125,jpeg_size:1480.8583984375
+[2023-01-01 14:31:55,788 segment-h264.py:634 test] Loss:0.05776359513401985,Acc:99.1032600402832,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:55,809 segment-h264.py:641 test] ===> mAP 78.720
+[2023-01-01 14:31:56,895 segment-h264.py:632 test] Frame id :15, Row size:2265.88671875 KB, Type: P, Offloading:True, compressed size:1114.1533203125,jpeg_size:1480.8583984375
+[2023-01-01 14:31:56,896 segment-h264.py:634 test] Loss:0.06071397289633751,Acc:99.07002449035645,Loss-jpeg:0,Acc_jpeg:0
+[2023-01-01 14:31:56,918 segment-h264.py:641 test] ===> mAP 78.870

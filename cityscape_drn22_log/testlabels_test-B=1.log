@@ -1,0 +1,8 @@
+[2022-12-01 22:08:12,918 segment-test-new.py:474 test] Loss Bound:1
+[2022-12-01 22:08:20,544 segment-test-new.py:739 test] Frame id :1, Row size:19.0673828125 KB, Type: I, Offloading:True, compressed size:97.4599609375,jpeg_size:0
+[2022-12-01 22:08:20,544 segment-test-new.py:741 test] Loss:5.498058795928955,Acc:23.45132827758789,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-01 22:08:20,551 segment-test-new.py:742 test] table_indexs1 Y:0.0,U:0.0,V:0.0
+[2022-12-01 22:08:20,560 segment-test-new.py:743 test] table_indexs1 std Y:0.0,U:0.0,V:0.0
+[2022-12-01 22:08:20,563 segment-test-new.py:744 test] table_indexs2 Y:0.0,U:0.0,V:0.0
+[2022-12-01 22:08:20,570 segment-test-new.py:745 test] table_indexs2 std Y:0.0,U:0.0,V:0.0
+[2022-12-01 22:08:20,593 segment-test-new.py:752 test] ===> mAP 3.110

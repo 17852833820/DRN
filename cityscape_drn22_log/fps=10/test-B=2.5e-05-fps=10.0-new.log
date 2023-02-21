@@ -1,0 +1,1291 @@
+[2022-12-06 10:30:15,051 segment-fps-new-miou.py:475 test] Loss Bound:2.5e-05
+[2022-12-06 10:30:16,349 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.31991386413574
+[2022-12-06 10:30:16,385 segment-fps-new-miou.py:583 test] ===> mAP 50.550
+[2022-12-06 10:30:16,465 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.29662132263184
+[2022-12-06 10:30:16,497 segment-fps-new-miou.py:583 test] ===> mAP 48.550
+[2022-12-06 10:30:16,568 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.91774940490723
+[2022-12-06 10:30:16,593 segment-fps-new-miou.py:583 test] ===> mAP 46.290
+[2022-12-06 10:30:16,661 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.26395797729492
+[2022-12-06 10:30:16,692 segment-fps-new-miou.py:583 test] ===> mAP 43.740
+[2022-12-06 10:30:16,757 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.95949745178223
+[2022-12-06 10:30:16,785 segment-fps-new-miou.py:583 test] ===> mAP 41.210
+[2022-12-06 10:30:16,849 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.72417831420898
+[2022-12-06 10:30:16,877 segment-fps-new-miou.py:583 test] ===> mAP 39.000
+[2022-12-06 10:30:16,948 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.36120986938477
+[2022-12-06 10:30:16,976 segment-fps-new-miou.py:583 test] ===> mAP 37.100
+[2022-12-06 10:30:17,045 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.29726600646973
+[2022-12-06 10:30:17,068 segment-fps-new-miou.py:583 test] ===> mAP 35.550
+[2022-12-06 10:30:17,135 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.74451637268066
+[2022-12-06 10:30:17,160 segment-fps-new-miou.py:583 test] ===> mAP 34.310
+[2022-12-06 10:30:17,222 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.40181350708008
+[2022-12-06 10:30:17,246 segment-fps-new-miou.py:583 test] ===> mAP 33.250
+[2022-12-06 10:30:17,308 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.51813888549805
+[2022-12-06 10:30:17,338 segment-fps-new-miou.py:583 test] ===> mAP 30.750
+[2022-12-06 10:30:17,400 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.21763610839844
+[2022-12-06 10:30:17,424 segment-fps-new-miou.py:583 test] ===> mAP 30.210
+[2022-12-06 10:30:17,486 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.67065620422363
+[2022-12-06 10:30:17,516 segment-fps-new-miou.py:583 test] ===> mAP 29.830
+[2022-12-06 10:30:17,584 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.06812477111816
+[2022-12-06 10:30:17,609 segment-fps-new-miou.py:583 test] ===> mAP 29.520
+[2022-12-06 10:30:17,674 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.62080383300781
+[2022-12-06 10:30:17,698 segment-fps-new-miou.py:583 test] ===> mAP 29.290
+[2022-12-06 10:30:17,769 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.75822830200195
+[2022-12-06 10:30:17,792 segment-fps-new-miou.py:583 test] ===> mAP 29.030
+[2022-12-06 10:30:17,865 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.07143974304199
+[2022-12-06 10:30:17,865 segment-fps-new-miou.py:570 test] Average Acc:   93.36539717281566   Average Size:    0.0        in time:  0
+[2022-12-06 10:30:17,895 segment-fps-new-miou.py:583 test] ===> mAP 28.790
+[2022-12-06 10:30:17,956 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.46859741210938
+[2022-12-06 10:30:17,980 segment-fps-new-miou.py:583 test] ===> mAP 28.510
+[2022-12-06 10:30:17,980 segment-fps-new-miou.py:587 test] 17/599:miou-28.50663300986932
+[2022-12-06 10:30:18,056 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.4259204864502
+[2022-12-06 10:30:18,083 segment-fps-new-miou.py:583 test] ===> mAP 28.230
+[2022-12-06 10:30:18,151 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.66662406921387
+[2022-12-06 10:30:18,183 segment-fps-new-miou.py:583 test] ===> mAP 27.950
+[2022-12-06 10:30:18,251 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.07963752746582
+[2022-12-06 10:30:18,277 segment-fps-new-miou.py:583 test] ===> mAP 27.650
+[2022-12-06 10:30:18,342 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.45893859863281
+[2022-12-06 10:30:18,371 segment-fps-new-miou.py:583 test] ===> mAP 27.380
+[2022-12-06 10:30:18,439 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.31309700012207
+[2022-12-06 10:30:18,467 segment-fps-new-miou.py:583 test] ===> mAP 27.130
+[2022-12-06 10:30:18,539 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.6093807220459
+[2022-12-06 10:30:18,565 segment-fps-new-miou.py:583 test] ===> mAP 26.900
+[2022-12-06 10:30:18,626 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.09713745117188
+[2022-12-06 10:30:18,652 segment-fps-new-miou.py:583 test] ===> mAP 26.700
+[2022-12-06 10:30:18,714 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.84503364562988
+[2022-12-06 10:30:18,737 segment-fps-new-miou.py:583 test] ===> mAP 26.510
+[2022-12-06 10:30:18,800 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.99795532226562
+[2022-12-06 10:30:18,823 segment-fps-new-miou.py:583 test] ===> mAP 26.350
+[2022-12-06 10:30:18,892 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.69840621948242
+[2022-12-06 10:30:18,923 segment-fps-new-miou.py:583 test] ===> mAP 26.160
+[2022-12-06 10:30:18,986 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.44043731689453
+[2022-12-06 10:30:19,009 segment-fps-new-miou.py:583 test] ===> mAP 25.970
+[2022-12-06 10:30:19,070 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.27533149719238
+[2022-12-06 10:30:19,095 segment-fps-new-miou.py:583 test] ===> mAP 25.800
+[2022-12-06 10:30:19,163 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.91546249389648
+[2022-12-06 10:30:19,186 segment-fps-new-miou.py:583 test] ===> mAP 25.620
+[2022-12-06 10:30:19,246 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.08097267150879
+[2022-12-06 10:30:19,271 segment-fps-new-miou.py:583 test] ===> mAP 25.430
+[2022-12-06 10:30:19,334 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.54536437988281
+[2022-12-06 10:30:19,359 segment-fps-new-miou.py:583 test] ===> mAP 25.240
+[2022-12-06 10:30:19,425 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.09456253051758
+[2022-12-06 10:30:19,426 segment-fps-new-miou.py:570 test] Average Acc:   93.58899172614602   Average Size:    0.0        in time:  1
+[2022-12-06 10:30:19,449 segment-fps-new-miou.py:583 test] ===> mAP 25.050
+[2022-12-06 10:30:19,508 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.25008201599121
+[2022-12-06 10:30:19,535 segment-fps-new-miou.py:583 test] ===> mAP 24.870
+[2022-12-06 10:30:19,535 segment-fps-new-miou.py:587 test] 34/599:miou-24.868673895900493
+[2022-12-06 10:30:19,606 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.76819038391113
+[2022-12-06 10:30:19,630 segment-fps-new-miou.py:583 test] ===> mAP 24.670
+[2022-12-06 10:30:19,688 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.0455436706543
+[2022-12-06 10:30:19,715 segment-fps-new-miou.py:583 test] ===> mAP 24.470
+[2022-12-06 10:30:19,783 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.90339851379395
+[2022-12-06 10:30:19,804 segment-fps-new-miou.py:583 test] ===> mAP 24.260
+[2022-12-06 10:30:19,866 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.73006820678711
+[2022-12-06 10:30:19,891 segment-fps-new-miou.py:583 test] ===> mAP 24.070
+[2022-12-06 10:30:19,962 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.26980018615723
+[2022-12-06 10:30:19,990 segment-fps-new-miou.py:583 test] ===> mAP 23.870
+[2022-12-06 10:30:20,052 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.38214302062988
+[2022-12-06 10:30:20,078 segment-fps-new-miou.py:583 test] ===> mAP 23.670
+[2022-12-06 10:30:20,144 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.53701972961426
+[2022-12-06 10:30:20,172 segment-fps-new-miou.py:583 test] ===> mAP 23.480
+[2022-12-06 10:30:20,256 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.09666061401367
+[2022-12-06 10:30:20,278 segment-fps-new-miou.py:583 test] ===> mAP 23.290
+[2022-12-06 10:30:20,333 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.33431625366211
+[2022-12-06 10:30:20,358 segment-fps-new-miou.py:583 test] ===> mAP 23.120
+[2022-12-06 10:30:20,414 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.91632080078125
+[2022-12-06 10:30:20,439 segment-fps-new-miou.py:583 test] ===> mAP 22.930
+[2022-12-06 10:30:20,505 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.4661865234375
+[2022-12-06 10:30:20,527 segment-fps-new-miou.py:583 test] ===> mAP 22.730
+[2022-12-06 10:30:20,585 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.74752044677734
+[2022-12-06 10:30:20,616 segment-fps-new-miou.py:583 test] ===> mAP 22.530
+[2022-12-06 10:30:20,688 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.49188804626465
+[2022-12-06 10:30:20,712 segment-fps-new-miou.py:583 test] ===> mAP 22.320
+[2022-12-06 10:30:20,767 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.31045341491699
+[2022-12-06 10:30:20,791 segment-fps-new-miou.py:583 test] ===> mAP 22.120
+[2022-12-06 10:30:20,851 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.42332077026367
+[2022-12-06 10:30:20,877 segment-fps-new-miou.py:583 test] ===> mAP 21.910
+[2022-12-06 10:30:20,936 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.05143547058105
+[2022-12-06 10:30:20,936 segment-fps-new-miou.py:570 test] Average Acc:   93.63084400401397   Average Size:    0.0        in time:  2
+[2022-12-06 10:30:20,958 segment-fps-new-miou.py:583 test] ===> mAP 21.700
+[2022-12-06 10:30:21,037 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.07425117492676
+[2022-12-06 10:30:21,063 segment-fps-new-miou.py:583 test] ===> mAP 21.500
+[2022-12-06 10:30:21,063 segment-fps-new-miou.py:587 test] 51/599:miou-21.49509483627541
+[2022-12-06 10:30:21,130 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.31755828857422
+[2022-12-06 10:30:21,153 segment-fps-new-miou.py:583 test] ===> mAP 21.290
+[2022-12-06 10:30:21,214 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.93501472473145
+[2022-12-06 10:30:21,238 segment-fps-new-miou.py:583 test] ===> mAP 21.090
+[2022-12-06 10:30:21,304 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.77286720275879
+[2022-12-06 10:30:21,326 segment-fps-new-miou.py:583 test] ===> mAP 20.890
+[2022-12-06 10:30:21,410 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.85161781311035
+[2022-12-06 10:30:21,433 segment-fps-new-miou.py:583 test] ===> mAP 20.690
+[2022-12-06 10:30:21,497 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.69178009033203
+[2022-12-06 10:30:21,521 segment-fps-new-miou.py:583 test] ===> mAP 20.490
+[2022-12-06 10:30:21,597 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.85891151428223
+[2022-12-06 10:30:21,618 segment-fps-new-miou.py:583 test] ===> mAP 20.310
+[2022-12-06 10:30:21,684 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.5402889251709
+[2022-12-06 10:30:21,707 segment-fps-new-miou.py:583 test] ===> mAP 20.130
+[2022-12-06 10:30:21,775 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.1959171295166
+[2022-12-06 10:30:21,799 segment-fps-new-miou.py:583 test] ===> mAP 19.960
+[2022-12-06 10:30:21,858 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.62762260437012
+[2022-12-06 10:30:21,885 segment-fps-new-miou.py:583 test] ===> mAP 19.810
+[2022-12-06 10:30:21,946 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.33145713806152
+[2022-12-06 10:30:21,972 segment-fps-new-miou.py:583 test] ===> mAP 19.650
+[2022-12-06 10:30:22,037 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.333984375
+[2022-12-06 10:30:22,065 segment-fps-new-miou.py:583 test] ===> mAP 19.500
+[2022-12-06 10:30:22,123 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.58577728271484
+[2022-12-06 10:30:22,150 segment-fps-new-miou.py:583 test] ===> mAP 19.350
+[2022-12-06 10:30:22,216 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.67890357971191
+[2022-12-06 10:30:22,240 segment-fps-new-miou.py:583 test] ===> mAP 19.200
+[2022-12-06 10:30:22,296 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.12386512756348
+[2022-12-06 10:30:22,321 segment-fps-new-miou.py:583 test] ===> mAP 19.040
+[2022-12-06 10:30:22,381 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.44561195373535
+[2022-12-06 10:30:22,411 segment-fps-new-miou.py:583 test] ===> mAP 18.900
+[2022-12-06 10:30:22,479 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.65427589416504
+[2022-12-06 10:30:22,479 segment-fps-new-miou.py:570 test] Average Acc:   91.9423355775721   Average Size:    0.0        in time:  3
+[2022-12-06 10:30:22,504 segment-fps-new-miou.py:583 test] ===> mAP 18.760
+[2022-12-06 10:30:22,563 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.53094100952148
+[2022-12-06 10:30:22,598 segment-fps-new-miou.py:583 test] ===> mAP 18.620
+[2022-12-06 10:30:22,598 segment-fps-new-miou.py:587 test] 68/599:miou-18.620899691162478
+[2022-12-06 10:30:22,677 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.95220375061035
+[2022-12-06 10:30:22,703 segment-fps-new-miou.py:583 test] ===> mAP 18.490
+[2022-12-06 10:30:22,761 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.7804946899414
+[2022-12-06 10:30:22,785 segment-fps-new-miou.py:583 test] ===> mAP 18.360
+[2022-12-06 10:30:22,847 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.59324073791504
+[2022-12-06 10:30:22,870 segment-fps-new-miou.py:583 test] ===> mAP 18.240
+[2022-12-06 10:30:22,928 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.5633659362793
+[2022-12-06 10:30:22,952 segment-fps-new-miou.py:583 test] ===> mAP 18.120
+[2022-12-06 10:30:23,020 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.17762756347656
+[2022-12-06 10:30:23,045 segment-fps-new-miou.py:583 test] ===> mAP 18.010
+[2022-12-06 10:30:23,117 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.9537525177002
+[2022-12-06 10:30:23,140 segment-fps-new-miou.py:583 test] ===> mAP 17.900
+[2022-12-06 10:30:23,195 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.92619132995605
+[2022-12-06 10:30:23,219 segment-fps-new-miou.py:583 test] ===> mAP 17.800
+[2022-12-06 10:30:23,289 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.67156028747559
+[2022-12-06 10:30:23,317 segment-fps-new-miou.py:583 test] ===> mAP 17.700
+[2022-12-06 10:30:23,386 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.33760643005371
+[2022-12-06 10:30:23,412 segment-fps-new-miou.py:583 test] ===> mAP 17.600
+[2022-12-06 10:30:23,476 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.90737915039062
+[2022-12-06 10:30:23,500 segment-fps-new-miou.py:583 test] ===> mAP 17.510
+[2022-12-06 10:30:23,564 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.99268531799316
+[2022-12-06 10:30:23,588 segment-fps-new-miou.py:583 test] ===> mAP 17.420
+[2022-12-06 10:30:23,651 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.08113861083984
+[2022-12-06 10:30:23,682 segment-fps-new-miou.py:583 test] ===> mAP 17.330
+[2022-12-06 10:30:23,763 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.81801986694336
+[2022-12-06 10:30:23,784 segment-fps-new-miou.py:583 test] ===> mAP 17.250
+[2022-12-06 10:30:23,838 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.25091743469238
+[2022-12-06 10:30:23,867 segment-fps-new-miou.py:583 test] ===> mAP 17.160
+[2022-12-06 10:30:23,926 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.3336238861084
+[2022-12-06 10:30:23,951 segment-fps-new-miou.py:583 test] ===> mAP 17.070
+[2022-12-06 10:30:24,017 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.10354995727539
+[2022-12-06 10:30:24,017 segment-fps-new-miou.py:570 test] Average Acc:   94.11613520453957   Average Size:    0.0        in time:  4
+[2022-12-06 10:30:24,043 segment-fps-new-miou.py:583 test] ===> mAP 16.980
+[2022-12-06 10:30:24,098 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.89214324951172
+[2022-12-06 10:30:24,122 segment-fps-new-miou.py:583 test] ===> mAP 16.900
+[2022-12-06 10:30:24,123 segment-fps-new-miou.py:587 test] 85/599:miou-16.900734997137295
+[2022-12-06 10:30:24,183 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.34363746643066
+[2022-12-06 10:30:24,208 segment-fps-new-miou.py:583 test] ===> mAP 16.820
+[2022-12-06 10:30:24,263 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.6197509765625
+[2022-12-06 10:30:24,288 segment-fps-new-miou.py:583 test] ===> mAP 16.740
+[2022-12-06 10:30:24,350 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.26641464233398
+[2022-12-06 10:30:24,375 segment-fps-new-miou.py:583 test] ===> mAP 16.660
+[2022-12-06 10:30:24,432 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.90432739257812
+[2022-12-06 10:30:24,459 segment-fps-new-miou.py:583 test] ===> mAP 16.580
+[2022-12-06 10:30:24,540 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.03684043884277
+[2022-12-06 10:30:24,566 segment-fps-new-miou.py:583 test] ===> mAP 16.500
+[2022-12-06 10:30:24,633 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.53787803649902
+[2022-12-06 10:30:24,657 segment-fps-new-miou.py:583 test] ===> mAP 16.420
+[2022-12-06 10:30:24,720 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.84119415283203
+[2022-12-06 10:30:24,745 segment-fps-new-miou.py:583 test] ===> mAP 16.340
+[2022-12-06 10:30:24,824 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.28315162658691
+[2022-12-06 10:30:24,856 segment-fps-new-miou.py:583 test] ===> mAP 16.270
+[2022-12-06 10:30:24,921 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.61193084716797
+[2022-12-06 10:30:24,950 segment-fps-new-miou.py:583 test] ===> mAP 16.200
+[2022-12-06 10:30:25,018 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.04375457763672
+[2022-12-06 10:30:25,043 segment-fps-new-miou.py:583 test] ===> mAP 16.120
+[2022-12-06 10:30:25,109 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.39702033996582
+[2022-12-06 10:30:25,132 segment-fps-new-miou.py:583 test] ===> mAP 16.050
+[2022-12-06 10:30:25,198 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.58189010620117
+[2022-12-06 10:30:25,230 segment-fps-new-miou.py:583 test] ===> mAP 15.980
+[2022-12-06 10:30:25,302 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.33660507202148
+[2022-12-06 10:30:25,326 segment-fps-new-miou.py:583 test] ===> mAP 15.910
+[2022-12-06 10:30:25,392 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.22659873962402
+[2022-12-06 10:30:25,417 segment-fps-new-miou.py:583 test] ===> mAP 15.840
+[2022-12-06 10:30:25,485 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.11640167236328
+[2022-12-06 10:30:25,511 segment-fps-new-miou.py:583 test] ===> mAP 15.770
+[2022-12-06 10:30:25,581 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.93916130065918
+[2022-12-06 10:30:25,581 segment-fps-new-miou.py:570 test] Average Acc:   94.6458059198716   Average Size:    0.0        in time:  5
+[2022-12-06 10:30:25,604 segment-fps-new-miou.py:583 test] ===> mAP 15.700
+[2022-12-06 10:30:25,664 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.90408897399902
+[2022-12-06 10:30:25,690 segment-fps-new-miou.py:583 test] ===> mAP 15.630
+[2022-12-06 10:30:25,690 segment-fps-new-miou.py:587 test] 102/599:miou-15.627805108015483
+[2022-12-06 10:30:25,754 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.69385147094727
+[2022-12-06 10:30:25,777 segment-fps-new-miou.py:583 test] ===> mAP 15.560
+[2022-12-06 10:30:25,834 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.24338340759277
+[2022-12-06 10:30:25,857 segment-fps-new-miou.py:583 test] ===> mAP 15.490
+[2022-12-06 10:30:25,925 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.74332427978516
+[2022-12-06 10:30:25,948 segment-fps-new-miou.py:583 test] ===> mAP 15.430
+[2022-12-06 10:30:26,008 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.30861473083496
+[2022-12-06 10:30:26,032 segment-fps-new-miou.py:583 test] ===> mAP 15.360
+[2022-12-06 10:30:26,092 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.34649848937988
+[2022-12-06 10:30:26,118 segment-fps-new-miou.py:583 test] ===> mAP 15.300
+[2022-12-06 10:30:26,181 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.91982460021973
+[2022-12-06 10:30:26,204 segment-fps-new-miou.py:583 test] ===> mAP 15.240
+[2022-12-06 10:30:26,260 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.9836254119873
+[2022-12-06 10:30:26,285 segment-fps-new-miou.py:583 test] ===> mAP 15.180
+[2022-12-06 10:30:26,352 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.80328559875488
+[2022-12-06 10:30:26,379 segment-fps-new-miou.py:583 test] ===> mAP 15.120
+[2022-12-06 10:30:26,439 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.78936195373535
+[2022-12-06 10:30:26,468 segment-fps-new-miou.py:583 test] ===> mAP 15.070
+[2022-12-06 10:30:26,535 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.65503692626953
+[2022-12-06 10:30:26,560 segment-fps-new-miou.py:583 test] ===> mAP 15.010
+[2022-12-06 10:30:26,634 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.27876472473145
+[2022-12-06 10:30:26,658 segment-fps-new-miou.py:583 test] ===> mAP 14.960
+[2022-12-06 10:30:26,724 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.94085311889648
+[2022-12-06 10:30:26,748 segment-fps-new-miou.py:583 test] ===> mAP 14.910
+[2022-12-06 10:30:26,819 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.37780380249023
+[2022-12-06 10:30:26,841 segment-fps-new-miou.py:583 test] ===> mAP 14.860
+[2022-12-06 10:30:26,903 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.29812431335449
+[2022-12-06 10:30:26,927 segment-fps-new-miou.py:583 test] ===> mAP 14.810
+[2022-12-06 10:30:26,994 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.32477951049805
+[2022-12-06 10:30:27,078 segment-fps-new-miou.py:583 test] ===> mAP 14.760
+[2022-12-06 10:30:27,145 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.63517761230469
+[2022-12-06 10:30:27,145 segment-fps-new-miou.py:570 test] Average Acc:   94.5439058191636   Average Size:    0.0        in time:  6
+[2022-12-06 10:30:27,168 segment-fps-new-miou.py:583 test] ===> mAP 14.710
+[2022-12-06 10:30:27,224 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.93105506896973
+[2022-12-06 10:30:27,247 segment-fps-new-miou.py:583 test] ===> mAP 14.670
+[2022-12-06 10:30:27,248 segment-fps-new-miou.py:587 test] 119/599:miou-14.670031061492203
+[2022-12-06 10:30:27,319 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.26767921447754
+[2022-12-06 10:30:27,348 segment-fps-new-miou.py:583 test] ===> mAP 14.630
+[2022-12-06 10:30:27,409 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.66316795349121
+[2022-12-06 10:30:27,464 segment-fps-new-miou.py:583 test] ===> mAP 14.590
+[2022-12-06 10:30:27,534 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.14360618591309
+[2022-12-06 10:30:27,558 segment-fps-new-miou.py:583 test] ===> mAP 14.560
+[2022-12-06 10:30:27,612 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.95427703857422
+[2022-12-06 10:30:27,636 segment-fps-new-miou.py:583 test] ===> mAP 14.530
+[2022-12-06 10:30:27,701 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.51963996887207
+[2022-12-06 10:30:27,739 segment-fps-new-miou.py:583 test] ===> mAP 14.500
+[2022-12-06 10:30:27,816 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.15705299377441
+[2022-12-06 10:30:27,839 segment-fps-new-miou.py:583 test] ===> mAP 14.470
+[2022-12-06 10:30:27,893 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.43931579589844
+[2022-12-06 10:30:27,920 segment-fps-new-miou.py:583 test] ===> mAP 14.450
+[2022-12-06 10:30:27,981 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.83401870727539
+[2022-12-06 10:30:28,010 segment-fps-new-miou.py:583 test] ===> mAP 14.420
+[2022-12-06 10:30:28,066 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.37601661682129
+[2022-12-06 10:30:28,119 segment-fps-new-miou.py:583 test] ===> mAP 14.400
+[2022-12-06 10:30:28,178 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.33810806274414
+[2022-12-06 10:30:28,203 segment-fps-new-miou.py:583 test] ===> mAP 14.380
+[2022-12-06 10:30:28,261 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.88811683654785
+[2022-12-06 10:30:28,284 segment-fps-new-miou.py:583 test] ===> mAP 14.350
+[2022-12-06 10:30:28,338 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.78604888916016
+[2022-12-06 10:30:28,366 segment-fps-new-miou.py:583 test] ===> mAP 14.330
+[2022-12-06 10:30:28,446 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.24579238891602
+[2022-12-06 10:30:28,466 segment-fps-new-miou.py:583 test] ===> mAP 14.300
+[2022-12-06 10:30:28,525 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.79899597167969
+[2022-12-06 10:30:28,551 segment-fps-new-miou.py:583 test] ===> mAP 14.270
+[2022-12-06 10:30:28,613 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.23210716247559
+[2022-12-06 10:30:28,652 segment-fps-new-miou.py:583 test] ===> mAP 14.250
+[2022-12-06 10:30:28,725 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.62838363647461
+[2022-12-06 10:30:28,725 segment-fps-new-miou.py:570 test] Average Acc:   93.4237283818862   Average Size:    0.0        in time:  7
+[2022-12-06 10:30:28,751 segment-fps-new-miou.py:583 test] ===> mAP 14.220
+[2022-12-06 10:30:28,809 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.12500953674316
+[2022-12-06 10:30:28,834 segment-fps-new-miou.py:583 test] ===> mAP 14.190
+[2022-12-06 10:30:28,834 segment-fps-new-miou.py:587 test] 136/599:miou-14.190506289854934
+[2022-12-06 10:30:28,898 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.52805709838867
+[2022-12-06 10:30:28,926 segment-fps-new-miou.py:583 test] ===> mAP 14.160
+[2022-12-06 10:30:28,983 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.76039695739746
+[2022-12-06 10:30:29,016 segment-fps-new-miou.py:583 test] ===> mAP 14.130
+[2022-12-06 10:30:29,080 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.98367691040039
+[2022-12-06 10:30:29,104 segment-fps-new-miou.py:583 test] ===> mAP 14.100
+[2022-12-06 10:30:29,158 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.16704368591309
+[2022-12-06 10:30:29,183 segment-fps-new-miou.py:583 test] ===> mAP 14.070
+[2022-12-06 10:30:29,241 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.19827651977539
+[2022-12-06 10:30:29,270 segment-fps-new-miou.py:583 test] ===> mAP 14.040
+[2022-12-06 10:30:29,331 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.99433326721191
+[2022-12-06 10:30:29,355 segment-fps-new-miou.py:583 test] ===> mAP 14.010
+[2022-12-06 10:30:29,411 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.65875816345215
+[2022-12-06 10:30:29,437 segment-fps-new-miou.py:583 test] ===> mAP 13.980
+[2022-12-06 10:30:29,496 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.99643135070801
+[2022-12-06 10:30:29,524 segment-fps-new-miou.py:583 test] ===> mAP 13.950
+[2022-12-06 10:30:29,580 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.3768539428711
+[2022-12-06 10:30:29,621 segment-fps-new-miou.py:583 test] ===> mAP 13.930
+[2022-12-06 10:30:29,690 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.51637649536133
+[2022-12-06 10:30:29,715 segment-fps-new-miou.py:583 test] ===> mAP 13.910
+[2022-12-06 10:30:29,778 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.54696655273438
+[2022-12-06 10:30:29,801 segment-fps-new-miou.py:583 test] ===> mAP 13.880
+[2022-12-06 10:30:29,859 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.71478843688965
+[2022-12-06 10:30:29,886 segment-fps-new-miou.py:583 test] ===> mAP 13.850
+[2022-12-06 10:30:29,950 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.65692520141602
+[2022-12-06 10:30:29,972 segment-fps-new-miou.py:583 test] ===> mAP 13.820
+[2022-12-06 10:30:30,031 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.86735534667969
+[2022-12-06 10:30:30,056 segment-fps-new-miou.py:583 test] ===> mAP 13.780
+[2022-12-06 10:30:30,118 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.96622657775879
+[2022-12-06 10:30:30,161 segment-fps-new-miou.py:583 test] ===> mAP 13.750
+[2022-12-06 10:30:30,226 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.39902877807617
+[2022-12-06 10:30:30,226 segment-fps-new-miou.py:570 test] Average Acc:   90.9092061659869   Average Size:    0.0        in time:  8
+[2022-12-06 10:30:30,249 segment-fps-new-miou.py:583 test] ===> mAP 13.720
+[2022-12-06 10:30:30,303 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.46406936645508
+[2022-12-06 10:30:30,327 segment-fps-new-miou.py:583 test] ===> mAP 13.680
+[2022-12-06 10:30:30,327 segment-fps-new-miou.py:587 test] 153/599:miou-13.68316564913096
+[2022-12-06 10:30:30,388 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.09816932678223
+[2022-12-06 10:30:30,415 segment-fps-new-miou.py:583 test] ===> mAP 13.650
+[2022-12-06 10:30:30,463 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.75384330749512
+[2022-12-06 10:30:30,495 segment-fps-new-miou.py:583 test] ===> mAP 13.620
+[2022-12-06 10:30:30,559 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.67423629760742
+[2022-12-06 10:30:30,582 segment-fps-new-miou.py:583 test] ===> mAP 13.590
+[2022-12-06 10:30:30,634 segment-fps-new-miou.py:566 test] Loss:0,Acc:85.1473331451416
+[2022-12-06 10:30:30,658 segment-fps-new-miou.py:583 test] ===> mAP 13.550
+[2022-12-06 10:30:30,747 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.4863395690918
+[2022-12-06 10:30:30,777 segment-fps-new-miou.py:583 test] ===> mAP 13.520
+[2022-12-06 10:30:30,860 segment-fps-new-miou.py:566 test] Loss:0,Acc:85.70919036865234
+[2022-12-06 10:30:30,886 segment-fps-new-miou.py:583 test] ===> mAP 13.490
+[2022-12-06 10:30:30,954 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.58423233032227
+[2022-12-06 10:30:30,978 segment-fps-new-miou.py:583 test] ===> mAP 13.450
+[2022-12-06 10:30:31,049 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.32521438598633
+[2022-12-06 10:30:31,076 segment-fps-new-miou.py:583 test] ===> mAP 13.420
+[2022-12-06 10:30:31,128 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.99097442626953
+[2022-12-06 10:30:31,239 segment-fps-new-miou.py:583 test] ===> mAP 13.390
+[2022-12-06 10:30:31,303 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.36738967895508
+[2022-12-06 10:30:31,327 segment-fps-new-miou.py:583 test] ===> mAP 13.350
+[2022-12-06 10:30:31,394 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.52744102478027
+[2022-12-06 10:30:31,417 segment-fps-new-miou.py:583 test] ===> mAP 13.320
+[2022-12-06 10:30:31,470 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.54760932922363
+[2022-12-06 10:30:31,496 segment-fps-new-miou.py:583 test] ===> mAP 13.280
+[2022-12-06 10:30:31,558 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.1512622833252
+[2022-12-06 10:30:31,580 segment-fps-new-miou.py:583 test] ===> mAP 13.250
+[2022-12-06 10:30:31,634 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.89451026916504
+[2022-12-06 10:30:31,658 segment-fps-new-miou.py:583 test] ===> mAP 13.220
+[2022-12-06 10:30:31,715 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.2127513885498
+[2022-12-06 10:30:31,746 segment-fps-new-miou.py:583 test] ===> mAP 13.180
+[2022-12-06 10:30:31,811 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.93265914916992
+[2022-12-06 10:30:31,811 segment-fps-new-miou.py:570 test] Average Acc:   88.16866033217487   Average Size:    0.0        in time:  9
+[2022-12-06 10:30:31,835 segment-fps-new-miou.py:583 test] ===> mAP 13.150
+[2022-12-06 10:30:31,893 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.51156234741211
+[2022-12-06 10:30:31,918 segment-fps-new-miou.py:583 test] ===> mAP 13.110
+[2022-12-06 10:30:31,918 segment-fps-new-miou.py:587 test] 170/599:miou-13.113417418826065
+[2022-12-06 10:30:32,006 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.10138702392578
+[2022-12-06 10:30:32,035 segment-fps-new-miou.py:583 test] ===> mAP 13.080
+[2022-12-06 10:30:32,094 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.59126663208008
+[2022-12-06 10:30:32,154 segment-fps-new-miou.py:583 test] ===> mAP 13.050
+[2022-12-06 10:30:32,243 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.26370429992676
+[2022-12-06 10:30:32,264 segment-fps-new-miou.py:583 test] ===> mAP 13.020
+[2022-12-06 10:30:32,324 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.29483985900879
+[2022-12-06 10:30:32,350 segment-fps-new-miou.py:583 test] ===> mAP 13.000
+[2022-12-06 10:30:32,407 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.01162147521973
+[2022-12-06 10:30:32,442 segment-fps-new-miou.py:583 test] ===> mAP 12.980
+[2022-12-06 10:30:32,498 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.30671310424805
+[2022-12-06 10:30:32,520 segment-fps-new-miou.py:583 test] ===> mAP 12.970
+[2022-12-06 10:30:32,572 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.51706886291504
+[2022-12-06 10:30:32,597 segment-fps-new-miou.py:583 test] ===> mAP 12.950
+[2022-12-06 10:30:32,654 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.75019645690918
+[2022-12-06 10:30:32,682 segment-fps-new-miou.py:583 test] ===> mAP 12.930
+[2022-12-06 10:30:32,734 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.7932300567627
+[2022-12-06 10:30:32,807 segment-fps-new-miou.py:583 test] ===> mAP 12.910
+[2022-12-06 10:30:32,871 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.87078666687012
+[2022-12-06 10:30:32,895 segment-fps-new-miou.py:583 test] ===> mAP 12.900
+[2022-12-06 10:30:32,953 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.27645683288574
+[2022-12-06 10:30:32,977 segment-fps-new-miou.py:583 test] ===> mAP 12.890
+[2022-12-06 10:30:33,034 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.87545967102051
+[2022-12-06 10:30:33,079 segment-fps-new-miou.py:583 test] ===> mAP 12.880
+[2022-12-06 10:30:33,140 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.33439254760742
+[2022-12-06 10:30:33,164 segment-fps-new-miou.py:583 test] ===> mAP 12.870
+[2022-12-06 10:30:33,216 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.98601341247559
+[2022-12-06 10:30:33,243 segment-fps-new-miou.py:583 test] ===> mAP 12.860
+[2022-12-06 10:30:33,302 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.83938598632812
+[2022-12-06 10:30:33,335 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:33,400 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.2493953704834
+[2022-12-06 10:30:33,400 segment-fps-new-miou.py:570 test] Average Acc:   88.97491062388701   Average Size:    0.0        in time:  10
+[2022-12-06 10:30:33,425 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:33,481 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.85104370117188
+[2022-12-06 10:30:33,507 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:33,507 segment-fps-new-miou.py:587 test] 187/599:miou-12.842767317701767
+[2022-12-06 10:30:33,572 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.63041114807129
+[2022-12-06 10:30:33,599 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:33,653 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.86794853210449
+[2022-12-06 10:30:33,702 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:33,763 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.2778148651123
+[2022-12-06 10:30:33,785 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:33,839 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.9296989440918
+[2022-12-06 10:30:33,863 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:33,917 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.61906242370605
+[2022-12-06 10:30:33,950 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,009 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.84892272949219
+[2022-12-06 10:30:34,032 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,085 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.3996467590332
+[2022-12-06 10:30:34,109 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:34,165 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.25278091430664
+[2022-12-06 10:30:34,192 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:34,242 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.35787582397461
+[2022-12-06 10:30:34,278 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,335 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.5153980255127
+[2022-12-06 10:30:34,358 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,419 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.82636833190918
+[2022-12-06 10:30:34,442 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,498 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.48573875427246
+[2022-12-06 10:30:34,545 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,606 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.51763916015625
+[2022-12-06 10:30:34,629 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,685 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.19975471496582
+[2022-12-06 10:30:34,715 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,775 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.71793365478516
+[2022-12-06 10:30:34,814 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,874 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.80533790588379
+[2022-12-06 10:30:34,874 segment-fps-new-miou.py:570 test] Average Acc:   91.30019861109116   Average Size:    0.0        in time:  11
+[2022-12-06 10:30:34,897 segment-fps-new-miou.py:583 test] ===> mAP 12.850
+[2022-12-06 10:30:34,963 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.79227256774902
+[2022-12-06 10:30:34,991 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:34,992 segment-fps-new-miou.py:587 test] 204/599:miou-12.842942190997436
+[2022-12-06 10:30:35,062 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.11094284057617
+[2022-12-06 10:30:35,089 segment-fps-new-miou.py:583 test] ===> mAP 12.840
+[2022-12-06 10:30:35,155 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.30596923828125
+[2022-12-06 10:30:35,198 segment-fps-new-miou.py:583 test] ===> mAP 12.830
+[2022-12-06 10:30:35,266 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.31598281860352
+[2022-12-06 10:30:35,286 segment-fps-new-miou.py:583 test] ===> mAP 12.830
+[2022-12-06 10:30:35,345 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.4758186340332
+[2022-12-06 10:30:35,371 segment-fps-new-miou.py:583 test] ===> mAP 12.820
+[2022-12-06 10:30:35,431 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.80230903625488
+[2022-12-06 10:30:35,465 segment-fps-new-miou.py:583 test] ===> mAP 12.810
+[2022-12-06 10:30:35,524 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.54705810546875
+[2022-12-06 10:30:35,548 segment-fps-new-miou.py:583 test] ===> mAP 12.800
+[2022-12-06 10:30:35,601 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.34595108032227
+[2022-12-06 10:30:35,624 segment-fps-new-miou.py:583 test] ===> mAP 12.790
+[2022-12-06 10:30:35,685 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.00620460510254
+[2022-12-06 10:30:35,712 segment-fps-new-miou.py:583 test] ===> mAP 12.780
+[2022-12-06 10:30:35,763 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.79048347473145
+[2022-12-06 10:30:35,798 segment-fps-new-miou.py:583 test] ===> mAP 12.760
+[2022-12-06 10:30:35,856 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.84639167785645
+[2022-12-06 10:30:35,880 segment-fps-new-miou.py:583 test] ===> mAP 12.750
+[2022-12-06 10:30:35,944 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.68231201171875
+[2022-12-06 10:30:35,968 segment-fps-new-miou.py:583 test] ===> mAP 12.730
+[2022-12-06 10:30:36,026 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.56291198730469
+[2022-12-06 10:30:36,057 segment-fps-new-miou.py:583 test] ===> mAP 12.720
+[2022-12-06 10:30:36,123 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.70484352111816
+[2022-12-06 10:30:36,145 segment-fps-new-miou.py:583 test] ===> mAP 12.700
+[2022-12-06 10:30:36,198 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.68722343444824
+[2022-12-06 10:30:36,226 segment-fps-new-miou.py:583 test] ===> mAP 12.700
+[2022-12-06 10:30:36,284 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.54426765441895
+[2022-12-06 10:30:36,316 segment-fps-new-miou.py:583 test] ===> mAP 12.690
+[2022-12-06 10:30:36,377 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.03815269470215
+[2022-12-06 10:30:36,377 segment-fps-new-miou.py:570 test] Average Acc:   93.91524090486415   Average Size:    0.0        in time:  12
+[2022-12-06 10:30:36,404 segment-fps-new-miou.py:583 test] ===> mAP 12.670
+[2022-12-06 10:30:36,457 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.92721557617188
+[2022-12-06 10:30:36,481 segment-fps-new-miou.py:583 test] ===> mAP 12.660
+[2022-12-06 10:30:36,482 segment-fps-new-miou.py:587 test] 221/599:miou-12.65604936916063
+[2022-12-06 10:30:36,543 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.04995346069336
+[2022-12-06 10:30:36,571 segment-fps-new-miou.py:583 test] ===> mAP 12.640
+[2022-12-06 10:30:36,628 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.72384452819824
+[2022-12-06 10:30:36,682 segment-fps-new-miou.py:583 test] ===> mAP 12.620
+[2022-12-06 10:30:36,749 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.6415901184082
+[2022-12-06 10:30:36,771 segment-fps-new-miou.py:583 test] ===> mAP 12.610
+[2022-12-06 10:30:36,830 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.67940330505371
+[2022-12-06 10:30:36,867 segment-fps-new-miou.py:583 test] ===> mAP 12.590
+[2022-12-06 10:30:36,929 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.59547996520996
+[2022-12-06 10:30:36,986 segment-fps-new-miou.py:583 test] ===> mAP 12.580
+[2022-12-06 10:30:37,049 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.03815269470215
+[2022-12-06 10:30:37,071 segment-fps-new-miou.py:583 test] ===> mAP 12.560
+[2022-12-06 10:30:37,124 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.04010772705078
+[2022-12-06 10:30:37,149 segment-fps-new-miou.py:583 test] ===> mAP 12.550
+[2022-12-06 10:30:37,206 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.4349536895752
+[2022-12-06 10:30:37,234 segment-fps-new-miou.py:583 test] ===> mAP 12.530
+[2022-12-06 10:30:37,286 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.26999092102051
+[2022-12-06 10:30:37,324 segment-fps-new-miou.py:583 test] ===> mAP 12.520
+[2022-12-06 10:30:37,381 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.65475082397461
+[2022-12-06 10:30:37,405 segment-fps-new-miou.py:583 test] ===> mAP 12.500
+[2022-12-06 10:30:37,467 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.35734748840332
+[2022-12-06 10:30:37,490 segment-fps-new-miou.py:583 test] ===> mAP 12.490
+[2022-12-06 10:30:37,543 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.01962661743164
+[2022-12-06 10:30:37,595 segment-fps-new-miou.py:583 test] ===> mAP 12.470
+[2022-12-06 10:30:37,683 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.8282241821289
+[2022-12-06 10:30:37,714 segment-fps-new-miou.py:583 test] ===> mAP 12.460
+[2022-12-06 10:30:37,769 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.17133331298828
+[2022-12-06 10:30:37,797 segment-fps-new-miou.py:583 test] ===> mAP 12.450
+[2022-12-06 10:30:37,852 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.88954544067383
+[2022-12-06 10:30:37,895 segment-fps-new-miou.py:583 test] ===> mAP 12.430
+[2022-12-06 10:30:37,951 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.70963478088379
+[2022-12-06 10:30:37,952 segment-fps-new-miou.py:570 test] Average Acc:   94.53124439015107   Average Size:    0.0        in time:  13
+[2022-12-06 10:30:37,976 segment-fps-new-miou.py:583 test] ===> mAP 12.420
+[2022-12-06 10:30:38,026 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.90439796447754
+[2022-12-06 10:30:38,051 segment-fps-new-miou.py:583 test] ===> mAP 12.400
+[2022-12-06 10:30:38,051 segment-fps-new-miou.py:587 test] 238/599:miou-12.40425435810562
+[2022-12-06 10:30:38,109 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.49293518066406
+[2022-12-06 10:30:38,137 segment-fps-new-miou.py:583 test] ===> mAP 12.390
+[2022-12-06 10:30:38,188 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.8976993560791
+[2022-12-06 10:30:38,229 segment-fps-new-miou.py:583 test] ===> mAP 12.370
+[2022-12-06 10:30:38,289 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.62018013000488
+[2022-12-06 10:30:38,313 segment-fps-new-miou.py:583 test] ===> mAP 12.360
+[2022-12-06 10:30:38,364 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.7272777557373
+[2022-12-06 10:30:38,391 segment-fps-new-miou.py:583 test] ===> mAP 12.350
+[2022-12-06 10:30:38,454 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.93622779846191
+[2022-12-06 10:30:38,491 segment-fps-new-miou.py:583 test] ===> mAP 12.330
+[2022-12-06 10:30:38,550 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.72994804382324
+[2022-12-06 10:30:38,573 segment-fps-new-miou.py:583 test] ===> mAP 12.320
+[2022-12-06 10:30:38,627 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.5704460144043
+[2022-12-06 10:30:38,651 segment-fps-new-miou.py:583 test] ===> mAP 12.300
+[2022-12-06 10:30:38,716 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.57426071166992
+[2022-12-06 10:30:38,742 segment-fps-new-miou.py:583 test] ===> mAP 12.290
+[2022-12-06 10:30:38,797 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.40569877624512
+[2022-12-06 10:30:38,831 segment-fps-new-miou.py:583 test] ===> mAP 12.270
+[2022-12-06 10:30:38,890 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.66972351074219
+[2022-12-06 10:30:38,914 segment-fps-new-miou.py:583 test] ===> mAP 12.260
+[2022-12-06 10:30:38,982 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.64788436889648
+[2022-12-06 10:30:39,006 segment-fps-new-miou.py:583 test] ===> mAP 12.240
+[2022-12-06 10:30:39,056 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.62456703186035
+[2022-12-06 10:30:39,089 segment-fps-new-miou.py:583 test] ===> mAP 12.230
+[2022-12-06 10:30:39,152 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.16861534118652
+[2022-12-06 10:30:39,174 segment-fps-new-miou.py:583 test] ===> mAP 12.210
+[2022-12-06 10:30:39,230 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.08173561096191
+[2022-12-06 10:30:39,259 segment-fps-new-miou.py:583 test] ===> mAP 12.200
+[2022-12-06 10:30:39,314 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.36609840393066
+[2022-12-06 10:30:39,343 segment-fps-new-miou.py:583 test] ===> mAP 12.190
+[2022-12-06 10:30:39,413 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.92473793029785
+[2022-12-06 10:30:39,413 segment-fps-new-miou.py:570 test] Average Acc:   94.54955493702607   Average Size:    0.0        in time:  14
+[2022-12-06 10:30:39,440 segment-fps-new-miou.py:583 test] ===> mAP 12.170
+[2022-12-06 10:30:39,490 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.2990550994873
+[2022-12-06 10:30:39,516 segment-fps-new-miou.py:583 test] ===> mAP 12.160
+[2022-12-06 10:30:39,516 segment-fps-new-miou.py:587 test] 255/599:miou-12.158845008605253
+[2022-12-06 10:30:39,582 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.56711006164551
+[2022-12-06 10:30:39,610 segment-fps-new-miou.py:583 test] ===> mAP 12.150
+[2022-12-06 10:30:39,661 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.80548286437988
+[2022-12-06 10:30:39,697 segment-fps-new-miou.py:583 test] ===> mAP 12.140
+[2022-12-06 10:30:39,756 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.47391510009766
+[2022-12-06 10:30:39,779 segment-fps-new-miou.py:583 test] ===> mAP 12.120
+[2022-12-06 10:30:39,828 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.91203308105469
+[2022-12-06 10:30:39,855 segment-fps-new-miou.py:583 test] ===> mAP 12.110
+[2022-12-06 10:30:39,917 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.74800109863281
+[2022-12-06 10:30:39,949 segment-fps-new-miou.py:583 test] ===> mAP 12.100
+[2022-12-06 10:30:40,010 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.56611251831055
+[2022-12-06 10:30:40,033 segment-fps-new-miou.py:583 test] ===> mAP 12.100
+[2022-12-06 10:30:40,093 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.63680267333984
+[2022-12-06 10:30:40,117 segment-fps-new-miou.py:583 test] ===> mAP 12.090
+[2022-12-06 10:30:40,174 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.89615631103516
+[2022-12-06 10:30:40,200 segment-fps-new-miou.py:583 test] ===> mAP 12.080
+[2022-12-06 10:30:40,251 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.48347663879395
+[2022-12-06 10:30:40,288 segment-fps-new-miou.py:583 test] ===> mAP 12.080
+[2022-12-06 10:30:40,355 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.24722671508789
+[2022-12-06 10:30:40,380 segment-fps-new-miou.py:583 test] ===> mAP 12.070
+[2022-12-06 10:30:40,443 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.85870170593262
+[2022-12-06 10:30:40,465 segment-fps-new-miou.py:583 test] ===> mAP 12.060
+[2022-12-06 10:30:40,527 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.01348114013672
+[2022-12-06 10:30:40,564 segment-fps-new-miou.py:583 test] ===> mAP 12.060
+[2022-12-06 10:30:40,629 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.15691566467285
+[2022-12-06 10:30:40,651 segment-fps-new-miou.py:583 test] ===> mAP 12.050
+[2022-12-06 10:30:40,710 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.99626731872559
+[2022-12-06 10:30:40,742 segment-fps-new-miou.py:583 test] ===> mAP 12.040
+[2022-12-06 10:30:40,796 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.18724060058594
+[2022-12-06 10:30:40,837 segment-fps-new-miou.py:583 test] ===> mAP 12.030
+[2022-12-06 10:30:40,894 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.85598182678223
+[2022-12-06 10:30:40,894 segment-fps-new-miou.py:570 test] Average Acc:   89.39435061286477   Average Size:    0.0        in time:  15
+[2022-12-06 10:30:40,923 segment-fps-new-miou.py:583 test] ===> mAP 12.030
+[2022-12-06 10:30:40,983 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.38612747192383
+[2022-12-06 10:30:41,015 segment-fps-new-miou.py:583 test] ===> mAP 12.020
+[2022-12-06 10:30:41,016 segment-fps-new-miou.py:587 test] 272/599:miou-12.022718535902914
+[2022-12-06 10:30:41,089 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.90609550476074
+[2022-12-06 10:30:41,113 segment-fps-new-miou.py:583 test] ===> mAP 12.020
+[2022-12-06 10:30:41,173 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.95747375488281
+[2022-12-06 10:30:41,208 segment-fps-new-miou.py:583 test] ===> mAP 12.010
+[2022-12-06 10:30:41,275 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.13807678222656
+[2022-12-06 10:30:41,298 segment-fps-new-miou.py:583 test] ===> mAP 12.010
+[2022-12-06 10:30:41,357 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.73266983032227
+[2022-12-06 10:30:41,386 segment-fps-new-miou.py:583 test] ===> mAP 12.010
+[2022-12-06 10:30:41,451 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.32313537597656
+[2022-12-06 10:30:41,475 segment-fps-new-miou.py:583 test] ===> mAP 12.000
+[2022-12-06 10:30:41,540 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.09368133544922
+[2022-12-06 10:30:41,562 segment-fps-new-miou.py:583 test] ===> mAP 12.000
+[2022-12-06 10:30:41,620 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.70956420898438
+[2022-12-06 10:30:41,642 segment-fps-new-miou.py:583 test] ===> mAP 11.990
+[2022-12-06 10:30:41,702 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.06201934814453
+[2022-12-06 10:30:41,724 segment-fps-new-miou.py:583 test] ===> mAP 11.990
+[2022-12-06 10:30:41,783 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.57585906982422
+[2022-12-06 10:30:41,819 segment-fps-new-miou.py:583 test] ===> mAP 11.980
+[2022-12-06 10:30:41,880 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.00718307495117
+[2022-12-06 10:30:41,904 segment-fps-new-miou.py:583 test] ===> mAP 11.970
+[2022-12-06 10:30:41,966 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.40188598632812
+[2022-12-06 10:30:42,005 segment-fps-new-miou.py:583 test] ===> mAP 11.960
+[2022-12-06 10:30:42,065 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.80578994750977
+[2022-12-06 10:30:42,090 segment-fps-new-miou.py:583 test] ===> mAP 11.960
+[2022-12-06 10:30:42,152 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.94550323486328
+[2022-12-06 10:30:42,174 segment-fps-new-miou.py:583 test] ===> mAP 11.950
+[2022-12-06 10:30:42,231 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.65668296813965
+[2022-12-06 10:30:42,272 segment-fps-new-miou.py:583 test] ===> mAP 11.940
+[2022-12-06 10:30:42,339 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.82388496398926
+[2022-12-06 10:30:42,368 segment-fps-new-miou.py:583 test] ===> mAP 11.930
+[2022-12-06 10:30:42,429 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.86782646179199
+[2022-12-06 10:30:42,429 segment-fps-new-miou.py:570 test] Average Acc:   92.84667407765107   Average Size:    0.0        in time:  16
+[2022-12-06 10:30:42,455 segment-fps-new-miou.py:583 test] ===> mAP 11.920
+[2022-12-06 10:30:42,555 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.89069175720215
+[2022-12-06 10:30:42,578 segment-fps-new-miou.py:583 test] ===> mAP 11.910
+[2022-12-06 10:30:42,579 segment-fps-new-miou.py:587 test] 289/599:miou-11.906587119750245
+[2022-12-06 10:30:42,649 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.78411865234375
+[2022-12-06 10:30:42,675 segment-fps-new-miou.py:583 test] ===> mAP 11.890
+[2022-12-06 10:30:42,736 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.86942481994629
+[2022-12-06 10:30:42,816 segment-fps-new-miou.py:583 test] ===> mAP 11.880
+[2022-12-06 10:30:42,880 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.6142692565918
+[2022-12-06 10:30:42,917 segment-fps-new-miou.py:583 test] ===> mAP 11.870
+[2022-12-06 10:30:42,976 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.95804405212402
+[2022-12-06 10:30:43,007 segment-fps-new-miou.py:583 test] ===> mAP 11.860
+[2022-12-06 10:30:43,070 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.90010833740234
+[2022-12-06 10:30:43,092 segment-fps-new-miou.py:583 test] ===> mAP 11.850
+[2022-12-06 10:30:43,153 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.65472793579102
+[2022-12-06 10:30:43,174 segment-fps-new-miou.py:583 test] ===> mAP 11.830
+[2022-12-06 10:30:43,231 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.94967460632324
+[2022-12-06 10:30:43,254 segment-fps-new-miou.py:583 test] ===> mAP 11.820
+[2022-12-06 10:30:43,309 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.63181495666504
+[2022-12-06 10:30:43,333 segment-fps-new-miou.py:583 test] ===> mAP 11.810
+[2022-12-06 10:30:43,387 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.7415828704834
+[2022-12-06 10:30:43,413 segment-fps-new-miou.py:583 test] ===> mAP 11.790
+[2022-12-06 10:30:43,484 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.17481422424316
+[2022-12-06 10:30:43,508 segment-fps-new-miou.py:583 test] ===> mAP 11.780
+[2022-12-06 10:30:43,569 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.42384338378906
+[2022-12-06 10:30:43,612 segment-fps-new-miou.py:583 test] ===> mAP 11.770
+[2022-12-06 10:30:43,674 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.73614692687988
+[2022-12-06 10:30:43,697 segment-fps-new-miou.py:583 test] ===> mAP 11.750
+[2022-12-06 10:30:43,768 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.07394027709961
+[2022-12-06 10:30:43,796 segment-fps-new-miou.py:583 test] ===> mAP 11.740
+[2022-12-06 10:30:43,853 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.43693161010742
+[2022-12-06 10:30:43,887 segment-fps-new-miou.py:583 test] ===> mAP 11.730
+[2022-12-06 10:30:43,970 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.13981437683105
+[2022-12-06 10:30:43,993 segment-fps-new-miou.py:583 test] ===> mAP 11.720
+[2022-12-06 10:30:44,060 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.83234977722168
+[2022-12-06 10:30:44,060 segment-fps-new-miou.py:570 test] Average Acc:   93.81248810712029   Average Size:    0.0        in time:  17
+[2022-12-06 10:30:44,132 segment-fps-new-miou.py:583 test] ===> mAP 11.700
+[2022-12-06 10:30:44,194 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.83516311645508
+[2022-12-06 10:30:44,218 segment-fps-new-miou.py:583 test] ===> mAP 11.690
+[2022-12-06 10:30:44,218 segment-fps-new-miou.py:587 test] 306/599:miou-11.689611714612946
+[2022-12-06 10:30:44,291 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.67356300354004
+[2022-12-06 10:30:44,313 segment-fps-new-miou.py:583 test] ===> mAP 11.680
+[2022-12-06 10:30:44,374 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.18466186523438
+[2022-12-06 10:30:44,401 segment-fps-new-miou.py:583 test] ===> mAP 11.670
+[2022-12-06 10:30:44,502 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.52119064331055
+[2022-12-06 10:30:44,524 segment-fps-new-miou.py:583 test] ===> mAP 11.650
+[2022-12-06 10:30:44,584 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.7347412109375
+[2022-12-06 10:30:44,640 segment-fps-new-miou.py:583 test] ===> mAP 11.640
+[2022-12-06 10:30:44,704 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.76165771484375
+[2022-12-06 10:30:44,730 segment-fps-new-miou.py:583 test] ===> mAP 11.630
+[2022-12-06 10:30:44,809 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.38643455505371
+[2022-12-06 10:30:44,832 segment-fps-new-miou.py:583 test] ===> mAP 11.620
+[2022-12-06 10:30:44,905 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.29974555969238
+[2022-12-06 10:30:44,929 segment-fps-new-miou.py:583 test] ===> mAP 11.610
+[2022-12-06 10:30:44,996 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.9885139465332
+[2022-12-06 10:30:45,019 segment-fps-new-miou.py:583 test] ===> mAP 11.610
+[2022-12-06 10:30:45,098 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.2141056060791
+[2022-12-06 10:30:45,172 segment-fps-new-miou.py:583 test] ===> mAP 11.600
+[2022-12-06 10:30:45,228 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.83642578125
+[2022-12-06 10:30:45,252 segment-fps-new-miou.py:583 test] ===> mAP 11.590
+[2022-12-06 10:30:45,309 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.45533752441406
+[2022-12-06 10:30:45,399 segment-fps-new-miou.py:583 test] ===> mAP 11.580
+[2022-12-06 10:30:45,452 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.4908618927002
+[2022-12-06 10:30:45,475 segment-fps-new-miou.py:583 test] ===> mAP 11.570
+[2022-12-06 10:30:45,535 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.35498809814453
+[2022-12-06 10:30:45,559 segment-fps-new-miou.py:583 test] ===> mAP 11.560
+[2022-12-06 10:30:45,611 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.64356994628906
+[2022-12-06 10:30:45,639 segment-fps-new-miou.py:583 test] ===> mAP 11.550
+[2022-12-06 10:30:45,699 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.57109069824219
+[2022-12-06 10:30:45,722 segment-fps-new-miou.py:583 test] ===> mAP 11.540
+[2022-12-06 10:30:45,780 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.76299476623535
+[2022-12-06 10:30:45,780 segment-fps-new-miou.py:570 test] Average Acc:   93.86559093699736   Average Size:    0.0        in time:  18
+[2022-12-06 10:30:45,805 segment-fps-new-miou.py:583 test] ===> mAP 11.530
+[2022-12-06 10:30:45,896 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.31154823303223
+[2022-12-06 10:30:45,929 segment-fps-new-miou.py:583 test] ===> mAP 11.520
+[2022-12-06 10:30:45,929 segment-fps-new-miou.py:587 test] 323/599:miou-11.521967117804973
+[2022-12-06 10:30:45,987 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.04285049438477
+[2022-12-06 10:30:46,011 segment-fps-new-miou.py:583 test] ===> mAP 11.510
+[2022-12-06 10:30:46,061 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.69792938232422
+[2022-12-06 10:30:46,088 segment-fps-new-miou.py:583 test] ===> mAP 11.500
+[2022-12-06 10:30:46,168 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.65692138671875
+[2022-12-06 10:30:46,190 segment-fps-new-miou.py:583 test] ===> mAP 11.490
+[2022-12-06 10:30:46,246 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.15714836120605
+[2022-12-06 10:30:46,279 segment-fps-new-miou.py:583 test] ===> mAP 11.480
+[2022-12-06 10:30:46,338 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.67251396179199
+[2022-12-06 10:30:46,362 segment-fps-new-miou.py:583 test] ===> mAP 11.470
+[2022-12-06 10:30:46,434 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.30291748046875
+[2022-12-06 10:30:46,456 segment-fps-new-miou.py:583 test] ===> mAP 11.460
+[2022-12-06 10:30:46,508 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.17705535888672
+[2022-12-06 10:30:46,533 segment-fps-new-miou.py:583 test] ===> mAP 11.460
+[2022-12-06 10:30:46,592 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.6166763305664
+[2022-12-06 10:30:46,615 segment-fps-new-miou.py:583 test] ===> mAP 11.450
+[2022-12-06 10:30:46,670 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.69525909423828
+[2022-12-06 10:30:46,702 segment-fps-new-miou.py:583 test] ===> mAP 11.440
+[2022-12-06 10:30:46,762 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.71294975280762
+[2022-12-06 10:30:46,786 segment-fps-new-miou.py:583 test] ===> mAP 11.430
+[2022-12-06 10:30:46,850 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.19293594360352
+[2022-12-06 10:30:46,900 segment-fps-new-miou.py:583 test] ===> mAP 11.420
+[2022-12-06 10:30:46,962 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.66850852966309
+[2022-12-06 10:30:46,985 segment-fps-new-miou.py:583 test] ===> mAP 11.410
+[2022-12-06 10:30:47,051 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.18337440490723
+[2022-12-06 10:30:47,074 segment-fps-new-miou.py:583 test] ===> mAP 11.400
+[2022-12-06 10:30:47,135 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.73912811279297
+[2022-12-06 10:30:47,163 segment-fps-new-miou.py:583 test] ===> mAP 11.400
+[2022-12-06 10:30:47,227 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.56977844238281
+[2022-12-06 10:30:47,250 segment-fps-new-miou.py:583 test] ===> mAP 11.390
+[2022-12-06 10:30:47,311 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.90816688537598
+[2022-12-06 10:30:47,311 segment-fps-new-miou.py:570 test] Average Acc:   93.54739189147949   Average Size:    0.0        in time:  19
+[2022-12-06 10:30:47,334 segment-fps-new-miou.py:583 test] ===> mAP 11.380
+[2022-12-06 10:30:47,418 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.99733543395996
+[2022-12-06 10:30:47,446 segment-fps-new-miou.py:583 test] ===> mAP 11.370
+[2022-12-06 10:30:47,447 segment-fps-new-miou.py:587 test] 340/599:miou-11.371630359600394
+[2022-12-06 10:30:47,511 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.59898567199707
+[2022-12-06 10:30:47,536 segment-fps-new-miou.py:583 test] ===> mAP 11.360
+[2022-12-06 10:30:47,597 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.71998405456543
+[2022-12-06 10:30:47,632 segment-fps-new-miou.py:583 test] ===> mAP 11.360
+[2022-12-06 10:30:47,708 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.64020919799805
+[2022-12-06 10:30:47,741 segment-fps-new-miou.py:583 test] ===> mAP 11.350
+[2022-12-06 10:30:47,794 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.22893714904785
+[2022-12-06 10:30:47,822 segment-fps-new-miou.py:583 test] ===> mAP 11.340
+[2022-12-06 10:30:47,907 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.84617805480957
+[2022-12-06 10:30:47,930 segment-fps-new-miou.py:583 test] ===> mAP 11.340
+[2022-12-06 10:30:47,992 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.64862442016602
+[2022-12-06 10:30:48,015 segment-fps-new-miou.py:583 test] ===> mAP 11.330
+[2022-12-06 10:30:48,071 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.96302795410156
+[2022-12-06 10:30:48,095 segment-fps-new-miou.py:583 test] ===> mAP 11.320
+[2022-12-06 10:30:48,170 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.75860786437988
+[2022-12-06 10:30:48,192 segment-fps-new-miou.py:583 test] ===> mAP 11.320
+[2022-12-06 10:30:48,263 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.92054176330566
+[2022-12-06 10:30:48,292 segment-fps-new-miou.py:583 test] ===> mAP 11.310
+[2022-12-06 10:30:48,348 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.09096336364746
+[2022-12-06 10:30:48,371 segment-fps-new-miou.py:583 test] ===> mAP 11.310
+[2022-12-06 10:30:48,428 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.3624038696289
+[2022-12-06 10:30:48,512 segment-fps-new-miou.py:583 test] ===> mAP 11.300
+[2022-12-06 10:30:48,569 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.71960258483887
+[2022-12-06 10:30:48,594 segment-fps-new-miou.py:583 test] ===> mAP 11.300
+[2022-12-06 10:30:48,652 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.21277236938477
+[2022-12-06 10:30:48,676 segment-fps-new-miou.py:583 test] ===> mAP 11.300
+[2022-12-06 10:30:48,730 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.72031784057617
+[2022-12-06 10:30:48,770 segment-fps-new-miou.py:583 test] ===> mAP 11.300
+[2022-12-06 10:30:48,839 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.04723739624023
+[2022-12-06 10:30:48,861 segment-fps-new-miou.py:583 test] ===> mAP 11.290
+[2022-12-06 10:30:48,921 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.29397773742676
+[2022-12-06 10:30:48,921 segment-fps-new-miou.py:570 test] Average Acc:   92.92762980741612   Average Size:    0.0        in time:  20
+[2022-12-06 10:30:48,945 segment-fps-new-miou.py:583 test] ===> mAP 11.290
+[2022-12-06 10:30:49,026 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.71998405456543
+[2022-12-06 10:30:49,050 segment-fps-new-miou.py:583 test] ===> mAP 11.280
+[2022-12-06 10:30:49,051 segment-fps-new-miou.py:587 test] 357/599:miou-11.279767220615637
+[2022-12-06 10:30:49,120 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.83676147460938
+[2022-12-06 10:30:49,143 segment-fps-new-miou.py:583 test] ===> mAP 11.270
+[2022-12-06 10:30:49,205 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.8535213470459
+[2022-12-06 10:30:49,240 segment-fps-new-miou.py:583 test] ===> mAP 11.270
+[2022-12-06 10:30:49,301 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.76883506774902
+[2022-12-06 10:30:49,336 segment-fps-new-miou.py:583 test] ===> mAP 11.260
+[2022-12-06 10:30:49,396 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.07646751403809
+[2022-12-06 10:30:49,442 segment-fps-new-miou.py:583 test] ===> mAP 11.250
+[2022-12-06 10:30:49,505 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.58220100402832
+[2022-12-06 10:30:49,528 segment-fps-new-miou.py:583 test] ===> mAP 11.250
+[2022-12-06 10:30:49,588 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.24336051940918
+[2022-12-06 10:30:49,611 segment-fps-new-miou.py:583 test] ===> mAP 11.240
+[2022-12-06 10:30:49,672 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.0577507019043
+[2022-12-06 10:30:49,697 segment-fps-new-miou.py:583 test] ===> mAP 11.240
+[2022-12-06 10:30:49,782 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.56927871704102
+[2022-12-06 10:30:49,807 segment-fps-new-miou.py:583 test] ===> mAP 11.230
+[2022-12-06 10:30:49,864 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.73908042907715
+[2022-12-06 10:30:49,907 segment-fps-new-miou.py:583 test] ===> mAP 11.230
+[2022-12-06 10:30:49,961 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.94993782043457
+[2022-12-06 10:30:49,984 segment-fps-new-miou.py:583 test] ===> mAP 11.220
+[2022-12-06 10:30:50,044 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.3781623840332
+[2022-12-06 10:30:50,123 segment-fps-new-miou.py:583 test] ===> mAP 11.220
+[2022-12-06 10:30:50,179 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.45390701293945
+[2022-12-06 10:30:50,202 segment-fps-new-miou.py:583 test] ===> mAP 11.210
+[2022-12-06 10:30:50,259 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.91369819641113
+[2022-12-06 10:30:50,282 segment-fps-new-miou.py:583 test] ===> mAP 11.210
+[2022-12-06 10:30:50,338 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.00467872619629
+[2022-12-06 10:30:50,364 segment-fps-new-miou.py:583 test] ===> mAP 11.200
+[2022-12-06 10:30:50,422 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.92120742797852
+[2022-12-06 10:30:50,445 segment-fps-new-miou.py:583 test] ===> mAP 11.200
+[2022-12-06 10:30:50,500 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.0908432006836
+[2022-12-06 10:30:50,500 segment-fps-new-miou.py:570 test] Average Acc:   93.71527503518497   Average Size:    0.0        in time:  21
+[2022-12-06 10:30:50,523 segment-fps-new-miou.py:583 test] ===> mAP 11.190
+[2022-12-06 10:30:50,575 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.89786720275879
+[2022-12-06 10:30:50,598 segment-fps-new-miou.py:583 test] ===> mAP 11.190
+[2022-12-06 10:30:50,598 segment-fps-new-miou.py:587 test] 374/599:miou-11.188097615686763
+[2022-12-06 10:30:50,659 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.59455108642578
+[2022-12-06 10:30:50,683 segment-fps-new-miou.py:583 test] ===> mAP 11.180
+[2022-12-06 10:30:50,742 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.35417747497559
+[2022-12-06 10:30:50,780 segment-fps-new-miou.py:583 test] ===> mAP 11.180
+[2022-12-06 10:30:50,844 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.66204833984375
+[2022-12-06 10:30:50,888 segment-fps-new-miou.py:583 test] ===> mAP 11.170
+[2022-12-06 10:30:50,947 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.66812705993652
+[2022-12-06 10:30:50,979 segment-fps-new-miou.py:583 test] ===> mAP 11.170
+[2022-12-06 10:30:51,041 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.10066604614258
+[2022-12-06 10:30:51,065 segment-fps-new-miou.py:583 test] ===> mAP 11.160
+[2022-12-06 10:30:51,131 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.72522926330566
+[2022-12-06 10:30:51,154 segment-fps-new-miou.py:583 test] ===> mAP 11.160
+[2022-12-06 10:30:51,214 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.88859367370605
+[2022-12-06 10:30:51,238 segment-fps-new-miou.py:583 test] ===> mAP 11.150
+[2022-12-06 10:30:51,303 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.8696403503418
+[2022-12-06 10:30:51,325 segment-fps-new-miou.py:583 test] ===> mAP 11.150
+[2022-12-06 10:30:51,384 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.02208518981934
+[2022-12-06 10:30:51,415 segment-fps-new-miou.py:583 test] ===> mAP 11.150
+[2022-12-06 10:30:51,467 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.2797908782959
+[2022-12-06 10:30:51,490 segment-fps-new-miou.py:583 test] ===> mAP 11.140
+[2022-12-06 10:30:51,569 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.61858367919922
+[2022-12-06 10:30:51,643 segment-fps-new-miou.py:583 test] ===> mAP 11.140
+[2022-12-06 10:30:51,697 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.97924041748047
+[2022-12-06 10:30:51,721 segment-fps-new-miou.py:583 test] ===> mAP 11.140
+[2022-12-06 10:30:51,779 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.55185127258301
+[2022-12-06 10:30:51,803 segment-fps-new-miou.py:583 test] ===> mAP 11.140
+[2022-12-06 10:30:51,865 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.4295425415039
+[2022-12-06 10:30:51,902 segment-fps-new-miou.py:583 test] ===> mAP 11.140
+[2022-12-06 10:30:51,958 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.17123985290527
+[2022-12-06 10:30:51,981 segment-fps-new-miou.py:583 test] ===> mAP 11.140
+[2022-12-06 10:30:52,040 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.97266006469727
+[2022-12-06 10:30:52,040 segment-fps-new-miou.py:570 test] Average Acc:   92.98740555258358   Average Size:    0.0        in time:  22
+[2022-12-06 10:30:52,146 segment-fps-new-miou.py:583 test] ===> mAP 11.130
+[2022-12-06 10:30:52,201 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.58201026916504
+[2022-12-06 10:30:52,228 segment-fps-new-miou.py:583 test] ===> mAP 11.130
+[2022-12-06 10:30:52,228 segment-fps-new-miou.py:587 test] 391/599:miou-11.132148849404892
+[2022-12-06 10:30:52,307 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.57295036315918
+[2022-12-06 10:30:52,331 segment-fps-new-miou.py:583 test] ===> mAP 11.130
+[2022-12-06 10:30:52,382 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.78254508972168
+[2022-12-06 10:30:52,409 segment-fps-new-miou.py:583 test] ===> mAP 11.130
+[2022-12-06 10:30:52,466 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.4534797668457
+[2022-12-06 10:30:52,488 segment-fps-new-miou.py:583 test] ===> mAP 11.130
+[2022-12-06 10:30:52,540 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.68937110900879
+[2022-12-06 10:30:52,564 segment-fps-new-miou.py:583 test] ===> mAP 11.120
+[2022-12-06 10:30:52,645 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.65990257263184
+[2022-12-06 10:30:52,668 segment-fps-new-miou.py:583 test] ===> mAP 11.120
+[2022-12-06 10:30:52,724 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.16947555541992
+[2022-12-06 10:30:52,748 segment-fps-new-miou.py:583 test] ===> mAP 11.120
+[2022-12-06 10:30:52,799 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.43817329406738
+[2022-12-06 10:30:52,823 segment-fps-new-miou.py:583 test] ===> mAP 11.120
+[2022-12-06 10:30:52,880 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.68486595153809
+[2022-12-06 10:30:52,903 segment-fps-new-miou.py:583 test] ===> mAP 11.120
+[2022-12-06 10:30:52,955 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.9398078918457
+[2022-12-06 10:30:53,001 segment-fps-new-miou.py:583 test] ===> mAP 11.110
+[2022-12-06 10:30:53,051 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.62051773071289
+[2022-12-06 10:30:53,075 segment-fps-new-miou.py:583 test] ===> mAP 11.110
+[2022-12-06 10:30:53,134 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.02485275268555
+[2022-12-06 10:30:53,195 segment-fps-new-miou.py:583 test] ===> mAP 11.100
+[2022-12-06 10:30:53,255 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.98248481750488
+[2022-12-06 10:30:53,277 segment-fps-new-miou.py:583 test] ===> mAP 11.100
+[2022-12-06 10:30:53,334 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.32073020935059
+[2022-12-06 10:30:53,358 segment-fps-new-miou.py:583 test] ===> mAP 11.090
+[2022-12-06 10:30:53,408 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.7259464263916
+[2022-12-06 10:30:53,446 segment-fps-new-miou.py:583 test] ===> mAP 11.090
+[2022-12-06 10:30:53,499 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.77129364013672
+[2022-12-06 10:30:53,522 segment-fps-new-miou.py:583 test] ===> mAP 11.080
+[2022-12-06 10:30:53,583 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.37010765075684
+[2022-12-06 10:30:53,583 segment-fps-new-miou.py:570 test] Average Acc:   91.63461853476132   Average Size:    0.0        in time:  23
+[2022-12-06 10:30:53,606 segment-fps-new-miou.py:583 test] ===> mAP 11.070
+[2022-12-06 10:30:53,693 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.08953475952148
+[2022-12-06 10:30:53,730 segment-fps-new-miou.py:583 test] ===> mAP 11.070
+[2022-12-06 10:30:53,730 segment-fps-new-miou.py:587 test] 408/599:miou-11.065941828863854
+[2022-12-06 10:30:53,808 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.6254768371582
+[2022-12-06 10:30:53,833 segment-fps-new-miou.py:583 test] ===> mAP 11.060
+[2022-12-06 10:30:53,889 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.8970832824707
+[2022-12-06 10:30:53,918 segment-fps-new-miou.py:583 test] ===> mAP 11.050
+[2022-12-06 10:30:53,983 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.7031307220459
+[2022-12-06 10:30:54,005 segment-fps-new-miou.py:583 test] ===> mAP 11.040
+[2022-12-06 10:30:54,058 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.14511108398438
+[2022-12-06 10:30:54,084 segment-fps-new-miou.py:583 test] ===> mAP 11.030
+[2022-12-06 10:30:54,226 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.93644714355469
+[2022-12-06 10:30:54,248 segment-fps-new-miou.py:583 test] ===> mAP 11.020
+[2022-12-06 10:30:54,309 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.61935043334961
+[2022-12-06 10:30:54,332 segment-fps-new-miou.py:583 test] ===> mAP 11.010
+[2022-12-06 10:30:54,414 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.27905464172363
+[2022-12-06 10:30:54,451 segment-fps-new-miou.py:583 test] ===> mAP 11.000
+[2022-12-06 10:30:54,513 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.0707015991211
+[2022-12-06 10:30:54,536 segment-fps-new-miou.py:583 test] ===> mAP 10.990
+[2022-12-06 10:30:54,595 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.60766792297363
+[2022-12-06 10:30:54,622 segment-fps-new-miou.py:583 test] ===> mAP 10.970
+[2022-12-06 10:30:54,683 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.60630798339844
+[2022-12-06 10:30:54,706 segment-fps-new-miou.py:583 test] ===> mAP 10.960
+[2022-12-06 10:30:54,766 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.07251358032227
+[2022-12-06 10:30:54,788 segment-fps-new-miou.py:583 test] ===> mAP 10.950
+[2022-12-06 10:30:54,848 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.34140205383301
+[2022-12-06 10:30:54,872 segment-fps-new-miou.py:583 test] ===> mAP 10.940
+[2022-12-06 10:30:54,941 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.79532814025879
+[2022-12-06 10:30:54,969 segment-fps-new-miou.py:583 test] ===> mAP 10.930
+[2022-12-06 10:30:55,020 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.42441940307617
+[2022-12-06 10:30:55,060 segment-fps-new-miou.py:583 test] ===> mAP 10.930
+[2022-12-06 10:30:55,123 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.17176628112793
+[2022-12-06 10:30:55,146 segment-fps-new-miou.py:583 test] ===> mAP 10.920
+[2022-12-06 10:30:55,207 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.89968490600586
+[2022-12-06 10:30:55,207 segment-fps-new-miou.py:570 test] Average Acc:   89.78146945728975   Average Size:    0.0        in time:  24
+[2022-12-06 10:30:55,268 segment-fps-new-miou.py:583 test] ===> mAP 10.910
+[2022-12-06 10:30:55,328 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.0843620300293
+[2022-12-06 10:30:55,353 segment-fps-new-miou.py:583 test] ===> mAP 10.900
+[2022-12-06 10:30:55,353 segment-fps-new-miou.py:587 test] 425/599:miou-10.898872239289341
+[2022-12-06 10:30:55,417 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.89224624633789
+[2022-12-06 10:30:55,441 segment-fps-new-miou.py:583 test] ===> mAP 10.890
+[2022-12-06 10:30:55,500 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.52348327636719
+[2022-12-06 10:30:55,527 segment-fps-new-miou.py:583 test] ===> mAP 10.880
+[2022-12-06 10:30:55,593 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.94286346435547
+[2022-12-06 10:30:55,617 segment-fps-new-miou.py:583 test] ===> mAP 10.880
+[2022-12-06 10:30:55,677 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.40875625610352
+[2022-12-06 10:30:55,712 segment-fps-new-miou.py:583 test] ===> mAP 10.870
+[2022-12-06 10:30:55,778 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.65458869934082
+[2022-12-06 10:30:55,803 segment-fps-new-miou.py:583 test] ===> mAP 10.860
+[2022-12-06 10:30:55,876 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.83190155029297
+[2022-12-06 10:30:55,904 segment-fps-new-miou.py:583 test] ===> mAP 10.850
+[2022-12-06 10:30:55,962 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.45937156677246
+[2022-12-06 10:30:55,986 segment-fps-new-miou.py:583 test] ===> mAP 10.840
+[2022-12-06 10:30:56,049 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.88490295410156
+[2022-12-06 10:30:56,072 segment-fps-new-miou.py:583 test] ===> mAP 10.830
+[2022-12-06 10:30:56,133 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.20543098449707
+[2022-12-06 10:30:56,172 segment-fps-new-miou.py:583 test] ===> mAP 10.830
+[2022-12-06 10:30:56,233 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.04950523376465
+[2022-12-06 10:30:56,257 segment-fps-new-miou.py:583 test] ===> mAP 10.820
+[2022-12-06 10:30:56,317 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.94462585449219
+[2022-12-06 10:30:56,385 segment-fps-new-miou.py:583 test] ===> mAP 10.810
+[2022-12-06 10:30:56,446 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.28630256652832
+[2022-12-06 10:30:56,472 segment-fps-new-miou.py:583 test] ===> mAP 10.800
+[2022-12-06 10:30:56,538 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.65861892700195
+[2022-12-06 10:30:56,560 segment-fps-new-miou.py:583 test] ===> mAP 10.790
+[2022-12-06 10:30:56,618 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.55071067810059
+[2022-12-06 10:30:56,645 segment-fps-new-miou.py:583 test] ===> mAP 10.780
+[2022-12-06 10:30:56,714 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.41097259521484
+[2022-12-06 10:30:56,738 segment-fps-new-miou.py:583 test] ===> mAP 10.780
+[2022-12-06 10:30:56,808 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.52992057800293
+[2022-12-06 10:30:56,809 segment-fps-new-miou.py:570 test] Average Acc:   88.95991549772374   Average Size:    0.0        in time:  25
+[2022-12-06 10:30:56,833 segment-fps-new-miou.py:583 test] ===> mAP 10.770
+[2022-12-06 10:30:56,885 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.11805152893066
+[2022-12-06 10:30:56,908 segment-fps-new-miou.py:583 test] ===> mAP 10.760
+[2022-12-06 10:30:56,908 segment-fps-new-miou.py:587 test] 442/599:miou-10.76257691280976
+[2022-12-06 10:30:56,970 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.82858848571777
+[2022-12-06 10:30:56,994 segment-fps-new-miou.py:583 test] ===> mAP 10.750
+[2022-12-06 10:30:57,054 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.10124397277832
+[2022-12-06 10:30:57,092 segment-fps-new-miou.py:583 test] ===> mAP 10.750
+[2022-12-06 10:30:57,153 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.47704124450684
+[2022-12-06 10:30:57,195 segment-fps-new-miou.py:583 test] ===> mAP 10.740
+[2022-12-06 10:30:57,246 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.93957328796387
+[2022-12-06 10:30:57,294 segment-fps-new-miou.py:583 test] ===> mAP 10.730
+[2022-12-06 10:30:57,350 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.62853050231934
+[2022-12-06 10:30:57,374 segment-fps-new-miou.py:583 test] ===> mAP 10.720
+[2022-12-06 10:30:57,428 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.06731796264648
+[2022-12-06 10:30:57,450 segment-fps-new-miou.py:583 test] ===> mAP 10.710
+[2022-12-06 10:30:57,504 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.885498046875
+[2022-12-06 10:30:57,527 segment-fps-new-miou.py:583 test] ===> mAP 10.700
+[2022-12-06 10:30:57,596 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.28985786437988
+[2022-12-06 10:30:57,618 segment-fps-new-miou.py:583 test] ===> mAP 10.690
+[2022-12-06 10:30:57,673 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.49322891235352
+[2022-12-06 10:30:57,700 segment-fps-new-miou.py:583 test] ===> mAP 10.680
+[2022-12-06 10:30:57,753 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.66801261901855
+[2022-12-06 10:30:57,776 segment-fps-new-miou.py:583 test] ===> mAP 10.670
+[2022-12-06 10:30:57,852 segment-fps-new-miou.py:566 test] Loss:0,Acc:86.57526969909668
+[2022-12-06 10:30:57,927 segment-fps-new-miou.py:583 test] ===> mAP 10.660
+[2022-12-06 10:30:57,984 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.19866180419922
+[2022-12-06 10:30:58,008 segment-fps-new-miou.py:583 test] ===> mAP 10.650
+[2022-12-06 10:30:58,081 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.69865036010742
+[2022-12-06 10:30:58,103 segment-fps-new-miou.py:583 test] ===> mAP 10.640
+[2022-12-06 10:30:58,159 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.89260292053223
+[2022-12-06 10:30:58,188 segment-fps-new-miou.py:583 test] ===> mAP 10.630
+[2022-12-06 10:30:58,252 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.14704132080078
+[2022-12-06 10:30:58,275 segment-fps-new-miou.py:583 test] ===> mAP 10.620
+[2022-12-06 10:30:58,333 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.30933380126953
+[2022-12-06 10:30:58,333 segment-fps-new-miou.py:570 test] Average Acc:   88.19520613726448   Average Size:    0.0        in time:  26
+[2022-12-06 10:30:58,356 segment-fps-new-miou.py:583 test] ===> mAP 10.610
+[2022-12-06 10:30:58,416 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.89398384094238
+[2022-12-06 10:30:58,440 segment-fps-new-miou.py:583 test] ===> mAP 10.600
+[2022-12-06 10:30:58,440 segment-fps-new-miou.py:587 test] 459/599:miou-10.602112166171134
+[2022-12-06 10:30:58,526 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.49177169799805
+[2022-12-06 10:30:58,550 segment-fps-new-miou.py:583 test] ===> mAP 10.590
+[2022-12-06 10:30:58,607 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.18502235412598
+[2022-12-06 10:30:58,648 segment-fps-new-miou.py:583 test] ===> mAP 10.580
+[2022-12-06 10:30:58,707 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.59455490112305
+[2022-12-06 10:30:58,730 segment-fps-new-miou.py:583 test] ===> mAP 10.580
+[2022-12-06 10:30:58,791 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.30635452270508
+[2022-12-06 10:30:58,817 segment-fps-new-miou.py:583 test] ===> mAP 10.570
+[2022-12-06 10:30:58,880 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.00420379638672
+[2022-12-06 10:30:58,904 segment-fps-new-miou.py:583 test] ===> mAP 10.560
+[2022-12-06 10:30:58,968 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.66452980041504
+[2022-12-06 10:30:59,064 segment-fps-new-miou.py:583 test] ===> mAP 10.560
+[2022-12-06 10:30:59,125 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.95239639282227
+[2022-12-06 10:30:59,150 segment-fps-new-miou.py:583 test] ===> mAP 10.550
+[2022-12-06 10:30:59,215 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.40978050231934
+[2022-12-06 10:30:59,239 segment-fps-new-miou.py:583 test] ===> mAP 10.540
+[2022-12-06 10:30:59,298 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.54460525512695
+[2022-12-06 10:30:59,325 segment-fps-new-miou.py:583 test] ===> mAP 10.530
+[2022-12-06 10:30:59,393 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.65213012695312
+[2022-12-06 10:30:59,417 segment-fps-new-miou.py:583 test] ===> mAP 10.520
+[2022-12-06 10:30:59,482 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.35949516296387
+[2022-12-06 10:30:59,514 segment-fps-new-miou.py:583 test] ===> mAP 10.510
+[2022-12-06 10:30:59,578 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.05265045166016
+[2022-12-06 10:30:59,603 segment-fps-new-miou.py:583 test] ===> mAP 10.510
+[2022-12-06 10:30:59,683 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.46995544433594
+[2022-12-06 10:30:59,709 segment-fps-new-miou.py:583 test] ===> mAP 10.500
+[2022-12-06 10:30:59,767 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.8942928314209
+[2022-12-06 10:30:59,796 segment-fps-new-miou.py:583 test] ===> mAP 10.490
+[2022-12-06 10:30:59,850 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.62659454345703
+[2022-12-06 10:30:59,872 segment-fps-new-miou.py:583 test] ===> mAP 10.480
+[2022-12-06 10:30:59,929 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.30656623840332
+[2022-12-06 10:30:59,929 segment-fps-new-miou.py:570 test] Average Acc:   91.20052281547996   Average Size:    0.0        in time:  27
+[2022-12-06 10:30:59,953 segment-fps-new-miou.py:583 test] ===> mAP 10.470
+[2022-12-06 10:31:00,006 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.71960258483887
+[2022-12-06 10:31:00,028 segment-fps-new-miou.py:583 test] ===> mAP 10.460
+[2022-12-06 10:31:00,028 segment-fps-new-miou.py:587 test] 476/599:miou-10.462573577444257
+[2022-12-06 10:31:00,085 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.78223609924316
+[2022-12-06 10:31:00,109 segment-fps-new-miou.py:583 test] ===> mAP 10.450
+[2022-12-06 10:31:00,162 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.39072799682617
+[2022-12-06 10:31:00,185 segment-fps-new-miou.py:583 test] ===> mAP 10.450
+[2022-12-06 10:31:00,257 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.51225090026855
+[2022-12-06 10:31:00,281 segment-fps-new-miou.py:583 test] ===> mAP 10.440
+[2022-12-06 10:31:00,353 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.56415367126465
+[2022-12-06 10:31:00,407 segment-fps-new-miou.py:583 test] ===> mAP 10.430
+[2022-12-06 10:31:00,469 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.8580265045166
+[2022-12-06 10:31:00,493 segment-fps-new-miou.py:583 test] ===> mAP 10.420
+[2022-12-06 10:31:00,559 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.80252456665039
+[2022-12-06 10:31:00,581 segment-fps-new-miou.py:583 test] ===> mAP 10.420
+[2022-12-06 10:31:00,641 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.53165626525879
+[2022-12-06 10:31:00,669 segment-fps-new-miou.py:583 test] ===> mAP 10.410
+[2022-12-06 10:31:00,729 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.4205551147461
+[2022-12-06 10:31:00,751 segment-fps-new-miou.py:583 test] ===> mAP 10.410
+[2022-12-06 10:31:00,808 segment-fps-new-miou.py:566 test] Loss:0,Acc:91.94645881652832
+[2022-12-06 10:31:00,839 segment-fps-new-miou.py:583 test] ===> mAP 10.400
+[2022-12-06 10:31:00,895 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.11583137512207
+[2022-12-06 10:31:00,944 segment-fps-new-miou.py:583 test] ===> mAP 10.390
+[2022-12-06 10:31:01,028 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.8088207244873
+[2022-12-06 10:31:01,051 segment-fps-new-miou.py:583 test] ===> mAP 10.390
+[2022-12-06 10:31:01,119 segment-fps-new-miou.py:566 test] Loss:0,Acc:90.9553050994873
+[2022-12-06 10:31:01,145 segment-fps-new-miou.py:583 test] ===> mAP 10.380
+[2022-12-06 10:31:01,209 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.32785987854004
+[2022-12-06 10:31:01,236 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:01,290 segment-fps-new-miou.py:566 test] Loss:0,Acc:89.18232917785645
+[2022-12-06 10:31:01,346 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:01,404 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.26343536376953
+[2022-12-06 10:31:01,428 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:01,491 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.40212440490723
+[2022-12-06 10:31:01,491 segment-fps-new-miou.py:570 test] Average Acc:   91.97552344378303   Average Size:    0.0        in time:  28
+[2022-12-06 10:31:01,515 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:01,570 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.59834098815918
+[2022-12-06 10:31:01,597 segment-fps-new-miou.py:583 test] ===> mAP 10.340
+[2022-12-06 10:31:01,597 segment-fps-new-miou.py:587 test] 493/599:miou-10.339608500355256
+[2022-12-06 10:31:01,664 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.45216751098633
+[2022-12-06 10:31:01,686 segment-fps-new-miou.py:583 test] ===> mAP 10.330
+[2022-12-06 10:31:01,766 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.3657169342041
+[2022-12-06 10:31:01,803 segment-fps-new-miou.py:583 test] ===> mAP 10.330
+[2022-12-06 10:31:01,869 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.09463500976562
+[2022-12-06 10:31:01,908 segment-fps-new-miou.py:583 test] ===> mAP 10.320
+[2022-12-06 10:31:01,961 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.12856101989746
+[2022-12-06 10:31:02,004 segment-fps-new-miou.py:583 test] ===> mAP 10.320
+[2022-12-06 10:31:02,062 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.54400444030762
+[2022-12-06 10:31:02,085 segment-fps-new-miou.py:583 test] ===> mAP 10.310
+[2022-12-06 10:31:02,150 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.90213394165039
+[2022-12-06 10:31:02,172 segment-fps-new-miou.py:583 test] ===> mAP 10.310
+[2022-12-06 10:31:02,231 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.3239917755127
+[2022-12-06 10:31:02,257 segment-fps-new-miou.py:583 test] ===> mAP 10.310
+[2022-12-06 10:31:02,318 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.16794776916504
+[2022-12-06 10:31:02,341 segment-fps-new-miou.py:583 test] ===> mAP 10.300
+[2022-12-06 10:31:02,404 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.95863914489746
+[2022-12-06 10:31:02,442 segment-fps-new-miou.py:583 test] ===> mAP 10.300
+[2022-12-06 10:31:02,508 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.24688720703125
+[2022-12-06 10:31:02,553 segment-fps-new-miou.py:583 test] ===> mAP 10.300
+[2022-12-06 10:31:02,618 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.62494850158691
+[2022-12-06 10:31:02,642 segment-fps-new-miou.py:583 test] ===> mAP 10.300
+[2022-12-06 10:31:02,706 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.53001022338867
+[2022-12-06 10:31:02,730 segment-fps-new-miou.py:583 test] ===> mAP 10.290
+[2022-12-06 10:31:02,800 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.73235702514648
+[2022-12-06 10:31:02,834 segment-fps-new-miou.py:583 test] ===> mAP 10.290
+[2022-12-06 10:31:02,898 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.55657005310059
+[2022-12-06 10:31:02,942 segment-fps-new-miou.py:583 test] ===> mAP 10.290
+[2022-12-06 10:31:03,004 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.54986953735352
+[2022-12-06 10:31:03,029 segment-fps-new-miou.py:583 test] ===> mAP 10.280
+[2022-12-06 10:31:03,095 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.01519203186035
+[2022-12-06 10:31:03,095 segment-fps-new-miou.py:570 test] Average Acc:   94.51717488905963   Average Size:    0.0        in time:  29
+[2022-12-06 10:31:03,120 segment-fps-new-miou.py:583 test] ===> mAP 10.280
+[2022-12-06 10:31:03,186 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.39709091186523
+[2022-12-06 10:31:03,232 segment-fps-new-miou.py:583 test] ===> mAP 10.280
+[2022-12-06 10:31:03,233 segment-fps-new-miou.py:587 test] 510/599:miou-10.279424660527534
+[2022-12-06 10:31:03,320 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.64364051818848
+[2022-12-06 10:31:03,343 segment-fps-new-miou.py:583 test] ===> mAP 10.280
+[2022-12-06 10:31:03,408 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.3890323638916
+[2022-12-06 10:31:03,440 segment-fps-new-miou.py:583 test] ===> mAP 10.270
+[2022-12-06 10:31:03,509 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.57058906555176
+[2022-12-06 10:31:03,546 segment-fps-new-miou.py:583 test] ===> mAP 10.270
+[2022-12-06 10:31:03,611 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.29294967651367
+[2022-12-06 10:31:03,650 segment-fps-new-miou.py:583 test] ===> mAP 10.270
+[2022-12-06 10:31:03,715 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.00944519042969
+[2022-12-06 10:31:03,741 segment-fps-new-miou.py:583 test] ===> mAP 10.260
+[2022-12-06 10:31:03,810 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.11299133300781
+[2022-12-06 10:31:03,834 segment-fps-new-miou.py:583 test] ===> mAP 10.260
+[2022-12-06 10:31:03,902 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.02313041687012
+[2022-12-06 10:31:03,931 segment-fps-new-miou.py:583 test] ===> mAP 10.260
+[2022-12-06 10:31:04,004 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.15833854675293
+[2022-12-06 10:31:04,025 segment-fps-new-miou.py:583 test] ===> mAP 10.250
+[2022-12-06 10:31:04,091 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.14355659484863
+[2022-12-06 10:31:04,115 segment-fps-new-miou.py:583 test] ===> mAP 10.250
+[2022-12-06 10:31:04,184 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.55399322509766
+[2022-12-06 10:31:04,216 segment-fps-new-miou.py:583 test] ===> mAP 10.250
+[2022-12-06 10:31:04,286 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.36762237548828
+[2022-12-06 10:31:04,308 segment-fps-new-miou.py:583 test] ===> mAP 10.240
+[2022-12-06 10:31:04,372 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.4801082611084
+[2022-12-06 10:31:04,397 segment-fps-new-miou.py:583 test] ===> mAP 10.240
+[2022-12-06 10:31:04,471 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.61584091186523
+[2022-12-06 10:31:04,499 segment-fps-new-miou.py:583 test] ===> mAP 10.240
+[2022-12-06 10:31:04,558 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.48754692077637
+[2022-12-06 10:31:04,586 segment-fps-new-miou.py:583 test] ===> mAP 10.240
+[2022-12-06 10:31:04,652 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.0019588470459
+[2022-12-06 10:31:04,684 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:04,749 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.3519344329834
+[2022-12-06 10:31:04,749 segment-fps-new-miou.py:570 test] Average Acc:   95.38822174072266   Average Size:    0.0        in time:  30
+[2022-12-06 10:31:04,773 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:04,831 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.97206115722656
+[2022-12-06 10:31:04,905 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:04,905 segment-fps-new-miou.py:587 test] 527/599:miou-10.230918939530154
+[2022-12-06 10:31:04,969 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.46036720275879
+[2022-12-06 10:31:04,990 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:05,056 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.50561904907227
+[2022-12-06 10:31:05,080 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:05,147 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.48513984680176
+[2022-12-06 10:31:05,203 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:05,262 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.55480575561523
+[2022-12-06 10:31:05,324 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:05,388 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.16105842590332
+[2022-12-06 10:31:05,412 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:05,478 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.38166809082031
+[2022-12-06 10:31:05,501 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:05,558 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.38793563842773
+[2022-12-06 10:31:05,583 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:05,650 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.19991874694824
+[2022-12-06 10:31:05,672 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:05,737 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.65629959106445
+[2022-12-06 10:31:05,761 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:05,823 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.28754043579102
+[2022-12-06 10:31:05,847 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:05,910 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.19355583190918
+[2022-12-06 10:31:05,961 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:06,022 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.58983039855957
+[2022-12-06 10:31:06,046 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:06,110 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.11094284057617
+[2022-12-06 10:31:06,134 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:06,193 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.5217113494873
+[2022-12-06 10:31:06,220 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:06,283 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.33345603942871
+[2022-12-06 10:31:06,305 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:06,368 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.31478881835938
+[2022-12-06 10:31:06,369 segment-fps-new-miou.py:570 test] Average Acc:   94.53627642463235   Average Size:    0.0        in time:  31
+[2022-12-06 10:31:06,395 segment-fps-new-miou.py:583 test] ===> mAP 10.210
+[2022-12-06 10:31:06,457 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.77806091308594
+[2022-12-06 10:31:06,480 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:06,480 segment-fps-new-miou.py:587 test] 544/599:miou-10.215645141698733
+[2022-12-06 10:31:06,546 segment-fps-new-miou.py:566 test] Loss:0,Acc:93.3861255645752
+[2022-12-06 10:31:06,569 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:06,627 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.03007698059082
+[2022-12-06 10:31:06,652 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:06,725 segment-fps-new-miou.py:566 test] Loss:0,Acc:85.11824607849121
+[2022-12-06 10:31:06,747 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:06,802 segment-fps-new-miou.py:566 test] Loss:0,Acc:87.72392272949219
+[2022-12-06 10:31:06,858 segment-fps-new-miou.py:583 test] ===> mAP 10.220
+[2022-12-06 10:31:06,922 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.80233764648438
+[2022-12-06 10:31:06,946 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:07,012 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.0396842956543
+[2022-12-06 10:31:07,034 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:07,091 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.45090866088867
+[2022-12-06 10:31:07,117 segment-fps-new-miou.py:583 test] ===> mAP 10.230
+[2022-12-06 10:31:07,183 segment-fps-new-miou.py:566 test] Loss:0,Acc:88.22875022888184
+[2022-12-06 10:31:07,206 segment-fps-new-miou.py:583 test] ===> mAP 10.240
+[2022-12-06 10:31:07,267 segment-fps-new-miou.py:566 test] Loss:0,Acc:92.26264953613281
+[2022-12-06 10:31:07,291 segment-fps-new-miou.py:583 test] ===> mAP 10.240
+[2022-12-06 10:31:07,356 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.88861465454102
+[2022-12-06 10:31:07,379 segment-fps-new-miou.py:583 test] ===> mAP 10.250
+[2022-12-06 10:31:07,444 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.3948974609375
+[2022-12-06 10:31:07,549 segment-fps-new-miou.py:583 test] ===> mAP 10.250
+[2022-12-06 10:31:07,613 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.23866081237793
+[2022-12-06 10:31:07,640 segment-fps-new-miou.py:583 test] ===> mAP 10.260
+[2022-12-06 10:31:07,711 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.12021446228027
+[2022-12-06 10:31:07,735 segment-fps-new-miou.py:583 test] ===> mAP 10.270
+[2022-12-06 10:31:07,799 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.49181365966797
+[2022-12-06 10:31:07,826 segment-fps-new-miou.py:583 test] ===> mAP 10.270
+[2022-12-06 10:31:07,888 segment-fps-new-miou.py:566 test] Loss:0,Acc:97.08504676818848
+[2022-12-06 10:31:07,911 segment-fps-new-miou.py:583 test] ===> mAP 10.280
+[2022-12-06 10:31:07,969 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.61011695861816
+[2022-12-06 10:31:07,970 segment-fps-new-miou.py:570 test] Average Acc:   92.2147133771111   Average Size:    0.0        in time:  32
+[2022-12-06 10:31:08,001 segment-fps-new-miou.py:583 test] ===> mAP 10.280
+[2022-12-06 10:31:08,062 segment-fps-new-miou.py:566 test] Loss:0,Acc:97.65591621398926
+[2022-12-06 10:31:08,087 segment-fps-new-miou.py:583 test] ===> mAP 10.290
+[2022-12-06 10:31:08,087 segment-fps-new-miou.py:587 test] 561/599:miou-10.290392591065778
+[2022-12-06 10:31:08,149 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.98934555053711
+[2022-12-06 10:31:08,171 segment-fps-new-miou.py:583 test] ===> mAP 10.300
+[2022-12-06 10:31:08,228 segment-fps-new-miou.py:566 test] Loss:0,Acc:97.21112251281738
+[2022-12-06 10:31:08,255 segment-fps-new-miou.py:583 test] ===> mAP 10.300
+[2022-12-06 10:31:08,318 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.76923751831055
+[2022-12-06 10:31:08,340 segment-fps-new-miou.py:583 test] ===> mAP 10.310
+[2022-12-06 10:31:08,393 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.83284759521484
+[2022-12-06 10:31:08,419 segment-fps-new-miou.py:583 test] ===> mAP 10.320
+[2022-12-06 10:31:08,479 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.94194793701172
+[2022-12-06 10:31:08,503 segment-fps-new-miou.py:583 test] ===> mAP 10.330
+[2022-12-06 10:31:08,572 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.95863723754883
+[2022-12-06 10:31:08,605 segment-fps-new-miou.py:583 test] ===> mAP 10.330
+[2022-12-06 10:31:08,665 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.82340621948242
+[2022-12-06 10:31:08,692 segment-fps-new-miou.py:583 test] ===> mAP 10.340
+[2022-12-06 10:31:08,762 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.661376953125
+[2022-12-06 10:31:08,786 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:08,844 segment-fps-new-miou.py:566 test] Loss:0,Acc:97.26357460021973
+[2022-12-06 10:31:08,871 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:08,941 segment-fps-new-miou.py:566 test] Loss:0,Acc:97.28140830993652
+[2022-12-06 10:31:08,964 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:09,036 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.21295928955078
+[2022-12-06 10:31:09,067 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:09,128 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.2287425994873
+[2022-12-06 10:31:09,152 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,228 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.11604309082031
+[2022-12-06 10:31:09,250 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,304 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.39871215820312
+[2022-12-06 10:31:09,328 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,400 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.43004035949707
+[2022-12-06 10:31:09,422 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,488 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.34549713134766
+[2022-12-06 10:31:09,488 segment-fps-new-miou.py:570 test] Average Acc:   96.53651854571174   Average Size:    0.0        in time:  33
+[2022-12-06 10:31:09,517 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,582 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.88232040405273
+[2022-12-06 10:31:09,606 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,606 segment-fps-new-miou.py:587 test] 578/599:miou-10.37005127640242
+[2022-12-06 10:31:09,698 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.05159759521484
+[2022-12-06 10:31:09,723 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,791 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.17633819580078
+[2022-12-06 10:31:09,818 segment-fps-new-miou.py:583 test] ===> mAP 10.370
+[2022-12-06 10:31:09,887 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.66354751586914
+[2022-12-06 10:31:09,910 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:09,974 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.30234336853027
+[2022-12-06 10:31:09,999 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:10,064 segment-fps-new-miou.py:566 test] Loss:0,Acc:96.1855411529541
+[2022-12-06 10:31:10,086 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:10,152 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.47624588012695
+[2022-12-06 10:31:10,219 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:10,284 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.64108848571777
+[2022-12-06 10:31:10,307 segment-fps-new-miou.py:583 test] ===> mAP 10.360
+[2022-12-06 10:31:10,372 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.2448844909668
+[2022-12-06 10:31:10,394 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,453 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.76210975646973
+[2022-12-06 10:31:10,478 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,541 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.98250389099121
+[2022-12-06 10:31:10,563 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,625 segment-fps-new-miou.py:566 test] Loss:0,Acc:94.93269920349121
+[2022-12-06 10:31:10,646 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,707 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.38393020629883
+[2022-12-06 10:31:10,730 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,791 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.611572265625
+[2022-12-06 10:31:10,812 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,868 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.75772285461426
+[2022-12-06 10:31:10,893 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:10,955 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.91436386108398
+[2022-12-06 10:31:10,977 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:11,041 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.48916816711426
+[2022-12-06 10:31:11,041 segment-fps-new-miou.py:570 test] Average Acc:   95.67399866440716   Average Size:    0.0        in time:  34
+[2022-12-06 10:31:11,062 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:11,121 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.8134651184082
+[2022-12-06 10:31:11,142 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:11,143 segment-fps-new-miou.py:587 test] 595/599:miou-10.348210322524633
+[2022-12-06 10:31:11,201 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.36371231079102
+[2022-12-06 10:31:11,222 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:11,276 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.63865661621094
+[2022-12-06 10:31:11,301 segment-fps-new-miou.py:583 test] ===> mAP 10.350
+[2022-12-06 10:31:11,367 segment-fps-new-miou.py:566 test] Loss:0,Acc:95.07565498352051
+[2022-12-06 10:31:11,387 segment-fps-new-miou.py:583 test] ===> mAP 10.340
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:614 test] 76.857 16.173 41.179 0.307 0.126 1.789 0.300 1.185 22.034 0.163 16.577 3.650 0.085 11.682 3.858 0.335 0.013 0.000 0.208
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>0:      mIou:  76.86
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>1:      mIou:  16.17
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>2:      mIou:  41.18
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>3:      mIou:  0.31
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>4:      mIou:  0.13
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>5:      mIou:  1.79
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>6:      mIou:  0.3
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>7:      mIou:  1.18
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>8:      mIou:  22.03
+[2022-12-06 10:31:11,425 segment-fps-new-miou.py:617 test] ==>9:      mIou:  0.16
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>10:      mIou:  16.58
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>11:      mIou:  3.65
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>12:      mIou:  0.08
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>13:      mIou:  11.68
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>14:      mIou:  3.86
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>15:      mIou:  0.33
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>16:      mIou:  0.01
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>17:      mIou:  0.0
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:617 test] ==>18:      mIou:  0.21
+[2022-12-06 10:31:11,426 segment-fps-new-miou.py:619 test] mIou:10.34
+[2022-12-06 10:31:11,484 segment-fps-new-miou.py:772 test_seg] mAP: 10.340000
