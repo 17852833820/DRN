@@ -1,0 +1,1799 @@
+[2022-11-10 21:33:03,611 jpeg-test.py:577 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, jpeg_size size:174.9482421875
+[2022-11-10 21:33:03,612 jpeg-test.py:579 test] Acc_jpeg:96.40555381774902
+[2022-11-10 21:33:03,634 jpeg-test.py:588 test] ===> mAP 50.720
+[2022-11-10 21:33:04,897 jpeg-test.py:577 test] Frame id :2, Row size:2273.181640625 KB, Type: I, Offloading:True, jpeg_size size:174.8662109375
+[2022-11-10 21:33:04,897 jpeg-test.py:579 test] Acc_jpeg:96.21024131774902
+[2022-11-10 21:33:04,924 jpeg-test.py:588 test] ===> mAP 53.250
+[2022-11-10 21:33:06,177 jpeg-test.py:577 test] Frame id :3, Row size:2276.7080078125 KB, Type: I, Offloading:True, jpeg_size size:174.7041015625
+[2022-11-10 21:33:06,177 jpeg-test.py:579 test] Acc_jpeg:96.84305191040039
+[2022-11-10 21:33:06,199 jpeg-test.py:588 test] ===> mAP 53.030
+[2022-11-10 21:33:07,444 jpeg-test.py:577 test] Frame id :4, Row size:2276.595703125 KB, Type: I, Offloading:True, jpeg_size size:174.640625
+[2022-11-10 21:33:07,444 jpeg-test.py:579 test] Acc_jpeg:95.71919441223145
+[2022-11-10 21:33:07,469 jpeg-test.py:588 test] ===> mAP 53.910
+[2022-11-10 21:33:08,702 jpeg-test.py:577 test] Frame id :5, Row size:2290.3095703125 KB, Type: I, Offloading:True, jpeg_size size:176.47265625
+[2022-11-10 21:33:08,702 jpeg-test.py:579 test] Acc_jpeg:96.36878967285156
+[2022-11-10 21:33:08,724 jpeg-test.py:588 test] ===> mAP 53.720
+[2022-11-10 21:33:09,986 jpeg-test.py:577 test] Frame id :6, Row size:2291.4619140625 KB, Type: I, Offloading:True, jpeg_size size:176.49609375
+[2022-11-10 21:33:09,986 jpeg-test.py:579 test] Acc_jpeg:95.33376693725586
+[2022-11-10 21:33:10,009 jpeg-test.py:588 test] ===> mAP 53.560
+[2022-11-10 21:33:11,220 jpeg-test.py:577 test] Frame id :7, Row size:2297.642578125 KB, Type: I, Offloading:True, jpeg_size size:177.7744140625
+[2022-11-10 21:33:11,220 jpeg-test.py:579 test] Acc_jpeg:95.8472728729248
+[2022-11-10 21:33:11,241 jpeg-test.py:588 test] ===> mAP 53.420
+[2022-11-10 21:33:12,450 jpeg-test.py:577 test] Frame id :8, Row size:2293.201171875 KB, Type: I, Offloading:True, jpeg_size size:177.330078125
+[2022-11-10 21:33:12,450 jpeg-test.py:579 test] Acc_jpeg:95.51057815551758
+[2022-11-10 21:33:12,473 jpeg-test.py:588 test] ===> mAP 53.940
+[2022-11-10 21:33:13,649 jpeg-test.py:577 test] Frame id :9, Row size:2284.849609375 KB, Type: I, Offloading:True, jpeg_size size:176.7060546875
+[2022-11-10 21:33:13,650 jpeg-test.py:579 test] Acc_jpeg:95.13568878173828
+[2022-11-10 21:33:13,672 jpeg-test.py:588 test] ===> mAP 54.470
+[2022-11-10 21:33:14,907 jpeg-test.py:577 test] Frame id :10, Row size:2280.3447265625 KB, Type: I, Offloading:True, jpeg_size size:176.0927734375
+[2022-11-10 21:33:14,907 jpeg-test.py:579 test] Acc_jpeg:93.24779510498047
+[2022-11-10 21:33:14,931 jpeg-test.py:588 test] ===> mAP 54.090
+[2022-11-10 21:33:16,163 jpeg-test.py:577 test] Frame id :11, Row size:2269.49609375 KB, Type: I, Offloading:True, jpeg_size size:174.482421875
+[2022-11-10 21:33:16,164 jpeg-test.py:579 test] Acc_jpeg:94.63090896606445
+[2022-11-10 21:33:16,185 jpeg-test.py:588 test] ===> mAP 51.130
+[2022-11-10 21:33:17,399 jpeg-test.py:577 test] Frame id :12, Row size:2260.5615234375 KB, Type: I, Offloading:True, jpeg_size size:173.505859375
+[2022-11-10 21:33:17,399 jpeg-test.py:579 test] Acc_jpeg:94.20857429504395
+[2022-11-10 21:33:17,421 jpeg-test.py:588 test] ===> mAP 50.900
+[2022-11-10 21:33:18,620 jpeg-test.py:577 test] Frame id :13, Row size:2257.341796875 KB, Type: I, Offloading:True, jpeg_size size:172.8173828125
+[2022-11-10 21:33:18,620 jpeg-test.py:579 test] Acc_jpeg:93.75519752502441
+[2022-11-10 21:33:18,640 jpeg-test.py:588 test] ===> mAP 50.910
+[2022-11-10 21:33:19,920 jpeg-test.py:577 test] Frame id :14, Row size:2261.484375 KB, Type: I, Offloading:True, jpeg_size size:173.9130859375
+[2022-11-10 21:33:19,920 jpeg-test.py:579 test] Acc_jpeg:94.37093734741211
+[2022-11-10 21:33:19,943 jpeg-test.py:588 test] ===> mAP 51.070
+[2022-11-10 21:33:21,147 jpeg-test.py:577 test] Frame id :15, Row size:2265.88671875 KB, Type: I, Offloading:True, jpeg_size size:174.466796875
+[2022-11-10 21:33:21,147 jpeg-test.py:579 test] Acc_jpeg:94.58832740783691
+[2022-11-10 21:33:21,169 jpeg-test.py:588 test] ===> mAP 51.130
+[2022-11-10 21:33:22,389 jpeg-test.py:577 test] Frame id :16, Row size:2269.6494140625 KB, Type: I, Offloading:True, jpeg_size size:174.8701171875
+[2022-11-10 21:33:22,389 jpeg-test.py:579 test] Acc_jpeg:94.47641372680664
+[2022-11-10 21:33:22,411 jpeg-test.py:588 test] ===> mAP 51.210
+[2022-11-10 21:33:23,629 jpeg-test.py:577 test] Frame id :17, Row size:2271.9794921875 KB, Type: I, Offloading:True, jpeg_size size:174.802734375
+[2022-11-10 21:33:23,630 jpeg-test.py:579 test] Acc_jpeg:94.03667449951172
+[2022-11-10 21:33:23,653 jpeg-test.py:588 test] ===> mAP 51.320
+[2022-11-10 21:33:24,902 jpeg-test.py:577 test] Frame id :18, Row size:2274.3623046875 KB, Type: I, Offloading:True, jpeg_size size:175.666015625
+[2022-11-10 21:33:24,902 jpeg-test.py:579 test] Acc_jpeg:94.63067054748535
+[2022-11-10 21:33:24,924 jpeg-test.py:588 test] ===> mAP 51.390
+[2022-11-10 21:33:26,169 jpeg-test.py:577 test] Frame id :19, Row size:2277.9755859375 KB, Type: I, Offloading:True, jpeg_size size:176.3623046875
+[2022-11-10 21:33:26,170 jpeg-test.py:579 test] Acc_jpeg:96.48537635803223
+[2022-11-10 21:33:26,192 jpeg-test.py:588 test] ===> mAP 51.640
+[2022-11-10 21:33:27,414 jpeg-test.py:577 test] Frame id :20, Row size:2280.1171875 KB, Type: I, Offloading:True, jpeg_size size:176.859375
+[2022-11-10 21:33:27,414 jpeg-test.py:579 test] Acc_jpeg:94.81992721557617
+[2022-11-10 21:33:27,436 jpeg-test.py:588 test] ===> mAP 51.520
+[2022-11-10 21:33:28,667 jpeg-test.py:577 test] Frame id :21, Row size:2281.0498046875 KB, Type: I, Offloading:True, jpeg_size size:177.2607421875
+[2022-11-10 21:33:28,667 jpeg-test.py:579 test] Acc_jpeg:95.17064094543457
+[2022-11-10 21:33:28,690 jpeg-test.py:588 test] ===> mAP 51.550
+[2022-11-10 21:33:29,927 jpeg-test.py:577 test] Frame id :22, Row size:2282.19921875 KB, Type: I, Offloading:True, jpeg_size size:177.076171875
+[2022-11-10 21:33:29,927 jpeg-test.py:579 test] Acc_jpeg:94.93961334228516
+[2022-11-10 21:33:29,950 jpeg-test.py:588 test] ===> mAP 51.540
+[2022-11-10 21:33:31,165 jpeg-test.py:577 test] Frame id :23, Row size:2281.236328125 KB, Type: I, Offloading:True, jpeg_size size:176.603515625
+[2022-11-10 21:33:31,165 jpeg-test.py:579 test] Acc_jpeg:95.47200202941895
+[2022-11-10 21:33:31,189 jpeg-test.py:588 test] ===> mAP 51.610
+[2022-11-10 21:33:32,435 jpeg-test.py:577 test] Frame id :24, Row size:2284.2529296875 KB, Type: I, Offloading:True, jpeg_size size:176.94140625
+[2022-11-10 21:33:32,435 jpeg-test.py:579 test] Acc_jpeg:96.11306190490723
+[2022-11-10 21:33:32,459 jpeg-test.py:588 test] ===> mAP 51.720
+[2022-11-10 21:33:33,691 jpeg-test.py:577 test] Frame id :25, Row size:2283.9072265625 KB, Type: I, Offloading:True, jpeg_size size:176.728515625
+[2022-11-10 21:33:33,691 jpeg-test.py:579 test] Acc_jpeg:96.26917839050293
+[2022-11-10 21:33:33,712 jpeg-test.py:588 test] ===> mAP 51.820
+[2022-11-10 21:33:34,939 jpeg-test.py:577 test] Frame id :26, Row size:2284.1142578125 KB, Type: I, Offloading:True, jpeg_size size:176.849609375
+[2022-11-10 21:33:34,939 jpeg-test.py:579 test] Acc_jpeg:96.66318893432617
+[2022-11-10 21:33:34,962 jpeg-test.py:588 test] ===> mAP 51.860
+[2022-11-10 21:33:36,217 jpeg-test.py:577 test] Frame id :27, Row size:2285.4912109375 KB, Type: I, Offloading:True, jpeg_size size:177.1669921875
+[2022-11-10 21:33:36,217 jpeg-test.py:579 test] Acc_jpeg:96.10762596130371
+[2022-11-10 21:33:36,239 jpeg-test.py:588 test] ===> mAP 51.860
+[2022-11-10 21:33:37,452 jpeg-test.py:577 test] Frame id :28, Row size:2289.130859375 KB, Type: I, Offloading:True, jpeg_size size:177.3740234375
+[2022-11-10 21:33:37,453 jpeg-test.py:579 test] Acc_jpeg:95.99714279174805
+[2022-11-10 21:33:37,476 jpeg-test.py:588 test] ===> mAP 51.810
+[2022-11-10 21:33:38,711 jpeg-test.py:577 test] Frame id :29, Row size:2289.142578125 KB, Type: I, Offloading:True, jpeg_size size:177.380859375
+[2022-11-10 21:33:38,711 jpeg-test.py:579 test] Acc_jpeg:95.55325508117676
+[2022-11-10 21:33:38,734 jpeg-test.py:588 test] ===> mAP 51.740
+[2022-11-10 21:33:39,967 jpeg-test.py:577 test] Frame id :30, Row size:2290.3759765625 KB, Type: I, Offloading:True, jpeg_size size:177.6201171875
+[2022-11-10 21:33:39,968 jpeg-test.py:579 test] Acc_jpeg:96.04825973510742
+[2022-11-10 21:33:39,989 jpeg-test.py:588 test] ===> mAP 52.050
+[2022-11-10 21:33:41,198 jpeg-test.py:577 test] Frame id :31, Row size:2289.8623046875 KB, Type: I, Offloading:True, jpeg_size size:178.013671875
+[2022-11-10 21:33:41,198 jpeg-test.py:579 test] Acc_jpeg:96.1430549621582
+[2022-11-10 21:33:41,218 jpeg-test.py:588 test] ===> mAP 52.020
+[2022-11-10 21:33:42,433 jpeg-test.py:577 test] Frame id :32, Row size:2292.72265625 KB, Type: I, Offloading:True, jpeg_size size:178.1865234375
+[2022-11-10 21:33:42,433 jpeg-test.py:579 test] Acc_jpeg:95.80755233764648
+[2022-11-10 21:33:42,453 jpeg-test.py:588 test] ===> mAP 51.960
+[2022-11-10 21:33:43,679 jpeg-test.py:577 test] Frame id :33, Row size:2292.107421875 KB, Type: I, Offloading:True, jpeg_size size:178.5869140625
+[2022-11-10 21:33:43,680 jpeg-test.py:579 test] Acc_jpeg:96.76003456115723
+[2022-11-10 21:33:43,701 jpeg-test.py:588 test] ===> mAP 52.040
+[2022-11-10 21:33:44,917 jpeg-test.py:577 test] Frame id :34, Row size:2292.8076171875 KB, Type: I, Offloading:True, jpeg_size size:178.5703125
+[2022-11-10 21:33:44,917 jpeg-test.py:579 test] Acc_jpeg:96.04787826538086
+[2022-11-10 21:33:44,944 jpeg-test.py:588 test] ===> mAP 52.120
+[2022-11-10 21:33:46,174 jpeg-test.py:577 test] Frame id :35, Row size:2295.7041015625 KB, Type: I, Offloading:True, jpeg_size size:178.5615234375
+[2022-11-10 21:33:46,175 jpeg-test.py:579 test] Acc_jpeg:97.05891609191895
+[2022-11-10 21:33:46,196 jpeg-test.py:588 test] ===> mAP 52.210
+[2022-11-10 21:33:47,392 jpeg-test.py:577 test] Frame id :36, Row size:2295.853515625 KB, Type: I, Offloading:True, jpeg_size size:178.6806640625
+[2022-11-10 21:33:47,392 jpeg-test.py:579 test] Acc_jpeg:96.05355262756348
+[2022-11-10 21:33:47,415 jpeg-test.py:588 test] ===> mAP 52.250
+[2022-11-10 21:33:48,645 jpeg-test.py:577 test] Frame id :37, Row size:2294.05859375 KB, Type: I, Offloading:True, jpeg_size size:178.3251953125
+[2022-11-10 21:33:48,645 jpeg-test.py:579 test] Acc_jpeg:95.87278366088867
+[2022-11-10 21:33:48,666 jpeg-test.py:588 test] ===> mAP 52.220
+[2022-11-10 21:33:49,876 jpeg-test.py:577 test] Frame id :38, Row size:2294.890625 KB, Type: I, Offloading:True, jpeg_size size:178.466796875
+[2022-11-10 21:33:49,877 jpeg-test.py:579 test] Acc_jpeg:96.12455368041992
+[2022-11-10 21:33:49,898 jpeg-test.py:588 test] ===> mAP 52.240
+[2022-11-10 21:33:51,128 jpeg-test.py:577 test] Frame id :39, Row size:2294.947265625 KB, Type: I, Offloading:True, jpeg_size size:178.5498046875
+[2022-11-10 21:33:51,128 jpeg-test.py:579 test] Acc_jpeg:95.81260681152344
+[2022-11-10 21:33:51,152 jpeg-test.py:588 test] ===> mAP 52.250
+[2022-11-10 21:33:52,372 jpeg-test.py:577 test] Frame id :40, Row size:2294.8857421875 KB, Type: I, Offloading:True, jpeg_size size:178.291015625
+[2022-11-10 21:33:52,373 jpeg-test.py:579 test] Acc_jpeg:95.54781913757324
+[2022-11-10 21:33:52,394 jpeg-test.py:588 test] ===> mAP 52.240
+[2022-11-10 21:33:53,616 jpeg-test.py:577 test] Frame id :41, Row size:2295.38671875 KB, Type: I, Offloading:True, jpeg_size size:178.08984375
+[2022-11-10 21:33:53,616 jpeg-test.py:579 test] Acc_jpeg:95.80059051513672
+[2022-11-10 21:33:53,638 jpeg-test.py:588 test] ===> mAP 52.190
+[2022-11-10 21:33:54,879 jpeg-test.py:577 test] Frame id :42, Row size:2296.4921875 KB, Type: I, Offloading:True, jpeg_size size:177.83984375
+[2022-11-10 21:33:54,879 jpeg-test.py:579 test] Acc_jpeg:96.10614776611328
+[2022-11-10 21:33:54,901 jpeg-test.py:588 test] ===> mAP 52.200
+[2022-11-10 21:33:56,142 jpeg-test.py:577 test] Frame id :43, Row size:2297.8916015625 KB, Type: I, Offloading:True, jpeg_size size:178.345703125
+[2022-11-10 21:33:56,142 jpeg-test.py:579 test] Acc_jpeg:95.7815170288086
+[2022-11-10 21:33:56,164 jpeg-test.py:588 test] ===> mAP 52.150
+[2022-11-10 21:33:57,380 jpeg-test.py:577 test] Frame id :44, Row size:2301.1767578125 KB, Type: I, Offloading:True, jpeg_size size:177.919921875
+[2022-11-10 21:33:57,380 jpeg-test.py:579 test] Acc_jpeg:95.79453468322754
+[2022-11-10 21:33:57,401 jpeg-test.py:588 test] ===> mAP 52.150
+[2022-11-10 21:33:58,637 jpeg-test.py:577 test] Frame id :45, Row size:2303.357421875 KB, Type: I, Offloading:True, jpeg_size size:178.3671875
+[2022-11-10 21:33:58,638 jpeg-test.py:579 test] Acc_jpeg:95.44448852539062
+[2022-11-10 21:33:58,660 jpeg-test.py:588 test] ===> mAP 52.210
+[2022-11-10 21:33:59,892 jpeg-test.py:577 test] Frame id :46, Row size:2306.7802734375 KB, Type: I, Offloading:True, jpeg_size size:178.27734375
+[2022-11-10 21:33:59,892 jpeg-test.py:579 test] Acc_jpeg:95.58906555175781
+[2022-11-10 21:33:59,914 jpeg-test.py:588 test] ===> mAP 52.200
+[2022-11-10 21:34:01,138 jpeg-test.py:577 test] Frame id :47, Row size:2307.8212890625 KB, Type: I, Offloading:True, jpeg_size size:178.77734375
+[2022-11-10 21:34:01,138 jpeg-test.py:579 test] Acc_jpeg:94.4612979888916
+[2022-11-10 21:34:01,162 jpeg-test.py:588 test] ===> mAP 52.170
+[2022-11-10 21:34:02,412 jpeg-test.py:577 test] Frame id :48, Row size:2306.564453125 KB, Type: I, Offloading:True, jpeg_size size:179.1640625
+[2022-11-10 21:34:02,412 jpeg-test.py:579 test] Acc_jpeg:94.50244903564453
+[2022-11-10 21:34:02,434 jpeg-test.py:588 test] ===> mAP 52.130
+[2022-11-10 21:34:03,673 jpeg-test.py:577 test] Frame id :49, Row size:2307.111328125 KB, Type: I, Offloading:True, jpeg_size size:179.142578125
+[2022-11-10 21:34:03,674 jpeg-test.py:579 test] Acc_jpeg:94.4051742553711
+[2022-11-10 21:34:03,695 jpeg-test.py:588 test] ===> mAP 52.110
+[2022-11-10 21:34:04,933 jpeg-test.py:577 test] Frame id :50, Row size:2304.048828125 KB, Type: I, Offloading:True, jpeg_size size:178.818359375
+[2022-11-10 21:34:04,933 jpeg-test.py:579 test] Acc_jpeg:95.23344039916992
+[2022-11-10 21:34:04,954 jpeg-test.py:588 test] ===> mAP 52.150
+[2022-11-10 21:34:06,206 jpeg-test.py:577 test] Frame id :51, Row size:2299.2353515625 KB, Type: I, Offloading:True, jpeg_size size:178.359375
+[2022-11-10 21:34:06,206 jpeg-test.py:579 test] Acc_jpeg:95.02911567687988
+[2022-11-10 21:34:06,230 jpeg-test.py:588 test] ===> mAP 52.160
+[2022-11-10 21:34:07,430 jpeg-test.py:577 test] Frame id :52, Row size:2301.1669921875 KB, Type: I, Offloading:True, jpeg_size size:178.5126953125
+[2022-11-10 21:34:07,431 jpeg-test.py:579 test] Acc_jpeg:94.71826553344727
+[2022-11-10 21:34:07,451 jpeg-test.py:588 test] ===> mAP 52.250
+[2022-11-10 21:34:08,646 jpeg-test.py:577 test] Frame id :53, Row size:2304.51171875 KB, Type: I, Offloading:True, jpeg_size size:178.720703125
+[2022-11-10 21:34:08,646 jpeg-test.py:579 test] Acc_jpeg:95.58863639831543
+[2022-11-10 21:34:08,667 jpeg-test.py:588 test] ===> mAP 52.310
+[2022-11-10 21:34:09,881 jpeg-test.py:577 test] Frame id :54, Row size:2309.451171875 KB, Type: I, Offloading:True, jpeg_size size:178.845703125
+[2022-11-10 21:34:09,881 jpeg-test.py:579 test] Acc_jpeg:94.81978416442871
+[2022-11-10 21:34:09,903 jpeg-test.py:588 test] ===> mAP 52.340
+[2022-11-10 21:34:11,104 jpeg-test.py:577 test] Frame id :55, Row size:2308.65234375 KB, Type: I, Offloading:True, jpeg_size size:178.62890625
+[2022-11-10 21:34:11,104 jpeg-test.py:579 test] Acc_jpeg:95.4500675201416
+[2022-11-10 21:34:11,125 jpeg-test.py:588 test] ===> mAP 52.470
+[2022-11-10 21:34:12,355 jpeg-test.py:577 test] Frame id :56, Row size:2308.234375 KB, Type: I, Offloading:True, jpeg_size size:178.5380859375
+[2022-11-10 21:34:12,355 jpeg-test.py:579 test] Acc_jpeg:93.8234806060791
+[2022-11-10 21:34:12,377 jpeg-test.py:588 test] ===> mAP 52.620
+[2022-11-10 21:34:13,587 jpeg-test.py:577 test] Frame id :57, Row size:2307.783203125 KB, Type: I, Offloading:True, jpeg_size size:177.95703125
+[2022-11-10 21:34:13,588 jpeg-test.py:579 test] Acc_jpeg:94.8369026184082
+[2022-11-10 21:34:13,612 jpeg-test.py:588 test] ===> mAP 52.660
+[2022-11-10 21:34:14,830 jpeg-test.py:577 test] Frame id :58, Row size:2305.0048828125 KB, Type: I, Offloading:True, jpeg_size size:177.7001953125
+[2022-11-10 21:34:14,830 jpeg-test.py:579 test] Acc_jpeg:94.25745010375977
+[2022-11-10 21:34:14,854 jpeg-test.py:588 test] ===> mAP 52.750
+[2022-11-10 21:34:16,127 jpeg-test.py:577 test] Frame id :59, Row size:2300.306640625 KB, Type: I, Offloading:True, jpeg_size size:177.1728515625
+[2022-11-10 21:34:16,127 jpeg-test.py:579 test] Acc_jpeg:93.58067512512207
+[2022-11-10 21:34:16,149 jpeg-test.py:588 test] ===> mAP 52.790
+[2022-11-10 21:34:17,398 jpeg-test.py:577 test] Frame id :60, Row size:2301.0166015625 KB, Type: I, Offloading:True, jpeg_size size:176.8955078125
+[2022-11-10 21:34:17,398 jpeg-test.py:579 test] Acc_jpeg:92.67549514770508
+[2022-11-10 21:34:17,421 jpeg-test.py:588 test] ===> mAP 52.780
+[2022-11-10 21:34:18,672 jpeg-test.py:577 test] Frame id :61, Row size:2298.8388671875 KB, Type: I, Offloading:True, jpeg_size size:176.49609375
+[2022-11-10 21:34:18,673 jpeg-test.py:579 test] Acc_jpeg:93.37091445922852
+[2022-11-10 21:34:18,694 jpeg-test.py:588 test] ===> mAP 53.020
+[2022-11-10 21:34:19,898 jpeg-test.py:577 test] Frame id :62, Row size:2303.14453125 KB, Type: I, Offloading:True, jpeg_size size:176.3408203125
+[2022-11-10 21:34:19,898 jpeg-test.py:579 test] Acc_jpeg:92.68078804016113
+[2022-11-10 21:34:19,919 jpeg-test.py:588 test] ===> mAP 53.270
+[2022-11-10 21:34:21,136 jpeg-test.py:577 test] Frame id :63, Row size:2297.7265625 KB, Type: I, Offloading:True, jpeg_size size:175.7802734375
+[2022-11-10 21:34:21,136 jpeg-test.py:579 test] Acc_jpeg:94.10672187805176
+[2022-11-10 21:34:21,158 jpeg-test.py:588 test] ===> mAP 53.300
+[2022-11-10 21:34:22,365 jpeg-test.py:577 test] Frame id :64, Row size:2296.330078125 KB, Type: I, Offloading:True, jpeg_size size:175.2734375
+[2022-11-10 21:34:22,365 jpeg-test.py:579 test] Acc_jpeg:93.55196952819824
+[2022-11-10 21:34:22,385 jpeg-test.py:588 test] ===> mAP 53.290
+[2022-11-10 21:34:23,589 jpeg-test.py:577 test] Frame id :65, Row size:2292.83203125 KB, Type: I, Offloading:True, jpeg_size size:174.7353515625
+[2022-11-10 21:34:23,589 jpeg-test.py:579 test] Acc_jpeg:95.37229537963867
+[2022-11-10 21:34:23,610 jpeg-test.py:588 test] ===> mAP 53.330
+[2022-11-10 21:34:24,813 jpeg-test.py:577 test] Frame id :66, Row size:2292.1533203125 KB, Type: I, Offloading:True, jpeg_size size:174.142578125
+[2022-11-10 21:34:24,814 jpeg-test.py:579 test] Acc_jpeg:93.79687309265137
+[2022-11-10 21:34:24,834 jpeg-test.py:588 test] ===> mAP 53.360
+[2022-11-10 21:34:26,038 jpeg-test.py:577 test] Frame id :67, Row size:2288.50390625 KB, Type: I, Offloading:True, jpeg_size size:173.4697265625
+[2022-11-10 21:34:26,038 jpeg-test.py:579 test] Acc_jpeg:93.29977035522461
+[2022-11-10 21:34:26,058 jpeg-test.py:588 test] ===> mAP 53.360
+[2022-11-10 21:34:27,311 jpeg-test.py:577 test] Frame id :68, Row size:2288.673828125 KB, Type: I, Offloading:True, jpeg_size size:173.56640625
+[2022-11-10 21:34:27,312 jpeg-test.py:579 test] Acc_jpeg:95.12820243835449
+[2022-11-10 21:34:27,336 jpeg-test.py:588 test] ===> mAP 53.410
+[2022-11-10 21:34:28,563 jpeg-test.py:577 test] Frame id :69, Row size:2285.826171875 KB, Type: I, Offloading:True, jpeg_size size:173.4853515625
+[2022-11-10 21:34:28,563 jpeg-test.py:579 test] Acc_jpeg:95.48778533935547
+[2022-11-10 21:34:28,583 jpeg-test.py:588 test] ===> mAP 53.410
+[2022-11-10 21:34:29,789 jpeg-test.py:577 test] Frame id :70, Row size:2284.7861328125 KB, Type: I, Offloading:True, jpeg_size size:173.3857421875
+[2022-11-10 21:34:29,789 jpeg-test.py:579 test] Acc_jpeg:94.7652816772461
+[2022-11-10 21:34:29,811 jpeg-test.py:588 test] ===> mAP 53.420
+[2022-11-10 21:34:31,067 jpeg-test.py:577 test] Frame id :71, Row size:2281.95703125 KB, Type: I, Offloading:True, jpeg_size size:173.4716796875
+[2022-11-10 21:34:31,067 jpeg-test.py:579 test] Acc_jpeg:94.68660354614258
+[2022-11-10 21:34:31,089 jpeg-test.py:588 test] ===> mAP 53.410
+[2022-11-10 21:34:32,315 jpeg-test.py:577 test] Frame id :72, Row size:2278.462890625 KB, Type: I, Offloading:True, jpeg_size size:173.5400390625
+[2022-11-10 21:34:32,315 jpeg-test.py:579 test] Acc_jpeg:95.58525085449219
+[2022-11-10 21:34:32,337 jpeg-test.py:588 test] ===> mAP 53.490
+[2022-11-10 21:34:33,559 jpeg-test.py:577 test] Frame id :73, Row size:2277.2578125 KB, Type: I, Offloading:True, jpeg_size size:173.982421875
+[2022-11-10 21:34:33,560 jpeg-test.py:579 test] Acc_jpeg:95.02120018005371
+[2022-11-10 21:34:33,581 jpeg-test.py:588 test] ===> mAP 53.500
+[2022-11-10 21:34:34,830 jpeg-test.py:577 test] Frame id :74, Row size:2277.8515625 KB, Type: I, Offloading:True, jpeg_size size:174.0595703125
+[2022-11-10 21:34:34,830 jpeg-test.py:579 test] Acc_jpeg:95.38102149963379
+[2022-11-10 21:34:34,854 jpeg-test.py:588 test] ===> mAP 53.610
+[2022-11-10 21:34:36,121 jpeg-test.py:577 test] Frame id :75, Row size:2276.662109375 KB, Type: I, Offloading:True, jpeg_size size:173.9697265625
+[2022-11-10 21:34:36,121 jpeg-test.py:579 test] Acc_jpeg:94.94342803955078
+[2022-11-10 21:34:36,144 jpeg-test.py:588 test] ===> mAP 53.600
+[2022-11-10 21:34:37,365 jpeg-test.py:577 test] Frame id :76, Row size:2273.2412109375 KB, Type: I, Offloading:True, jpeg_size size:174.013671875
+[2022-11-10 21:34:37,365 jpeg-test.py:579 test] Acc_jpeg:94.75421905517578
+[2022-11-10 21:34:37,388 jpeg-test.py:588 test] ===> mAP 53.600
+[2022-11-10 21:34:38,668 jpeg-test.py:577 test] Frame id :77, Row size:2270.3359375 KB, Type: I, Offloading:True, jpeg_size size:173.9716796875
+[2022-11-10 21:34:38,669 jpeg-test.py:579 test] Acc_jpeg:95.79606056213379
+[2022-11-10 21:34:38,692 jpeg-test.py:588 test] ===> mAP 53.650
+[2022-11-10 21:34:39,888 jpeg-test.py:577 test] Frame id :78, Row size:2266.8076171875 KB, Type: I, Offloading:True, jpeg_size size:173.7744140625
+[2022-11-10 21:34:39,888 jpeg-test.py:579 test] Acc_jpeg:96.20537757873535
+[2022-11-10 21:34:39,913 jpeg-test.py:588 test] ===> mAP 53.690
+[2022-11-10 21:34:41,144 jpeg-test.py:577 test] Frame id :79, Row size:2265.6435546875 KB, Type: I, Offloading:True, jpeg_size size:174.3017578125
+[2022-11-10 21:34:41,144 jpeg-test.py:579 test] Acc_jpeg:96.44851684570312
+[2022-11-10 21:34:41,165 jpeg-test.py:588 test] ===> mAP 53.720
+[2022-11-10 21:34:42,428 jpeg-test.py:577 test] Frame id :80, Row size:2267.1240234375 KB, Type: I, Offloading:True, jpeg_size size:174.1337890625
+[2022-11-10 21:34:42,428 jpeg-test.py:579 test] Acc_jpeg:96.49453163146973
+[2022-11-10 21:34:42,450 jpeg-test.py:588 test] ===> mAP 53.720
+[2022-11-10 21:34:43,645 jpeg-test.py:577 test] Frame id :81, Row size:2265.40625 KB, Type: I, Offloading:True, jpeg_size size:174.5419921875
+[2022-11-10 21:34:43,645 jpeg-test.py:579 test] Acc_jpeg:96.72584533691406
+[2022-11-10 21:34:43,665 jpeg-test.py:588 test] ===> mAP 53.740
+[2022-11-10 21:34:44,883 jpeg-test.py:577 test] Frame id :82, Row size:2264.380859375 KB, Type: I, Offloading:True, jpeg_size size:174.923828125
+[2022-11-10 21:34:44,883 jpeg-test.py:579 test] Acc_jpeg:97.12729454040527
+[2022-11-10 21:34:44,904 jpeg-test.py:588 test] ===> mAP 53.740
+[2022-11-10 21:34:46,105 jpeg-test.py:577 test] Frame id :83, Row size:2263.7119140625 KB, Type: I, Offloading:True, jpeg_size size:175.009765625
+[2022-11-10 21:34:46,105 jpeg-test.py:579 test] Acc_jpeg:96.84224128723145
+[2022-11-10 21:34:46,126 jpeg-test.py:588 test] ===> mAP 53.800
+[2022-11-10 21:34:47,382 jpeg-test.py:577 test] Frame id :84, Row size:2263.8662109375 KB, Type: I, Offloading:True, jpeg_size size:174.962890625
+[2022-11-10 21:34:47,382 jpeg-test.py:579 test] Acc_jpeg:95.74389457702637
+[2022-11-10 21:34:47,404 jpeg-test.py:588 test] ===> mAP 53.800
+[2022-11-10 21:34:48,645 jpeg-test.py:577 test] Frame id :85, Row size:2263.322265625 KB, Type: I, Offloading:True, jpeg_size size:174.8125
+[2022-11-10 21:34:48,645 jpeg-test.py:579 test] Acc_jpeg:96.6771125793457
+[2022-11-10 21:34:48,668 jpeg-test.py:588 test] ===> mAP 53.810
+[2022-11-10 21:34:49,914 jpeg-test.py:577 test] Frame id :86, Row size:2263.0361328125 KB, Type: I, Offloading:True, jpeg_size size:175.287109375
+[2022-11-10 21:34:49,914 jpeg-test.py:579 test] Acc_jpeg:96.81000709533691
+[2022-11-10 21:34:49,936 jpeg-test.py:588 test] ===> mAP 53.830
+[2022-11-10 21:34:51,150 jpeg-test.py:577 test] Frame id :87, Row size:2265.7578125 KB, Type: I, Offloading:True, jpeg_size size:175.435546875
+[2022-11-10 21:34:51,150 jpeg-test.py:579 test] Acc_jpeg:96.12717628479004
+[2022-11-10 21:34:51,172 jpeg-test.py:588 test] ===> mAP 53.840
+[2022-11-10 21:34:52,393 jpeg-test.py:577 test] Frame id :88, Row size:2266.9814453125 KB, Type: I, Offloading:True, jpeg_size size:175.2294921875
+[2022-11-10 21:34:52,393 jpeg-test.py:579 test] Acc_jpeg:97.06425666809082
+[2022-11-10 21:34:52,415 jpeg-test.py:588 test] ===> mAP 53.850
+[2022-11-10 21:34:53,637 jpeg-test.py:577 test] Frame id :89, Row size:2263.546875 KB, Type: I, Offloading:True, jpeg_size size:175.1923828125
+[2022-11-10 21:34:53,637 jpeg-test.py:579 test] Acc_jpeg:96.94275856018066
+[2022-11-10 21:34:53,660 jpeg-test.py:588 test] ===> mAP 53.870
+[2022-11-10 21:34:54,880 jpeg-test.py:577 test] Frame id :90, Row size:2263.763671875 KB, Type: I, Offloading:True, jpeg_size size:175.21484375
+[2022-11-10 21:34:54,881 jpeg-test.py:579 test] Acc_jpeg:96.76222801208496
+[2022-11-10 21:34:54,902 jpeg-test.py:588 test] ===> mAP 53.960
+[2022-11-10 21:34:56,124 jpeg-test.py:577 test] Frame id :91, Row size:2265.193359375 KB, Type: I, Offloading:True, jpeg_size size:175.40234375
+[2022-11-10 21:34:56,124 jpeg-test.py:579 test] Acc_jpeg:96.52590751647949
+[2022-11-10 21:34:56,145 jpeg-test.py:588 test] ===> mAP 54.020
+[2022-11-10 21:34:57,380 jpeg-test.py:577 test] Frame id :92, Row size:2267.7158203125 KB, Type: I, Offloading:True, jpeg_size size:175.7109375
+[2022-11-10 21:34:57,380 jpeg-test.py:579 test] Acc_jpeg:96.62613868713379
+[2022-11-10 21:34:57,404 jpeg-test.py:588 test] ===> mAP 54.020
+[2022-11-10 21:34:58,654 jpeg-test.py:577 test] Frame id :93, Row size:2267.0576171875 KB, Type: I, Offloading:True, jpeg_size size:176.0126953125
+[2022-11-10 21:34:58,654 jpeg-test.py:579 test] Acc_jpeg:96.86269760131836
+[2022-11-10 21:34:58,677 jpeg-test.py:588 test] ===> mAP 54.020
+[2022-11-10 21:34:59,927 jpeg-test.py:577 test] Frame id :94, Row size:2266.912109375 KB, Type: I, Offloading:True, jpeg_size size:176.1328125
+[2022-11-10 21:34:59,927 jpeg-test.py:579 test] Acc_jpeg:96.32129669189453
+[2022-11-10 21:34:59,950 jpeg-test.py:588 test] ===> mAP 54.020
+[2022-11-10 21:35:01,204 jpeg-test.py:577 test] Frame id :95, Row size:2267.517578125 KB, Type: I, Offloading:True, jpeg_size size:175.9130859375
+[2022-11-10 21:35:01,204 jpeg-test.py:579 test] Acc_jpeg:96.4456558227539
+[2022-11-10 21:35:01,227 jpeg-test.py:588 test] ===> mAP 54.040
+[2022-11-10 21:35:02,479 jpeg-test.py:577 test] Frame id :96, Row size:2266.5673828125 KB, Type: I, Offloading:True, jpeg_size size:176.0703125
+[2022-11-10 21:35:02,480 jpeg-test.py:579 test] Acc_jpeg:96.22650146484375
+[2022-11-10 21:35:02,501 jpeg-test.py:588 test] ===> mAP 54.090
+[2022-11-10 21:35:03,701 jpeg-test.py:577 test] Frame id :97, Row size:2266.603515625 KB, Type: I, Offloading:True, jpeg_size size:176.251953125
+[2022-11-10 21:35:03,701 jpeg-test.py:579 test] Acc_jpeg:96.39458656311035
+[2022-11-10 21:35:03,722 jpeg-test.py:588 test] ===> mAP 54.110
+[2022-11-10 21:35:04,937 jpeg-test.py:577 test] Frame id :98, Row size:2266.7470703125 KB, Type: I, Offloading:True, jpeg_size size:176.4833984375
+[2022-11-10 21:35:04,937 jpeg-test.py:579 test] Acc_jpeg:95.45707702636719
+[2022-11-10 21:35:04,957 jpeg-test.py:588 test] ===> mAP 54.090
+[2022-11-10 21:35:06,190 jpeg-test.py:577 test] Frame id :99, Row size:2267.1923828125 KB, Type: I, Offloading:True, jpeg_size size:176.34765625
+[2022-11-10 21:35:06,190 jpeg-test.py:579 test] Acc_jpeg:95.25766372680664
+[2022-11-10 21:35:06,212 jpeg-test.py:588 test] ===> mAP 54.080
+[2022-11-10 21:35:07,455 jpeg-test.py:577 test] Frame id :100, Row size:2268.8984375 KB, Type: I, Offloading:True, jpeg_size size:177.0498046875
+[2022-11-10 21:35:07,456 jpeg-test.py:579 test] Acc_jpeg:95.67770957946777
+[2022-11-10 21:35:07,478 jpeg-test.py:588 test] ===> mAP 54.050
+[2022-11-10 21:35:08,695 jpeg-test.py:577 test] Frame id :101, Row size:2270.5107421875 KB, Type: I, Offloading:True, jpeg_size size:177.7021484375
+[2022-11-10 21:35:08,696 jpeg-test.py:579 test] Acc_jpeg:94.67482566833496
+[2022-11-10 21:35:08,720 jpeg-test.py:588 test] ===> mAP 54.000
+[2022-11-10 21:35:09,948 jpeg-test.py:577 test] Frame id :102, Row size:2270.8076171875 KB, Type: I, Offloading:True, jpeg_size size:177.509765625
+[2022-11-10 21:35:09,948 jpeg-test.py:579 test] Acc_jpeg:95.93000411987305
+[2022-11-10 21:35:09,972 jpeg-test.py:588 test] ===> mAP 54.000
+[2022-11-10 21:35:11,212 jpeg-test.py:577 test] Frame id :103, Row size:2268.177734375 KB, Type: I, Offloading:True, jpeg_size size:176.8818359375
+[2022-11-10 21:35:11,212 jpeg-test.py:579 test] Acc_jpeg:96.04954719543457
+[2022-11-10 21:35:11,235 jpeg-test.py:588 test] ===> mAP 54.000
+[2022-11-10 21:35:12,448 jpeg-test.py:577 test] Frame id :104, Row size:2265.6962890625 KB, Type: I, Offloading:True, jpeg_size size:176.5927734375
+[2022-11-10 21:35:12,448 jpeg-test.py:579 test] Acc_jpeg:96.4026927947998
+[2022-11-10 21:35:12,471 jpeg-test.py:588 test] ===> mAP 53.960
+[2022-11-10 21:35:13,706 jpeg-test.py:577 test] Frame id :105, Row size:2265.49609375 KB, Type: I, Offloading:True, jpeg_size size:176.42578125
+[2022-11-10 21:35:13,706 jpeg-test.py:579 test] Acc_jpeg:96.45805358886719
+[2022-11-10 21:35:13,729 jpeg-test.py:588 test] ===> mAP 54.000
+[2022-11-10 21:35:14,945 jpeg-test.py:577 test] Frame id :106, Row size:2261.169921875 KB, Type: I, Offloading:True, jpeg_size size:176.3544921875
+[2022-11-10 21:35:14,945 jpeg-test.py:579 test] Acc_jpeg:95.62559127807617
+[2022-11-10 21:35:14,967 jpeg-test.py:588 test] ===> mAP 53.990
+[2022-11-10 21:35:16,202 jpeg-test.py:577 test] Frame id :107, Row size:2263.8125 KB, Type: I, Offloading:True, jpeg_size size:176.3642578125
+[2022-11-10 21:35:16,203 jpeg-test.py:579 test] Acc_jpeg:96.23394012451172
+[2022-11-10 21:35:16,224 jpeg-test.py:588 test] ===> mAP 53.980
+[2022-11-10 21:35:17,443 jpeg-test.py:577 test] Frame id :108, Row size:2262.6845703125 KB, Type: I, Offloading:True, jpeg_size size:176.2099609375
+[2022-11-10 21:35:17,443 jpeg-test.py:579 test] Acc_jpeg:96.46830558776855
+[2022-11-10 21:35:17,463 jpeg-test.py:588 test] ===> mAP 54.020
+[2022-11-10 21:35:18,697 jpeg-test.py:577 test] Frame id :109, Row size:2262.2451171875 KB, Type: I, Offloading:True, jpeg_size size:176.486328125
+[2022-11-10 21:35:18,697 jpeg-test.py:579 test] Acc_jpeg:96.43659591674805
+[2022-11-10 21:35:18,718 jpeg-test.py:588 test] ===> mAP 54.030
+[2022-11-10 21:35:19,954 jpeg-test.py:577 test] Frame id :110, Row size:2260.544921875 KB, Type: I, Offloading:True, jpeg_size size:176.3330078125
+[2022-11-10 21:35:19,954 jpeg-test.py:579 test] Acc_jpeg:96.5108871459961
+[2022-11-10 21:35:19,977 jpeg-test.py:588 test] ===> mAP 54.060
+[2022-11-10 21:35:21,194 jpeg-test.py:577 test] Frame id :111, Row size:2258.28125 KB, Type: I, Offloading:True, jpeg_size size:176.673828125
+[2022-11-10 21:35:21,195 jpeg-test.py:579 test] Acc_jpeg:95.77221870422363
+[2022-11-10 21:35:21,215 jpeg-test.py:588 test] ===> mAP 54.060
+[2022-11-10 21:35:22,401 jpeg-test.py:577 test] Frame id :112, Row size:2259.193359375 KB, Type: I, Offloading:True, jpeg_size size:176.0419921875
+[2022-11-10 21:35:22,402 jpeg-test.py:579 test] Acc_jpeg:95.87979316711426
+[2022-11-10 21:35:22,422 jpeg-test.py:588 test] ===> mAP 54.060
+[2022-11-10 21:35:23,661 jpeg-test.py:577 test] Frame id :113, Row size:2263.837890625 KB, Type: I, Offloading:True, jpeg_size size:176.5859375
+[2022-11-10 21:35:23,661 jpeg-test.py:579 test] Acc_jpeg:96.64053916931152
+[2022-11-10 21:35:23,684 jpeg-test.py:588 test] ===> mAP 54.080
+[2022-11-10 21:35:24,936 jpeg-test.py:577 test] Frame id :114, Row size:2267.7177734375 KB, Type: I, Offloading:True, jpeg_size size:176.63671875
+[2022-11-10 21:35:24,937 jpeg-test.py:579 test] Acc_jpeg:95.81761360168457
+[2022-11-10 21:35:24,959 jpeg-test.py:588 test] ===> mAP 54.110
+[2022-11-10 21:35:26,183 jpeg-test.py:577 test] Frame id :115, Row size:2268.708984375 KB, Type: I, Offloading:True, jpeg_size size:177.11328125
+[2022-11-10 21:35:26,184 jpeg-test.py:579 test] Acc_jpeg:96.90241813659668
+[2022-11-10 21:35:26,205 jpeg-test.py:588 test] ===> mAP 54.120
+[2022-11-10 21:35:27,459 jpeg-test.py:577 test] Frame id :116, Row size:2266.3837890625 KB, Type: I, Offloading:True, jpeg_size size:176.8671875
+[2022-11-10 21:35:27,459 jpeg-test.py:579 test] Acc_jpeg:96.29640579223633
+[2022-11-10 21:35:27,483 jpeg-test.py:588 test] ===> mAP 54.120
+[2022-11-10 21:35:28,722 jpeg-test.py:577 test] Frame id :117, Row size:2266.8466796875 KB, Type: I, Offloading:True, jpeg_size size:177.197265625
+[2022-11-10 21:35:28,722 jpeg-test.py:579 test] Acc_jpeg:95.45741081237793
+[2022-11-10 21:35:28,744 jpeg-test.py:588 test] ===> mAP 54.130
+[2022-11-10 21:35:29,939 jpeg-test.py:577 test] Frame id :118, Row size:2265.7958984375 KB, Type: I, Offloading:True, jpeg_size size:176.6318359375
+[2022-11-10 21:35:29,940 jpeg-test.py:579 test] Acc_jpeg:95.1563835144043
+[2022-11-10 21:35:29,959 jpeg-test.py:588 test] ===> mAP 54.150
+[2022-11-10 21:35:31,214 jpeg-test.py:577 test] Frame id :119, Row size:2262.873046875 KB, Type: I, Offloading:True, jpeg_size size:176.048828125
+[2022-11-10 21:35:31,214 jpeg-test.py:579 test] Acc_jpeg:96.32067680358887
+[2022-11-10 21:35:31,239 jpeg-test.py:588 test] ===> mAP 54.220
+[2022-11-10 21:35:32,459 jpeg-test.py:577 test] Frame id :120, Row size:2257.7314453125 KB, Type: I, Offloading:True, jpeg_size size:175.26171875
+[2022-11-10 21:35:32,459 jpeg-test.py:579 test] Acc_jpeg:95.4012393951416
+[2022-11-10 21:35:32,481 jpeg-test.py:588 test] ===> mAP 54.240
+[2022-11-10 21:35:33,683 jpeg-test.py:577 test] Frame id :121, Row size:2254.8564453125 KB, Type: I, Offloading:True, jpeg_size size:174.8818359375
+[2022-11-10 21:35:33,684 jpeg-test.py:579 test] Acc_jpeg:95.77031135559082
+[2022-11-10 21:35:33,704 jpeg-test.py:588 test] ===> mAP 54.250
+[2022-11-10 21:35:34,957 jpeg-test.py:577 test] Frame id :122, Row size:2250.7998046875 KB, Type: I, Offloading:True, jpeg_size size:174.697265625
+[2022-11-10 21:35:34,957 jpeg-test.py:579 test] Acc_jpeg:96.17013931274414
+[2022-11-10 21:35:34,979 jpeg-test.py:588 test] ===> mAP 54.310
+[2022-11-10 21:35:36,195 jpeg-test.py:577 test] Frame id :123, Row size:2247.16015625 KB, Type: I, Offloading:True, jpeg_size size:174.521484375
+[2022-11-10 21:35:36,195 jpeg-test.py:579 test] Acc_jpeg:95.6390380859375
+[2022-11-10 21:35:36,216 jpeg-test.py:588 test] ===> mAP 54.380
+[2022-11-10 21:35:37,437 jpeg-test.py:577 test] Frame id :124, Row size:2248.3701171875 KB, Type: I, Offloading:True, jpeg_size size:174.3544921875
+[2022-11-10 21:35:37,437 jpeg-test.py:579 test] Acc_jpeg:96.07491493225098
+[2022-11-10 21:35:37,458 jpeg-test.py:588 test] ===> mAP 54.470
+[2022-11-10 21:35:38,701 jpeg-test.py:577 test] Frame id :125, Row size:2247.1162109375 KB, Type: I, Offloading:True, jpeg_size size:174.1650390625
+[2022-11-10 21:35:38,701 jpeg-test.py:579 test] Acc_jpeg:96.22712135314941
+[2022-11-10 21:35:38,725 jpeg-test.py:588 test] ===> mAP 54.620
+[2022-11-10 21:35:39,934 jpeg-test.py:577 test] Frame id :126, Row size:2249.1201171875 KB, Type: I, Offloading:True, jpeg_size size:174.0537109375
+[2022-11-10 21:35:39,934 jpeg-test.py:579 test] Acc_jpeg:96.3280200958252
+[2022-11-10 21:35:39,955 jpeg-test.py:588 test] ===> mAP 54.670
+[2022-11-10 21:35:41,172 jpeg-test.py:577 test] Frame id :127, Row size:2248.892578125 KB, Type: I, Offloading:True, jpeg_size size:174.4462890625
+[2022-11-10 21:35:41,172 jpeg-test.py:579 test] Acc_jpeg:96.19560241699219
+[2022-11-10 21:35:41,193 jpeg-test.py:588 test] ===> mAP 54.730
+[2022-11-10 21:35:42,406 jpeg-test.py:577 test] Frame id :128, Row size:2251.251953125 KB, Type: I, Offloading:True, jpeg_size size:174.7021484375
+[2022-11-10 21:35:42,407 jpeg-test.py:579 test] Acc_jpeg:96.29850387573242
+[2022-11-10 21:35:42,430 jpeg-test.py:588 test] ===> mAP 54.780
+[2022-11-10 21:35:43,686 jpeg-test.py:577 test] Frame id :129, Row size:2253.40625 KB, Type: I, Offloading:True, jpeg_size size:174.900390625
+[2022-11-10 21:35:43,687 jpeg-test.py:579 test] Acc_jpeg:96.1174488067627
+[2022-11-10 21:35:43,709 jpeg-test.py:588 test] ===> mAP 54.800
+[2022-11-10 21:35:44,977 jpeg-test.py:577 test] Frame id :130, Row size:2255.4375 KB, Type: I, Offloading:True, jpeg_size size:174.697265625
+[2022-11-10 21:35:44,977 jpeg-test.py:579 test] Acc_jpeg:96.0242748260498
+[2022-11-10 21:35:44,999 jpeg-test.py:588 test] ===> mAP 54.830
+[2022-11-10 21:35:46,224 jpeg-test.py:577 test] Frame id :131, Row size:2254.931640625 KB, Type: I, Offloading:True, jpeg_size size:174.8544921875
+[2022-11-10 21:35:46,224 jpeg-test.py:579 test] Acc_jpeg:96.67668342590332
+[2022-11-10 21:35:46,245 jpeg-test.py:588 test] ===> mAP 54.930
+[2022-11-10 21:35:47,459 jpeg-test.py:577 test] Frame id :132, Row size:2256.7958984375 KB, Type: I, Offloading:True, jpeg_size size:175.1875
+[2022-11-10 21:35:47,459 jpeg-test.py:579 test] Acc_jpeg:95.90272903442383
+[2022-11-10 21:35:47,480 jpeg-test.py:588 test] ===> mAP 55.020
+[2022-11-10 21:35:48,690 jpeg-test.py:577 test] Frame id :133, Row size:2251.6484375 KB, Type: I, Offloading:True, jpeg_size size:175.15234375
+[2022-11-10 21:35:48,690 jpeg-test.py:579 test] Acc_jpeg:96.5482234954834
+[2022-11-10 21:35:48,711 jpeg-test.py:588 test] ===> mAP 55.120
+[2022-11-10 21:35:49,960 jpeg-test.py:577 test] Frame id :134, Row size:2252.9794921875 KB, Type: I, Offloading:True, jpeg_size size:175.6005859375
+[2022-11-10 21:35:49,961 jpeg-test.py:579 test] Acc_jpeg:96.36988639831543
+[2022-11-10 21:35:49,983 jpeg-test.py:588 test] ===> mAP 55.250
+[2022-11-10 21:35:51,245 jpeg-test.py:577 test] Frame id :135, Row size:2250.80859375 KB, Type: I, Offloading:True, jpeg_size size:175.2431640625
+[2022-11-10 21:35:51,245 jpeg-test.py:579 test] Acc_jpeg:95.95499038696289
+[2022-11-10 21:35:51,267 jpeg-test.py:588 test] ===> mAP 55.360
+[2022-11-10 21:35:52,485 jpeg-test.py:577 test] Frame id :136, Row size:2250.591796875 KB, Type: I, Offloading:True, jpeg_size size:175.5498046875
+[2022-11-10 21:35:52,485 jpeg-test.py:579 test] Acc_jpeg:96.52318954467773
+[2022-11-10 21:35:52,507 jpeg-test.py:588 test] ===> mAP 55.560
+[2022-11-10 21:35:53,726 jpeg-test.py:577 test] Frame id :137, Row size:2251.0341796875 KB, Type: I, Offloading:True, jpeg_size size:175.5283203125
+[2022-11-10 21:35:53,726 jpeg-test.py:579 test] Acc_jpeg:96.82760238647461
+[2022-11-10 21:35:53,747 jpeg-test.py:588 test] ===> mAP 55.740
+[2022-11-10 21:35:54,986 jpeg-test.py:577 test] Frame id :138, Row size:2251.9501953125 KB, Type: I, Offloading:True, jpeg_size size:175.810546875
+[2022-11-10 21:35:54,986 jpeg-test.py:579 test] Acc_jpeg:96.23193740844727
+[2022-11-10 21:35:55,009 jpeg-test.py:588 test] ===> mAP 55.880
+[2022-11-10 21:35:56,250 jpeg-test.py:577 test] Frame id :139, Row size:2252.671875 KB, Type: I, Offloading:True, jpeg_size size:176.4169921875
+[2022-11-10 21:35:56,250 jpeg-test.py:579 test] Acc_jpeg:95.40348052978516
+[2022-11-10 21:35:56,272 jpeg-test.py:588 test] ===> mAP 56.050
+[2022-11-10 21:35:57,529 jpeg-test.py:577 test] Frame id :140, Row size:2253.5478515625 KB, Type: I, Offloading:True, jpeg_size size:176.1025390625
+[2022-11-10 21:35:57,529 jpeg-test.py:579 test] Acc_jpeg:96.01278305053711
+[2022-11-10 21:35:57,551 jpeg-test.py:588 test] ===> mAP 56.200
+[2022-11-10 21:35:58,811 jpeg-test.py:577 test] Frame id :141, Row size:2253.6015625 KB, Type: I, Offloading:True, jpeg_size size:175.92578125
+[2022-11-10 21:35:58,812 jpeg-test.py:579 test] Acc_jpeg:96.04921340942383
+[2022-11-10 21:35:58,833 jpeg-test.py:588 test] ===> mAP 56.320
+[2022-11-10 21:36:00,088 jpeg-test.py:577 test] Frame id :142, Row size:2250.1611328125 KB, Type: I, Offloading:True, jpeg_size size:175.8603515625
+[2022-11-10 21:36:00,088 jpeg-test.py:579 test] Acc_jpeg:96.28381729125977
+[2022-11-10 21:36:00,110 jpeg-test.py:588 test] ===> mAP 56.470
+[2022-11-10 21:36:01,369 jpeg-test.py:577 test] Frame id :143, Row size:2246.1103515625 KB, Type: I, Offloading:True, jpeg_size size:175.259765625
+[2022-11-10 21:36:01,369 jpeg-test.py:579 test] Acc_jpeg:96.17252349853516
+[2022-11-10 21:36:01,391 jpeg-test.py:588 test] ===> mAP 56.730
+[2022-11-10 21:36:02,636 jpeg-test.py:577 test] Frame id :144, Row size:2245.2001953125 KB, Type: I, Offloading:True, jpeg_size size:175.2880859375
+[2022-11-10 21:36:02,636 jpeg-test.py:579 test] Acc_jpeg:96.11711502075195
+[2022-11-10 21:36:02,658 jpeg-test.py:588 test] ===> mAP 56.970
+[2022-11-10 21:36:03,874 jpeg-test.py:577 test] Frame id :145, Row size:2242.1279296875 KB, Type: I, Offloading:True, jpeg_size size:174.9189453125
+[2022-11-10 21:36:03,874 jpeg-test.py:579 test] Acc_jpeg:95.25299072265625
+[2022-11-10 21:36:03,895 jpeg-test.py:588 test] ===> mAP 57.200
+[2022-11-10 21:36:05,096 jpeg-test.py:577 test] Frame id :146, Row size:2237.60546875 KB, Type: I, Offloading:True, jpeg_size size:174.193359375
+[2022-11-10 21:36:05,096 jpeg-test.py:579 test] Acc_jpeg:94.7786808013916
+[2022-11-10 21:36:05,118 jpeg-test.py:588 test] ===> mAP 57.400
+[2022-11-10 21:36:06,319 jpeg-test.py:577 test] Frame id :147, Row size:2232.8603515625 KB, Type: I, Offloading:True, jpeg_size size:173.9033203125
+[2022-11-10 21:36:06,319 jpeg-test.py:579 test] Acc_jpeg:94.5716381072998
+[2022-11-10 21:36:06,340 jpeg-test.py:588 test] ===> mAP 57.480
+[2022-11-10 21:36:07,592 jpeg-test.py:577 test] Frame id :148, Row size:2232.6669921875 KB, Type: I, Offloading:True, jpeg_size size:173.5380859375
+[2022-11-10 21:36:07,592 jpeg-test.py:579 test] Acc_jpeg:96.18000984191895
+[2022-11-10 21:36:07,614 jpeg-test.py:588 test] ===> mAP 57.680
+[2022-11-10 21:36:08,826 jpeg-test.py:577 test] Frame id :149, Row size:2231.1796875 KB, Type: I, Offloading:True, jpeg_size size:174.0185546875
+[2022-11-10 21:36:08,826 jpeg-test.py:579 test] Acc_jpeg:95.76640129089355
+[2022-11-10 21:36:08,847 jpeg-test.py:588 test] ===> mAP 57.850
+[2022-11-10 21:36:10,033 jpeg-test.py:577 test] Frame id :150, Row size:2231.2373046875 KB, Type: I, Offloading:True, jpeg_size size:173.5263671875
+[2022-11-10 21:36:10,033 jpeg-test.py:579 test] Acc_jpeg:95.29337882995605
+[2022-11-10 21:36:10,054 jpeg-test.py:588 test] ===> mAP 58.020
+[2022-11-10 21:36:11,266 jpeg-test.py:577 test] Frame id :151, Row size:2227.126953125 KB, Type: I, Offloading:True, jpeg_size size:172.7841796875
+[2022-11-10 21:36:11,267 jpeg-test.py:579 test] Acc_jpeg:94.7974681854248
+[2022-11-10 21:36:11,287 jpeg-test.py:588 test] ===> mAP 58.130
+[2022-11-10 21:36:12,501 jpeg-test.py:577 test] Frame id :152, Row size:2224.2763671875 KB, Type: I, Offloading:True, jpeg_size size:172.060546875
+[2022-11-10 21:36:12,501 jpeg-test.py:579 test] Acc_jpeg:95.12124061584473
+[2022-11-10 21:36:12,522 jpeg-test.py:588 test] ===> mAP 58.210
+[2022-11-10 21:36:13,730 jpeg-test.py:577 test] Frame id :153, Row size:2223.30078125 KB, Type: I, Offloading:True, jpeg_size size:171.6650390625
+[2022-11-10 21:36:13,730 jpeg-test.py:579 test] Acc_jpeg:94.75951194763184
+[2022-11-10 21:36:13,756 jpeg-test.py:588 test] ===> mAP 58.290
+[2022-11-10 21:36:14,996 jpeg-test.py:577 test] Frame id :154, Row size:2213.69921875 KB, Type: I, Offloading:True, jpeg_size size:170.390625
+[2022-11-10 21:36:14,996 jpeg-test.py:579 test] Acc_jpeg:94.86122131347656
+[2022-11-10 21:36:15,018 jpeg-test.py:588 test] ===> mAP 58.340
+[2022-11-10 21:36:16,245 jpeg-test.py:577 test] Frame id :155, Row size:2206.421875 KB, Type: I, Offloading:True, jpeg_size size:169.6796875
+[2022-11-10 21:36:16,245 jpeg-test.py:579 test] Acc_jpeg:93.157958984375
+[2022-11-10 21:36:16,266 jpeg-test.py:588 test] ===> mAP 58.380
+[2022-11-10 21:36:17,482 jpeg-test.py:577 test] Frame id :156, Row size:2196.96484375 KB, Type: I, Offloading:True, jpeg_size size:168.681640625
+[2022-11-10 21:36:17,482 jpeg-test.py:579 test] Acc_jpeg:94.34294700622559
+[2022-11-10 21:36:17,503 jpeg-test.py:588 test] ===> mAP 58.420
+[2022-11-10 21:36:18,745 jpeg-test.py:577 test] Frame id :157, Row size:2189.986328125 KB, Type: I, Offloading:True, jpeg_size size:168.0703125
+[2022-11-10 21:36:18,745 jpeg-test.py:579 test] Acc_jpeg:93.37348937988281
+[2022-11-10 21:36:18,767 jpeg-test.py:588 test] ===> mAP 58.460
+[2022-11-10 21:36:19,976 jpeg-test.py:577 test] Frame id :158, Row size:2186.6357421875 KB, Type: I, Offloading:True, jpeg_size size:167.59765625
+[2022-11-10 21:36:19,976 jpeg-test.py:579 test] Acc_jpeg:92.65213012695312
+[2022-11-10 21:36:19,998 jpeg-test.py:588 test] ===> mAP 58.440
+[2022-11-10 21:36:21,173 jpeg-test.py:577 test] Frame id :159, Row size:2182.701171875 KB, Type: I, Offloading:True, jpeg_size size:166.5888671875
+[2022-11-10 21:36:21,174 jpeg-test.py:579 test] Acc_jpeg:92.4079418182373
+[2022-11-10 21:36:21,194 jpeg-test.py:588 test] ===> mAP 58.520
+[2022-11-10 21:36:22,373 jpeg-test.py:577 test] Frame id :160, Row size:2180.1357421875 KB, Type: I, Offloading:True, jpeg_size size:164.919921875
+[2022-11-10 21:36:22,373 jpeg-test.py:579 test] Acc_jpeg:93.1739330291748
+[2022-11-10 21:36:22,394 jpeg-test.py:588 test] ===> mAP 58.520
+[2022-11-10 21:36:23,622 jpeg-test.py:577 test] Frame id :161, Row size:2198.5546875 KB, Type: I, Offloading:True, jpeg_size size:166.181640625
+[2022-11-10 21:36:23,622 jpeg-test.py:579 test] Acc_jpeg:93.54128837585449
+[2022-11-10 21:36:23,644 jpeg-test.py:588 test] ===> mAP 58.560
+[2022-11-10 21:36:24,833 jpeg-test.py:577 test] Frame id :162, Row size:2187.9130859375 KB, Type: I, Offloading:True, jpeg_size size:164.43359375
+[2022-11-10 21:36:24,833 jpeg-test.py:579 test] Acc_jpeg:93.98999214172363
+[2022-11-10 21:36:24,854 jpeg-test.py:588 test] ===> mAP 58.600
+[2022-11-10 21:36:26,037 jpeg-test.py:577 test] Frame id :163, Row size:2206.7294921875 KB, Type: I, Offloading:True, jpeg_size size:165.7626953125
+[2022-11-10 21:36:26,037 jpeg-test.py:579 test] Acc_jpeg:95.31631469726562
+[2022-11-10 21:36:26,057 jpeg-test.py:588 test] ===> mAP 58.660
+[2022-11-10 21:36:27,239 jpeg-test.py:577 test] Frame id :164, Row size:2205.8486328125 KB, Type: I, Offloading:True, jpeg_size size:165.6005859375
+[2022-11-10 21:36:27,240 jpeg-test.py:579 test] Acc_jpeg:95.31288146972656
+[2022-11-10 21:36:27,260 jpeg-test.py:588 test] ===> mAP 58.720
+[2022-11-10 21:36:28,465 jpeg-test.py:577 test] Frame id :165, Row size:2194.7421875 KB, Type: I, Offloading:True, jpeg_size size:163.15625
+[2022-11-10 21:36:28,465 jpeg-test.py:579 test] Acc_jpeg:95.5319881439209
+[2022-11-10 21:36:28,486 jpeg-test.py:588 test] ===> mAP 58.790
+[2022-11-10 21:36:29,672 jpeg-test.py:577 test] Frame id :166, Row size:2186.0458984375 KB, Type: I, Offloading:True, jpeg_size size:161.599609375
+[2022-11-10 21:36:29,672 jpeg-test.py:579 test] Acc_jpeg:95.72563171386719
+[2022-11-10 21:36:29,693 jpeg-test.py:588 test] ===> mAP 58.840
+[2022-11-10 21:36:30,894 jpeg-test.py:577 test] Frame id :167, Row size:2181.5009765625 KB, Type: I, Offloading:True, jpeg_size size:161.8955078125
+[2022-11-10 21:36:30,895 jpeg-test.py:579 test] Acc_jpeg:95.75014114379883
+[2022-11-10 21:36:30,916 jpeg-test.py:588 test] ===> mAP 58.890
+[2022-11-10 21:36:32,105 jpeg-test.py:577 test] Frame id :168, Row size:2182.5673828125 KB, Type: I, Offloading:True, jpeg_size size:161.4208984375
+[2022-11-10 21:36:32,105 jpeg-test.py:579 test] Acc_jpeg:95.08695602416992
+[2022-11-10 21:36:32,126 jpeg-test.py:588 test] ===> mAP 58.940
+[2022-11-10 21:36:33,329 jpeg-test.py:577 test] Frame id :169, Row size:2180.310546875 KB, Type: I, Offloading:True, jpeg_size size:161.7275390625
+[2022-11-10 21:36:33,329 jpeg-test.py:579 test] Acc_jpeg:94.49849128723145
+[2022-11-10 21:36:33,350 jpeg-test.py:588 test] ===> mAP 58.980
+[2022-11-10 21:36:34,543 jpeg-test.py:577 test] Frame id :170, Row size:2182.7978515625 KB, Type: I, Offloading:True, jpeg_size size:162.359375
+[2022-11-10 21:36:34,544 jpeg-test.py:579 test] Acc_jpeg:94.07954216003418
+[2022-11-10 21:36:34,566 jpeg-test.py:588 test] ===> mAP 59.000
+[2022-11-10 21:36:35,760 jpeg-test.py:577 test] Frame id :171, Row size:2181.859375 KB, Type: I, Offloading:True, jpeg_size size:162.1884765625
+[2022-11-10 21:36:35,760 jpeg-test.py:579 test] Acc_jpeg:94.30270195007324
+[2022-11-10 21:36:35,784 jpeg-test.py:588 test] ===> mAP 59.050
+[2022-11-10 21:36:36,988 jpeg-test.py:577 test] Frame id :172, Row size:2175.5595703125 KB, Type: I, Offloading:True, jpeg_size size:161.08203125
+[2022-11-10 21:36:36,988 jpeg-test.py:579 test] Acc_jpeg:91.7612075805664
+[2022-11-10 21:36:37,010 jpeg-test.py:588 test] ===> mAP 59.060
+[2022-11-10 21:36:38,194 jpeg-test.py:577 test] Frame id :173, Row size:2186.31640625 KB, Type: I, Offloading:True, jpeg_size size:163.271484375
+[2022-11-10 21:36:38,194 jpeg-test.py:579 test] Acc_jpeg:93.43328475952148
+[2022-11-10 21:36:38,216 jpeg-test.py:588 test] ===> mAP 59.100
+[2022-11-10 21:36:39,419 jpeg-test.py:577 test] Frame id :174, Row size:2189.7919921875 KB, Type: I, Offloading:True, jpeg_size size:163.1689453125
+[2022-11-10 21:36:39,420 jpeg-test.py:579 test] Acc_jpeg:95.03064155578613
+[2022-11-10 21:36:39,441 jpeg-test.py:588 test] ===> mAP 59.130
+[2022-11-10 21:36:40,621 jpeg-test.py:577 test] Frame id :175, Row size:2191.8486328125 KB, Type: I, Offloading:True, jpeg_size size:163.44921875
+[2022-11-10 21:36:40,621 jpeg-test.py:579 test] Acc_jpeg:94.23751831054688
+[2022-11-10 21:36:40,643 jpeg-test.py:588 test] ===> mAP 59.170
+[2022-11-10 21:36:41,822 jpeg-test.py:577 test] Frame id :176, Row size:2195.736328125 KB, Type: I, Offloading:True, jpeg_size size:163.8076171875
+[2022-11-10 21:36:41,823 jpeg-test.py:579 test] Acc_jpeg:93.94068717956543
+[2022-11-10 21:36:41,844 jpeg-test.py:588 test] ===> mAP 59.220
+[2022-11-10 21:36:43,039 jpeg-test.py:577 test] Frame id :177, Row size:2191.236328125 KB, Type: I, Offloading:True, jpeg_size size:164.0087890625
+[2022-11-10 21:36:43,039 jpeg-test.py:579 test] Acc_jpeg:93.41135025024414
+[2022-11-10 21:36:43,062 jpeg-test.py:588 test] ===> mAP 59.250
+[2022-11-10 21:36:44,280 jpeg-test.py:577 test] Frame id :178, Row size:2193.435546875 KB, Type: I, Offloading:True, jpeg_size size:164.138671875
+[2022-11-10 21:36:44,280 jpeg-test.py:579 test] Acc_jpeg:94.44317817687988
+[2022-11-10 21:36:44,302 jpeg-test.py:588 test] ===> mAP 59.290
+[2022-11-10 21:36:45,492 jpeg-test.py:577 test] Frame id :179, Row size:2194.7509765625 KB, Type: I, Offloading:True, jpeg_size size:164.57421875
+[2022-11-10 21:36:45,492 jpeg-test.py:579 test] Acc_jpeg:95.54147720336914
+[2022-11-10 21:36:45,513 jpeg-test.py:588 test] ===> mAP 59.340
+[2022-11-10 21:36:46,697 jpeg-test.py:577 test] Frame id :180, Row size:2197.521484375 KB, Type: I, Offloading:True, jpeg_size size:165.40625
+[2022-11-10 21:36:46,697 jpeg-test.py:579 test] Acc_jpeg:95.22976875305176
+[2022-11-10 21:36:46,717 jpeg-test.py:588 test] ===> mAP 59.390
+[2022-11-10 21:36:47,889 jpeg-test.py:577 test] Frame id :181, Row size:2199.4599609375 KB, Type: I, Offloading:True, jpeg_size size:165.9970703125
+[2022-11-10 21:36:47,889 jpeg-test.py:579 test] Acc_jpeg:95.32113075256348
+[2022-11-10 21:36:47,910 jpeg-test.py:588 test] ===> mAP 59.440
+[2022-11-10 21:36:49,080 jpeg-test.py:577 test] Frame id :182, Row size:2198.1826171875 KB, Type: I, Offloading:True, jpeg_size size:165.9755859375
+[2022-11-10 21:36:49,081 jpeg-test.py:579 test] Acc_jpeg:93.43447685241699
+[2022-11-10 21:36:49,101 jpeg-test.py:588 test] ===> mAP 59.460
+[2022-11-10 21:36:50,277 jpeg-test.py:577 test] Frame id :183, Row size:2199.57421875 KB, Type: I, Offloading:True, jpeg_size size:166.5654296875
+[2022-11-10 21:36:50,277 jpeg-test.py:579 test] Acc_jpeg:94.75235939025879
+[2022-11-10 21:36:50,297 jpeg-test.py:588 test] ===> mAP 59.500
+[2022-11-10 21:36:51,481 jpeg-test.py:577 test] Frame id :184, Row size:2202.96484375 KB, Type: I, Offloading:True, jpeg_size size:166.9189453125
+[2022-11-10 21:36:51,481 jpeg-test.py:579 test] Acc_jpeg:95.66488265991211
+[2022-11-10 21:36:51,502 jpeg-test.py:588 test] ===> mAP 59.540
+[2022-11-10 21:36:52,704 jpeg-test.py:577 test] Frame id :185, Row size:2207.095703125 KB, Type: I, Offloading:True, jpeg_size size:167.6201171875
+[2022-11-10 21:36:52,704 jpeg-test.py:579 test] Acc_jpeg:95.26643753051758
+[2022-11-10 21:36:52,725 jpeg-test.py:588 test] ===> mAP 59.580
+[2022-11-10 21:36:53,947 jpeg-test.py:577 test] Frame id :186, Row size:2209.4560546875 KB, Type: I, Offloading:True, jpeg_size size:168.375
+[2022-11-10 21:36:53,947 jpeg-test.py:579 test] Acc_jpeg:95.1456069946289
+[2022-11-10 21:36:53,969 jpeg-test.py:588 test] ===> mAP 59.610
+[2022-11-10 21:36:55,168 jpeg-test.py:577 test] Frame id :187, Row size:2212.1162109375 KB, Type: I, Offloading:True, jpeg_size size:168.853515625
+[2022-11-10 21:36:55,169 jpeg-test.py:579 test] Acc_jpeg:93.61858367919922
+[2022-11-10 21:36:55,198 jpeg-test.py:588 test] ===> mAP 59.610
+[2022-11-10 21:36:56,416 jpeg-test.py:577 test] Frame id :188, Row size:2212.7998046875 KB, Type: I, Offloading:True, jpeg_size size:169.37890625
+[2022-11-10 21:36:56,416 jpeg-test.py:579 test] Acc_jpeg:94.12064552307129
+[2022-11-10 21:36:56,439 jpeg-test.py:588 test] ===> mAP 59.610
+[2022-11-10 21:36:57,624 jpeg-test.py:577 test] Frame id :189, Row size:2217.982421875 KB, Type: I, Offloading:True, jpeg_size size:169.2451171875
+[2022-11-10 21:36:57,624 jpeg-test.py:579 test] Acc_jpeg:94.44007873535156
+[2022-11-10 21:36:57,645 jpeg-test.py:588 test] ===> mAP 59.630
+[2022-11-10 21:36:58,831 jpeg-test.py:577 test] Frame id :190, Row size:2214.083984375 KB, Type: I, Offloading:True, jpeg_size size:169.046875
+[2022-11-10 21:36:58,831 jpeg-test.py:579 test] Acc_jpeg:93.37620735168457
+[2022-11-10 21:36:58,851 jpeg-test.py:588 test] ===> mAP 59.640
+[2022-11-10 21:37:00,029 jpeg-test.py:577 test] Frame id :191, Row size:2209.923828125 KB, Type: I, Offloading:True, jpeg_size size:168.146484375
+[2022-11-10 21:37:00,030 jpeg-test.py:579 test] Acc_jpeg:93.90702247619629
+[2022-11-10 21:37:00,050 jpeg-test.py:588 test] ===> mAP 59.660
+[2022-11-10 21:37:01,254 jpeg-test.py:577 test] Frame id :192, Row size:2211.2509765625 KB, Type: I, Offloading:True, jpeg_size size:168.6083984375
+[2022-11-10 21:37:01,254 jpeg-test.py:579 test] Acc_jpeg:93.52235794067383
+[2022-11-10 21:37:01,276 jpeg-test.py:588 test] ===> mAP 59.690
+[2022-11-10 21:37:02,468 jpeg-test.py:577 test] Frame id :193, Row size:2214.1181640625 KB, Type: I, Offloading:True, jpeg_size size:168.978515625
+[2022-11-10 21:37:02,469 jpeg-test.py:579 test] Acc_jpeg:91.46790504455566
+[2022-11-10 21:37:02,491 jpeg-test.py:588 test] ===> mAP 59.680
+[2022-11-10 21:37:03,678 jpeg-test.py:577 test] Frame id :194, Row size:2212.369140625 KB, Type: I, Offloading:True, jpeg_size size:168.607421875
+[2022-11-10 21:37:03,679 jpeg-test.py:579 test] Acc_jpeg:93.13840866088867
+[2022-11-10 21:37:03,699 jpeg-test.py:588 test] ===> mAP 59.690
+[2022-11-10 21:37:04,880 jpeg-test.py:577 test] Frame id :195, Row size:2213.3125 KB, Type: I, Offloading:True, jpeg_size size:168.8076171875
+[2022-11-10 21:37:04,880 jpeg-test.py:579 test] Acc_jpeg:91.84865951538086
+[2022-11-10 21:37:04,901 jpeg-test.py:588 test] ===> mAP 59.690
+[2022-11-10 21:37:06,108 jpeg-test.py:577 test] Frame id :196, Row size:2213.4873046875 KB, Type: I, Offloading:True, jpeg_size size:169.29296875
+[2022-11-10 21:37:06,108 jpeg-test.py:579 test] Acc_jpeg:91.42165184020996
+[2022-11-10 21:37:06,130 jpeg-test.py:588 test] ===> mAP 59.690
+[2022-11-10 21:37:07,318 jpeg-test.py:577 test] Frame id :197, Row size:2218.0166015625 KB, Type: I, Offloading:True, jpeg_size size:169.4765625
+[2022-11-10 21:37:07,319 jpeg-test.py:579 test] Acc_jpeg:93.4058666229248
+[2022-11-10 21:37:07,340 jpeg-test.py:588 test] ===> mAP 59.710
+[2022-11-10 21:37:08,551 jpeg-test.py:577 test] Frame id :198, Row size:2217.9423828125 KB, Type: I, Offloading:True, jpeg_size size:169.52734375
+[2022-11-10 21:37:08,552 jpeg-test.py:579 test] Acc_jpeg:94.02523040771484
+[2022-11-10 21:37:08,574 jpeg-test.py:588 test] ===> mAP 59.700
+[2022-11-10 21:37:09,750 jpeg-test.py:577 test] Frame id :199, Row size:2220.537109375 KB, Type: I, Offloading:True, jpeg_size size:170.37890625
+[2022-11-10 21:37:09,750 jpeg-test.py:579 test] Acc_jpeg:92.39721298217773
+[2022-11-10 21:37:09,771 jpeg-test.py:588 test] ===> mAP 59.700
+[2022-11-10 21:37:10,938 jpeg-test.py:577 test] Frame id :200, Row size:2226.005859375 KB, Type: I, Offloading:True, jpeg_size size:171.177734375
+[2022-11-10 21:37:10,938 jpeg-test.py:579 test] Acc_jpeg:91.59355163574219
+[2022-11-10 21:37:10,959 jpeg-test.py:588 test] ===> mAP 59.680
+[2022-11-10 21:37:12,153 jpeg-test.py:577 test] Frame id :201, Row size:2229.3232421875 KB, Type: I, Offloading:True, jpeg_size size:171.3251953125
+[2022-11-10 21:37:12,154 jpeg-test.py:579 test] Acc_jpeg:90.52362442016602
+[2022-11-10 21:37:12,175 jpeg-test.py:588 test] ===> mAP 59.650
+[2022-11-10 21:37:13,386 jpeg-test.py:577 test] Frame id :202, Row size:2229.263671875 KB, Type: I, Offloading:True, jpeg_size size:171.390625
+[2022-11-10 21:37:13,387 jpeg-test.py:579 test] Acc_jpeg:91.8034553527832
+[2022-11-10 21:37:13,411 jpeg-test.py:588 test] ===> mAP 59.640
+[2022-11-10 21:37:14,612 jpeg-test.py:577 test] Frame id :203, Row size:2231.037109375 KB, Type: I, Offloading:True, jpeg_size size:171.3623046875
+[2022-11-10 21:37:14,612 jpeg-test.py:579 test] Acc_jpeg:92.05412864685059
+[2022-11-10 21:37:14,633 jpeg-test.py:588 test] ===> mAP 59.610
+[2022-11-10 21:37:15,815 jpeg-test.py:577 test] Frame id :204, Row size:2230.3583984375 KB, Type: I, Offloading:True, jpeg_size size:171.4306640625
+[2022-11-10 21:37:15,815 jpeg-test.py:579 test] Acc_jpeg:93.59145164489746
+[2022-11-10 21:37:15,839 jpeg-test.py:588 test] ===> mAP 59.600
+[2022-11-10 21:37:17,026 jpeg-test.py:577 test] Frame id :205, Row size:2232.1982421875 KB, Type: I, Offloading:True, jpeg_size size:171.78125
+[2022-11-10 21:37:17,027 jpeg-test.py:579 test] Acc_jpeg:93.50981712341309
+[2022-11-10 21:37:17,047 jpeg-test.py:588 test] ===> mAP 59.590
+[2022-11-10 21:37:18,233 jpeg-test.py:577 test] Frame id :206, Row size:2231.671875 KB, Type: I, Offloading:True, jpeg_size size:172.0087890625
+[2022-11-10 21:37:18,233 jpeg-test.py:579 test] Acc_jpeg:93.68200302124023
+[2022-11-10 21:37:18,254 jpeg-test.py:588 test] ===> mAP 59.580
+[2022-11-10 21:37:19,478 jpeg-test.py:577 test] Frame id :207, Row size:2229.6474609375 KB, Type: I, Offloading:True, jpeg_size size:172.009765625
+[2022-11-10 21:37:19,478 jpeg-test.py:579 test] Acc_jpeg:95.4078197479248
+[2022-11-10 21:37:19,500 jpeg-test.py:588 test] ===> mAP 59.590
+[2022-11-10 21:37:20,725 jpeg-test.py:577 test] Frame id :208, Row size:2232.216796875 KB, Type: I, Offloading:True, jpeg_size size:172.0439453125
+[2022-11-10 21:37:20,725 jpeg-test.py:579 test] Acc_jpeg:93.95356178283691
+[2022-11-10 21:37:20,746 jpeg-test.py:588 test] ===> mAP 59.570
+[2022-11-10 21:37:21,944 jpeg-test.py:577 test] Frame id :209, Row size:2232.9287109375 KB, Type: I, Offloading:True, jpeg_size size:172.248046875
+[2022-11-10 21:37:21,944 jpeg-test.py:579 test] Acc_jpeg:92.19546318054199
+[2022-11-10 21:37:21,967 jpeg-test.py:588 test] ===> mAP 59.560
+[2022-11-10 21:37:23,147 jpeg-test.py:577 test] Frame id :210, Row size:2236.13671875 KB, Type: I, Offloading:True, jpeg_size size:172.4794921875
+[2022-11-10 21:37:23,147 jpeg-test.py:579 test] Acc_jpeg:91.54777526855469
+[2022-11-10 21:37:23,168 jpeg-test.py:588 test] ===> mAP 59.490
+[2022-11-10 21:37:24,357 jpeg-test.py:577 test] Frame id :211, Row size:2240.615234375 KB, Type: I, Offloading:True, jpeg_size size:173.5751953125
+[2022-11-10 21:37:24,357 jpeg-test.py:579 test] Acc_jpeg:93.27912330627441
+[2022-11-10 21:37:24,378 jpeg-test.py:588 test] ===> mAP 59.430
+[2022-11-10 21:37:25,565 jpeg-test.py:577 test] Frame id :212, Row size:2246.3017578125 KB, Type: I, Offloading:True, jpeg_size size:174.65625
+[2022-11-10 21:37:25,565 jpeg-test.py:579 test] Acc_jpeg:93.09964179992676
+[2022-11-10 21:37:25,585 jpeg-test.py:588 test] ===> mAP 59.380
+[2022-11-10 21:37:26,773 jpeg-test.py:577 test] Frame id :213, Row size:2251.318359375 KB, Type: I, Offloading:True, jpeg_size size:175.6298828125
+[2022-11-10 21:37:26,774 jpeg-test.py:579 test] Acc_jpeg:93.48301887512207
+[2022-11-10 21:37:26,795 jpeg-test.py:588 test] ===> mAP 59.350
+[2022-11-10 21:37:27,965 jpeg-test.py:577 test] Frame id :214, Row size:2259.9482421875 KB, Type: I, Offloading:True, jpeg_size size:176.580078125
+[2022-11-10 21:37:27,965 jpeg-test.py:579 test] Acc_jpeg:92.55409240722656
+[2022-11-10 21:37:27,986 jpeg-test.py:588 test] ===> mAP 59.330
+[2022-11-10 21:37:29,172 jpeg-test.py:577 test] Frame id :215, Row size:2263.283203125 KB, Type: I, Offloading:True, jpeg_size size:177.4912109375
+[2022-11-10 21:37:29,172 jpeg-test.py:579 test] Acc_jpeg:92.81678199768066
+[2022-11-10 21:37:29,193 jpeg-test.py:588 test] ===> mAP 59.270
+[2022-11-10 21:37:30,366 jpeg-test.py:577 test] Frame id :216, Row size:2268.521484375 KB, Type: I, Offloading:True, jpeg_size size:178.3388671875
+[2022-11-10 21:37:30,366 jpeg-test.py:579 test] Acc_jpeg:93.49465370178223
+[2022-11-10 21:37:30,387 jpeg-test.py:588 test] ===> mAP 59.240
+[2022-11-10 21:37:31,558 jpeg-test.py:577 test] Frame id :217, Row size:2272.7734375 KB, Type: I, Offloading:True, jpeg_size size:178.984375
+[2022-11-10 21:37:31,559 jpeg-test.py:579 test] Acc_jpeg:93.1203842163086
+[2022-11-10 21:37:31,579 jpeg-test.py:588 test] ===> mAP 59.220
+[2022-11-10 21:37:32,779 jpeg-test.py:577 test] Frame id :218, Row size:2298.6220703125 KB, Type: I, Offloading:True, jpeg_size size:184.466796875
+[2022-11-10 21:37:32,779 jpeg-test.py:579 test] Acc_jpeg:93.6528205871582
+[2022-11-10 21:37:32,800 jpeg-test.py:588 test] ===> mAP 59.180
+[2022-11-10 21:37:34,001 jpeg-test.py:577 test] Frame id :219, Row size:2318.5771484375 KB, Type: I, Offloading:True, jpeg_size size:188.90234375
+[2022-11-10 21:37:34,002 jpeg-test.py:579 test] Acc_jpeg:94.8188304901123
+[2022-11-10 21:37:34,023 jpeg-test.py:588 test] ===> mAP 59.180
+[2022-11-10 21:37:35,234 jpeg-test.py:577 test] Frame id :220, Row size:2322.794921875 KB, Type: I, Offloading:True, jpeg_size size:191.0048828125
+[2022-11-10 21:37:35,234 jpeg-test.py:579 test] Acc_jpeg:95.05443572998047
+[2022-11-10 21:37:35,255 jpeg-test.py:588 test] ===> mAP 59.250
+[2022-11-10 21:37:36,472 jpeg-test.py:577 test] Frame id :221, Row size:2317.119140625 KB, Type: I, Offloading:True, jpeg_size size:188.48828125
+[2022-11-10 21:37:36,472 jpeg-test.py:579 test] Acc_jpeg:95.45369148254395
+[2022-11-10 21:37:36,494 jpeg-test.py:588 test] ===> mAP 59.320
+[2022-11-10 21:37:37,741 jpeg-test.py:577 test] Frame id :222, Row size:2312.0302734375 KB, Type: I, Offloading:True, jpeg_size size:186.166015625
+[2022-11-10 21:37:37,742 jpeg-test.py:579 test] Acc_jpeg:94.0971851348877
+[2022-11-10 21:37:37,765 jpeg-test.py:588 test] ===> mAP 59.330
+[2022-11-10 21:37:38,989 jpeg-test.py:577 test] Frame id :223, Row size:2337.65625 KB, Type: I, Offloading:True, jpeg_size size:189.30078125
+[2022-11-10 21:37:38,989 jpeg-test.py:579 test] Acc_jpeg:94.99430656433105
+[2022-11-10 21:37:39,010 jpeg-test.py:588 test] ===> mAP 59.320
+[2022-11-10 21:37:40,224 jpeg-test.py:577 test] Frame id :224, Row size:2338.078125 KB, Type: I, Offloading:True, jpeg_size size:188.76953125
+[2022-11-10 21:37:40,224 jpeg-test.py:579 test] Acc_jpeg:95.15113830566406
+[2022-11-10 21:37:40,245 jpeg-test.py:588 test] ===> mAP 59.350
+[2022-11-10 21:37:41,464 jpeg-test.py:577 test] Frame id :225, Row size:2337.7666015625 KB, Type: I, Offloading:True, jpeg_size size:188.744140625
+[2022-11-10 21:37:41,464 jpeg-test.py:579 test] Acc_jpeg:95.29304504394531
+[2022-11-10 21:37:41,486 jpeg-test.py:588 test] ===> mAP 59.340
+[2022-11-10 21:37:42,719 jpeg-test.py:577 test] Frame id :226, Row size:2333.8076171875 KB, Type: I, Offloading:True, jpeg_size size:187.9501953125
+[2022-11-10 21:37:42,719 jpeg-test.py:579 test] Acc_jpeg:95.2852725982666
+[2022-11-10 21:37:42,743 jpeg-test.py:588 test] ===> mAP 59.320
+[2022-11-10 21:37:43,947 jpeg-test.py:577 test] Frame id :227, Row size:2299.109375 KB, Type: I, Offloading:True, jpeg_size size:182.8095703125
+[2022-11-10 21:37:43,948 jpeg-test.py:579 test] Acc_jpeg:91.9950008392334
+[2022-11-10 21:37:43,968 jpeg-test.py:588 test] ===> mAP 59.300
+[2022-11-10 21:37:45,185 jpeg-test.py:577 test] Frame id :228, Row size:2297.8486328125 KB, Type: I, Offloading:True, jpeg_size size:182.96875
+[2022-11-10 21:37:45,185 jpeg-test.py:579 test] Acc_jpeg:93.6899185180664
+[2022-11-10 21:37:45,207 jpeg-test.py:588 test] ===> mAP 59.300
+[2022-11-10 21:37:46,414 jpeg-test.py:577 test] Frame id :229, Row size:2283.5556640625 KB, Type: I, Offloading:True, jpeg_size size:180.478515625
+[2022-11-10 21:37:46,414 jpeg-test.py:579 test] Acc_jpeg:93.47782135009766
+[2022-11-10 21:37:46,440 jpeg-test.py:588 test] ===> mAP 59.280
+[2022-11-10 21:37:47,682 jpeg-test.py:577 test] Frame id :230, Row size:2285.3291015625 KB, Type: I, Offloading:True, jpeg_size size:180.833984375
+[2022-11-10 21:37:47,682 jpeg-test.py:579 test] Acc_jpeg:92.24796295166016
+[2022-11-10 21:37:47,707 jpeg-test.py:588 test] ===> mAP 59.260
+[2022-11-10 21:37:48,924 jpeg-test.py:577 test] Frame id :231, Row size:2282.322265625 KB, Type: I, Offloading:True, jpeg_size size:179.68359375
+[2022-11-10 21:37:48,925 jpeg-test.py:579 test] Acc_jpeg:92.41800308227539
+[2022-11-10 21:37:48,945 jpeg-test.py:588 test] ===> mAP 59.230
+[2022-11-10 21:37:50,135 jpeg-test.py:577 test] Frame id :232, Row size:2283.798828125 KB, Type: I, Offloading:True, jpeg_size size:179.7666015625
+[2022-11-10 21:37:50,136 jpeg-test.py:579 test] Acc_jpeg:94.56510543823242
+[2022-11-10 21:37:50,156 jpeg-test.py:588 test] ===> mAP 59.260
+[2022-11-10 21:37:51,381 jpeg-test.py:577 test] Frame id :233, Row size:2286.205078125 KB, Type: I, Offloading:True, jpeg_size size:180.3818359375
+[2022-11-10 21:37:51,381 jpeg-test.py:579 test] Acc_jpeg:94.31161880493164
+[2022-11-10 21:37:51,404 jpeg-test.py:588 test] ===> mAP 59.260
+[2022-11-10 21:37:52,645 jpeg-test.py:577 test] Frame id :234, Row size:2287.9462890625 KB, Type: I, Offloading:True, jpeg_size size:180.341796875
+[2022-11-10 21:37:52,645 jpeg-test.py:579 test] Acc_jpeg:91.47806167602539
+[2022-11-10 21:37:52,669 jpeg-test.py:588 test] ===> mAP 59.250
+[2022-11-10 21:37:53,904 jpeg-test.py:577 test] Frame id :235, Row size:2293.0419921875 KB, Type: I, Offloading:True, jpeg_size size:181.353515625
+[2022-11-10 21:37:53,904 jpeg-test.py:579 test] Acc_jpeg:96.0909366607666
+[2022-11-10 21:37:53,925 jpeg-test.py:588 test] ===> mAP 59.260
+[2022-11-10 21:37:55,128 jpeg-test.py:577 test] Frame id :236, Row size:2293.4912109375 KB, Type: I, Offloading:True, jpeg_size size:181.427734375
+[2022-11-10 21:37:55,128 jpeg-test.py:579 test] Acc_jpeg:95.37863731384277
+[2022-11-10 21:37:55,149 jpeg-test.py:588 test] ===> mAP 59.280
+[2022-11-10 21:37:56,354 jpeg-test.py:577 test] Frame id :237, Row size:2291.8583984375 KB, Type: I, Offloading:True, jpeg_size size:181.1455078125
+[2022-11-10 21:37:56,354 jpeg-test.py:579 test] Acc_jpeg:95.05400657653809
+[2022-11-10 21:37:56,375 jpeg-test.py:588 test] ===> mAP 59.290
+[2022-11-10 21:37:57,598 jpeg-test.py:577 test] Frame id :238, Row size:2291.7744140625 KB, Type: I, Offloading:True, jpeg_size size:181.1083984375
+[2022-11-10 21:37:57,598 jpeg-test.py:579 test] Acc_jpeg:94.35262680053711
+[2022-11-10 21:37:57,621 jpeg-test.py:588 test] ===> mAP 59.290
+[2022-11-10 21:37:58,808 jpeg-test.py:577 test] Frame id :239, Row size:2291.3681640625 KB, Type: I, Offloading:True, jpeg_size size:181.455078125
+[2022-11-10 21:37:58,808 jpeg-test.py:579 test] Acc_jpeg:95.97225189208984
+[2022-11-10 21:37:58,829 jpeg-test.py:588 test] ===> mAP 59.310
+[2022-11-10 21:38:00,044 jpeg-test.py:577 test] Frame id :240, Row size:2292.3916015625 KB, Type: I, Offloading:True, jpeg_size size:181.869140625
+[2022-11-10 21:38:00,044 jpeg-test.py:579 test] Acc_jpeg:94.67053413391113
+[2022-11-10 21:38:00,065 jpeg-test.py:588 test] ===> mAP 59.320
+[2022-11-10 21:38:01,246 jpeg-test.py:577 test] Frame id :241, Row size:2293.4560546875 KB, Type: I, Offloading:True, jpeg_size size:182.51171875
+[2022-11-10 21:38:01,246 jpeg-test.py:579 test] Acc_jpeg:95.84641456604004
+[2022-11-10 21:38:01,267 jpeg-test.py:588 test] ===> mAP 59.340
+[2022-11-10 21:38:02,469 jpeg-test.py:577 test] Frame id :242, Row size:2292.3896484375 KB, Type: I, Offloading:True, jpeg_size size:182.5478515625
+[2022-11-10 21:38:02,469 jpeg-test.py:579 test] Acc_jpeg:95.97368240356445
+[2022-11-10 21:38:02,490 jpeg-test.py:588 test] ===> mAP 59.380
+[2022-11-10 21:38:03,661 jpeg-test.py:577 test] Frame id :243, Row size:2292.1982421875 KB, Type: I, Offloading:True, jpeg_size size:183.1123046875
+[2022-11-10 21:38:03,661 jpeg-test.py:579 test] Acc_jpeg:95.1268196105957
+[2022-11-10 21:38:03,682 jpeg-test.py:588 test] ===> mAP 59.380
+[2022-11-10 21:38:04,907 jpeg-test.py:577 test] Frame id :244, Row size:2294.166015625 KB, Type: I, Offloading:True, jpeg_size size:183.2861328125
+[2022-11-10 21:38:04,907 jpeg-test.py:579 test] Acc_jpeg:94.76628303527832
+[2022-11-10 21:38:04,929 jpeg-test.py:588 test] ===> mAP 59.390
+[2022-11-10 21:38:06,129 jpeg-test.py:577 test] Frame id :245, Row size:2295.853515625 KB, Type: I, Offloading:True, jpeg_size size:183.4169921875
+[2022-11-10 21:38:06,129 jpeg-test.py:579 test] Acc_jpeg:95.5942153930664
+[2022-11-10 21:38:06,150 jpeg-test.py:588 test] ===> mAP 59.390
+[2022-11-10 21:38:07,342 jpeg-test.py:577 test] Frame id :246, Row size:2296.0234375 KB, Type: I, Offloading:True, jpeg_size size:183.310546875
+[2022-11-10 21:38:07,342 jpeg-test.py:579 test] Acc_jpeg:95.65153121948242
+[2022-11-10 21:38:07,363 jpeg-test.py:588 test] ===> mAP 59.400
+[2022-11-10 21:38:08,576 jpeg-test.py:577 test] Frame id :247, Row size:2294.474609375 KB, Type: I, Offloading:True, jpeg_size size:183.4296875
+[2022-11-10 21:38:08,576 jpeg-test.py:579 test] Acc_jpeg:97.0357894897461
+[2022-11-10 21:38:08,600 jpeg-test.py:588 test] ===> mAP 59.410
+[2022-11-10 21:38:09,784 jpeg-test.py:577 test] Frame id :248, Row size:2293.494140625 KB, Type: I, Offloading:True, jpeg_size size:183.474609375
+[2022-11-10 21:38:09,784 jpeg-test.py:579 test] Acc_jpeg:95.65529823303223
+[2022-11-10 21:38:09,805 jpeg-test.py:588 test] ===> mAP 59.420
+[2022-11-10 21:38:11,028 jpeg-test.py:577 test] Frame id :249, Row size:2288.91796875 KB, Type: I, Offloading:True, jpeg_size size:181.986328125
+[2022-11-10 21:38:11,028 jpeg-test.py:579 test] Acc_jpeg:95.53961753845215
+[2022-11-10 21:38:11,050 jpeg-test.py:588 test] ===> mAP 59.410
+[2022-11-10 21:38:12,237 jpeg-test.py:577 test] Frame id :250, Row size:2287.302734375 KB, Type: I, Offloading:True, jpeg_size size:181.8759765625
+[2022-11-10 21:38:12,237 jpeg-test.py:579 test] Acc_jpeg:96.19154930114746
+[2022-11-10 21:38:12,259 jpeg-test.py:588 test] ===> mAP 59.410
+[2022-11-10 21:38:13,441 jpeg-test.py:577 test] Frame id :251, Row size:2281.263671875 KB, Type: I, Offloading:True, jpeg_size size:180.9775390625
+[2022-11-10 21:38:13,441 jpeg-test.py:579 test] Acc_jpeg:96.46930694580078
+[2022-11-10 21:38:13,461 jpeg-test.py:588 test] ===> mAP 59.450
+[2022-11-10 21:38:14,651 jpeg-test.py:577 test] Frame id :252, Row size:2276.46484375 KB, Type: I, Offloading:True, jpeg_size size:180.296875
+[2022-11-10 21:38:14,651 jpeg-test.py:579 test] Acc_jpeg:94.33579444885254
+[2022-11-10 21:38:14,673 jpeg-test.py:588 test] ===> mAP 59.480
+[2022-11-10 21:38:15,902 jpeg-test.py:577 test] Frame id :253, Row size:2270.7568359375 KB, Type: I, Offloading:True, jpeg_size size:179.4501953125
+[2022-11-10 21:38:15,902 jpeg-test.py:579 test] Acc_jpeg:96.18439674377441
+[2022-11-10 21:38:15,924 jpeg-test.py:588 test] ===> mAP 59.500
+[2022-11-10 21:38:17,147 jpeg-test.py:577 test] Frame id :254, Row size:2263.974609375 KB, Type: I, Offloading:True, jpeg_size size:178.736328125
+[2022-11-10 21:38:17,147 jpeg-test.py:579 test] Acc_jpeg:94.52428817749023
+[2022-11-10 21:38:17,170 jpeg-test.py:588 test] ===> mAP 59.480
+[2022-11-10 21:38:18,398 jpeg-test.py:577 test] Frame id :255, Row size:2256.107421875 KB, Type: I, Offloading:True, jpeg_size size:178.02734375
+[2022-11-10 21:38:18,398 jpeg-test.py:579 test] Acc_jpeg:94.1917896270752
+[2022-11-10 21:38:18,422 jpeg-test.py:588 test] ===> mAP 59.490
+[2022-11-10 21:38:19,646 jpeg-test.py:577 test] Frame id :256, Row size:2248.744140625 KB, Type: I, Offloading:True, jpeg_size size:177.0498046875
+[2022-11-10 21:38:19,647 jpeg-test.py:579 test] Acc_jpeg:95.70183753967285
+[2022-11-10 21:38:19,669 jpeg-test.py:588 test] ===> mAP 59.500
+[2022-11-10 21:38:20,893 jpeg-test.py:577 test] Frame id :257, Row size:2242.203125 KB, Type: I, Offloading:True, jpeg_size size:175.9521484375
+[2022-11-10 21:38:20,893 jpeg-test.py:579 test] Acc_jpeg:93.63713264465332
+[2022-11-10 21:38:20,916 jpeg-test.py:588 test] ===> mAP 59.500
+[2022-11-10 21:38:22,132 jpeg-test.py:577 test] Frame id :258, Row size:2231.7119140625 KB, Type: I, Offloading:True, jpeg_size size:174.91796875
+[2022-11-10 21:38:22,133 jpeg-test.py:579 test] Acc_jpeg:94.7150707244873
+[2022-11-10 21:38:22,155 jpeg-test.py:588 test] ===> mAP 59.510
+[2022-11-10 21:38:23,379 jpeg-test.py:577 test] Frame id :259, Row size:2219.6533203125 KB, Type: I, Offloading:True, jpeg_size size:173.2802734375
+[2022-11-10 21:38:23,379 jpeg-test.py:579 test] Acc_jpeg:92.78459548950195
+[2022-11-10 21:38:23,402 jpeg-test.py:588 test] ===> mAP 59.480
+[2022-11-10 21:38:24,643 jpeg-test.py:577 test] Frame id :260, Row size:2208.59375 KB, Type: I, Offloading:True, jpeg_size size:171.15625
+[2022-11-10 21:38:24,643 jpeg-test.py:579 test] Acc_jpeg:93.25194358825684
+[2022-11-10 21:38:24,665 jpeg-test.py:588 test] ===> mAP 59.490
+[2022-11-10 21:38:25,882 jpeg-test.py:577 test] Frame id :261, Row size:2197.5849609375 KB, Type: I, Offloading:True, jpeg_size size:169.0234375
+[2022-11-10 21:38:25,882 jpeg-test.py:579 test] Acc_jpeg:92.71488189697266
+[2022-11-10 21:38:25,903 jpeg-test.py:588 test] ===> mAP 59.540
+[2022-11-10 21:38:27,111 jpeg-test.py:577 test] Frame id :262, Row size:2189.9931640625 KB, Type: I, Offloading:True, jpeg_size size:167.6435546875
+[2022-11-10 21:38:27,112 jpeg-test.py:579 test] Acc_jpeg:89.10703659057617
+[2022-11-10 21:38:27,134 jpeg-test.py:588 test] ===> mAP 59.590
+[2022-11-10 21:38:28,355 jpeg-test.py:577 test] Frame id :263, Row size:2178.2314453125 KB, Type: I, Offloading:True, jpeg_size size:165.498046875
+[2022-11-10 21:38:28,355 jpeg-test.py:579 test] Acc_jpeg:88.39998245239258
+[2022-11-10 21:38:28,379 jpeg-test.py:588 test] ===> mAP 59.620
+[2022-11-10 21:38:29,555 jpeg-test.py:577 test] Frame id :264, Row size:2167.4931640625 KB, Type: I, Offloading:True, jpeg_size size:163.462890625
+[2022-11-10 21:38:29,555 jpeg-test.py:579 test] Acc_jpeg:85.85071563720703
+[2022-11-10 21:38:29,575 jpeg-test.py:588 test] ===> mAP 59.620
+[2022-11-10 21:38:30,804 jpeg-test.py:577 test] Frame id :265, Row size:2158.6015625 KB, Type: I, Offloading:True, jpeg_size size:161.5126953125
+[2022-11-10 21:38:30,804 jpeg-test.py:579 test] Acc_jpeg:87.43786811828613
+[2022-11-10 21:38:30,827 jpeg-test.py:588 test] ===> mAP 59.600
+[2022-11-10 21:38:31,977 jpeg-test.py:577 test] Frame id :266, Row size:2150.1669921875 KB, Type: I, Offloading:True, jpeg_size size:160.1220703125
+[2022-11-10 21:38:31,977 jpeg-test.py:579 test] Acc_jpeg:84.65228080749512
+[2022-11-10 21:38:31,999 jpeg-test.py:588 test] ===> mAP 59.570
+[2022-11-10 21:38:33,164 jpeg-test.py:577 test] Frame id :267, Row size:2172.185546875 KB, Type: I, Offloading:True, jpeg_size size:162.8603515625
+[2022-11-10 21:38:33,165 jpeg-test.py:579 test] Acc_jpeg:90.70167541503906
+[2022-11-10 21:38:33,185 jpeg-test.py:588 test] ===> mAP 59.570
+[2022-11-10 21:38:34,367 jpeg-test.py:577 test] Frame id :268, Row size:2178.916015625 KB, Type: I, Offloading:True, jpeg_size size:163.7197265625
+[2022-11-10 21:38:34,367 jpeg-test.py:579 test] Acc_jpeg:89.07246589660645
+[2022-11-10 21:38:34,390 jpeg-test.py:588 test] ===> mAP 59.570
+[2022-11-10 21:38:35,571 jpeg-test.py:577 test] Frame id :269, Row size:2200.052734375 KB, Type: I, Offloading:True, jpeg_size size:166.6259765625
+[2022-11-10 21:38:35,571 jpeg-test.py:579 test] Acc_jpeg:92.19198226928711
+[2022-11-10 21:38:35,592 jpeg-test.py:588 test] ===> mAP 59.570
+[2022-11-10 21:38:36,798 jpeg-test.py:577 test] Frame id :270, Row size:2194.197265625 KB, Type: I, Offloading:True, jpeg_size size:165.826171875
+[2022-11-10 21:38:36,798 jpeg-test.py:579 test] Acc_jpeg:92.74435043334961
+[2022-11-10 21:38:36,820 jpeg-test.py:588 test] ===> mAP 59.600
+[2022-11-10 21:38:38,009 jpeg-test.py:577 test] Frame id :271, Row size:2187.0859375 KB, Type: I, Offloading:True, jpeg_size size:163.5048828125
+[2022-11-10 21:38:38,009 jpeg-test.py:579 test] Acc_jpeg:92.13800430297852
+[2022-11-10 21:38:38,033 jpeg-test.py:588 test] ===> mAP 59.620
+[2022-11-10 21:38:39,218 jpeg-test.py:577 test] Frame id :272, Row size:2195.4501953125 KB, Type: I, Offloading:True, jpeg_size size:165.4892578125
+[2022-11-10 21:38:39,218 jpeg-test.py:579 test] Acc_jpeg:94.83494758605957
+[2022-11-10 21:38:39,242 jpeg-test.py:588 test] ===> mAP 59.640
+[2022-11-10 21:38:40,387 jpeg-test.py:577 test] Frame id :273, Row size:2198.5966796875 KB, Type: I, Offloading:True, jpeg_size size:165.3701171875
+[2022-11-10 21:38:40,388 jpeg-test.py:579 test] Acc_jpeg:89.25628662109375
+[2022-11-10 21:38:40,410 jpeg-test.py:588 test] ===> mAP 59.640
+[2022-11-10 21:38:41,566 jpeg-test.py:577 test] Frame id :274, Row size:2197.01171875 KB, Type: I, Offloading:True, jpeg_size size:165.5849609375
+[2022-11-10 21:38:41,566 jpeg-test.py:579 test] Acc_jpeg:93.71895790100098
+[2022-11-10 21:38:41,588 jpeg-test.py:588 test] ===> mAP 59.660
+[2022-11-10 21:38:42,791 jpeg-test.py:577 test] Frame id :275, Row size:2196.486328125 KB, Type: I, Offloading:True, jpeg_size size:165.64453125
+[2022-11-10 21:38:42,791 jpeg-test.py:579 test] Acc_jpeg:92.61517524719238
+[2022-11-10 21:38:42,814 jpeg-test.py:588 test] ===> mAP 59.680
+[2022-11-10 21:38:44,003 jpeg-test.py:577 test] Frame id :276, Row size:2196.8828125 KB, Type: I, Offloading:True, jpeg_size size:166.306640625
+[2022-11-10 21:38:44,004 jpeg-test.py:579 test] Acc_jpeg:90.93189239501953
+[2022-11-10 21:38:44,026 jpeg-test.py:588 test] ===> mAP 59.690
+[2022-11-10 21:38:45,228 jpeg-test.py:577 test] Frame id :277, Row size:2193.54296875 KB, Type: I, Offloading:True, jpeg_size size:165.517578125
+[2022-11-10 21:38:45,229 jpeg-test.py:579 test] Acc_jpeg:91.98322296142578
+[2022-11-10 21:38:45,253 jpeg-test.py:588 test] ===> mAP 59.710
+[2022-11-10 21:38:46,405 jpeg-test.py:577 test] Frame id :278, Row size:2197.0234375 KB, Type: I, Offloading:True, jpeg_size size:166.8740234375
+[2022-11-10 21:38:46,405 jpeg-test.py:579 test] Acc_jpeg:92.55995750427246
+[2022-11-10 21:38:46,426 jpeg-test.py:588 test] ===> mAP 59.740
+[2022-11-10 21:38:47,616 jpeg-test.py:577 test] Frame id :279, Row size:2203.064453125 KB, Type: I, Offloading:True, jpeg_size size:167.83203125
+[2022-11-10 21:38:47,616 jpeg-test.py:579 test] Acc_jpeg:91.36953353881836
+[2022-11-10 21:38:47,637 jpeg-test.py:588 test] ===> mAP 59.770
+[2022-11-10 21:38:48,841 jpeg-test.py:577 test] Frame id :280, Row size:2206.8466796875 KB, Type: I, Offloading:True, jpeg_size size:169.4169921875
+[2022-11-10 21:38:48,842 jpeg-test.py:579 test] Acc_jpeg:92.5236701965332
+[2022-11-10 21:38:48,864 jpeg-test.py:588 test] ===> mAP 59.800
+[2022-11-10 21:38:50,081 jpeg-test.py:577 test] Frame id :281, Row size:2214.4990234375 KB, Type: I, Offloading:True, jpeg_size size:170.6123046875
+[2022-11-10 21:38:50,081 jpeg-test.py:579 test] Acc_jpeg:93.53737831115723
+[2022-11-10 21:38:50,104 jpeg-test.py:588 test] ===> mAP 59.820
+[2022-11-10 21:38:51,265 jpeg-test.py:577 test] Frame id :282, Row size:2219.1376953125 KB, Type: I, Offloading:True, jpeg_size size:171.6279296875
+[2022-11-10 21:38:51,265 jpeg-test.py:579 test] Acc_jpeg:92.1973705291748
+[2022-11-10 21:38:51,286 jpeg-test.py:588 test] ===> mAP 59.820
+[2022-11-10 21:38:52,472 jpeg-test.py:577 test] Frame id :283, Row size:2226.384765625 KB, Type: I, Offloading:True, jpeg_size size:173.337890625
+[2022-11-10 21:38:52,472 jpeg-test.py:579 test] Acc_jpeg:91.55049324035645
+[2022-11-10 21:38:52,494 jpeg-test.py:588 test] ===> mAP 59.840
+[2022-11-10 21:38:53,671 jpeg-test.py:577 test] Frame id :284, Row size:2248.318359375 KB, Type: I, Offloading:True, jpeg_size size:180.3388671875
+[2022-11-10 21:38:53,671 jpeg-test.py:579 test] Acc_jpeg:90.4475212097168
+[2022-11-10 21:38:53,692 jpeg-test.py:588 test] ===> mAP 59.830
+[2022-11-10 21:38:54,890 jpeg-test.py:577 test] Frame id :285, Row size:2256.8564453125 KB, Type: I, Offloading:True, jpeg_size size:182.255859375
+[2022-11-10 21:38:54,890 jpeg-test.py:579 test] Acc_jpeg:88.82889747619629
+[2022-11-10 21:38:54,912 jpeg-test.py:588 test] ===> mAP 59.780
+[2022-11-10 21:38:56,098 jpeg-test.py:577 test] Frame id :286, Row size:2266.8955078125 KB, Type: I, Offloading:True, jpeg_size size:184.58984375
+[2022-11-10 21:38:56,098 jpeg-test.py:579 test] Acc_jpeg:89.4582748413086
+[2022-11-10 21:38:56,118 jpeg-test.py:588 test] ===> mAP 59.770
+[2022-11-10 21:38:57,317 jpeg-test.py:577 test] Frame id :287, Row size:2310.87109375 KB, Type: I, Offloading:True, jpeg_size size:191.01953125
+[2022-11-10 21:38:57,317 jpeg-test.py:579 test] Acc_jpeg:93.65644454956055
+[2022-11-10 21:38:57,338 jpeg-test.py:588 test] ===> mAP 59.790
+[2022-11-10 21:38:58,553 jpeg-test.py:577 test] Frame id :288, Row size:2296.1240234375 KB, Type: I, Offloading:True, jpeg_size size:183.4697265625
+[2022-11-10 21:38:58,553 jpeg-test.py:579 test] Acc_jpeg:96.74859046936035
+[2022-11-10 21:38:58,575 jpeg-test.py:588 test] ===> mAP 59.830
+[2022-11-10 21:38:59,781 jpeg-test.py:577 test] Frame id :289, Row size:2342.94140625 KB, Type: I, Offloading:True, jpeg_size size:189.60546875
+[2022-11-10 21:38:59,781 jpeg-test.py:579 test] Acc_jpeg:96.75016403198242
+[2022-11-10 21:38:59,803 jpeg-test.py:588 test] ===> mAP 59.860
+[2022-11-10 21:39:01,054 jpeg-test.py:577 test] Frame id :290, Row size:2358.1240234375 KB, Type: I, Offloading:True, jpeg_size size:196.3115234375
+[2022-11-10 21:39:01,054 jpeg-test.py:579 test] Acc_jpeg:94.94361877441406
+[2022-11-10 21:39:01,076 jpeg-test.py:588 test] ===> mAP 59.890
+[2022-11-10 21:39:02,273 jpeg-test.py:577 test] Frame id :291, Row size:2336.4658203125 KB, Type: I, Offloading:True, jpeg_size size:195.1689453125
+[2022-11-10 21:39:02,273 jpeg-test.py:579 test] Acc_jpeg:94.3730354309082
+[2022-11-10 21:39:02,293 jpeg-test.py:588 test] ===> mAP 59.900
+[2022-11-10 21:39:03,508 jpeg-test.py:577 test] Frame id :292, Row size:2341.126953125 KB, Type: I, Offloading:True, jpeg_size size:196.369140625
+[2022-11-10 21:39:03,508 jpeg-test.py:579 test] Acc_jpeg:94.77453231811523
+[2022-11-10 21:39:03,529 jpeg-test.py:588 test] ===> mAP 59.930
+[2022-11-10 21:39:04,714 jpeg-test.py:577 test] Frame id :293, Row size:2317.1396484375 KB, Type: I, Offloading:True, jpeg_size size:192.9052734375
+[2022-11-10 21:39:04,714 jpeg-test.py:579 test] Acc_jpeg:93.80679130554199
+[2022-11-10 21:39:04,735 jpeg-test.py:588 test] ===> mAP 59.950
+[2022-11-10 21:39:05,925 jpeg-test.py:577 test] Frame id :294, Row size:2316.9365234375 KB, Type: I, Offloading:True, jpeg_size size:192.2216796875
+[2022-11-10 21:39:05,926 jpeg-test.py:579 test] Acc_jpeg:92.70119667053223
+[2022-11-10 21:39:05,947 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:39:07,119 jpeg-test.py:577 test] Frame id :295, Row size:2312.7880859375 KB, Type: I, Offloading:True, jpeg_size size:191.6630859375
+[2022-11-10 21:39:07,119 jpeg-test.py:579 test] Acc_jpeg:89.9172306060791
+[2022-11-10 21:39:07,140 jpeg-test.py:588 test] ===> mAP 59.950
+[2022-11-10 21:39:08,328 jpeg-test.py:577 test] Frame id :296, Row size:2311.9931640625 KB, Type: I, Offloading:True, jpeg_size size:191.63671875
+[2022-11-10 21:39:08,328 jpeg-test.py:579 test] Acc_jpeg:91.13240242004395
+[2022-11-10 21:39:08,349 jpeg-test.py:588 test] ===> mAP 59.950
+[2022-11-10 21:39:09,571 jpeg-test.py:577 test] Frame id :297, Row size:2328.7294921875 KB, Type: I, Offloading:True, jpeg_size size:194.310546875
+[2022-11-10 21:39:09,571 jpeg-test.py:579 test] Acc_jpeg:92.50702857971191
+[2022-11-10 21:39:09,593 jpeg-test.py:588 test] ===> mAP 59.940
+[2022-11-10 21:39:10,787 jpeg-test.py:577 test] Frame id :298, Row size:2316.5673828125 KB, Type: I, Offloading:True, jpeg_size size:188.7333984375
+[2022-11-10 21:39:10,788 jpeg-test.py:579 test] Acc_jpeg:96.05402946472168
+[2022-11-10 21:39:10,809 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:39:11,997 jpeg-test.py:577 test] Frame id :299, Row size:2309.3974609375 KB, Type: I, Offloading:True, jpeg_size size:187.251953125
+[2022-11-10 21:39:11,997 jpeg-test.py:579 test] Acc_jpeg:94.62542533874512
+[2022-11-10 21:39:12,020 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:13,211 jpeg-test.py:577 test] Frame id :300, Row size:2326.2099609375 KB, Type: I, Offloading:True, jpeg_size size:194.2138671875
+[2022-11-10 21:39:13,211 jpeg-test.py:579 test] Acc_jpeg:93.70203018188477
+[2022-11-10 21:39:13,232 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:39:14,424 jpeg-test.py:577 test] Frame id :301, Row size:2303.02734375 KB, Type: I, Offloading:True, jpeg_size size:191.1474609375
+[2022-11-10 21:39:14,424 jpeg-test.py:579 test] Acc_jpeg:92.18268394470215
+[2022-11-10 21:39:14,446 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:39:15,633 jpeg-test.py:577 test] Frame id :302, Row size:2308.1962890625 KB, Type: I, Offloading:True, jpeg_size size:192.01171875
+[2022-11-10 21:39:15,633 jpeg-test.py:579 test] Acc_jpeg:92.90452003479004
+[2022-11-10 21:39:15,654 jpeg-test.py:588 test] ===> mAP 60.020
+[2022-11-10 21:39:16,839 jpeg-test.py:577 test] Frame id :303, Row size:2314.7177734375 KB, Type: I, Offloading:True, jpeg_size size:192.890625
+[2022-11-10 21:39:16,839 jpeg-test.py:579 test] Acc_jpeg:92.50411987304688
+[2022-11-10 21:39:16,860 jpeg-test.py:588 test] ===> mAP 60.030
+[2022-11-10 21:39:18,081 jpeg-test.py:577 test] Frame id :304, Row size:2315.5146484375 KB, Type: I, Offloading:True, jpeg_size size:190.669921875
+[2022-11-10 21:39:18,082 jpeg-test.py:579 test] Acc_jpeg:92.19217300415039
+[2022-11-10 21:39:18,103 jpeg-test.py:588 test] ===> mAP 60.020
+[2022-11-10 21:39:19,279 jpeg-test.py:577 test] Frame id :305, Row size:2317.0048828125 KB, Type: I, Offloading:True, jpeg_size size:189.291015625
+[2022-11-10 21:39:19,279 jpeg-test.py:579 test] Acc_jpeg:92.90189743041992
+[2022-11-10 21:39:19,300 jpeg-test.py:588 test] ===> mAP 60.020
+[2022-11-10 21:39:20,489 jpeg-test.py:577 test] Frame id :306, Row size:2316.4384765625 KB, Type: I, Offloading:True, jpeg_size size:189.021484375
+[2022-11-10 21:39:20,489 jpeg-test.py:579 test] Acc_jpeg:93.66021156311035
+[2022-11-10 21:39:20,513 jpeg-test.py:588 test] ===> mAP 60.020
+[2022-11-10 21:39:21,723 jpeg-test.py:577 test] Frame id :307, Row size:2307.5224609375 KB, Type: I, Offloading:True, jpeg_size size:185.75390625
+[2022-11-10 21:39:21,723 jpeg-test.py:579 test] Acc_jpeg:94.30270195007324
+[2022-11-10 21:39:21,744 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:39:22,984 jpeg-test.py:577 test] Frame id :308, Row size:2312.0498046875 KB, Type: I, Offloading:True, jpeg_size size:188.609375
+[2022-11-10 21:39:22,984 jpeg-test.py:579 test] Acc_jpeg:93.65859031677246
+[2022-11-10 21:39:23,008 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:39:24,199 jpeg-test.py:577 test] Frame id :309, Row size:2306.3681640625 KB, Type: I, Offloading:True, jpeg_size size:189.9912109375
+[2022-11-10 21:39:24,199 jpeg-test.py:579 test] Acc_jpeg:93.31254959106445
+[2022-11-10 21:39:24,220 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:25,454 jpeg-test.py:577 test] Frame id :310, Row size:2314.19921875 KB, Type: I, Offloading:True, jpeg_size size:191.939453125
+[2022-11-10 21:39:25,454 jpeg-test.py:579 test] Acc_jpeg:93.69473457336426
+[2022-11-10 21:39:25,477 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:39:26,727 jpeg-test.py:577 test] Frame id :311, Row size:2306.513671875 KB, Type: I, Offloading:True, jpeg_size size:190.935546875
+[2022-11-10 21:39:26,727 jpeg-test.py:579 test] Acc_jpeg:93.61295700073242
+[2022-11-10 21:39:26,751 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:39:27,986 jpeg-test.py:577 test] Frame id :312, Row size:2305.78125 KB, Type: I, Offloading:True, jpeg_size size:191.3046875
+[2022-11-10 21:39:27,986 jpeg-test.py:579 test] Acc_jpeg:94.5333480834961
+[2022-11-10 21:39:28,006 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:29,218 jpeg-test.py:577 test] Frame id :313, Row size:2306.2275390625 KB, Type: I, Offloading:True, jpeg_size size:191.23828125
+[2022-11-10 21:39:29,218 jpeg-test.py:579 test] Acc_jpeg:93.78190040588379
+[2022-11-10 21:39:29,239 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:30,444 jpeg-test.py:577 test] Frame id :314, Row size:2304.5947265625 KB, Type: I, Offloading:True, jpeg_size size:190.853515625
+[2022-11-10 21:39:30,445 jpeg-test.py:579 test] Acc_jpeg:93.44892501831055
+[2022-11-10 21:39:30,466 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:31,655 jpeg-test.py:577 test] Frame id :315, Row size:2324.4814453125 KB, Type: I, Offloading:True, jpeg_size size:194.0693359375
+[2022-11-10 21:39:31,655 jpeg-test.py:579 test] Acc_jpeg:92.8520679473877
+[2022-11-10 21:39:31,676 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:39:32,861 jpeg-test.py:577 test] Frame id :316, Row size:2320.3876953125 KB, Type: I, Offloading:True, jpeg_size size:192.814453125
+[2022-11-10 21:39:32,861 jpeg-test.py:579 test] Acc_jpeg:91.09058380126953
+[2022-11-10 21:39:32,881 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:39:34,073 jpeg-test.py:577 test] Frame id :317, Row size:2310.908203125 KB, Type: I, Offloading:True, jpeg_size size:191.369140625
+[2022-11-10 21:39:34,073 jpeg-test.py:579 test] Acc_jpeg:93.69702339172363
+[2022-11-10 21:39:34,095 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:39:35,272 jpeg-test.py:577 test] Frame id :318, Row size:2308.896484375 KB, Type: I, Offloading:True, jpeg_size size:191.033203125
+[2022-11-10 21:39:35,272 jpeg-test.py:579 test] Acc_jpeg:89.31236267089844
+[2022-11-10 21:39:35,293 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:36,502 jpeg-test.py:577 test] Frame id :319, Row size:2309.4287109375 KB, Type: I, Offloading:True, jpeg_size size:191.6474609375
+[2022-11-10 21:39:36,502 jpeg-test.py:579 test] Acc_jpeg:91.96691513061523
+[2022-11-10 21:39:36,525 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:39:37,706 jpeg-test.py:577 test] Frame id :320, Row size:2312.3916015625 KB, Type: I, Offloading:True, jpeg_size size:192.1396484375
+[2022-11-10 21:39:37,706 jpeg-test.py:579 test] Acc_jpeg:90.54474830627441
+[2022-11-10 21:39:37,727 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:39:38,906 jpeg-test.py:577 test] Frame id :321, Row size:2316.1953125 KB, Type: I, Offloading:True, jpeg_size size:192.5537109375
+[2022-11-10 21:39:38,906 jpeg-test.py:579 test] Acc_jpeg:89.2357349395752
+[2022-11-10 21:39:38,927 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:39:40,102 jpeg-test.py:577 test] Frame id :322, Row size:2319.5478515625 KB, Type: I, Offloading:True, jpeg_size size:191.90234375
+[2022-11-10 21:39:40,102 jpeg-test.py:579 test] Acc_jpeg:92.12737083435059
+[2022-11-10 21:39:40,122 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:39:41,350 jpeg-test.py:577 test] Frame id :323, Row size:2309.966796875 KB, Type: I, Offloading:True, jpeg_size size:185.765625
+[2022-11-10 21:39:41,350 jpeg-test.py:579 test] Acc_jpeg:93.1511402130127
+[2022-11-10 21:39:41,373 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:39:42,560 jpeg-test.py:577 test] Frame id :324, Row size:2310.591796875 KB, Type: I, Offloading:True, jpeg_size size:185.1728515625
+[2022-11-10 21:39:42,560 jpeg-test.py:579 test] Acc_jpeg:95.47715187072754
+[2022-11-10 21:39:42,581 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:39:43,799 jpeg-test.py:577 test] Frame id :325, Row size:2312.921875 KB, Type: I, Offloading:True, jpeg_size size:185.2138671875
+[2022-11-10 21:39:43,799 jpeg-test.py:579 test] Acc_jpeg:95.20354270935059
+[2022-11-10 21:39:43,823 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:39:45,030 jpeg-test.py:577 test] Frame id :326, Row size:2315.2763671875 KB, Type: I, Offloading:True, jpeg_size size:184.9482421875
+[2022-11-10 21:39:45,030 jpeg-test.py:579 test] Acc_jpeg:95.90115547180176
+[2022-11-10 21:39:45,051 jpeg-test.py:588 test] ===> mAP 60.030
+[2022-11-10 21:39:46,244 jpeg-test.py:577 test] Frame id :327, Row size:2272.0927734375 KB, Type: I, Offloading:True, jpeg_size size:179.609375
+[2022-11-10 21:39:46,244 jpeg-test.py:579 test] Acc_jpeg:93.84455680847168
+[2022-11-10 21:39:46,265 jpeg-test.py:588 test] ===> mAP 60.040
+[2022-11-10 21:39:47,469 jpeg-test.py:577 test] Frame id :328, Row size:2279.3994140625 KB, Type: I, Offloading:True, jpeg_size size:182.0478515625
+[2022-11-10 21:39:47,469 jpeg-test.py:579 test] Acc_jpeg:94.38328742980957
+[2022-11-10 21:39:47,491 jpeg-test.py:588 test] ===> mAP 60.040
+[2022-11-10 21:39:48,688 jpeg-test.py:577 test] Frame id :329, Row size:2257.4267578125 KB, Type: I, Offloading:True, jpeg_size size:178.275390625
+[2022-11-10 21:39:48,689 jpeg-test.py:579 test] Acc_jpeg:93.34912300109863
+[2022-11-10 21:39:48,709 jpeg-test.py:588 test] ===> mAP 60.040
+[2022-11-10 21:39:49,929 jpeg-test.py:577 test] Frame id :330, Row size:2261.0517578125 KB, Type: I, Offloading:True, jpeg_size size:178.947265625
+[2022-11-10 21:39:49,929 jpeg-test.py:579 test] Acc_jpeg:94.24285888671875
+[2022-11-10 21:39:49,952 jpeg-test.py:588 test] ===> mAP 60.050
+[2022-11-10 21:39:51,166 jpeg-test.py:577 test] Frame id :331, Row size:2280.216796875 KB, Type: I, Offloading:True, jpeg_size size:184.8798828125
+[2022-11-10 21:39:51,166 jpeg-test.py:579 test] Acc_jpeg:92.7398681640625
+[2022-11-10 21:39:51,188 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:39:52,397 jpeg-test.py:577 test] Frame id :332, Row size:2285.109375 KB, Type: I, Offloading:True, jpeg_size size:185.9462890625
+[2022-11-10 21:39:52,397 jpeg-test.py:579 test] Acc_jpeg:93.71323585510254
+[2022-11-10 21:39:52,419 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:39:53,658 jpeg-test.py:577 test] Frame id :333, Row size:2284.1064453125 KB, Type: I, Offloading:True, jpeg_size size:185.8251953125
+[2022-11-10 21:39:53,658 jpeg-test.py:579 test] Acc_jpeg:90.61398506164551
+[2022-11-10 21:39:53,682 jpeg-test.py:588 test] ===> mAP 60.060
+[2022-11-10 21:39:54,923 jpeg-test.py:577 test] Frame id :334, Row size:2281.0498046875 KB, Type: I, Offloading:True, jpeg_size size:185.5634765625
+[2022-11-10 21:39:54,923 jpeg-test.py:579 test] Acc_jpeg:90.25969505310059
+[2022-11-10 21:39:54,945 jpeg-test.py:588 test] ===> mAP 60.060
+[2022-11-10 21:39:56,126 jpeg-test.py:577 test] Frame id :335, Row size:2318.4541015625 KB, Type: I, Offloading:True, jpeg_size size:191.8681640625
+[2022-11-10 21:39:56,127 jpeg-test.py:579 test] Acc_jpeg:90.85288047790527
+[2022-11-10 21:39:56,147 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:39:57,353 jpeg-test.py:577 test] Frame id :336, Row size:2301.3330078125 KB, Type: I, Offloading:True, jpeg_size size:187.076171875
+[2022-11-10 21:39:57,353 jpeg-test.py:579 test] Acc_jpeg:92.61703491210938
+[2022-11-10 21:39:57,375 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:39:58,577 jpeg-test.py:577 test] Frame id :337, Row size:2352.7919921875 KB, Type: I, Offloading:True, jpeg_size size:189.4833984375
+[2022-11-10 21:39:58,577 jpeg-test.py:579 test] Acc_jpeg:95.6883430480957
+[2022-11-10 21:39:58,598 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:39:59,788 jpeg-test.py:577 test] Frame id :338, Row size:2352.42578125 KB, Type: I, Offloading:True, jpeg_size size:189.7841796875
+[2022-11-10 21:39:59,788 jpeg-test.py:579 test] Acc_jpeg:95.69754600524902
+[2022-11-10 21:39:59,809 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:40:01,023 jpeg-test.py:577 test] Frame id :339, Row size:2355.8359375 KB, Type: I, Offloading:True, jpeg_size size:190.2802734375
+[2022-11-10 21:40:01,023 jpeg-test.py:579 test] Acc_jpeg:97.09768295288086
+[2022-11-10 21:40:01,044 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:40:02,276 jpeg-test.py:577 test] Frame id :340, Row size:2358.2578125 KB, Type: I, Offloading:True, jpeg_size size:190.296875
+[2022-11-10 21:40:02,276 jpeg-test.py:579 test] Acc_jpeg:96.48866653442383
+[2022-11-10 21:40:02,300 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:40:03,530 jpeg-test.py:577 test] Frame id :341, Row size:2293.0048828125 KB, Type: I, Offloading:True, jpeg_size size:182.662109375
+[2022-11-10 21:40:03,530 jpeg-test.py:579 test] Acc_jpeg:95.45435905456543
+[2022-11-10 21:40:03,552 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:40:04,752 jpeg-test.py:577 test] Frame id :342, Row size:2295.2373046875 KB, Type: I, Offloading:True, jpeg_size size:183.08984375
+[2022-11-10 21:40:04,752 jpeg-test.py:579 test] Acc_jpeg:95.18508911132812
+[2022-11-10 21:40:04,773 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:40:05,996 jpeg-test.py:577 test] Frame id :343, Row size:2259.4287109375 KB, Type: I, Offloading:True, jpeg_size size:178.28515625
+[2022-11-10 21:40:05,996 jpeg-test.py:579 test] Acc_jpeg:94.57292556762695
+[2022-11-10 21:40:06,018 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:40:07,213 jpeg-test.py:577 test] Frame id :344, Row size:2260.91015625 KB, Type: I, Offloading:True, jpeg_size size:178.3515625
+[2022-11-10 21:40:07,213 jpeg-test.py:579 test] Acc_jpeg:95.1420783996582
+[2022-11-10 21:40:07,234 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:40:08,460 jpeg-test.py:577 test] Frame id :345, Row size:2252.0185546875 KB, Type: I, Offloading:True, jpeg_size size:177.169921875
+[2022-11-10 21:40:08,460 jpeg-test.py:579 test] Acc_jpeg:94.05641555786133
+[2022-11-10 21:40:08,482 jpeg-test.py:588 test] ===> mAP 60.100
+[2022-11-10 21:40:09,695 jpeg-test.py:577 test] Frame id :346, Row size:2253.1669921875 KB, Type: I, Offloading:True, jpeg_size size:176.9453125
+[2022-11-10 21:40:09,695 jpeg-test.py:579 test] Acc_jpeg:93.03488731384277
+[2022-11-10 21:40:09,716 jpeg-test.py:588 test] ===> mAP 60.090
+[2022-11-10 21:40:10,880 jpeg-test.py:577 test] Frame id :347, Row size:2251.5810546875 KB, Type: I, Offloading:True, jpeg_size size:176.55078125
+[2022-11-10 21:40:10,880 jpeg-test.py:579 test] Acc_jpeg:93.14861297607422
+[2022-11-10 21:40:10,901 jpeg-test.py:588 test] ===> mAP 60.080
+[2022-11-10 21:40:12,133 jpeg-test.py:577 test] Frame id :348, Row size:2253.494140625 KB, Type: I, Offloading:True, jpeg_size size:176.85546875
+[2022-11-10 21:40:12,133 jpeg-test.py:579 test] Acc_jpeg:93.30973625183105
+[2022-11-10 21:40:12,155 jpeg-test.py:588 test] ===> mAP 60.070
+[2022-11-10 21:40:13,364 jpeg-test.py:577 test] Frame id :349, Row size:2255.259765625 KB, Type: I, Offloading:True, jpeg_size size:176.798828125
+[2022-11-10 21:40:13,364 jpeg-test.py:579 test] Acc_jpeg:91.73808097839355
+[2022-11-10 21:40:13,385 jpeg-test.py:588 test] ===> mAP 60.060
+[2022-11-10 21:40:14,580 jpeg-test.py:577 test] Frame id :350, Row size:2264.3876953125 KB, Type: I, Offloading:True, jpeg_size size:178.7626953125
+[2022-11-10 21:40:14,580 jpeg-test.py:579 test] Acc_jpeg:91.74647331237793
+[2022-11-10 21:40:14,601 jpeg-test.py:588 test] ===> mAP 60.030
+[2022-11-10 21:40:15,785 jpeg-test.py:577 test] Frame id :351, Row size:2253.0771484375 KB, Type: I, Offloading:True, jpeg_size size:175.5888671875
+[2022-11-10 21:40:15,785 jpeg-test.py:579 test] Acc_jpeg:91.1290168762207
+[2022-11-10 21:40:15,806 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:40:16,985 jpeg-test.py:577 test] Frame id :352, Row size:2249.6240234375 KB, Type: I, Offloading:True, jpeg_size size:174.5
+[2022-11-10 21:40:16,985 jpeg-test.py:579 test] Acc_jpeg:90.55337905883789
+[2022-11-10 21:40:17,006 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:40:18,190 jpeg-test.py:577 test] Frame id :353, Row size:2260.916015625 KB, Type: I, Offloading:True, jpeg_size size:176.224609375
+[2022-11-10 21:40:18,190 jpeg-test.py:579 test] Acc_jpeg:91.09539985656738
+[2022-11-10 21:40:18,211 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:40:19,407 jpeg-test.py:577 test] Frame id :354, Row size:2258.2666015625 KB, Type: I, Offloading:True, jpeg_size size:176.365234375
+[2022-11-10 21:40:19,407 jpeg-test.py:579 test] Acc_jpeg:91.03312492370605
+[2022-11-10 21:40:19,427 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:20,644 jpeg-test.py:577 test] Frame id :355, Row size:2257.1865234375 KB, Type: I, Offloading:True, jpeg_size size:175.740234375
+[2022-11-10 21:40:20,644 jpeg-test.py:579 test] Acc_jpeg:91.3820743560791
+[2022-11-10 21:40:20,668 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:21,896 jpeg-test.py:577 test] Frame id :356, Row size:2257.158203125 KB, Type: I, Offloading:True, jpeg_size size:175.5498046875
+[2022-11-10 21:40:21,896 jpeg-test.py:579 test] Acc_jpeg:91.24646186828613
+[2022-11-10 21:40:21,920 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:23,152 jpeg-test.py:577 test] Frame id :357, Row size:2257.142578125 KB, Type: I, Offloading:True, jpeg_size size:176.3466796875
+[2022-11-10 21:40:23,152 jpeg-test.py:579 test] Acc_jpeg:91.70413017272949
+[2022-11-10 21:40:23,176 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:24,374 jpeg-test.py:577 test] Frame id :358, Row size:2257.984375 KB, Type: I, Offloading:True, jpeg_size size:176.470703125
+[2022-11-10 21:40:24,374 jpeg-test.py:579 test] Acc_jpeg:90.46130180358887
+[2022-11-10 21:40:24,395 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:25,619 jpeg-test.py:577 test] Frame id :359, Row size:2259.5673828125 KB, Type: I, Offloading:True, jpeg_size size:176.9150390625
+[2022-11-10 21:40:25,619 jpeg-test.py:579 test] Acc_jpeg:90.58170318603516
+[2022-11-10 21:40:25,642 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:26,830 jpeg-test.py:577 test] Frame id :360, Row size:2260.01171875 KB, Type: I, Offloading:True, jpeg_size size:177.2060546875
+[2022-11-10 21:40:26,830 jpeg-test.py:579 test] Acc_jpeg:90.28949737548828
+[2022-11-10 21:40:26,850 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:28,030 jpeg-test.py:577 test] Frame id :361, Row size:2257.66015625 KB, Type: I, Offloading:True, jpeg_size size:177.34375
+[2022-11-10 21:40:28,030 jpeg-test.py:579 test] Acc_jpeg:91.8278694152832
+[2022-11-10 21:40:28,051 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:29,237 jpeg-test.py:577 test] Frame id :362, Row size:2256.7216796875 KB, Type: I, Offloading:True, jpeg_size size:177.5185546875
+[2022-11-10 21:40:29,237 jpeg-test.py:579 test] Acc_jpeg:91.74971580505371
+[2022-11-10 21:40:29,258 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:30,441 jpeg-test.py:577 test] Frame id :363, Row size:2254.5322265625 KB, Type: I, Offloading:True, jpeg_size size:177.431640625
+[2022-11-10 21:40:30,441 jpeg-test.py:579 test] Acc_jpeg:90.94877243041992
+[2022-11-10 21:40:30,461 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:31,651 jpeg-test.py:577 test] Frame id :364, Row size:2250.818359375 KB, Type: I, Offloading:True, jpeg_size size:177.3115234375
+[2022-11-10 21:40:31,651 jpeg-test.py:579 test] Acc_jpeg:92.5912857055664
+[2022-11-10 21:40:31,672 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:40:32,854 jpeg-test.py:577 test] Frame id :365, Row size:2252.91015625 KB, Type: I, Offloading:True, jpeg_size size:176.60546875
+[2022-11-10 21:40:32,854 jpeg-test.py:579 test] Acc_jpeg:90.62118530273438
+[2022-11-10 21:40:32,874 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:34,088 jpeg-test.py:577 test] Frame id :366, Row size:2250.91796875 KB, Type: I, Offloading:True, jpeg_size size:176.740234375
+[2022-11-10 21:40:34,088 jpeg-test.py:579 test] Acc_jpeg:92.96770095825195
+[2022-11-10 21:40:34,109 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:40:35,338 jpeg-test.py:577 test] Frame id :367, Row size:2250.5947265625 KB, Type: I, Offloading:True, jpeg_size size:176.9853515625
+[2022-11-10 21:40:35,338 jpeg-test.py:579 test] Acc_jpeg:91.91184043884277
+[2022-11-10 21:40:35,360 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:36,537 jpeg-test.py:577 test] Frame id :368, Row size:2253.9013671875 KB, Type: I, Offloading:True, jpeg_size size:177.3330078125
+[2022-11-10 21:40:36,537 jpeg-test.py:579 test] Acc_jpeg:91.20092391967773
+[2022-11-10 21:40:36,557 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:37,772 jpeg-test.py:577 test] Frame id :369, Row size:2252.1767578125 KB, Type: I, Offloading:True, jpeg_size size:176.7724609375
+[2022-11-10 21:40:37,772 jpeg-test.py:579 test] Acc_jpeg:92.1419620513916
+[2022-11-10 21:40:37,794 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:39,013 jpeg-test.py:577 test] Frame id :370, Row size:2250.283203125 KB, Type: I, Offloading:True, jpeg_size size:176.9716796875
+[2022-11-10 21:40:39,013 jpeg-test.py:579 test] Acc_jpeg:94.46964263916016
+[2022-11-10 21:40:39,036 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:40,206 jpeg-test.py:577 test] Frame id :371, Row size:2247.828125 KB, Type: I, Offloading:True, jpeg_size size:176.6435546875
+[2022-11-10 21:40:40,206 jpeg-test.py:579 test] Acc_jpeg:92.16604232788086
+[2022-11-10 21:40:40,226 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:40:41,401 jpeg-test.py:577 test] Frame id :372, Row size:2245.3779296875 KB, Type: I, Offloading:True, jpeg_size size:175.9501953125
+[2022-11-10 21:40:41,401 jpeg-test.py:579 test] Acc_jpeg:92.34938621520996
+[2022-11-10 21:40:41,421 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:40:42,611 jpeg-test.py:577 test] Frame id :373, Row size:2243.0673828125 KB, Type: I, Offloading:True, jpeg_size size:176.1025390625
+[2022-11-10 21:40:42,611 jpeg-test.py:579 test] Acc_jpeg:93.29314231872559
+[2022-11-10 21:40:42,632 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:43,852 jpeg-test.py:577 test] Frame id :374, Row size:2242.3857421875 KB, Type: I, Offloading:True, jpeg_size size:175.5517578125
+[2022-11-10 21:40:43,852 jpeg-test.py:579 test] Acc_jpeg:93.2765007019043
+[2022-11-10 21:40:43,877 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:45,042 jpeg-test.py:577 test] Frame id :375, Row size:2239.7861328125 KB, Type: I, Offloading:True, jpeg_size size:175.8857421875
+[2022-11-10 21:40:45,042 jpeg-test.py:579 test] Acc_jpeg:92.5379753112793
+[2022-11-10 21:40:45,063 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:46,251 jpeg-test.py:577 test] Frame id :376, Row size:2238.2216796875 KB, Type: I, Offloading:True, jpeg_size size:175.9091796875
+[2022-11-10 21:40:46,251 jpeg-test.py:579 test] Acc_jpeg:93.99776458740234
+[2022-11-10 21:40:46,274 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:40:47,455 jpeg-test.py:577 test] Frame id :377, Row size:2235.9794921875 KB, Type: I, Offloading:True, jpeg_size size:175.7490234375
+[2022-11-10 21:40:47,455 jpeg-test.py:579 test] Acc_jpeg:92.17262268066406
+[2022-11-10 21:40:47,476 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:48,656 jpeg-test.py:577 test] Frame id :378, Row size:2236.8984375 KB, Type: I, Offloading:True, jpeg_size size:175.5625
+[2022-11-10 21:40:48,657 jpeg-test.py:579 test] Acc_jpeg:92.57655143737793
+[2022-11-10 21:40:48,678 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:40:49,858 jpeg-test.py:577 test] Frame id :379, Row size:2235.1494140625 KB, Type: I, Offloading:True, jpeg_size size:175.1953125
+[2022-11-10 21:40:49,858 jpeg-test.py:579 test] Acc_jpeg:93.29147338867188
+[2022-11-10 21:40:49,879 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:40:51,066 jpeg-test.py:577 test] Frame id :380, Row size:2234.6494140625 KB, Type: I, Offloading:True, jpeg_size size:175.1513671875
+[2022-11-10 21:40:51,066 jpeg-test.py:579 test] Acc_jpeg:94.16484832763672
+[2022-11-10 21:40:51,087 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:40:52,255 jpeg-test.py:577 test] Frame id :381, Row size:2230.76171875 KB, Type: I, Offloading:True, jpeg_size size:174.5087890625
+[2022-11-10 21:40:52,256 jpeg-test.py:579 test] Acc_jpeg:90.44919013977051
+[2022-11-10 21:40:52,276 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:40:53,438 jpeg-test.py:577 test] Frame id :382, Row size:2224.330078125 KB, Type: I, Offloading:True, jpeg_size size:173.2060546875
+[2022-11-10 21:40:53,438 jpeg-test.py:579 test] Acc_jpeg:93.56694221496582
+[2022-11-10 21:40:53,459 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:40:54,662 jpeg-test.py:577 test] Frame id :383, Row size:2220.076171875 KB, Type: I, Offloading:True, jpeg_size size:172.595703125
+[2022-11-10 21:40:54,663 jpeg-test.py:579 test] Acc_jpeg:92.07000732421875
+[2022-11-10 21:40:54,683 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:40:55,863 jpeg-test.py:577 test] Frame id :384, Row size:2219.640625 KB, Type: I, Offloading:True, jpeg_size size:172.287109375
+[2022-11-10 21:40:55,863 jpeg-test.py:579 test] Acc_jpeg:93.76821517944336
+[2022-11-10 21:40:55,884 jpeg-test.py:588 test] ===> mAP 59.950
+[2022-11-10 21:40:57,092 jpeg-test.py:577 test] Frame id :385, Row size:2230.619140625 KB, Type: I, Offloading:True, jpeg_size size:174.5166015625
+[2022-11-10 21:40:57,092 jpeg-test.py:579 test] Acc_jpeg:92.88249015808105
+[2022-11-10 21:40:57,113 jpeg-test.py:588 test] ===> mAP 59.930
+[2022-11-10 21:40:58,285 jpeg-test.py:577 test] Frame id :386, Row size:2228.3857421875 KB, Type: I, Offloading:True, jpeg_size size:173.7958984375
+[2022-11-10 21:40:58,285 jpeg-test.py:579 test] Acc_jpeg:93.31145286560059
+[2022-11-10 21:40:58,305 jpeg-test.py:588 test] ===> mAP 59.930
+[2022-11-10 21:40:59,451 jpeg-test.py:577 test] Frame id :387, Row size:2223.634765625 KB, Type: I, Offloading:True, jpeg_size size:173.3857421875
+[2022-11-10 21:40:59,452 jpeg-test.py:579 test] Acc_jpeg:93.57423782348633
+[2022-11-10 21:40:59,473 jpeg-test.py:588 test] ===> mAP 59.940
+[2022-11-10 21:41:00,645 jpeg-test.py:577 test] Frame id :388, Row size:2221.49609375 KB, Type: I, Offloading:True, jpeg_size size:172.591796875
+[2022-11-10 21:41:00,645 jpeg-test.py:579 test] Acc_jpeg:92.58008003234863
+[2022-11-10 21:41:00,666 jpeg-test.py:588 test] ===> mAP 59.950
+[2022-11-10 21:41:01,885 jpeg-test.py:577 test] Frame id :389, Row size:2218.2568359375 KB, Type: I, Offloading:True, jpeg_size size:171.666015625
+[2022-11-10 21:41:01,885 jpeg-test.py:579 test] Acc_jpeg:91.29061698913574
+[2022-11-10 21:41:01,910 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:41:03,121 jpeg-test.py:577 test] Frame id :390, Row size:2215.9130859375 KB, Type: I, Offloading:True, jpeg_size size:171.2109375
+[2022-11-10 21:41:03,121 jpeg-test.py:579 test] Acc_jpeg:91.66707992553711
+[2022-11-10 21:41:03,143 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:41:04,327 jpeg-test.py:577 test] Frame id :391, Row size:2212.05078125 KB, Type: I, Offloading:True, jpeg_size size:170.7392578125
+[2022-11-10 21:41:04,327 jpeg-test.py:579 test] Acc_jpeg:90.32702445983887
+[2022-11-10 21:41:04,350 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:05,526 jpeg-test.py:577 test] Frame id :392, Row size:2210.6123046875 KB, Type: I, Offloading:True, jpeg_size size:169.9072265625
+[2022-11-10 21:41:05,526 jpeg-test.py:579 test] Acc_jpeg:91.22066497802734
+[2022-11-10 21:41:05,547 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:06,737 jpeg-test.py:577 test] Frame id :393, Row size:2208.419921875 KB, Type: I, Offloading:True, jpeg_size size:169.392578125
+[2022-11-10 21:41:06,737 jpeg-test.py:579 test] Acc_jpeg:90.18673896789551
+[2022-11-10 21:41:06,761 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:07,936 jpeg-test.py:577 test] Frame id :394, Row size:2203.2861328125 KB, Type: I, Offloading:True, jpeg_size size:168.72265625
+[2022-11-10 21:41:07,936 jpeg-test.py:579 test] Acc_jpeg:88.68780136108398
+[2022-11-10 21:41:07,958 jpeg-test.py:588 test] ===> mAP 59.950
+[2022-11-10 21:41:09,135 jpeg-test.py:577 test] Frame id :395, Row size:2198.65625 KB, Type: I, Offloading:True, jpeg_size size:167.8984375
+[2022-11-10 21:41:09,135 jpeg-test.py:579 test] Acc_jpeg:87.92963027954102
+[2022-11-10 21:41:09,157 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:10,361 jpeg-test.py:577 test] Frame id :396, Row size:2196.6650390625 KB, Type: I, Offloading:True, jpeg_size size:167.9609375
+[2022-11-10 21:41:10,361 jpeg-test.py:579 test] Acc_jpeg:87.5162124633789
+[2022-11-10 21:41:10,384 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:11,594 jpeg-test.py:577 test] Frame id :397, Row size:2206.4912109375 KB, Type: I, Offloading:True, jpeg_size size:170.7646484375
+[2022-11-10 21:41:11,594 jpeg-test.py:579 test] Acc_jpeg:88.99493217468262
+[2022-11-10 21:41:11,618 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:12,798 jpeg-test.py:577 test] Frame id :398, Row size:2204.65234375 KB, Type: I, Offloading:True, jpeg_size size:170.45703125
+[2022-11-10 21:41:12,798 jpeg-test.py:579 test] Acc_jpeg:90.90418815612793
+[2022-11-10 21:41:12,820 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:14,023 jpeg-test.py:577 test] Frame id :399, Row size:2205.775390625 KB, Type: I, Offloading:True, jpeg_size size:171.2568359375
+[2022-11-10 21:41:14,023 jpeg-test.py:579 test] Acc_jpeg:89.70975875854492
+[2022-11-10 21:41:14,048 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:15,245 jpeg-test.py:577 test] Frame id :400, Row size:2208.8623046875 KB, Type: I, Offloading:True, jpeg_size size:171.7490234375
+[2022-11-10 21:41:15,245 jpeg-test.py:579 test] Acc_jpeg:89.02244567871094
+[2022-11-10 21:41:15,269 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:16,474 jpeg-test.py:577 test] Frame id :401, Row size:2210.5224609375 KB, Type: I, Offloading:True, jpeg_size size:171.732421875
+[2022-11-10 21:41:16,475 jpeg-test.py:579 test] Acc_jpeg:90.00215530395508
+[2022-11-10 21:41:16,496 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:17,700 jpeg-test.py:577 test] Frame id :402, Row size:2213.25390625 KB, Type: I, Offloading:True, jpeg_size size:172.23828125
+[2022-11-10 21:41:17,701 jpeg-test.py:579 test] Acc_jpeg:88.97209167480469
+[2022-11-10 21:41:17,723 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:18,919 jpeg-test.py:577 test] Frame id :403, Row size:2213.626953125 KB, Type: I, Offloading:True, jpeg_size size:172.76171875
+[2022-11-10 21:41:18,920 jpeg-test.py:579 test] Acc_jpeg:88.42744827270508
+[2022-11-10 21:41:18,944 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:20,148 jpeg-test.py:577 test] Frame id :404, Row size:2217.380859375 KB, Type: I, Offloading:True, jpeg_size size:173.6044921875
+[2022-11-10 21:41:20,149 jpeg-test.py:579 test] Acc_jpeg:87.53337860107422
+[2022-11-10 21:41:20,172 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:21,363 jpeg-test.py:577 test] Frame id :405, Row size:2221.8203125 KB, Type: I, Offloading:True, jpeg_size size:174.1181640625
+[2022-11-10 21:41:21,363 jpeg-test.py:579 test] Acc_jpeg:88.49906921386719
+[2022-11-10 21:41:21,385 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:22,565 jpeg-test.py:577 test] Frame id :406, Row size:2225.646484375 KB, Type: I, Offloading:True, jpeg_size size:174.4921875
+[2022-11-10 21:41:22,565 jpeg-test.py:579 test] Acc_jpeg:86.07940673828125
+[2022-11-10 21:41:22,587 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:23,752 jpeg-test.py:577 test] Frame id :407, Row size:2228.5732421875 KB, Type: I, Offloading:True, jpeg_size size:175.2919921875
+[2022-11-10 21:41:23,753 jpeg-test.py:579 test] Acc_jpeg:89.30215835571289
+[2022-11-10 21:41:23,774 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:24,957 jpeg-test.py:577 test] Frame id :408, Row size:2230.8369140625 KB, Type: I, Offloading:True, jpeg_size size:175.3203125
+[2022-11-10 21:41:24,957 jpeg-test.py:579 test] Acc_jpeg:88.38386535644531
+[2022-11-10 21:41:24,981 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:26,174 jpeg-test.py:577 test] Frame id :409, Row size:2230.841796875 KB, Type: I, Offloading:True, jpeg_size size:175.8974609375
+[2022-11-10 21:41:26,175 jpeg-test.py:579 test] Acc_jpeg:86.16271018981934
+[2022-11-10 21:41:26,196 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:27,410 jpeg-test.py:577 test] Frame id :410, Row size:2231.134765625 KB, Type: I, Offloading:True, jpeg_size size:176.2158203125
+[2022-11-10 21:41:27,410 jpeg-test.py:579 test] Acc_jpeg:86.83109283447266
+[2022-11-10 21:41:27,434 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:28,646 jpeg-test.py:577 test] Frame id :411, Row size:2232.30078125 KB, Type: I, Offloading:True, jpeg_size size:176.3203125
+[2022-11-10 21:41:28,647 jpeg-test.py:579 test] Acc_jpeg:85.87265014648438
+[2022-11-10 21:41:28,669 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:29,886 jpeg-test.py:577 test] Frame id :412, Row size:2235.8388671875 KB, Type: I, Offloading:True, jpeg_size size:176.60546875
+[2022-11-10 21:41:29,887 jpeg-test.py:579 test] Acc_jpeg:85.42742729187012
+[2022-11-10 21:41:29,910 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:31,137 jpeg-test.py:577 test] Frame id :413, Row size:2239.1103515625 KB, Type: I, Offloading:True, jpeg_size size:176.537109375
+[2022-11-10 21:41:31,137 jpeg-test.py:579 test] Acc_jpeg:85.13822555541992
+[2022-11-10 21:41:31,159 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:32,350 jpeg-test.py:577 test] Frame id :414, Row size:2242.3369140625 KB, Type: I, Offloading:True, jpeg_size size:177.17578125
+[2022-11-10 21:41:32,350 jpeg-test.py:579 test] Acc_jpeg:88.46659660339355
+[2022-11-10 21:41:32,371 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:33,547 jpeg-test.py:577 test] Frame id :415, Row size:2244.33984375 KB, Type: I, Offloading:True, jpeg_size size:177.0380859375
+[2022-11-10 21:41:33,547 jpeg-test.py:579 test] Acc_jpeg:85.04552841186523
+[2022-11-10 21:41:33,568 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:34,730 jpeg-test.py:577 test] Frame id :416, Row size:2244.1279296875 KB, Type: I, Offloading:True, jpeg_size size:176.9580078125
+[2022-11-10 21:41:34,731 jpeg-test.py:579 test] Acc_jpeg:86.2541675567627
+[2022-11-10 21:41:34,752 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:35,937 jpeg-test.py:577 test] Frame id :417, Row size:2249.21875 KB, Type: I, Offloading:True, jpeg_size size:178.1220703125
+[2022-11-10 21:41:35,937 jpeg-test.py:579 test] Acc_jpeg:84.92603302001953
+[2022-11-10 21:41:35,958 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:37,137 jpeg-test.py:577 test] Frame id :418, Row size:2251.7353515625 KB, Type: I, Offloading:True, jpeg_size size:178.3876953125
+[2022-11-10 21:41:37,137 jpeg-test.py:579 test] Acc_jpeg:86.27710342407227
+[2022-11-10 21:41:37,158 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:38,359 jpeg-test.py:577 test] Frame id :419, Row size:2255.8447265625 KB, Type: I, Offloading:True, jpeg_size size:179.3623046875
+[2022-11-10 21:41:38,359 jpeg-test.py:579 test] Acc_jpeg:85.44430732727051
+[2022-11-10 21:41:38,381 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:39,599 jpeg-test.py:577 test] Frame id :420, Row size:2256.548828125 KB, Type: I, Offloading:True, jpeg_size size:179.0361328125
+[2022-11-10 21:41:39,600 jpeg-test.py:579 test] Acc_jpeg:85.41297912597656
+[2022-11-10 21:41:39,623 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:40,807 jpeg-test.py:577 test] Frame id :421, Row size:2258.341796875 KB, Type: I, Offloading:True, jpeg_size size:179.109375
+[2022-11-10 21:41:40,808 jpeg-test.py:579 test] Acc_jpeg:87.32247352600098
+[2022-11-10 21:41:40,831 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:41:42,007 jpeg-test.py:577 test] Frame id :422, Row size:2259.041015625 KB, Type: I, Offloading:True, jpeg_size size:179.58984375
+[2022-11-10 21:41:42,007 jpeg-test.py:579 test] Acc_jpeg:85.3384017944336
+[2022-11-10 21:41:42,028 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:41:43,216 jpeg-test.py:577 test] Frame id :423, Row size:2261.5966796875 KB, Type: I, Offloading:True, jpeg_size size:179.9814453125
+[2022-11-10 21:41:43,217 jpeg-test.py:579 test] Acc_jpeg:84.89370346069336
+[2022-11-10 21:41:43,238 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:41:44,402 jpeg-test.py:577 test] Frame id :424, Row size:2260.8583984375 KB, Type: I, Offloading:True, jpeg_size size:180.0224609375
+[2022-11-10 21:41:44,402 jpeg-test.py:579 test] Acc_jpeg:86.35725975036621
+[2022-11-10 21:41:44,423 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:41:45,600 jpeg-test.py:577 test] Frame id :425, Row size:2257.46875 KB, Type: I, Offloading:True, jpeg_size size:180.1552734375
+[2022-11-10 21:41:45,600 jpeg-test.py:579 test] Acc_jpeg:87.02797889709473
+[2022-11-10 21:41:45,623 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:41:46,795 jpeg-test.py:577 test] Frame id :426, Row size:2255.3935546875 KB, Type: I, Offloading:True, jpeg_size size:179.8056640625
+[2022-11-10 21:41:46,795 jpeg-test.py:579 test] Acc_jpeg:88.70482444763184
+[2022-11-10 21:41:46,816 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:41:48,000 jpeg-test.py:577 test] Frame id :427, Row size:2257.041015625 KB, Type: I, Offloading:True, jpeg_size size:180.140625
+[2022-11-10 21:41:48,001 jpeg-test.py:579 test] Acc_jpeg:87.88442611694336
+[2022-11-10 21:41:48,022 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:49,209 jpeg-test.py:577 test] Frame id :428, Row size:2263.9150390625 KB, Type: I, Offloading:True, jpeg_size size:181.5546875
+[2022-11-10 21:41:49,209 jpeg-test.py:579 test] Acc_jpeg:89.62578773498535
+[2022-11-10 21:41:49,231 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:50,409 jpeg-test.py:577 test] Frame id :429, Row size:2264.7353515625 KB, Type: I, Offloading:True, jpeg_size size:181.7314453125
+[2022-11-10 21:41:50,409 jpeg-test.py:579 test] Acc_jpeg:89.32266235351562
+[2022-11-10 21:41:50,430 jpeg-test.py:588 test] ===> mAP 59.990
+[2022-11-10 21:41:51,665 jpeg-test.py:577 test] Frame id :430, Row size:2263.53125 KB, Type: I, Offloading:True, jpeg_size size:181.3916015625
+[2022-11-10 21:41:51,665 jpeg-test.py:579 test] Acc_jpeg:89.54129219055176
+[2022-11-10 21:41:51,688 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:52,903 jpeg-test.py:577 test] Frame id :431, Row size:2266.1767578125 KB, Type: I, Offloading:True, jpeg_size size:181.294921875
+[2022-11-10 21:41:52,903 jpeg-test.py:579 test] Acc_jpeg:90.73724746704102
+[2022-11-10 21:41:52,924 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:54,137 jpeg-test.py:577 test] Frame id :432, Row size:2266.607421875 KB, Type: I, Offloading:True, jpeg_size size:182.1259765625
+[2022-11-10 21:41:54,138 jpeg-test.py:579 test] Acc_jpeg:93.92929077148438
+[2022-11-10 21:41:54,159 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:55,359 jpeg-test.py:577 test] Frame id :433, Row size:2265.5693359375 KB, Type: I, Offloading:True, jpeg_size size:181.8828125
+[2022-11-10 21:41:55,359 jpeg-test.py:579 test] Acc_jpeg:92.45438575744629
+[2022-11-10 21:41:55,381 jpeg-test.py:588 test] ===> mAP 59.960
+[2022-11-10 21:41:56,577 jpeg-test.py:577 test] Frame id :434, Row size:2259.92578125 KB, Type: I, Offloading:True, jpeg_size size:181.31640625
+[2022-11-10 21:41:56,577 jpeg-test.py:579 test] Acc_jpeg:93.06678771972656
+[2022-11-10 21:41:56,599 jpeg-test.py:588 test] ===> mAP 59.970
+[2022-11-10 21:41:57,816 jpeg-test.py:577 test] Frame id :435, Row size:2254.5166015625 KB, Type: I, Offloading:True, jpeg_size size:180.21484375
+[2022-11-10 21:41:57,816 jpeg-test.py:579 test] Acc_jpeg:93.57619285583496
+[2022-11-10 21:41:57,839 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:41:59,022 jpeg-test.py:577 test] Frame id :436, Row size:2247.8271484375 KB, Type: I, Offloading:True, jpeg_size size:178.8779296875
+[2022-11-10 21:41:59,022 jpeg-test.py:579 test] Acc_jpeg:94.90842819213867
+[2022-11-10 21:41:59,043 jpeg-test.py:588 test] ===> mAP 59.980
+[2022-11-10 21:42:00,235 jpeg-test.py:577 test] Frame id :437, Row size:2244.3232421875 KB, Type: I, Offloading:True, jpeg_size size:177.8671875
+[2022-11-10 21:42:00,235 jpeg-test.py:579 test] Acc_jpeg:94.51022148132324
+[2022-11-10 21:42:00,256 jpeg-test.py:588 test] ===> mAP 60.000
+[2022-11-10 21:42:01,453 jpeg-test.py:577 test] Frame id :438, Row size:2238.9404296875 KB, Type: I, Offloading:True, jpeg_size size:177.0595703125
+[2022-11-10 21:42:01,453 jpeg-test.py:579 test] Acc_jpeg:94.2380428314209
+[2022-11-10 21:42:01,475 jpeg-test.py:588 test] ===> mAP 60.010
+[2022-11-10 21:42:02,691 jpeg-test.py:577 test] Frame id :439, Row size:2234.1328125 KB, Type: I, Offloading:True, jpeg_size size:175.8642578125
+[2022-11-10 21:42:02,691 jpeg-test.py:579 test] Acc_jpeg:93.62587928771973
+[2022-11-10 21:42:02,712 jpeg-test.py:588 test] ===> mAP 60.030
+[2022-11-10 21:42:03,918 jpeg-test.py:577 test] Frame id :440, Row size:2230.9541015625 KB, Type: I, Offloading:True, jpeg_size size:175.353515625
+[2022-11-10 21:42:03,918 jpeg-test.py:579 test] Acc_jpeg:93.53055953979492
+[2022-11-10 21:42:03,940 jpeg-test.py:588 test] ===> mAP 60.040
+[2022-11-10 21:42:05,160 jpeg-test.py:577 test] Frame id :441, Row size:2222.6015625 KB, Type: I, Offloading:True, jpeg_size size:174.7216796875
+[2022-11-10 21:42:05,160 jpeg-test.py:579 test] Acc_jpeg:93.46413612365723
+[2022-11-10 21:42:05,186 jpeg-test.py:588 test] ===> mAP 60.050
+[2022-11-10 21:42:06,371 jpeg-test.py:577 test] Frame id :442, Row size:2216.44140625 KB, Type: I, Offloading:True, jpeg_size size:173.4658203125
+[2022-11-10 21:42:06,371 jpeg-test.py:579 test] Acc_jpeg:93.73006820678711
+[2022-11-10 21:42:06,398 jpeg-test.py:588 test] ===> mAP 60.060
+[2022-11-10 21:42:07,570 jpeg-test.py:577 test] Frame id :443, Row size:2212.8154296875 KB, Type: I, Offloading:True, jpeg_size size:172.93359375
+[2022-11-10 21:42:07,571 jpeg-test.py:579 test] Acc_jpeg:94.22917366027832
+[2022-11-10 21:42:07,591 jpeg-test.py:588 test] ===> mAP 60.090
+[2022-11-10 21:42:08,789 jpeg-test.py:577 test] Frame id :444, Row size:2208.724609375 KB, Type: I, Offloading:True, jpeg_size size:171.6728515625
+[2022-11-10 21:42:08,789 jpeg-test.py:579 test] Acc_jpeg:92.85502433776855
+[2022-11-10 21:42:08,812 jpeg-test.py:588 test] ===> mAP 60.130
+[2022-11-10 21:42:10,026 jpeg-test.py:577 test] Frame id :445, Row size:2203.7451171875 KB, Type: I, Offloading:True, jpeg_size size:170.5400390625
+[2022-11-10 21:42:10,027 jpeg-test.py:579 test] Acc_jpeg:92.6358699798584
+[2022-11-10 21:42:10,052 jpeg-test.py:588 test] ===> mAP 60.160
+[2022-11-10 21:42:11,265 jpeg-test.py:577 test] Frame id :446, Row size:2193.09375 KB, Type: I, Offloading:True, jpeg_size size:168.8916015625
+[2022-11-10 21:42:11,265 jpeg-test.py:579 test] Acc_jpeg:91.93940162658691
+[2022-11-10 21:42:11,290 jpeg-test.py:588 test] ===> mAP 60.220
+[2022-11-10 21:42:12,464 jpeg-test.py:577 test] Frame id :447, Row size:2183.8671875 KB, Type: I, Offloading:True, jpeg_size size:167.029296875
+[2022-11-10 21:42:12,464 jpeg-test.py:579 test] Acc_jpeg:92.39840507507324
+[2022-11-10 21:42:12,486 jpeg-test.py:588 test] ===> mAP 60.220
+[2022-11-10 21:42:13,679 jpeg-test.py:577 test] Frame id :448, Row size:2178.1201171875 KB, Type: I, Offloading:True, jpeg_size size:165.8076171875
+[2022-11-10 21:42:13,679 jpeg-test.py:579 test] Acc_jpeg:92.96236038208008
+[2022-11-10 21:42:13,703 jpeg-test.py:588 test] ===> mAP 60.270
+[2022-11-10 21:42:14,859 jpeg-test.py:577 test] Frame id :449, Row size:2172.5048828125 KB, Type: I, Offloading:True, jpeg_size size:164.927734375
+[2022-11-10 21:42:14,859 jpeg-test.py:579 test] Acc_jpeg:94.3685531616211
+[2022-11-10 21:42:14,883 jpeg-test.py:588 test] ===> mAP 60.320
+[2022-11-10 21:42:16,043 jpeg-test.py:577 test] Frame id :450, Row size:2167.8583984375 KB, Type: I, Offloading:True, jpeg_size size:163.2724609375
+[2022-11-10 21:42:16,043 jpeg-test.py:579 test] Acc_jpeg:92.30790138244629
+[2022-11-10 21:42:16,064 jpeg-test.py:588 test] ===> mAP 60.360
+[2022-11-10 21:42:17,257 jpeg-test.py:577 test] Frame id :451, Row size:2164.3310546875 KB, Type: I, Offloading:True, jpeg_size size:162.419921875
+[2022-11-10 21:42:17,257 jpeg-test.py:579 test] Acc_jpeg:91.9900894165039
+[2022-11-10 21:42:17,281 jpeg-test.py:588 test] ===> mAP 60.420
+[2022-11-10 21:42:18,478 jpeg-test.py:577 test] Frame id :452, Row size:2158.791015625 KB, Type: I, Offloading:True, jpeg_size size:161.689453125
+[2022-11-10 21:42:18,479 jpeg-test.py:579 test] Acc_jpeg:92.67687797546387
+[2022-11-10 21:42:18,502 jpeg-test.py:588 test] ===> mAP 60.460
+[2022-11-10 21:42:19,692 jpeg-test.py:577 test] Frame id :453, Row size:2149.4208984375 KB, Type: I, Offloading:True, jpeg_size size:160.1689453125
+[2022-11-10 21:42:19,692 jpeg-test.py:579 test] Acc_jpeg:93.09210777282715
+[2022-11-10 21:42:19,716 jpeg-test.py:588 test] ===> mAP 60.540
+[2022-11-10 21:42:20,866 jpeg-test.py:577 test] Frame id :454, Row size:2140.8544921875 KB, Type: I, Offloading:True, jpeg_size size:158.771484375
+[2022-11-10 21:42:20,867 jpeg-test.py:579 test] Acc_jpeg:93.25246810913086
+[2022-11-10 21:42:20,888 jpeg-test.py:588 test] ===> mAP 60.640
+[2022-11-10 21:42:22,015 jpeg-test.py:577 test] Frame id :455, Row size:2136.62890625 KB, Type: I, Offloading:True, jpeg_size size:158.041015625
+[2022-11-10 21:42:22,015 jpeg-test.py:579 test] Acc_jpeg:92.39869117736816
+[2022-11-10 21:42:22,035 jpeg-test.py:588 test] ===> mAP 60.730
+[2022-11-10 21:42:23,197 jpeg-test.py:577 test] Frame id :456, Row size:2137.7333984375 KB, Type: I, Offloading:True, jpeg_size size:158.1044921875
+[2022-11-10 21:42:23,197 jpeg-test.py:579 test] Acc_jpeg:93.30883026123047
+[2022-11-10 21:42:23,219 jpeg-test.py:588 test] ===> mAP 60.820
+[2022-11-10 21:42:24,390 jpeg-test.py:577 test] Frame id :457, Row size:2134.435546875 KB, Type: I, Offloading:True, jpeg_size size:157.6162109375
+[2022-11-10 21:42:24,390 jpeg-test.py:579 test] Acc_jpeg:92.6417350769043
+[2022-11-10 21:42:24,415 jpeg-test.py:588 test] ===> mAP 60.880
+[2022-11-10 21:42:25,584 jpeg-test.py:577 test] Frame id :458, Row size:2130.392578125 KB, Type: I, Offloading:True, jpeg_size size:156.7578125
+[2022-11-10 21:42:25,584 jpeg-test.py:579 test] Acc_jpeg:93.48502159118652
+[2022-11-10 21:42:25,608 jpeg-test.py:588 test] ===> mAP 60.920
+[2022-11-10 21:42:26,788 jpeg-test.py:577 test] Frame id :459, Row size:2120.5146484375 KB, Type: I, Offloading:True, jpeg_size size:155.2119140625
+[2022-11-10 21:42:26,788 jpeg-test.py:579 test] Acc_jpeg:94.04683113098145
+[2022-11-10 21:42:26,812 jpeg-test.py:588 test] ===> mAP 60.990
+[2022-11-10 21:42:27,997 jpeg-test.py:577 test] Frame id :460, Row size:2113.2958984375 KB, Type: I, Offloading:True, jpeg_size size:153.9677734375
+[2022-11-10 21:42:27,998 jpeg-test.py:579 test] Acc_jpeg:93.45340728759766
+[2022-11-10 21:42:28,021 jpeg-test.py:588 test] ===> mAP 61.040
+[2022-11-10 21:42:29,169 jpeg-test.py:577 test] Frame id :461, Row size:2103.736328125 KB, Type: I, Offloading:True, jpeg_size size:152.783203125
+[2022-11-10 21:42:29,169 jpeg-test.py:579 test] Acc_jpeg:93.57528686523438
+[2022-11-10 21:42:29,190 jpeg-test.py:588 test] ===> mAP 61.060
+[2022-11-10 21:42:30,324 jpeg-test.py:577 test] Frame id :462, Row size:2099.857421875 KB, Type: I, Offloading:True, jpeg_size size:151.7734375
+[2022-11-10 21:42:30,325 jpeg-test.py:579 test] Acc_jpeg:94.17133331298828
+[2022-11-10 21:42:30,346 jpeg-test.py:588 test] ===> mAP 61.100
+[2022-11-10 21:42:31,493 jpeg-test.py:577 test] Frame id :463, Row size:2098.5927734375 KB, Type: I, Offloading:True, jpeg_size size:151.58984375
+[2022-11-10 21:42:31,494 jpeg-test.py:579 test] Acc_jpeg:93.74451637268066
+[2022-11-10 21:42:31,515 jpeg-test.py:588 test] ===> mAP 61.130
+[2022-11-10 21:42:32,668 jpeg-test.py:577 test] Frame id :464, Row size:2096.822265625 KB, Type: I, Offloading:True, jpeg_size size:150.8134765625
+[2022-11-10 21:42:32,668 jpeg-test.py:579 test] Acc_jpeg:92.30751991271973
+[2022-11-10 21:42:32,689 jpeg-test.py:588 test] ===> mAP 61.170
+[2022-11-10 21:42:33,868 jpeg-test.py:577 test] Frame id :465, Row size:2099.373046875 KB, Type: I, Offloading:True, jpeg_size size:150.8623046875
+[2022-11-10 21:42:33,869 jpeg-test.py:579 test] Acc_jpeg:93.04499626159668
+[2022-11-10 21:42:33,891 jpeg-test.py:588 test] ===> mAP 61.220
+[2022-11-10 21:42:35,071 jpeg-test.py:577 test] Frame id :466, Row size:2097.826171875 KB, Type: I, Offloading:True, jpeg_size size:150.61328125
+[2022-11-10 21:42:35,072 jpeg-test.py:579 test] Acc_jpeg:91.95518493652344
+[2022-11-10 21:42:35,093 jpeg-test.py:588 test] ===> mAP 61.280
+[2022-11-10 21:42:36,272 jpeg-test.py:577 test] Frame id :467, Row size:2095.65234375 KB, Type: I, Offloading:True, jpeg_size size:150.095703125
+[2022-11-10 21:42:36,272 jpeg-test.py:579 test] Acc_jpeg:92.45271682739258
+[2022-11-10 21:42:36,294 jpeg-test.py:588 test] ===> mAP 61.340
+[2022-11-10 21:42:37,417 jpeg-test.py:577 test] Frame id :468, Row size:2091.69140625 KB, Type: I, Offloading:True, jpeg_size size:149.5693359375
+[2022-11-10 21:42:37,417 jpeg-test.py:579 test] Acc_jpeg:93.36848258972168
+[2022-11-10 21:42:37,438 jpeg-test.py:588 test] ===> mAP 61.390
+[2022-11-10 21:42:38,616 jpeg-test.py:577 test] Frame id :469, Row size:2087.9521484375 KB, Type: I, Offloading:True, jpeg_size size:148.6416015625
+[2022-11-10 21:42:38,616 jpeg-test.py:579 test] Acc_jpeg:91.97349548339844
+[2022-11-10 21:42:38,639 jpeg-test.py:588 test] ===> mAP 61.430
+[2022-11-10 21:42:39,789 jpeg-test.py:577 test] Frame id :470, Row size:2086.30078125 KB, Type: I, Offloading:True, jpeg_size size:148.25
+[2022-11-10 21:42:39,789 jpeg-test.py:579 test] Acc_jpeg:90.67883491516113
+[2022-11-10 21:42:39,811 jpeg-test.py:588 test] ===> mAP 61.480
+[2022-11-10 21:42:40,943 jpeg-test.py:577 test] Frame id :471, Row size:2082.8515625 KB, Type: I, Offloading:True, jpeg_size size:147.359375
+[2022-11-10 21:42:40,943 jpeg-test.py:579 test] Acc_jpeg:91.40815734863281
+[2022-11-10 21:42:40,964 jpeg-test.py:588 test] ===> mAP 61.530
+[2022-11-10 21:42:42,094 jpeg-test.py:577 test] Frame id :472, Row size:2080.0771484375 KB, Type: I, Offloading:True, jpeg_size size:146.9765625
+[2022-11-10 21:42:42,094 jpeg-test.py:579 test] Acc_jpeg:92.12746620178223
+[2022-11-10 21:42:42,115 jpeg-test.py:588 test] ===> mAP 61.590
+[2022-11-10 21:42:43,260 jpeg-test.py:577 test] Frame id :473, Row size:2076.48828125 KB, Type: I, Offloading:True, jpeg_size size:146.830078125
+[2022-11-10 21:42:43,260 jpeg-test.py:579 test] Acc_jpeg:91.16291999816895
+[2022-11-10 21:42:43,282 jpeg-test.py:588 test] ===> mAP 61.650
+[2022-11-10 21:42:44,398 jpeg-test.py:577 test] Frame id :474, Row size:2080.7548828125 KB, Type: I, Offloading:True, jpeg_size size:147.09765625
+[2022-11-10 21:42:44,398 jpeg-test.py:579 test] Acc_jpeg:92.14825630187988
+[2022-11-10 21:42:44,420 jpeg-test.py:588 test] ===> mAP 61.700
+[2022-11-10 21:42:45,578 jpeg-test.py:577 test] Frame id :475, Row size:2073.5830078125 KB, Type: I, Offloading:True, jpeg_size size:146.4951171875
+[2022-11-10 21:42:45,578 jpeg-test.py:579 test] Acc_jpeg:92.32239723205566
+[2022-11-10 21:42:45,600 jpeg-test.py:588 test] ===> mAP 61.750
+[2022-11-10 21:42:46,728 jpeg-test.py:577 test] Frame id :476, Row size:2072.958984375 KB, Type: I, Offloading:True, jpeg_size size:147.021484375
+[2022-11-10 21:42:46,728 jpeg-test.py:579 test] Acc_jpeg:92.27557182312012
+[2022-11-10 21:42:46,751 jpeg-test.py:588 test] ===> mAP 61.800
+[2022-11-10 21:42:47,864 jpeg-test.py:577 test] Frame id :477, Row size:2074.4169921875 KB, Type: I, Offloading:True, jpeg_size size:147.5009765625
+[2022-11-10 21:42:47,864 jpeg-test.py:579 test] Acc_jpeg:93.43404769897461
+[2022-11-10 21:42:47,884 jpeg-test.py:588 test] ===> mAP 61.850
+[2022-11-10 21:42:49,061 jpeg-test.py:577 test] Frame id :478, Row size:2072.6259765625 KB, Type: I, Offloading:True, jpeg_size size:147.09375
+[2022-11-10 21:42:49,061 jpeg-test.py:579 test] Acc_jpeg:93.06340217590332
+[2022-11-10 21:42:49,084 jpeg-test.py:588 test] ===> mAP 61.890
+[2022-11-10 21:42:50,259 jpeg-test.py:577 test] Frame id :479, Row size:2075.552734375 KB, Type: I, Offloading:True, jpeg_size size:148.1005859375
+[2022-11-10 21:42:50,259 jpeg-test.py:579 test] Acc_jpeg:92.64469146728516
+[2022-11-10 21:42:50,283 jpeg-test.py:588 test] ===> mAP 61.930
+[2022-11-10 21:42:51,463 jpeg-test.py:577 test] Frame id :480, Row size:2074.205078125 KB, Type: I, Offloading:True, jpeg_size size:148.462890625
+[2022-11-10 21:42:51,463 jpeg-test.py:579 test] Acc_jpeg:91.75868034362793
+[2022-11-10 21:42:51,487 jpeg-test.py:588 test] ===> mAP 61.970
+[2022-11-10 21:42:52,652 jpeg-test.py:577 test] Frame id :481, Row size:2069.1630859375 KB, Type: I, Offloading:True, jpeg_size size:148.2109375
+[2022-11-10 21:42:52,653 jpeg-test.py:579 test] Acc_jpeg:93.24254989624023
+[2022-11-10 21:42:52,675 jpeg-test.py:588 test] ===> mAP 62.000
+[2022-11-10 21:42:53,840 jpeg-test.py:577 test] Frame id :482, Row size:2070.9306640625 KB, Type: I, Offloading:True, jpeg_size size:148.044921875
+[2022-11-10 21:42:53,840 jpeg-test.py:579 test] Acc_jpeg:92.33765602111816
+[2022-11-10 21:42:53,863 jpeg-test.py:588 test] ===> mAP 62.040
+[2022-11-10 21:42:55,033 jpeg-test.py:577 test] Frame id :483, Row size:2093.0751953125 KB, Type: I, Offloading:True, jpeg_size size:149.8349609375
+[2022-11-10 21:42:55,034 jpeg-test.py:579 test] Acc_jpeg:92.87352561950684
+[2022-11-10 21:42:55,057 jpeg-test.py:588 test] ===> mAP 62.060
+[2022-11-10 21:42:56,187 jpeg-test.py:577 test] Frame id :484, Row size:2087.8271484375 KB, Type: I, Offloading:True, jpeg_size size:149.724609375
+[2022-11-10 21:42:56,187 jpeg-test.py:579 test] Acc_jpeg:94.28415298461914
+[2022-11-10 21:42:56,211 jpeg-test.py:588 test] ===> mAP 62.080
+[2022-11-10 21:42:57,369 jpeg-test.py:577 test] Frame id :485, Row size:2107.609375 KB, Type: I, Offloading:True, jpeg_size size:152.03125
+[2022-11-10 21:42:57,369 jpeg-test.py:579 test] Acc_jpeg:93.5978889465332
+[2022-11-10 21:42:57,389 jpeg-test.py:588 test] ===> mAP 62.100
+[2022-11-10 21:42:58,507 jpeg-test.py:577 test] Frame id :486, Row size:2112.005859375 KB, Type: I, Offloading:True, jpeg_size size:152.603515625
+[2022-11-10 21:42:58,507 jpeg-test.py:579 test] Acc_jpeg:92.82855987548828
+[2022-11-10 21:42:58,528 jpeg-test.py:588 test] ===> mAP 62.120
+[2022-11-10 21:42:59,668 jpeg-test.py:577 test] Frame id :487, Row size:2116.6435546875 KB, Type: I, Offloading:True, jpeg_size size:153.67578125
+[2022-11-10 21:42:59,668 jpeg-test.py:579 test] Acc_jpeg:93.07131767272949
+[2022-11-10 21:42:59,689 jpeg-test.py:588 test] ===> mAP 62.150
+[2022-11-10 21:43:00,838 jpeg-test.py:577 test] Frame id :488, Row size:2117.4619140625 KB, Type: I, Offloading:True, jpeg_size size:153.8994140625
+[2022-11-10 21:43:00,838 jpeg-test.py:579 test] Acc_jpeg:92.02866554260254
+[2022-11-10 21:43:00,859 jpeg-test.py:588 test] ===> mAP 62.160
+[2022-11-10 21:43:02,003 jpeg-test.py:577 test] Frame id :489, Row size:2114.0498046875 KB, Type: I, Offloading:True, jpeg_size size:153.650390625
+[2022-11-10 21:43:02,003 jpeg-test.py:579 test] Acc_jpeg:87.9826545715332
+[2022-11-10 21:43:02,024 jpeg-test.py:588 test] ===> mAP 62.160
+[2022-11-10 21:43:03,143 jpeg-test.py:577 test] Frame id :490, Row size:2118.673828125 KB, Type: I, Offloading:True, jpeg_size size:154.455078125
+[2022-11-10 21:43:03,143 jpeg-test.py:579 test] Acc_jpeg:89.37578201293945
+[2022-11-10 21:43:03,164 jpeg-test.py:588 test] ===> mAP 62.160
+[2022-11-10 21:43:04,287 jpeg-test.py:577 test] Frame id :491, Row size:2123.7646484375 KB, Type: I, Offloading:True, jpeg_size size:154.681640625
+[2022-11-10 21:43:04,288 jpeg-test.py:579 test] Acc_jpeg:90.65914154052734
+[2022-11-10 21:43:04,309 jpeg-test.py:588 test] ===> mAP 62.170
+[2022-11-10 21:43:05,444 jpeg-test.py:577 test] Frame id :492, Row size:2126.0673828125 KB, Type: I, Offloading:True, jpeg_size size:154.21484375
+[2022-11-10 21:43:05,444 jpeg-test.py:579 test] Acc_jpeg:88.59305381774902
+[2022-11-10 21:43:05,465 jpeg-test.py:588 test] ===> mAP 62.160
+[2022-11-10 21:43:06,622 jpeg-test.py:577 test] Frame id :493, Row size:2108.28515625 KB, Type: I, Offloading:True, jpeg_size size:150.94921875
+[2022-11-10 21:43:06,623 jpeg-test.py:579 test] Acc_jpeg:87.70465850830078
+[2022-11-10 21:43:06,645 jpeg-test.py:588 test] ===> mAP 62.170
+[2022-11-10 21:43:07,826 jpeg-test.py:577 test] Frame id :494, Row size:2102.06640625 KB, Type: I, Offloading:True, jpeg_size size:149.81640625
+[2022-11-10 21:43:07,826 jpeg-test.py:579 test] Acc_jpeg:93.3619499206543
+[2022-11-10 21:43:07,849 jpeg-test.py:588 test] ===> mAP 62.190
+[2022-11-10 21:43:09,025 jpeg-test.py:577 test] Frame id :495, Row size:2109.6572265625 KB, Type: I, Offloading:True, jpeg_size size:150.5517578125
+[2022-11-10 21:43:09,026 jpeg-test.py:579 test] Acc_jpeg:95.21431922912598
+[2022-11-10 21:43:09,049 jpeg-test.py:588 test] ===> mAP 62.220
+[2022-11-10 21:43:10,196 jpeg-test.py:577 test] Frame id :496, Row size:2126.609375 KB, Type: I, Offloading:True, jpeg_size size:153.0546875
+[2022-11-10 21:43:10,196 jpeg-test.py:579 test] Acc_jpeg:94.19426918029785
+[2022-11-10 21:43:10,217 jpeg-test.py:588 test] ===> mAP 62.250
+[2022-11-10 21:43:11,355 jpeg-test.py:577 test] Frame id :497, Row size:2143.712890625 KB, Type: I, Offloading:True, jpeg_size size:155.875
+[2022-11-10 21:43:11,355 jpeg-test.py:579 test] Acc_jpeg:95.2568531036377
+[2022-11-10 21:43:11,378 jpeg-test.py:588 test] ===> mAP 62.290
+[2022-11-10 21:43:12,568 jpeg-test.py:577 test] Frame id :498, Row size:2161.7314453125 KB, Type: I, Offloading:True, jpeg_size size:158.662109375
+[2022-11-10 21:43:12,568 jpeg-test.py:579 test] Acc_jpeg:95.39337158203125
+[2022-11-10 21:43:12,592 jpeg-test.py:588 test] ===> mAP 62.330
+[2022-11-10 21:43:13,760 jpeg-test.py:577 test] Frame id :499, Row size:2174.623046875 KB, Type: I, Offloading:True, jpeg_size size:160.880859375
+[2022-11-10 21:43:13,760 jpeg-test.py:579 test] Acc_jpeg:95.51548957824707
+[2022-11-10 21:43:13,781 jpeg-test.py:588 test] ===> mAP 62.370
+[2022-11-10 21:43:14,915 jpeg-test.py:577 test] Frame id :500, Row size:2186.6884765625 KB, Type: I, Offloading:True, jpeg_size size:162.771484375
+[2022-11-10 21:43:14,915 jpeg-test.py:579 test] Acc_jpeg:95.30696868896484
+[2022-11-10 21:43:14,936 jpeg-test.py:588 test] ===> mAP 62.390
+[2022-11-10 21:43:16,111 jpeg-test.py:577 test] Frame id :501, Row size:2195.1650390625 KB, Type: I, Offloading:True, jpeg_size size:164.63671875
+[2022-11-10 21:43:16,111 jpeg-test.py:579 test] Acc_jpeg:95.45540809631348
+[2022-11-10 21:43:16,134 jpeg-test.py:588 test] ===> mAP 62.420
+[2022-11-10 21:43:17,331 jpeg-test.py:577 test] Frame id :502, Row size:2206.9111328125 KB, Type: I, Offloading:True, jpeg_size size:166.587890625
+[2022-11-10 21:43:17,331 jpeg-test.py:579 test] Acc_jpeg:96.07577323913574
+[2022-11-10 21:43:17,353 jpeg-test.py:588 test] ===> mAP 62.440
+[2022-11-10 21:43:18,540 jpeg-test.py:577 test] Frame id :503, Row size:2219.376953125 KB, Type: I, Offloading:True, jpeg_size size:169.1962890625
+[2022-11-10 21:43:18,540 jpeg-test.py:579 test] Acc_jpeg:95.0408935546875
+[2022-11-10 21:43:18,563 jpeg-test.py:588 test] ===> mAP 62.450
+[2022-11-10 21:43:19,725 jpeg-test.py:577 test] Frame id :504, Row size:2231.279296875 KB, Type: I, Offloading:True, jpeg_size size:171.4013671875
+[2022-11-10 21:43:19,725 jpeg-test.py:579 test] Acc_jpeg:95.87912559509277
+[2022-11-10 21:43:19,745 jpeg-test.py:588 test] ===> mAP 62.460
+[2022-11-10 21:43:20,919 jpeg-test.py:577 test] Frame id :505, Row size:2242.0380859375 KB, Type: I, Offloading:True, jpeg_size size:172.8603515625
+[2022-11-10 21:43:20,919 jpeg-test.py:579 test] Acc_jpeg:95.27120590209961
+[2022-11-10 21:43:20,940 jpeg-test.py:588 test] ===> mAP 62.470
+[2022-11-10 21:43:22,105 jpeg-test.py:577 test] Frame id :506, Row size:2255.0234375 KB, Type: I, Offloading:True, jpeg_size size:174.814453125
+[2022-11-10 21:43:22,105 jpeg-test.py:579 test] Acc_jpeg:96.38185501098633
+[2022-11-10 21:43:22,126 jpeg-test.py:588 test] ===> mAP 62.490
+[2022-11-10 21:43:23,331 jpeg-test.py:577 test] Frame id :507, Row size:2265.2451171875 KB, Type: I, Offloading:True, jpeg_size size:176.419921875
+[2022-11-10 21:43:23,331 jpeg-test.py:579 test] Acc_jpeg:95.77822685241699
+[2022-11-10 21:43:23,355 jpeg-test.py:588 test] ===> mAP 62.510
+[2022-11-10 21:43:24,524 jpeg-test.py:577 test] Frame id :508, Row size:2275.224609375 KB, Type: I, Offloading:True, jpeg_size size:178.408203125
+[2022-11-10 21:43:24,524 jpeg-test.py:579 test] Acc_jpeg:95.88627815246582
+[2022-11-10 21:43:24,546 jpeg-test.py:588 test] ===> mAP 62.540
+[2022-11-10 21:43:25,722 jpeg-test.py:577 test] Frame id :509, Row size:2284.9169921875 KB, Type: I, Offloading:True, jpeg_size size:180.4375
+[2022-11-10 21:43:25,722 jpeg-test.py:579 test] Acc_jpeg:97.41015434265137
+[2022-11-10 21:43:25,743 jpeg-test.py:588 test] ===> mAP 62.560
+[2022-11-10 21:43:26,962 jpeg-test.py:577 test] Frame id :510, Row size:2293.474609375 KB, Type: I, Offloading:True, jpeg_size size:182.265625
+[2022-11-10 21:43:26,962 jpeg-test.py:579 test] Acc_jpeg:97.29042053222656
+[2022-11-10 21:43:26,987 jpeg-test.py:588 test] ===> mAP 62.590
+[2022-11-10 21:43:28,189 jpeg-test.py:577 test] Frame id :511, Row size:2303.4296875 KB, Type: I, Offloading:True, jpeg_size size:184.4140625
+[2022-11-10 21:43:28,189 jpeg-test.py:579 test] Acc_jpeg:97.58787155151367
+[2022-11-10 21:43:28,216 jpeg-test.py:588 test] ===> mAP 62.610
+[2022-11-10 21:43:29,446 jpeg-test.py:577 test] Frame id :512, Row size:2314.8623046875 KB, Type: I, Offloading:True, jpeg_size size:186.84765625
+[2022-11-10 21:43:29,446 jpeg-test.py:579 test] Acc_jpeg:97.48106002807617
+[2022-11-10 21:43:29,471 jpeg-test.py:588 test] ===> mAP 62.640
+[2022-11-10 21:43:30,689 jpeg-test.py:577 test] Frame id :513, Row size:2325.6171875 KB, Type: I, Offloading:True, jpeg_size size:188.67578125
+[2022-11-10 21:43:30,689 jpeg-test.py:579 test] Acc_jpeg:97.48072624206543
+[2022-11-10 21:43:30,711 jpeg-test.py:588 test] ===> mAP 62.660
+[2022-11-10 21:43:31,906 jpeg-test.py:577 test] Frame id :514, Row size:2336.6181640625 KB, Type: I, Offloading:True, jpeg_size size:191.212890625
+[2022-11-10 21:43:31,906 jpeg-test.py:579 test] Acc_jpeg:97.44448661804199
+[2022-11-10 21:43:31,928 jpeg-test.py:588 test] ===> mAP 62.680
+[2022-11-10 21:43:33,162 jpeg-test.py:577 test] Frame id :515, Row size:2346.1748046875 KB, Type: I, Offloading:True, jpeg_size size:193.3408203125
+[2022-11-10 21:43:33,162 jpeg-test.py:579 test] Acc_jpeg:97.57418632507324
+[2022-11-10 21:43:33,185 jpeg-test.py:588 test] ===> mAP 62.700
+[2022-11-10 21:43:34,411 jpeg-test.py:577 test] Frame id :516, Row size:2354.8671875 KB, Type: I, Offloading:True, jpeg_size size:195.3896484375
+[2022-11-10 21:43:34,411 jpeg-test.py:579 test] Acc_jpeg:97.70727157592773
+[2022-11-10 21:43:34,433 jpeg-test.py:588 test] ===> mAP 62.740
+[2022-11-10 21:43:35,674 jpeg-test.py:577 test] Frame id :517, Row size:2359.8701171875 KB, Type: I, Offloading:True, jpeg_size size:196.1044921875
+[2022-11-10 21:43:35,674 jpeg-test.py:579 test] Acc_jpeg:97.87697792053223
+[2022-11-10 21:43:35,697 jpeg-test.py:588 test] ===> mAP 62.770
+[2022-11-10 21:43:36,877 jpeg-test.py:577 test] Frame id :518, Row size:2369.1474609375 KB, Type: I, Offloading:True, jpeg_size size:197.89453125
+[2022-11-10 21:43:36,877 jpeg-test.py:579 test] Acc_jpeg:97.86796569824219
+[2022-11-10 21:43:36,899 jpeg-test.py:588 test] ===> mAP 62.800
+[2022-11-10 21:43:38,108 jpeg-test.py:577 test] Frame id :519, Row size:2375.3359375 KB, Type: I, Offloading:True, jpeg_size size:199.0341796875
+[2022-11-10 21:43:38,108 jpeg-test.py:579 test] Acc_jpeg:98.20828437805176
+[2022-11-10 21:43:38,133 jpeg-test.py:588 test] ===> mAP 62.830
+[2022-11-10 21:43:39,372 jpeg-test.py:577 test] Frame id :520, Row size:2381.17578125 KB, Type: I, Offloading:True, jpeg_size size:200.4892578125
+[2022-11-10 21:43:39,372 jpeg-test.py:579 test] Acc_jpeg:98.39158058166504
+[2022-11-10 21:43:39,395 jpeg-test.py:588 test] ===> mAP 62.870
+[2022-11-10 21:43:40,619 jpeg-test.py:577 test] Frame id :521, Row size:2388.53515625 KB, Type: I, Offloading:True, jpeg_size size:201.650390625
+[2022-11-10 21:43:40,619 jpeg-test.py:579 test] Acc_jpeg:97.64800071716309
+[2022-11-10 21:43:40,640 jpeg-test.py:588 test] ===> mAP 62.900
+[2022-11-10 21:43:41,870 jpeg-test.py:577 test] Frame id :522, Row size:2395.3662109375 KB, Type: I, Offloading:True, jpeg_size size:202.9228515625
+[2022-11-10 21:43:41,871 jpeg-test.py:579 test] Acc_jpeg:97.67112731933594
+[2022-11-10 21:43:41,892 jpeg-test.py:588 test] ===> mAP 62.930
+[2022-11-10 21:43:43,070 jpeg-test.py:577 test] Frame id :523, Row size:2402.74609375 KB, Type: I, Offloading:True, jpeg_size size:203.935546875
+[2022-11-10 21:43:43,070 jpeg-test.py:579 test] Acc_jpeg:97.6048469543457
+[2022-11-10 21:43:43,092 jpeg-test.py:588 test] ===> mAP 62.990
+[2022-11-10 21:43:44,279 jpeg-test.py:577 test] Frame id :524, Row size:2410.830078125 KB, Type: I, Offloading:True, jpeg_size size:204.72265625
+[2022-11-10 21:43:44,279 jpeg-test.py:579 test] Acc_jpeg:97.65076637268066
+[2022-11-10 21:43:44,300 jpeg-test.py:588 test] ===> mAP 63.020
+[2022-11-10 21:43:45,520 jpeg-test.py:577 test] Frame id :525, Row size:2415.373046875 KB, Type: I, Offloading:True, jpeg_size size:205.208984375
+[2022-11-10 21:43:45,520 jpeg-test.py:579 test] Acc_jpeg:97.27182388305664
+[2022-11-10 21:43:45,543 jpeg-test.py:588 test] ===> mAP 63.050
+[2022-11-10 21:43:46,792 jpeg-test.py:577 test] Frame id :526, Row size:2417.3486328125 KB, Type: I, Offloading:True, jpeg_size size:205.25
+[2022-11-10 21:43:46,792 jpeg-test.py:579 test] Acc_jpeg:97.6046085357666
+[2022-11-10 21:43:46,815 jpeg-test.py:588 test] ===> mAP 63.080
+[2022-11-10 21:43:48,022 jpeg-test.py:577 test] Frame id :527, Row size:2418.482421875 KB, Type: I, Offloading:True, jpeg_size size:205.4208984375
+[2022-11-10 21:43:48,022 jpeg-test.py:579 test] Acc_jpeg:97.78685569763184
+[2022-11-10 21:43:48,048 jpeg-test.py:588 test] ===> mAP 63.110
+[2022-11-10 21:43:49,268 jpeg-test.py:577 test] Frame id :528, Row size:2421.314453125 KB, Type: I, Offloading:True, jpeg_size size:205.966796875
+[2022-11-10 21:43:49,268 jpeg-test.py:579 test] Acc_jpeg:97.38059043884277
+[2022-11-10 21:43:49,289 jpeg-test.py:588 test] ===> mAP 63.140
+[2022-11-10 21:43:50,527 jpeg-test.py:577 test] Frame id :529, Row size:2422.29296875 KB, Type: I, Offloading:True, jpeg_size size:206.056640625
+[2022-11-10 21:43:50,527 jpeg-test.py:579 test] Acc_jpeg:97.5125789642334
+[2022-11-10 21:43:50,549 jpeg-test.py:588 test] ===> mAP 63.180
+[2022-11-10 21:43:51,785 jpeg-test.py:577 test] Frame id :530, Row size:2422.1474609375 KB, Type: I, Offloading:True, jpeg_size size:206.1796875
+[2022-11-10 21:43:51,785 jpeg-test.py:579 test] Acc_jpeg:97.44963645935059
+[2022-11-10 21:43:51,808 jpeg-test.py:588 test] ===> mAP 63.210
+[2022-11-10 21:43:53,016 jpeg-test.py:577 test] Frame id :531, Row size:2422.66015625 KB, Type: I, Offloading:True, jpeg_size size:206.61328125
+[2022-11-10 21:43:53,016 jpeg-test.py:579 test] Acc_jpeg:97.16653823852539
+[2022-11-10 21:43:53,038 jpeg-test.py:588 test] ===> mAP 63.240
+[2022-11-10 21:43:54,271 jpeg-test.py:577 test] Frame id :532, Row size:2426.6875 KB, Type: I, Offloading:True, jpeg_size size:207.009765625
+[2022-11-10 21:43:54,271 jpeg-test.py:579 test] Acc_jpeg:97.03445434570312
+[2022-11-10 21:43:54,292 jpeg-test.py:588 test] ===> mAP 63.270
+[2022-11-10 21:43:55,530 jpeg-test.py:577 test] Frame id :533, Row size:2433.8271484375 KB, Type: I, Offloading:True, jpeg_size size:207.982421875
+[2022-11-10 21:43:55,530 jpeg-test.py:579 test] Acc_jpeg:97.47076034545898
+[2022-11-10 21:43:55,554 jpeg-test.py:588 test] ===> mAP 63.300
+[2022-11-10 21:43:56,794 jpeg-test.py:577 test] Frame id :534, Row size:2436.2744140625 KB, Type: I, Offloading:True, jpeg_size size:207.9814453125
+[2022-11-10 21:43:56,795 jpeg-test.py:579 test] Acc_jpeg:97.74456024169922
+[2022-11-10 21:43:56,817 jpeg-test.py:588 test] ===> mAP 63.320
+[2022-11-10 21:43:58,014 jpeg-test.py:577 test] Frame id :535, Row size:2433.234375 KB, Type: I, Offloading:True, jpeg_size size:207.5009765625
+[2022-11-10 21:43:58,014 jpeg-test.py:579 test] Acc_jpeg:97.29094505310059
+[2022-11-10 21:43:58,035 jpeg-test.py:588 test] ===> mAP 63.350
+[2022-11-10 21:43:59,231 jpeg-test.py:577 test] Frame id :536, Row size:2429.8271484375 KB, Type: I, Offloading:True, jpeg_size size:207.08984375
+[2022-11-10 21:43:59,231 jpeg-test.py:579 test] Acc_jpeg:97.67885208129883
+[2022-11-10 21:43:59,254 jpeg-test.py:588 test] ===> mAP 63.390
+[2022-11-10 21:44:00,464 jpeg-test.py:577 test] Frame id :537, Row size:2430.314453125 KB, Type: I, Offloading:True, jpeg_size size:206.9296875
+[2022-11-10 21:44:00,464 jpeg-test.py:579 test] Acc_jpeg:97.67947196960449
+[2022-11-10 21:44:00,487 jpeg-test.py:588 test] ===> mAP 63.420
+[2022-11-10 21:44:01,675 jpeg-test.py:577 test] Frame id :538, Row size:2431.259765625 KB, Type: I, Offloading:True, jpeg_size size:206.9609375
+[2022-11-10 21:44:01,676 jpeg-test.py:579 test] Acc_jpeg:97.14083671569824
+[2022-11-10 21:44:01,699 jpeg-test.py:588 test] ===> mAP 63.440
+[2022-11-10 21:44:02,886 jpeg-test.py:577 test] Frame id :539, Row size:2434.2744140625 KB, Type: I, Offloading:True, jpeg_size size:207.685546875
+[2022-11-10 21:44:02,886 jpeg-test.py:579 test] Acc_jpeg:97.29161262512207
+[2022-11-10 21:44:02,909 jpeg-test.py:588 test] ===> mAP 63.470
+[2022-11-10 21:44:04,102 jpeg-test.py:577 test] Frame id :540, Row size:2434.27734375 KB, Type: I, Offloading:True, jpeg_size size:207.810546875
+[2022-11-10 21:44:04,102 jpeg-test.py:579 test] Acc_jpeg:97.59097099304199
+[2022-11-10 21:44:04,124 jpeg-test.py:588 test] ===> mAP 63.500
+[2022-11-10 21:44:05,312 jpeg-test.py:577 test] Frame id :541, Row size:2432.3603515625 KB, Type: I, Offloading:True, jpeg_size size:207.931640625
+[2022-11-10 21:44:05,312 jpeg-test.py:579 test] Acc_jpeg:97.10907936096191
+[2022-11-10 21:44:05,334 jpeg-test.py:588 test] ===> mAP 63.530
+[2022-11-10 21:44:06,529 jpeg-test.py:577 test] Frame id :542, Row size:2425.578125 KB, Type: I, Offloading:True, jpeg_size size:207.6396484375
+[2022-11-10 21:44:06,529 jpeg-test.py:579 test] Acc_jpeg:97.71757125854492
+[2022-11-10 21:44:06,550 jpeg-test.py:588 test] ===> mAP 63.550
+[2022-11-10 21:44:07,749 jpeg-test.py:577 test] Frame id :543, Row size:2420.794921875 KB, Type: I, Offloading:True, jpeg_size size:207.1943359375
+[2022-11-10 21:44:07,749 jpeg-test.py:579 test] Acc_jpeg:96.27394676208496
+[2022-11-10 21:44:07,771 jpeg-test.py:588 test] ===> mAP 63.570
+[2022-11-10 21:44:08,957 jpeg-test.py:577 test] Frame id :544, Row size:2410.298828125 KB, Type: I, Offloading:True, jpeg_size size:206.24609375
+[2022-11-10 21:44:08,957 jpeg-test.py:579 test] Acc_jpeg:97.88899421691895
+[2022-11-10 21:44:08,979 jpeg-test.py:588 test] ===> mAP 63.600
+[2022-11-10 21:44:10,231 jpeg-test.py:577 test] Frame id :545, Row size:2402.5517578125 KB, Type: I, Offloading:True, jpeg_size size:205.6240234375
+[2022-11-10 21:44:10,231 jpeg-test.py:579 test] Acc_jpeg:96.9635009765625
+[2022-11-10 21:44:10,254 jpeg-test.py:588 test] ===> mAP 63.630
+[2022-11-10 21:44:11,481 jpeg-test.py:577 test] Frame id :546, Row size:2402.8935546875 KB, Type: I, Offloading:True, jpeg_size size:205.6083984375
+[2022-11-10 21:44:11,481 jpeg-test.py:579 test] Acc_jpeg:96.6681957244873
+[2022-11-10 21:44:11,503 jpeg-test.py:588 test] ===> mAP 63.650
+[2022-11-10 21:44:12,737 jpeg-test.py:577 test] Frame id :547, Row size:2421.677734375 KB, Type: I, Offloading:True, jpeg_size size:210.10546875
+[2022-11-10 21:44:12,737 jpeg-test.py:579 test] Acc_jpeg:97.2923755645752
+[2022-11-10 21:44:12,762 jpeg-test.py:588 test] ===> mAP 63.670
+[2022-11-10 21:44:13,996 jpeg-test.py:577 test] Frame id :548, Row size:2425.9326171875 KB, Type: I, Offloading:True, jpeg_size size:210.671875
+[2022-11-10 21:44:13,996 jpeg-test.py:579 test] Acc_jpeg:96.30780220031738
+[2022-11-10 21:44:14,019 jpeg-test.py:588 test] ===> mAP 63.680
+[2022-11-10 21:44:15,248 jpeg-test.py:577 test] Frame id :549, Row size:2441.7138671875 KB, Type: I, Offloading:True, jpeg_size size:213.8173828125
+[2022-11-10 21:44:15,249 jpeg-test.py:579 test] Acc_jpeg:94.9864387512207
+[2022-11-10 21:44:15,271 jpeg-test.py:588 test] ===> mAP 63.690
+[2022-11-10 21:44:16,477 jpeg-test.py:577 test] Frame id :550, Row size:2442.3330078125 KB, Type: I, Offloading:True, jpeg_size size:213.6416015625
+[2022-11-10 21:44:16,477 jpeg-test.py:579 test] Acc_jpeg:95.07355690002441
+[2022-11-10 21:44:16,498 jpeg-test.py:588 test] ===> mAP 63.700
+[2022-11-10 21:44:17,700 jpeg-test.py:577 test] Frame id :551, Row size:2437.4169921875 KB, Type: I, Offloading:True, jpeg_size size:212.9140625
+[2022-11-10 21:44:17,701 jpeg-test.py:579 test] Acc_jpeg:95.72877883911133
+[2022-11-10 21:44:17,722 jpeg-test.py:588 test] ===> mAP 63.700
+[2022-11-10 21:44:18,919 jpeg-test.py:577 test] Frame id :552, Row size:2431.6279296875 KB, Type: I, Offloading:True, jpeg_size size:211.9150390625
+[2022-11-10 21:44:18,919 jpeg-test.py:579 test] Acc_jpeg:92.92640686035156
+[2022-11-10 21:44:18,941 jpeg-test.py:588 test] ===> mAP 63.690
+[2022-11-10 21:44:20,135 jpeg-test.py:577 test] Frame id :553, Row size:2426.45703125 KB, Type: I, Offloading:True, jpeg_size size:211.4716796875
+[2022-11-10 21:44:20,135 jpeg-test.py:579 test] Acc_jpeg:93.01643371582031
+[2022-11-10 21:44:20,157 jpeg-test.py:588 test] ===> mAP 63.680
+[2022-11-10 21:44:21,317 jpeg-test.py:577 test] Frame id :554, Row size:2422.3671875 KB, Type: I, Offloading:True, jpeg_size size:210.7080078125
+[2022-11-10 21:44:21,317 jpeg-test.py:579 test] Acc_jpeg:91.96181297302246
+[2022-11-10 21:44:21,338 jpeg-test.py:588 test] ===> mAP 63.680
+[2022-11-10 21:44:22,549 jpeg-test.py:577 test] Frame id :555, Row size:2421.3974609375 KB, Type: I, Offloading:True, jpeg_size size:210.4501953125
+[2022-11-10 21:44:22,549 jpeg-test.py:579 test] Acc_jpeg:91.25800132751465
+[2022-11-10 21:44:22,573 jpeg-test.py:588 test] ===> mAP 63.670
+[2022-11-10 21:44:23,763 jpeg-test.py:577 test] Frame id :556, Row size:2421.76171875 KB, Type: I, Offloading:True, jpeg_size size:210.609375
+[2022-11-10 21:44:23,763 jpeg-test.py:579 test] Acc_jpeg:90.22364616394043
+[2022-11-10 21:44:23,784 jpeg-test.py:588 test] ===> mAP 63.650
+[2022-11-10 21:44:25,002 jpeg-test.py:577 test] Frame id :557, Row size:2419.1767578125 KB, Type: I, Offloading:True, jpeg_size size:210.775390625
+[2022-11-10 21:44:25,002 jpeg-test.py:579 test] Acc_jpeg:89.58468437194824
+[2022-11-10 21:44:25,025 jpeg-test.py:588 test] ===> mAP 63.640
+[2022-11-10 21:44:26,188 jpeg-test.py:577 test] Frame id :558, Row size:2412.833984375 KB, Type: I, Offloading:True, jpeg_size size:210.380859375
+[2022-11-10 21:44:26,188 jpeg-test.py:579 test] Acc_jpeg:88.57250213623047
+[2022-11-10 21:44:26,208 jpeg-test.py:588 test] ===> mAP 63.620
+[2022-11-10 21:44:27,424 jpeg-test.py:577 test] Frame id :559, Row size:2412.544921875 KB, Type: I, Offloading:True, jpeg_size size:210.6494140625
+[2022-11-10 21:44:27,424 jpeg-test.py:579 test] Acc_jpeg:83.99529457092285
+[2022-11-10 21:44:27,449 jpeg-test.py:588 test] ===> mAP 63.590
+[2022-11-10 21:44:28,657 jpeg-test.py:577 test] Frame id :560, Row size:2410.4228515625 KB, Type: I, Offloading:True, jpeg_size size:210.669921875
+[2022-11-10 21:44:28,657 jpeg-test.py:579 test] Acc_jpeg:86.7185115814209
+[2022-11-10 21:44:28,681 jpeg-test.py:588 test] ===> mAP 63.550
+[2022-11-10 21:44:29,879 jpeg-test.py:577 test] Frame id :561, Row size:2409.1806640625 KB, Type: I, Offloading:True, jpeg_size size:210.60546875
+[2022-11-10 21:44:29,879 jpeg-test.py:579 test] Acc_jpeg:87.50581741333008
+[2022-11-10 21:44:29,905 jpeg-test.py:588 test] ===> mAP 63.520
+[2022-11-10 21:44:31,101 jpeg-test.py:577 test] Frame id :562, Row size:2412.6728515625 KB, Type: I, Offloading:True, jpeg_size size:210.9765625
+[2022-11-10 21:44:31,101 jpeg-test.py:579 test] Acc_jpeg:86.72904968261719
+[2022-11-10 21:44:31,122 jpeg-test.py:588 test] ===> mAP 63.500
+[2022-11-10 21:44:32,339 jpeg-test.py:577 test] Frame id :563, Row size:2408.529296875 KB, Type: I, Offloading:True, jpeg_size size:210.8837890625
+[2022-11-10 21:44:32,339 jpeg-test.py:579 test] Acc_jpeg:89.87679481506348
+[2022-11-10 21:44:32,363 jpeg-test.py:588 test] ===> mAP 63.470
+[2022-11-10 21:44:33,574 jpeg-test.py:577 test] Frame id :564, Row size:2408.2001953125 KB, Type: I, Offloading:True, jpeg_size size:211.0546875
+[2022-11-10 21:44:33,574 jpeg-test.py:579 test] Acc_jpeg:87.8446102142334
+[2022-11-10 21:44:33,597 jpeg-test.py:588 test] ===> mAP 63.440
+[2022-11-10 21:44:34,803 jpeg-test.py:577 test] Frame id :565, Row size:2408.380859375 KB, Type: I, Offloading:True, jpeg_size size:211.6318359375
+[2022-11-10 21:44:34,803 jpeg-test.py:579 test] Acc_jpeg:88.05265426635742
+[2022-11-10 21:44:34,825 jpeg-test.py:588 test] ===> mAP 63.410
+[2022-11-10 21:44:36,041 jpeg-test.py:577 test] Frame id :566, Row size:2403.3828125 KB, Type: I, Offloading:True, jpeg_size size:210.765625
+[2022-11-10 21:44:36,042 jpeg-test.py:579 test] Acc_jpeg:87.51358985900879
+[2022-11-10 21:44:36,065 jpeg-test.py:588 test] ===> mAP 63.400
+[2022-11-10 21:44:37,268 jpeg-test.py:577 test] Frame id :567, Row size:2393.2666015625 KB, Type: I, Offloading:True, jpeg_size size:209.421875
+[2022-11-10 21:44:37,268 jpeg-test.py:579 test] Acc_jpeg:89.88618850708008
+[2022-11-10 21:44:37,293 jpeg-test.py:588 test] ===> mAP 63.390
+[2022-11-10 21:44:38,477 jpeg-test.py:577 test] Frame id :568, Row size:2393.61328125 KB, Type: I, Offloading:True, jpeg_size size:208.958984375
+[2022-11-10 21:44:38,477 jpeg-test.py:579 test] Acc_jpeg:86.21320724487305
+[2022-11-10 21:44:38,498 jpeg-test.py:588 test] ===> mAP 63.380
+[2022-11-10 21:44:39,680 jpeg-test.py:577 test] Frame id :569, Row size:2383.2119140625 KB, Type: I, Offloading:True, jpeg_size size:207.5107421875
+[2022-11-10 21:44:39,680 jpeg-test.py:579 test] Acc_jpeg:87.60027885437012
+[2022-11-10 21:44:39,701 jpeg-test.py:588 test] ===> mAP 63.370
+[2022-11-10 21:44:40,861 jpeg-test.py:577 test] Frame id :570, Row size:2383.81640625 KB, Type: I, Offloading:True, jpeg_size size:207.66796875
+[2022-11-10 21:44:40,861 jpeg-test.py:579 test] Acc_jpeg:86.2955093383789
+[2022-11-10 21:44:40,882 jpeg-test.py:588 test] ===> mAP 63.360
+[2022-11-10 21:44:42,037 jpeg-test.py:577 test] Frame id :571, Row size:2378.2861328125 KB, Type: I, Offloading:True, jpeg_size size:206.5771484375
+[2022-11-10 21:44:42,037 jpeg-test.py:579 test] Acc_jpeg:89.04972076416016
+[2022-11-10 21:44:42,059 jpeg-test.py:588 test] ===> mAP 63.360
+[2022-11-10 21:44:43,216 jpeg-test.py:577 test] Frame id :572, Row size:2376.5732421875 KB, Type: I, Offloading:True, jpeg_size size:205.97265625
+[2022-11-10 21:44:43,216 jpeg-test.py:579 test] Acc_jpeg:88.89241218566895
+[2022-11-10 21:44:43,238 jpeg-test.py:588 test] ===> mAP 63.350
+[2022-11-10 21:44:44,397 jpeg-test.py:577 test] Frame id :573, Row size:2377.3486328125 KB, Type: I, Offloading:True, jpeg_size size:206.6982421875
+[2022-11-10 21:44:44,397 jpeg-test.py:579 test] Acc_jpeg:87.92867660522461
+[2022-11-10 21:44:44,420 jpeg-test.py:588 test] ===> mAP 63.310
+[2022-11-10 21:44:45,625 jpeg-test.py:577 test] Frame id :574, Row size:2387.080078125 KB, Type: I, Offloading:True, jpeg_size size:207.56640625
+[2022-11-10 21:44:45,625 jpeg-test.py:579 test] Acc_jpeg:89.19005393981934
+[2022-11-10 21:44:45,647 jpeg-test.py:588 test] ===> mAP 63.280
+[2022-11-10 21:44:46,857 jpeg-test.py:577 test] Frame id :575, Row size:2399.6552734375 KB, Type: I, Offloading:True, jpeg_size size:210.8056640625
+[2022-11-10 21:44:46,857 jpeg-test.py:579 test] Acc_jpeg:90.84734916687012
+[2022-11-10 21:44:46,878 jpeg-test.py:588 test] ===> mAP 63.280
+[2022-11-10 21:44:48,111 jpeg-test.py:577 test] Frame id :576, Row size:2411.78515625 KB, Type: I, Offloading:True, jpeg_size size:213.2734375
+[2022-11-10 21:44:48,111 jpeg-test.py:579 test] Acc_jpeg:90.40493965148926
+[2022-11-10 21:44:48,134 jpeg-test.py:588 test] ===> mAP 63.280
+[2022-11-10 21:44:49,325 jpeg-test.py:577 test] Frame id :577, Row size:2412.5146484375 KB, Type: I, Offloading:True, jpeg_size size:212.8955078125
+[2022-11-10 21:44:49,325 jpeg-test.py:579 test] Acc_jpeg:92.8380012512207
+[2022-11-10 21:44:49,346 jpeg-test.py:588 test] ===> mAP 63.310
+[2022-11-10 21:44:50,536 jpeg-test.py:577 test] Frame id :578, Row size:2408.951171875 KB, Type: I, Offloading:True, jpeg_size size:213.1103515625
+[2022-11-10 21:44:50,536 jpeg-test.py:579 test] Acc_jpeg:91.89891815185547
+[2022-11-10 21:44:50,560 jpeg-test.py:588 test] ===> mAP 63.320
+[2022-11-10 21:44:51,763 jpeg-test.py:577 test] Frame id :579, Row size:2411.8115234375 KB, Type: I, Offloading:True, jpeg_size size:213.4013671875
+[2022-11-10 21:44:51,763 jpeg-test.py:579 test] Acc_jpeg:91.2686824798584
+[2022-11-10 21:44:51,784 jpeg-test.py:588 test] ===> mAP 63.340
+[2022-11-10 21:44:53,014 jpeg-test.py:577 test] Frame id :580, Row size:2409.62890625 KB, Type: I, Offloading:True, jpeg_size size:213.28125
+[2022-11-10 21:44:53,015 jpeg-test.py:579 test] Acc_jpeg:90.18096923828125
+[2022-11-10 21:44:53,037 jpeg-test.py:588 test] ===> mAP 63.350
+[2022-11-10 21:44:54,233 jpeg-test.py:577 test] Frame id :581, Row size:2412.7998046875 KB, Type: I, Offloading:True, jpeg_size size:213.9306640625
+[2022-11-10 21:44:54,233 jpeg-test.py:579 test] Acc_jpeg:91.35546684265137
+[2022-11-10 21:44:54,254 jpeg-test.py:588 test] ===> mAP 63.350
+[2022-11-10 21:44:55,465 jpeg-test.py:577 test] Frame id :582, Row size:2418.251953125 KB, Type: I, Offloading:True, jpeg_size size:214.5126953125
+[2022-11-10 21:44:55,465 jpeg-test.py:579 test] Acc_jpeg:90.52634239196777
+[2022-11-10 21:44:55,489 jpeg-test.py:588 test] ===> mAP 63.340
+[2022-11-10 21:44:56,688 jpeg-test.py:577 test] Frame id :583, Row size:2423.4091796875 KB, Type: I, Offloading:True, jpeg_size size:215.6494140625
+[2022-11-10 21:44:56,688 jpeg-test.py:579 test] Acc_jpeg:91.69759750366211
+[2022-11-10 21:44:56,709 jpeg-test.py:588 test] ===> mAP 63.340
+[2022-11-10 21:44:57,908 jpeg-test.py:577 test] Frame id :584, Row size:2425.7783203125 KB, Type: I, Offloading:True, jpeg_size size:216.0888671875
+[2022-11-10 21:44:57,909 jpeg-test.py:579 test] Acc_jpeg:92.49200820922852
+[2022-11-10 21:44:57,930 jpeg-test.py:588 test] ===> mAP 63.340
+[2022-11-10 21:44:59,127 jpeg-test.py:577 test] Frame id :585, Row size:2438.4580078125 KB, Type: I, Offloading:True, jpeg_size size:218.8876953125
+[2022-11-10 21:44:59,127 jpeg-test.py:579 test] Acc_jpeg:91.03155136108398
+[2022-11-10 21:44:59,148 jpeg-test.py:588 test] ===> mAP 63.340
+[2022-11-10 21:45:00,366 jpeg-test.py:577 test] Frame id :586, Row size:2444.8935546875 KB, Type: I, Offloading:True, jpeg_size size:219.6748046875
+[2022-11-10 21:45:00,366 jpeg-test.py:579 test] Acc_jpeg:93.7798023223877
+[2022-11-10 21:45:00,387 jpeg-test.py:588 test] ===> mAP 63.360
+[2022-11-10 21:45:01,597 jpeg-test.py:577 test] Frame id :587, Row size:2445.0107421875 KB, Type: I, Offloading:True, jpeg_size size:218.509765625
+[2022-11-10 21:45:01,597 jpeg-test.py:579 test] Acc_jpeg:91.99228286743164
+[2022-11-10 21:45:01,618 jpeg-test.py:588 test] ===> mAP 63.370
+[2022-11-10 21:45:02,816 jpeg-test.py:577 test] Frame id :588, Row size:2438.5693359375 KB, Type: I, Offloading:True, jpeg_size size:217.962890625
+[2022-11-10 21:45:02,816 jpeg-test.py:579 test] Acc_jpeg:90.01727104187012
+[2022-11-10 21:45:02,836 jpeg-test.py:588 test] ===> mAP 63.400
+[2022-11-10 21:45:04,030 jpeg-test.py:577 test] Frame id :589, Row size:2423.6962890625 KB, Type: I, Offloading:True, jpeg_size size:214.4580078125
+[2022-11-10 21:45:04,030 jpeg-test.py:579 test] Acc_jpeg:93.73297691345215
+[2022-11-10 21:45:04,051 jpeg-test.py:588 test] ===> mAP 63.420
+[2022-11-10 21:45:05,269 jpeg-test.py:577 test] Frame id :590, Row size:2421.857421875 KB, Type: I, Offloading:True, jpeg_size size:213.8681640625
+[2022-11-10 21:45:05,269 jpeg-test.py:579 test] Acc_jpeg:96.33641242980957
+[2022-11-10 21:45:05,290 jpeg-test.py:588 test] ===> mAP 63.470
+[2022-11-10 21:45:06,502 jpeg-test.py:577 test] Frame id :591, Row size:2422.654296875 KB, Type: I, Offloading:True, jpeg_size size:214.869140625
+[2022-11-10 21:45:06,502 jpeg-test.py:579 test] Acc_jpeg:96.00939750671387
+[2022-11-10 21:45:06,526 jpeg-test.py:588 test] ===> mAP 63.520
+[2022-11-10 21:45:07,789 jpeg-test.py:577 test] Frame id :592, Row size:2426.07421875 KB, Type: I, Offloading:True, jpeg_size size:215.07421875
+[2022-11-10 21:45:07,789 jpeg-test.py:579 test] Acc_jpeg:96.26040458679199
+[2022-11-10 21:45:07,813 jpeg-test.py:588 test] ===> mAP 63.570
+[2022-11-10 21:45:09,038 jpeg-test.py:577 test] Frame id :593, Row size:2427.1298828125 KB, Type: I, Offloading:True, jpeg_size size:215.306640625
+[2022-11-10 21:45:09,038 jpeg-test.py:579 test] Acc_jpeg:97.67913818359375
+[2022-11-10 21:45:09,059 jpeg-test.py:588 test] ===> mAP 63.630
+[2022-11-10 21:45:10,286 jpeg-test.py:577 test] Frame id :594, Row size:2430.0126953125 KB, Type: I, Offloading:True, jpeg_size size:215.62109375
+[2022-11-10 21:45:10,286 jpeg-test.py:579 test] Acc_jpeg:97.74541854858398
+[2022-11-10 21:45:10,311 jpeg-test.py:588 test] ===> mAP 63.690
+[2022-11-10 21:45:11,529 jpeg-test.py:577 test] Frame id :595, Row size:2429.759765625 KB, Type: I, Offloading:True, jpeg_size size:213.923828125
+[2022-11-10 21:45:11,530 jpeg-test.py:579 test] Acc_jpeg:97.46785163879395
+[2022-11-10 21:45:11,554 jpeg-test.py:588 test] ===> mAP 63.750
+[2022-11-10 21:45:12,762 jpeg-test.py:577 test] Frame id :596, Row size:2427.220703125 KB, Type: I, Offloading:True, jpeg_size size:213.359375
+[2022-11-10 21:45:12,762 jpeg-test.py:579 test] Acc_jpeg:96.54121398925781
+[2022-11-10 21:45:12,783 jpeg-test.py:588 test] ===> mAP 63.800
+[2022-11-10 21:45:13,997 jpeg-test.py:577 test] Frame id :597, Row size:2419.970703125 KB, Type: I, Offloading:True, jpeg_size size:211.91015625
+[2022-11-10 21:45:13,997 jpeg-test.py:579 test] Acc_jpeg:95.89238166809082
+[2022-11-10 21:45:14,018 jpeg-test.py:588 test] ===> mAP 63.860
+[2022-11-10 21:45:15,242 jpeg-test.py:577 test] Frame id :598, Row size:2412.6953125 KB, Type: I, Offloading:True, jpeg_size size:211.0224609375
+[2022-11-10 21:45:15,242 jpeg-test.py:579 test] Acc_jpeg:96.22378349304199
+[2022-11-10 21:45:15,263 jpeg-test.py:588 test] ===> mAP 63.920
+[2022-11-10 21:45:16,486 jpeg-test.py:577 test] Frame id :599, Row size:2408.2353515625 KB, Type: I, Offloading:True, jpeg_size size:210.7314453125
+[2022-11-10 21:45:16,486 jpeg-test.py:579 test] Acc_jpeg:97.0731258392334
+[2022-11-10 21:45:16,507 jpeg-test.py:588 test] ===> mAP 63.980
+[2022-11-10 21:45:17,281 jpeg-test.py:615 test] 91.533 80.258 89.519 27.836 25.328 72.612 72.198 76.012 92.839 33.930 97.644 74.875 40.395 88.393 52.812 36.321 26.615 66.878 69.656
+[2022-11-10 21:45:17,339 jpeg-test.py:768 test_seg] mAP: 63.980000

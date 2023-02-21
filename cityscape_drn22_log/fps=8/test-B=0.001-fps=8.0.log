@@ -1,0 +1,13 @@
+[2022-12-03 15:54:22,719 sement-fps-new.py:475 test] Loss Bound:0.001
+[2022-12-03 15:54:30,486 sement-fps-new.py:758 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, compressed size:86.986328125,jpeg_size:0
+[2022-12-03 15:54:30,487 sement-fps-new.py:760 test] Loss:0.05058111995458603,Acc:46.68779373168945,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-03 15:54:30,509 sement-fps-new.py:777 test] ===> mAP 19.750
+[2022-12-03 15:54:59,395 sement-fps-new.py:758 test] Frame id :2, Row size:2273.181640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2022-12-03 15:54:59,395 sement-fps-new.py:760 test] Loss:0,Acc:45.064544677734375,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-03 15:54:59,429 sement-fps-new.py:777 test] ===> mAP 19.050
+[2022-12-03 15:55:41,312 sement-fps-new.py:758 test] Frame id :3, Row size:2276.7080078125 KB, Type: P, Offloading:True, compressed size:70.1298828125,jpeg_size:75.626953125
+[2022-12-03 15:55:41,313 sement-fps-new.py:760 test] Loss:0.05236690491437912,Acc:40.20071029663086,Loss-jpeg:3.230579376220703,Acc_jpeg:45.53098678588867
+[2022-12-03 15:55:41,334 sement-fps-new.py:777 test] ===> mAP 15.080
+[2022-12-03 15:55:54,825 sement-fps-new.py:758 test] Frame id :4, Row size:2276.595703125 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2022-12-03 15:55:54,826 sement-fps-new.py:760 test] Loss:0,Acc:37.66064643859863,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-03 15:55:54,852 sement-fps-new.py:777 test] ===> mAP 13.470

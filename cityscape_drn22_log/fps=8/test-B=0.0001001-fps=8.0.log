@@ -1,0 +1,7 @@
+[2022-12-04 22:17:07,694 sement-fps-new.py:475 test] Loss Bound:0.0001001
+[2022-12-04 22:17:15,056 sement-fps-new.py:758 test] Frame id :1, Row size:2271.205078125 KB, Type: I, Offloading:True, compressed size:110.419921875,jpeg_size:0
+[2022-12-04 22:17:15,056 sement-fps-new.py:760 test] Loss:0.05058111622929573,Acc:68.74594688415527,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-04 22:17:15,082 sement-fps-new.py:777 test] ===> mAP 33.590
+[2022-12-04 22:17:15,151 sement-fps-new.py:758 test] Frame id :2, Row size:2273.181640625 KB, Type: P, Offloading:False, compressed size:0,jpeg_size:0
+[2022-12-04 22:17:15,151 sement-fps-new.py:760 test] Loss:0,Acc:67.34366416931152,Loss-jpeg:0,Acc_jpeg:0
+[2022-12-04 22:17:15,180 sement-fps-new.py:777 test] ===> mAP 32.590
